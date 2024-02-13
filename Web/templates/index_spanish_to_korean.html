@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spanish to Korean Translation</title>
+</head>
+<body>
+    <h1>Spanish to Korean Translation</h1>
+    <button onclick="getRandomSentence('es')">Get Spanish Sentence</button>
+    <div id="sentenceDisplay"></div>
+    <input type="text" id="userInput" placeholder="Enter Korean Translation">
+    <button onclick="checkTranslation('es')">Check</button>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        let currentSentence = '';
+
+        function getRandomSentence(lang) {
+            fetch(`/get_random_sentence/${lang}`)
+                .then(response => response.json())
+                .then(data => {
+                    currentSentence = data.sentence;
+                    document.getElementById('sentenceDisplay').innerText = currentSentence;
+                    document.getElementById('userInput').value = ''; // Clear previous input
+                });
+        }
+
+        function checkTranslation(lang) {
+            const userInput = document.getElementById('userInput').value;
+            fetch('/calculate_similarity', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    input_sentence: userInput,
+                    target_sentence: currentSentence
+                }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(`Similarity Score: ${data.similarity_score}`);
+                // You can enhance this by displaying more details or redirecting to another page with results
+            });
+        }
+    </script>
+</body>
+</html>
