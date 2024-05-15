@@ -33,10 +33,9 @@ Additionally, the dataset is subdivided into the categories as shown in the tabl
 
 ### Syntax
 
-| Constituents       | Structures         | Order              |
-|-------------|------|-------------|------|-------------|------|
 | Subcategory | Code | Subcategory | Code | Subcategory | Code |
 |-------------|------|-------------|------|-------------|------|
+| Constituents|      | Structures  |      | Order       |      |
 | Subject     | SU   | Types       | ST   | Movement and Scrambling  | MS   |
 | Predicate   | PR   | Clause      | CL   | Islands     | IS   |
 | Object      | OB   |             |      |             |      |
