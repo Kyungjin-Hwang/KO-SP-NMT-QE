@@ -1,0 +1,21 @@
+{
+    "document-id": "3",
+    "filename": "sin-sp-ko-2",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": {
+        "segmentId": NaN,
+        "index": NaN,
+        "ref": {
+            "A": {
+                "sourceText": "",
+                "targetText": ""
+            },
+            "A'": {
+                "sourceText": "",
+                "targetText": ""
+            }
+        }
+    }
+}
