@@ -1,0 +1,215 @@
+segmentid,index,ref,KO,SP,NOTE
+S-SO-IC-01-0001,1,A',누가 은채가 책을 샀다고 생각해?,¿Quién cree que Eunchae ha comprado libros?,Wh island with canonical order
+,,A,은채가 차를 샀다고 누가 생각해?,,
+S-SO-IC-01-0002,2,A',하윤이는 유하가 무엇을 샀다고 말해?,¿Qué dice Hayun que Yuna compra?,Wh island with canonical order
+,,A,유하가 무엇을 샀다고 하윤이는 말해?,,
+S-SO-IC-01-0003,3,A',누가 설아가 차를 빌리는지 안빌리는지 궁금해해?,¿Quién quiere saber si Seolah alquila el coche o no?,Wh island with canonical order
+,,A,설아가 차를 빌리는지 안빌리는지 누가 궁금해해?,,
+S-SO-IC-01-0004,4,A',윤도는 연서가 무엇을 만드는지 안만드는지 궁금해해?,¿Yundo quiere saber si Yeonseo crea algo y qué?,Wh island with canonical order
+,,A,연서가 무엇을 만드는지 안만드는지 윤도는 궁금해해?,,
+S-SO-IC-01-0005,5,A',누가 이서가 집에 갔다고 주장하니?,¿Quién insiste en que ella se fue a casa?,Complex NP island with canonical order
+,,A,이서가 그 집에 갔다고 누가 주장하니?,,
+S-SO-IC-01-0006,6,A',지호는 유진이가 무엇을 말했다고 주장하니?,¿En qué dice Yujin que Jiho insiste?,Complex NP island with canonical order
+,,A,유진이가 무엇을 말했다고 지호는 주장하니?,,
+S-SO-IC-01-0007,7,A',누가 철수가 사기를 쳤다고 주장을 하니?,¿Quién insiste en que el chico hizo trampa?,Complex NP island with canonical order
+,,A,철수가 사기를 쳤다는 주장을 누가 하니?,,
+S-SO-IC-01-0008,8,A',영희는 철수가 무엇을 공부한다고 말하니?,¿Qué dice ella que Pedro estudia?,Complex NP island with canonical order
+,,A,철수가 무엇을 공부한다고 영희는 말하니?,,
+S-SO-IC-01-0009,9,A',누가 그 연설이 그 행사를 망쳤다고 생각하니?,¿Quién cree que ese discurso destruye la fiesta?,Subject island with canonical order
+,,A,그 연설이 그 행사를 망쳤다고 누가 생각하니?,,
+S-SO-IC-01-0010,10,A',석준이는 무엇이 그 경기를 방해했다고 생각하니?,¿Qué cree tu hermano que interrumpe ese partido?,Subject island with canonical order
+,,A,무엇이 그 경기를 방해했다고 석준이는 생각하니?,,
+S-SO-IC-01-0011,11,A',누가 환경에 대한 연설이 그 행사를 망쳤다고 생각해?,¿Quién cree que ese discurso del medio ambiente destruye la fiesta?,Subject island with canonical order
+,,A,환경 대한 연설이 그 행사를 망쳤다고 누가 생각해?,,
+S-SO-IC-01-0012,12,A',재원이는 지구온난화에 대한 무엇이 그 발표를 망쳤다고 생각해?,"¿Qué, relacionado con el calentamiento global, cree Jaewon que estropea la fiesta?",Subject island with canonical order
+,,A,지구 온난화에 대한 무엇이 그 발표를 망쳤다고 재원이는 생각해?,"¿Relacionado con el calentamiento global, qué cree ella que estropea la fiesta?",
+S-SO-IC-01-0013,13,A',누가 그 아이가 핸드폰을 집에 두고왔다고 생각해?,¿Quién cree que ese chico se ha olvidado el móvil en su casa?,Adjunct island with canonical order
+,,A,그 아이가 핸드폰을 집에 두고왔다고 누가 생각해?,,
+S-SO-IC-01-0014,14,A',너는 걔가 무엇을 학교에 두고왔다고 생각하니?,¿Qué crees que él se ha olvidado en el colegio?,Adjunct island with canonical order
+,,A,걔가 무엇을 학교에 두고 왔다고 너는 생각하니?,,
+S-SO-IC-01-0015,15,A',누가 민지가 그 대학을 졸업했다고 비웃었니?,¿Quién se burla de que MInji se graduó en esa universidad?,Adjunct island with canonical order
+,,A,민지가 그 대학을 졸업했다고 누가 비웃었니?,,
+S-SO-IC-01-0016,16,A',유하는 철수가 무엇을 차에 두고 왔다고 비웃었니?,¿Qué es lo que se ha olvidado Cheolsu en su coche y de lo que Yuha se burla?,Adjunct island with canonical order
+,,A,철수가 무엇을 차에 두고 왔다고 유하는 비웃었니?,¿Yuha se burla de Cheolsu por dejar algo en su coche?,
+S-SO-IC-01-0017,17,A',너는 누가 무게가 얼마인지 모르니?,¿Quién no sabes cuánto pesa?,Spanish island in indirect/embedded questions
+,,A,,,
+S-SO-IC-01-0018,18,A',너는 누가 그 회사에서 어떤 직책인지 모르니?,¿Quién no sabes qué es en esta empresa?,Spanish island in indirect/embedded questions
+,,A,,,
+S-SO-IC-01-0019,19,A',너는 왜 후안이 뭔가를 샀는지 이해가 안되니?,¿Qué no te explicas por qué Juan habrá comprado?,Spanish island in the extraction out of non-selected quesions or wh cluases
+,,A,,,
+S-SO-IC-01-0020,20,A',너는 Celia가 어떤 사전을 돌려줬는지 모르니?,¿Qué diccionario no sabías si Celia había devuleto?,Spanish island in the extraction out of non-selected quesions or wh cluases
+,,A,,,
+S-SO-IC-01-0021,21,A',너는 Ana의 아빠가 Ana에게 사준다면 Ana가 좋아할거 같은 장난감을 봤니?,¿Has visto el juguete que Ana se pondría contenta si su padre le comprara?,Spanish island in relativization from a wh clause and temporal adjuncts (cause는 불가능)
+,,A,,¿Has visto el juguete con el que Ana se pondría contenta si su padre se lo comprara?,
+S-SO-IC-01-0022,22,A',너는 기타를 치면 이웃들이 화를 내는 그 남자를 아니?,¿Has visto al tipo que los vecinos se enfadaron cuando tocó la guitarra?,Spanish island in relativization from a wh clause and temporal adjuncts (cause는 불가능)
+,,A,,,
+S-SO-IC-01-0023,23,A',하윤이는 철수가 누구를 항상 생각하는지 궁금해하니?,¿Hayun quiere saber de quién que se acuerda Cheolsu siempre?,Korean island and Spanish island with prepositions
+,,A,,¿De quién quiere saber Hayun que se acuerda Cheolsu siempre?,Korean island and Spanish island with prepositions
+S-SO-IC-01-0024,24,A',너는 민지가 누구랑 사랑에 빠졌는지 아닌지 알고 싶니?,¿Quieres saber si Minji se ha enamorado y de quién?,Korean island and Spanish island with prepositions
+,,A,,,Korean island and Spanish island with prepositions
+S-SO-IC-01-0025,25,A',엄마는 아빠가 누구한테 화났는지 알고 있대?,¿Mamá sabe con quién se ha enfadado papá?,Korean island and Spanish island with prepositions
+,,A,아빠가 누구한테 화났는지 엄마는 알고 있대?,¿Mamá sabe con quién papá se ha enfadado?,Korean island and Spanish island with prepositions
+S-SO-IC-01-0026,26,A',윤도는 엄마가 친구랑 무엇에 대해 얘기하는지 궁금해하니?,¿Yundo quiere saber de qué habla su madre con sus amigos?,Korean island and Spanish island with prepositions
+,,A,,¿De qué quiere saber Yundo que su madre habla con sus amigos?,Korean island and Spanish island with prepositions
+S-SO-IC-01-0027,27,A',이서는 아빠가 무엇에 놀랐는지 아닌지 알고 있니?,¿Sabe Yiseo si su padre se ha sorprendido y de qué?,Korean island and Spanish island with prepositions
+,,A,,¿De qué se acuerda Juan que dijo Ana?,Korean island and Spanish island with prepositions
+S-SO-IC-01-0028,28,A',후안이 아나가 무엇에 대해 말했는지 기억해?,¿De qué se acuerda Juan que Ana dice siempre?,Korean island and Spanish island with prepositions
+,,A,,¿Juan se acuerda de qué dijo Ana?,Korean island and Spanish island with prepositions
+S-SO-IC-01-0029,29,A',후안은 아나가 무슨 꿈을 많이 꾼다고 말하니?,¿Con qué dice Juan que Ana sueña mucho?,Korean island and Spanish island with prepositions
+,,A,,,Korean island and Spanish island with prepositions
+S-SO-IC-01-0030,30,A',너 그녀의 이름이 뭔지 말했어?,¿Cómo dijiste que se llamaba la chica?,Korean island and Spanish island with prepositions
+,,A,,,Korean island and Spanish island with prepositions
+S-SO-IC-01-0031,31,A',루이스는 아나가 무엇에 대해 불평했는지 말했니?,¿De qué dijo Luis que se quejaba Ana?,Korean island and Spanish island with prepositions
+,,A,,,Korean island and Spanish island with prepositions
+S-SO-IC-01-0032,32,A',그 책을 석준이는 은채가 빌렸다고 생각했다.,Ese es el libro que Seokjune piensa que Eunchae ha pedido prestado.,Korean-island 평서문
+,,A,은채가 그 책을 빌렸다고 석준이는 생각했다.,Seokjune piensa que Eunchae ha pedido prestado ese libro.,
+S-SO-IC-01-0033,33,A',그 시험을 내가 내 남편이 봤다는 사실을 알고 있다.,Ese es el examen que sé que mi marido hizo.,Korean-island 평서문
+,,A,내가 내 남편이 그 시험을 봤다는 사실을 알고 있다.,Sé que mi marido hizo ese examen.,
+S-SO-IC-01-0034,34,A',그 범죄를 민지가 그녀의 남동생이 정말 저질렀는지 궁금해한다.,Minji quiere saber si su hermano realmente cometió ese crimén o no.,Korean-island 평서문
+,,A,민지가 그녀의 남동생이 그 범죄를 정말 저질렀는지 궁금해한다.,Ese es el crimén que Minji quiere saber si su hermano relamente cometió o no.,
+S-SO-IC-01-0035,35,A',커피를 그 교수는 학생들이 모두 마신 다음에 강의를 시작했다.,El café es lo que se tomaron los estudiantes antes de que el profesor empezara la lectura.,Korean-island 평서문
+,,A,그 교수는 학생들이 커피를 모두 마신 다음에 강의를 시작했다.,El profesor empezó la lectura después de que todos los estudiantes se tomaron el café.,
+S-SO-IC-01-0036,36,A,어떤 공무원이 우리가 그 택배를 찾았다고 생각했니?,¿Qué funcionario pensaba que habíamos recogido el paquete?”,Spanish islands
+,,B,,,
+S-SO-IC-01-0037,37,A,공무원은 우리가 어떤 택배를 찾아야했는지 몰랐니?,¿Qué paquete no sabía el funcionario si habíamos recogido?,Spanish non-island :: whether
+,,B,,,
+S-SO-IC-01-0038,38,A,공무원은 우리가 어떤 택배를 찾았는지 물었니?,¿Qué paquete preguntó el funcionario si habíamos recogido?,Spanish non-island :: whether
+,,B,,,
+S-SO-IC-01-0039,39,A,어떤 공무원이 우리가 택배를 찾았는지 아닌지 몰랐니?,¿Qué funcionario no sabía si habíamos recogido el paquete?,Spanish non-island :: whether
+,,B,,,
+S-SO-IC-01-0040,40,A,어떤 공무원이 우리가 택배를 찾았는지 물었니?,¿Qué funcionario preguntó si habíamos recogido el paquete?,Spanish non-island :: whether
+,,B,,,
+S-SO-IC-01-0041,41,A,어떤 의원이 우리가 예산을 깎는다면 불평할까?,¿Qué diputado se quejaría si redujéramos el presupuesto?,Spanish island :: adjunct
+,,B,,,
+S-SO-IC-01-0042,42,A,그 의원이 우리가 어떤 예산을 깎는다면 불평할까?,¿Qué presupuesto se quejaría el diputado si redujéramos?,Spanish island :: adjunct
+,,B,,,
+S-SO-IC-01-0043,43,A,어떤 사장이 작년에 프로젝트를 발표한 직원을 데리고 있니?,¿Qué jefe tenía unos empleados que habían presentado el proyecto del año pasado?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0044,44,A,그 사장은 작년에 어떤 프로젝트를 발표한 직원을 데리고 있니?,¿Qué proyecto tenía el jefe unos empleados que habían presentado?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0045,45,A,어떤 교수가 언제 우리가 책을 빌렸는지 모르니?,¿Qué profesor no sabía cuándo habíamos alquilado el libro?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0046,46,A,어떤 교수가 언제 우리가 책을 빌렸는지 물어봤니?,¿Qué profesor preguntó cuándo habíamos alquilado el libro?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0047,47,A,교수가 우리가 언제 어떤 책을 빌렸는지 모르니?,¿Qué libro no sabía el profesor cuándo habíamos alquilado?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0048,48,A,교수가 우리가 언제 어떤 책을 빌렸는지 물었니?,¿Qué libro preguntó el profesor cuándo habíamos alquilado?,Spanish island :: relative
+,,B,,,
+S-SO-IC-01-0049,49,A,어떤 후보가 우리가 예산을 줄이길 원할까?,¿Qué candidato desearía que redujéramos el presupuesto?,Spanish non-island
+,,B,,,
+S-SO-IC-01-0050,50,A,그 후보가 우리가 어떤 예산을 줄이길 원할까?,¿Qué presupuesto desearía el candidato que redujéramos?,Spanish non-island
+,,B,,,
+S-SO-IC-01-0051,51,A,어떤 사장이 몇몇 직원들이 작년의 프로젝트를 발표했다고 말했니?,¿Qué jefe dijo que unos empleados habían presentado el proyecto del año pasado?,Spanish non-island
+,,B,,,
+S-SO-IC-01-0052,52,A,그 사장이 어떤 프로젝트를 몇몇 직원들이 발표했다고 말했니?,¿Qué proyecto dijo el jefe que unos empleados habían presentado?,Spanish non-island
+,,B,,,
+S-SO-IC-01-0053,53,A,Sonia는 Bruno가 Ana를 채용했다는걸 들은 교수님을 봤다.,Sonia vio al estudiante que escuchó que Bruno contrató a Ana.,Short / Non-island (baseline for all the other island)
+,,B,Sonia는 교수님이 Bruno가 Ana를 채용했다는걸 들었다는걸 봤다.,,
+S-SO-IC-01-0054,54,A,"Ana는 Bruno가 그 학생을 채용했다고 들었는데, 그 학생을 Sonia가 만났다.",Sonia vio al estudiante que Ana escuchó que Bruno contrató.,Long / Non-island (baseline for all the other island)
+,,B,Bruno가 채용했다고 Ana가 전해들은 교수님을 Sonia가 만났다.,,
+S-SO-IC-01-0055,55,A,Eloy는 Ana가 Pedro에게 인사했는지를 묻는 사장님을 봤다.,Eloy vio al jefe que preguntó si Ana saludó a Pedro.,Short / Whether island
+,,B,,,
+S-SO-IC-01-0056,56,A,"Pedro가 Ana한테 교수님한테 인사했냐고 물었는데, 그 교수를 Eloy가 만났다.",Eloy vio al jefe  que Pedro preguntó si Ana saludó.,Long / Whether island
+,,B,Eloy가 교수님을 만났는데 그 교수님은 Pero가 Ana가 인사했는지 물어봤던 그 교수님이다,,
+S-SO-IC-01-0057,57,A,Sofía는 그 남자를 누가 채용했는지 묻는 교수님을 봤다.,Sofía vio al profesor que preguntó quién contrató a ese hombre.,Short / Wh island
+,,B,,,
+S-SO-IC-01-0058,58,A,"그 남자는 누가 그 학생을 채용했는지 물었는데, 그 학생을 Sofía가 만났다. ",Sofía vio al estudiante que ese hombre preguntó quién contrató.,Long / Wh island
+,,B,,Sofía vio al estudiante que ese hombre preguntó quién lo contrató.,
+S-SO-IC-01-0059,59,A,Lucía는 Bruno가 Ana를 안았다는 루머를 들은 여자를 봤다.,Lucía vio a la chica que escuchó el rumor de que Bruno abrazó a Ana.,Short / Complex NP island
+,,B,,,
+S-SO-IC-01-0060,60,A,"Ana가 Bruno가 그 여자를 안았다는 루머를 들었는데, 그 여자를 Lucía가 만났다.",Lucía vio a la chica que Ana escuchó el rumor de que Bruno abrazó.,Long / Complex NP island
+,,B,,Lucía vio a la chica que Ana escuchó el rumor de que Bruno la abrazó.,
+S-SO-IC-01-0061,61,A,Eloy는 Marina가 Elena를 채용했을때 학생이 기뻐하는걸 들었다.,Eloy escuchó al estudiante que se alegró cuando Martina contrató a Elena.,Short / Adjunct island
+,,B,,,
+S-SO-IC-01-0062,62,A,Eloy는 그 학생에게서 Elena가 Martina가 그를 채용했을때 기뻐했다는것을 들었다.,Eloy escuchó al estudiante que Elena se alegró cuando Martina contrató.,Long / Adjunct island
+,,B,,Eloy escuchó al estudiante que Elena se alegró cuando Martina le/lo contrató.,
+S-SO-IC-01-0063,63,A,Sonia는 David를 채용한 직원들이 그를 해고했다는걸 들은 교수님을 만났다.,Sonia vio al profesor que escuchó que los empleados que contrataron a David renunciaron ayer.,Short / Relative Cluase island
+,,B,,,
+S-SO-IC-01-0064,64,A,,Sonia vio al profesor que David escuchó que los empleados que contrataron renunciaron ayer.,Long / Relative Cluase island
+,,B,,,
+S-SO-MS-01-0065,65,A,주연이를 재원이가 만났다.,A Juyeon la vio Jaewon.,Korean Scrambling
+,,A',,Jaewon vio a Juyeon.,
+S-SO-MS-01-0066,66,A,선생님이 윤호에게 준 책을 그는 아직 읽어보지 않았다.,"El libro que la maestra le dio a Yunho, él todavía no lo ha leído.",Korean Scrambling
+,,A',그는 선생님이 윤호에게 준 책을 아직 읽어보지 않았다.,Él no ha leído el libro que la maestra le dio a Yunho.,
+S-SO-MS-01-0067,67,A,은채는 엄마가 아빠에게 보낸 편지를 그에게 전했다.,Eunchae le dio a él la carta que mamá le escribió a papá.,Korean Scrambling
+,,A',엄마가 아빠에게 보낸 편지를 은채는 그에게 전했다.,"La carta que mamá le escribió a papá, Eunchae se la dio a él. ",
+S-SO-MS-01-0068,68,A,누군가를 누구나 사랑한다.,Alguien quiere a alguien.,Korean Scrambling
+,,A',누구나 누군가를 사랑한다.,A alquien lo quiere alguien.,
+S-SO-MS-01-0069,69,A,선생님은 누군가를 누구에게나 추천했다.,El profesor le recomienda alguien a alguien.,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A',선생님은 누구에게나 누군가를 추천했다.,El profesor le recomienda a alguien alguien.,
+S-SO-MS-01-0070,70,A,그들을 서로의 친구가 고소했다.,Ellos fueron acusados cada uno por el amigo del otro.,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A',서로의 친구가 그들을 고소했다,A ellos los acuso a cada uno el amigo del otro.,
+S-SO-MS-01-0071,71,A',누구를 그의 아버지가 싫어하니?,¿A quién odia su padre?,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A,그의 아버지가 누구를 싫어하니?,,
+S-SO-MS-01-0072,72,A',민수의 부모님이 그를 방문했다.,Los padres de Minsu lo visitaron a él.,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A,그를 민수의 부모님이 방문했다.,A él lo vistaron los padres de Minsu.,
+S-SO-MS-01-0073,73,A',자기의 아들을 그가 꾸짖었다.,Su niño fue regañado por él.,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A,그가 자기의 아들을 꾸짖었다.,Él regañó a su niño.,
+S-SO-MS-01-0074,74,A',그는 민호의 누나를 좋아한다.,A la hermana de Minho la quiere él.,Korean Scrambling(Clause-Internal Scrambling-anaphor binding)
+,,A,민호의 누나를 그가 좋아한다.,Él quiere a la hermana de Minho.,
+S-SO-MS-01-0075,75,A',자기의 아들을 그가 선생님이 때렸다고 생각한다.,Él piensa que a su hijo lo golpeó el profesor.,Korean Scrambling(Clause-Internal Scrambling-WCO)
+,,A,그가 선생님이 자기의 아들을 때렸다고 생각한다.,Él piensa que el profesor golpeó a su hijo.,
+S-SO-MS-01-0076,76,A',그의 아들을 Juan이 Pedro가 때렸다고 생각한다.,Juan piensa que a su hijo lo golpeó Pero.,Korean Scrambling(Clause-External
+,,A,Juan이 Pedro가 그의 아들을 때렸다고 생각한다.,Juan piensa que Pedro golpeó a su hijo.,
+S-SO-MS-01-0077,77,A',무엇을 나는 석준이가 제일 싫어하는지 안다.,Lo que odia Seokjune lo sé.,Korean Scrambling(Clause-External
+,,A,나는 석준이가 무엇을 제일 싫어하는지 안다.,Sé qué odia Seokjune.,
+S-SO-MS-01-0078,78,A',아무도 나는 은채가 좋아하지 않는다고 생각한다.,Pienso que a nadie quiere Eunchae.,Korean Scrambling(Clause-External
+,,A,나는 은채가 아무도 좋아하지 않는다고 생각한다.,Pienso que Eunchae no quiere a nadie.,
+S-SO-MS-01-0079,79,A,그들을 서로의 친구가 존이 고소했다고 말했다.,Los amigos de ellos dijeron que John los acusó a ellos.,Korean Scrambling(Clause-External
+,,B,,,
+S-SO-MS-01-0080,80,A',아무것도 재원이가 주연이가 샀다고 믿지 않아.,,Korean Scrambling(Clause-External
+,,A,재원이가 주연이가 아무것도 샀다고 믿지 않아,Jaewon no cree que Juyeon comprara nada.,
+S-SO-MS-01-0081,81,A',누구를 너는 그가 조원으로 선택할지 알고싶니?,,Korean Scrambling(Clause-External
+,,A,너는 그가 조원으로 누구를 선택할지 알고싶니?,¿Quieres saber a quién va a elegir él como compañero de equipo?,
+S-SO-MS-01-0082,82,A',Juan의 엄마가 Martina가 그를 속였다고 생각한다.,La madre de Juan piensa que Martina lo engañó a él.,Korean Scrambling(Clause-External
+,,A,Martina가 그를 속였다고 Juan 의 엄마가 생각한다.,,
+S-SO-MS-01-0083,83,A',누구를 그의 지도교수가 존이 신고했다고 말했니?,¿Su profesor dijo que John acusó a quién?,Korean Scrambling(Clause-External
+,,A,그의 지도교수가 존이 누구를 신고했다고 말했니?,¿A quién dijo su profesor que John acusó?,
+S-SO-MS-01-0084,84,A',은채가 그들을 서로의 남자친구에게 소개했다.,,Korean Scrambling(VP-Internal Scrambling)
+,,A,은채가 서로의 남자친구에게 그들을 소개했다.,Eunchae les ha presentado a cada una el novio de la otra.,
+S-SO-MS-01-0085,85,A',Martina가 Eloy의 여자친구를 그에게 소개했다.,Martina le presentó a Eloy a su novia.,Korean Scrambling(VP-Internal Scrambling)
+,,A,Martina가 그에게 Eloy의 여자친구를 소개했다.,Maritna le presentó a Eloy la que hoy es su novia.,
+S-SO-MS-01-0086,86,A',Juan이 누구를 그의 부모님에게 소개햇니?,,Korean Scrambling(VP-Internal Scrambling)
+,,A,Juan이 그의 부모님에게 누구를 소개했니?,¿A quién presenta Juan a sus padres?,
+S-SO-MS-01-0087,87,A,내가 그의 선생님을 그에게 소개했다.,Le he presentado su profesor a él.,Korean Scrambling(VP-Internal Scrambling)
+,,B,,,
+S-SO-MS-01-0088,88,A,Elena가 Juan을 좋아하는 친구들을 만났다.,Elena vio a los amigos que quieren a Juan.,Korean Scrambling(Clausal Scrambling)
+,,B,,,
+S-SO-MS-01-0089,89,A,존이 매리가 무엇을 사기 전에 화가 났지?,¿Qué es por lo que Juan se enfadó antes de que María lo comprara?,Korean Scrambling(Clausal Scrambling)
+,,B,*무엇을 존이 매리가 사기전에 화가 났지?,,
+S-SO-MS-01-0090,90,A,은채가 민지와 민우를 비난했다.,Eunchae criticó a Minji y a Minwoo.,Korean Scrambling(Clausal Scrambling)
+,,B,,A Minji y a Minwoo los criticó Eunchae.,
+S-SO-MS-01-0091,91,A',네가 그 음식을 샘이 만들었다고 말했다.,Dijiste que Sam preparó ese plato.,Korean Scrambling(Clausal Scrambling)
+,,A,그 음식을 샘이 만들었다고 네가 말했다.,Dijiste que ese plato lo preparó Sam.,
+S-SO-MS-01-0092,92,A',그 녀석에게 나는 은채가 홀딱 빠졌다는 사실을 안믿었다.,Yo no creía que Eunchae se enamorara de ese chico.,한국어 통사론-뒤섞기
+,,A,나는 은채가 그 녀석에게 홀짝 빠졌다는 사실을 안믿었다.,De ese chico es de quien yo no creía que se enamoraría Eunchae.,
+S-SO-MS-01-0093,93,A',그 가방을 윤도는 연서가 샀는지 궁금해했다.,Yundo quería saber si Yeonseo compró esa bolsa o no.,한국어 통사론-뒤섞기
+,,A,윤도는 연서가 그 가방을 샀는지 궁금해했다.,Esa bolsa es sobre la que Yundo quiso saber si Yeonseo había comprado o no.,
+S-SO-MS-01-0094,94,A,존이 내가 술집에서 시간을 보냈다고 말했다.,John dijo que yo pasé tiempo en el bar.,한국어 통사론-뒤섞기
+,,B,,,
+S-SO-MS-01-0095,95,A,존이 내가 시끄럽게 노래를 불렀다고 말했다.,John dijo que canté muy alto.,한국어 통사론-뒤섞기
+,,B,,,
+S-SO-MS-01-0096,96,A,엄마가 아빠에게 석준이한테 용돈을 못주게 했다.,Mamá no deja a papá darle dinero a Seokjune.,한국어 통사론-뒤섞기
+,,B,,,
+S-SO-MS-01-0097,97,A,누군가가 모든 학생을 비난했다.,Alquien ha criticado a todos los estudiantes.,한국어 통사론 - 이동
+,,B,모든 학생을 누군가가 비난했다.,A todos los estudiantes los ha criticado alguien.,
+S-SO-MS-01-0098,98,A,선생님이 그 학생을 다리를 때렸다.,La profesora le dio un golpe en la pierna a ese estudiante.,한국어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0099,99,A,은채는 과일을 사과를 즐겨먹는다.,A Eunchae le gusta comer manzanas.,한국어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0100,100,A,이런 책이 사람들이 즐겨 읽는 거야.,Este tipo de libro es del que la gente disfruta mucho.,한국어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0101,101,A,은채가 밥 먹었다.,Eunchae ha comido ya.,한국어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0102,102,A,사과 세개를 나는 먹었다.,Tres manazas me comí.,한국어 통사론 - 이동
+,,B,,Comí tres manzanas.,
+S-SO-MS-01-0103,103,A,너는 무슨 문제를 어떻게 풀어야 하는지 모르니?,¿No sabes qué problema resolver y cómo?,스페인어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0104,104,A,내가 무슨 외투를 산게 너를 놀라게 했니?,¿Qué abrigo te aterra que me compre?,스페인어 통사론 - 이동
+,,B,,,
+S-SO-MS-01-0105,105,A,그 논문은 우리 엄마가 썼다.,Mi madre escribió el tesis.,스페인어 통사론 - 이동
+,,A',그 논문은 우리 엄마에 의해 쓰여졌다.,El tesis fue escrito por mi madre.,
+S-SO-MS-01-0106,106,A,은채는 뭘 하고 있니?,¿Qué está haciendo Eunchae?,스페인어 통사론 - 이동
+,,A',,,
+S-SO-MS-01-0107,107,A,후안은 돈을 많이 가지고 있는 것처럼 보인다.,Juan parece tener mucho dinero.,스페인어 통사론 - 이동
+,,A',,,

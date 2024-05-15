@@ -1,0 +1,411 @@
+segmentid,index,ref,KO,SP
+S-SC-SU-01-0001,1,A,고양이는 물을 싫어해요.,El gato odia el agua.
+,,B,,
+S-SC-SU-01-0002,2,A,알리시아는 매우 똑똑해요.,Alicia es muy inteligente.
+,,B,,
+S-SC-SU-01-0003,3,A,강아지들이 해변에서 놀아요.,Los perros juegan en la playa.
+,,B,,
+S-SC-SU-01-0004,4,A,불행이 일어났다.,Ha ocurrido una desgracia
+,,B,한 불행이 일어났다.,Una desgracia ha ocurrido.
+S-SC-SU-01-0005,5,A,나는 눈이 더 많이 오는 마을에 살고 싶다.,Quiero vivir en un pueblo donde caiga más nieve.
+,,B,나는 더 많은 눈이 떨어지는 마을에 살고 싶다.,Quiero vivir en un pueblo donde más nieve caiga.
+S-SC-SU-01-0006,6,A,이 마을에서 차를 판다.,En este barrio se venden coches.
+,,B,이 마을에서 차가 팔린다.,Unos coches se venden en este barrio.
+S-SC-SU-01-0007,7,A,어제 해가 떴다.,Ayer salió el sol.
+,,B,어제 떴다 해가.,Ayer el sol salió.
+S-SC-SU-01-0008,8,A,그 차를 우리 아빠가 샀다.,El coche lo ha comprado mi padre.
+,,B,우리 아빠가 그 차를 산다.,
+S-SC-SU-01-0009,9,A,그녀가 무슨 책을 샀어?,¿Qué libros ha comprado ella?
+,,B,,
+S-SC-SU-01-0010,10,A,그렇게 하는게 더 나은거 같아. 내 생각엔 그래.,"Es mejor así, creo yo. "
+,,B,내 생각엔 그렇게 하는게 더 나은거 같아.,
+S-SC-SU-01-0011,11,A,그녀가 도착하면서 파티는 시작되었어요.,"Habiendo llegado ella, empezó la fiesta."
+,,B,,"Habiendo llegado ella, la fiesta empezó."
+S-SC-SU-01-0012,12,A,나에게 말 좀 해보세요. 이 정책을 시행하는게 맞아요?,"Digame usted, ¿es correcto tomar esta medida?"
+,,B,,
+S-SC-SU-02-0013,13,A,그에게 미리 시간을 말해주는게 나을거 같아.,Es mejor que le avises con tiempo.
+,,A',,Que le avises con tiempo es mejor.
+S-SC-SU-02-0014,14,A,네가 아픔을 못느끼는건 아주 좋은 신호야.,Que no te duela es una buena señal.
+,,B,,
+S-SC-SU-02-0015,15,A,너는 개인적으로 서류들을 제출할 필요가 있어.,Es necesario que entregues los papeles personalmente.
+,,B,,Que entregues los papeles personalmente es necesario.
+S-SC-SU-02-0016,16,A,나는 먹고 마시는걸 좋아한다.,Me encanta comer y beber.
+,,A',먹고 마시는건 내가 좋아하게 한다.,Comer y beber me encanta.
+S-SC-SU-02-0017,17,A,그는 내가 누구인지 신경 쓰지 않았다.,No le impotaba quién era yo.
+,,A',내가 누구인지는 그에게 신경쓸 것이 아니었다.,Quién era yo no le importaba.
+S-SC-SU-02-0018,18,A,마지막에 웃는자가 승자다.,El que ríe al último ríe mejor.
+,,B,마지막에 웃는자가 더 웃는다.,Ríe mejor el que ríe el último.
+S-SC-SU-02-0019,19,A,,Es impresionante cuánto calor hace estos días.
+,,B,,Cuánto calor hace estos días es impresionante.
+S-SC-SU-02-0020,20,A,다른나라로 이민 갈 때 중요한 것은 언어를 배우는 것이다.,"Cuando se quiere emigrar a otro país, lo importante es aprender idiomas."
+,,A',다른 나라로 이민갈 때 언어를 배우는 것이 중요하다.,"Cuando se quiere emigrar a otrao país, es importante aprender idiomas."
+S-SC-SU-02-0021,21,A,마을에 한 낯선 사람이 도착했다.,Ha llegado al pueblo un extraño.
+,,A',한 낯선 사람이 마을에 도착했다.,Un extraño ha llegado al pueblo.
+S-SC-SU-02-0022,22,A,9시는 술 마시기 좋은 시간이다.,A las nueve es una buna hora para beber.
+,,B,술마시기 좋은 시간은 9시이다.,Las nueve es un buena hora para beber.
+S-SC-SU-03-0023,23,A,지금이 시작하기 좋은 시간이다.,Ahora es la mejor hora para empezar.
+,,A',시작하기 좋은 시간은 지금이다.,La mejor hora para empezar es ahora.
+S-SC-SU-03-0024,24,A,커튼 뒤는 숨기 좋은 장소이다.,Detrás de las cortinas es un buen sitio para esconderse.
+,,A',커튼 뒤의 장소는 숨기 좋은 장소이다.,Un buen sitio para esconderse es detrás de las cortinas.
+S-SC-SU-03-0025,25,A,그 소년은 인터넷에서 파일을 다운 받았다.,El chico descarga los archivos de internet.
+,,B,,
+S-SC-SU-03-0026,26,A,인터넷의 파일들이 그 소년에 의해 다운받아졌다.,Los archivos del internet los descarga el chico.
+,,B,,Los archivos del internet son descargados por el chico.
+S-SC-SU-03-0027,27,A,해가 옷을 마르게 했다.,El sol seca la ropa.
+,,B,,
+S-SC-SU-03-0028,28,A,옷이 말랐다.,La ropa se seca.
+,,B,,
+S-SC-SU-03-0029,29,A,불이 물을 끓게 했다.,El fuego hirvió el agua.
+,,B,,
+S-SC-SU-03-0030,30,A,물이 끓었다.,El agua hirvió.
+,,B,,
+S-SC-SU-03-0031,31,A,그걸 보는 것은 부끄럽다.,Daba vergüenza verlo.
+,,B,그걸 보는 것은 부끄럽게 했다.,Daba vergüenza de verlo.
+S-SC-SU-03-0032,32,A,내 사업이 잘 안돼.,No me va bien el negocio.
+,,A',사업에서 내가 잘 안풀려요.,No me va bien en el negocio.
+S-SC-SU-03-0033,33,A,코가 간지러웠다.,Me picaba la nariz.
+,,A',코가 나를 간지럽게 했다.,Me hizo cosquillas en la nariz.
+S-SC-SU-03-0034,34,A,코가 간지러웠다.,Me picaba la nariz.
+,,A',코에서 간지러움을 느꼈다.,Me hizo cosquillas en la nariz.
+S-SC-SU-04-0035,35,A,너의 말들은 나에게 충분해.,Me bastan tus palabras.
+,,A',나는 너의 말들로 충분해.,Me basta con tus palabras.
+S-SC-SU-04-0036,36,A,너의 말들은 나에게 충분함을 느끼게 해.,Me basta con tus palabras.
+,,B,너의 말들은 충분해.,Basta de tus palabras.
+S-SC-SU-04-0037,37,A,당신은 운이 아주 좋으시군요.,Usted tiene mucha suerte.
+,,B,운이 아주 좋네요.,Tiene mucha suerte.
+S-SC-SU-04-0038,38,A,"전하, 식사를 다 하셨습니까?","Vuestra majestad, ¿ha terminado ya de comer?"
+,,B,"전하, 식사를 다 했어요?","Vuestra majestad, ¿has terminado ya de comer?"
+S-SC-SU-04-0039,39,A,우리 한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.,Los habitantes de Corea hemos experimentado un cambio drámatico de clima.
+,,A',한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.,Los habitantes de Corea han experimentado un cambio drámatico de clima.
+S-SC-SU-04-0040,40,A,컴퓨터와 프린터가 어제 고장났다.,El ordenador y la impresora se estropearon ayer.
+,,B,,
+S-SC-SU-04-0041,41,A,그 의사이자 변호사인 사람은 승소할 것이다.,El abogado y médico ganará el juicio.
+,,B,의사인 변호사는 승소할 것이다.,El abogado y el médico ganarán el juicio.
+S-SC-SU-04-0042,42,A,눈 또는 비는 형태가 있다.,La lluvia o la nieve tienen formas.
+,,B,,La lluvia o la nieve tiene formas.
+S-SC-SU-04-0043,43,A,내 아들도 딸도 일본어를 할줄 모른다.,Ni mi hijo ni mi hija saben hablar japónes.
+,,B,내 아들과 딸은 일본어를 할줄 모른다.,Ni mi hijo ni mi hija sabe hablar japónes.
+S-SC-SU-04-0044,44,A,양심도 죄책감도 없다.,Ya no existe ni la conciencia ni el pecado.
+,,B,양심과 죄책감이 없다.,Ya no existen ni la conciencia ni el pecado.
+"S-SC-SU-04-0045
+",45,A,내 아들과 그 여자친구는 스페인에 두번 여행 간적이 있어요.,"Mi hijo, junto con su novia, ha viajado a España dos veces."
+,,A',내 아들은 그 여자친구와 함께 스페인에 두번 여행 간적이 있어요.,Mi hijo y su novia han viajado a España dos veces.
+"S-SC-SU-04-0046
+",46,A,많은 시위자 무리들이 도시의 주요 거리를 걷고 있다.,Un numeroso grupo de manifestantes recorrió las principales avenidas de la capital.
+,,A',많은 시위대가 도시의 주요거리를 걷고 있다.,Un numeroso grupo de manifestantes recorrieron las principales avenidas de la capital.
+"S-SC-SU-04-0047
+",47,A,다수의 학생들이 이 정책에 찬성하지 않는다.,Multitud de estudiantes no están a favor de esta medida.
+,,A',,La mayoría de los estudiantes no están a favor de esta medida.
+S-SC-SU-04-0048,48,A,나는 이 부류의 사람들에게는 관심이 전혀 없다.,Esa clase de personas no me interesa nada.
+,,A',이 부류의 사람들은 나에게 관심을 끌지 않는다.,Esa clase de personas no me interesan nada.
+S-SC-SU-04-0049,49,A,학생들 중 절반이 축제에 참가할거에요.,La mitad de los estudiantes participarán en la fiesta.
+,,B,,
+S-SC-SU-04-0050,50,A,백명 중 스무명이 찬성했습니다.,El veinte por ciento estaba de acuerdo.
+,,,백명 중 이십명이 찬성했습니다.,El veinte por ciento estaban de acuerdo.
+,,B,,
+"S-SC-SU-04-0051
+",51,A,우리들 중 많은 인원이 정시에 도착한다.,Muchos de nosotros llegamos a tiempo.
+,,B,많은 우리들이 정시에 도착한다.,Muchos de nosotros llegan a tiempo.
+"S-SC-SU-04-0052
+",52,A,너희들 중 아무도 결혼을 안했니?,¿Ninguno de vosotros está casado?
+,,,,¿Ninguno de vosotros estáis casado?
+,,B,,
+S-SC-SU-05-0053,53,A,신발 두켤레면 여행에 충분하다.,Dos pares de zapatos es bastante para viaje.
+,,,,Dos pares de zapatos son bastantes para viaje.
+,,B,신발 두켤레들이면 여행에 충분하다.,
+S-SC-SU-05-0054,54,A,삼천 달러는 이 차를 사기에 충분하다.,Tres mil dólares es suficiente para comprar este coche.
+,,B,삼천달러들은 이 차를 사기에 충분하다.,Tres mil dólares son suficientes para comprar este coche.
+S-SC-SU-05-0055,55,A,이건 되게 충격적인 조합들이다.,Esto son mezclas explosivas.
+,,B,이것들은 되게 충격적인 조합들이다,Estas son mezclas explosivas
+S-SC-SU-05-0056,56,A,"아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?","Papá, antes vinieron un gorila, una bruja y un dragón, pero...¿todos eras tú?"
+,,B,"아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?","Papá, antes vinieron un gorila, una bruja y un dragón, pero... ¿todos eran tú?"
+S-SC-SU-05-0057,57,A,당선자들은 우리들이 아니었어요.,Los elegidos no fueron nosotros.
+,,B,,Los elegidos no fuimos nosotros.
+S-SC-SU-05-0058,58,A,당선자가 접니다.,El elegido fui yo.
+,,B,,El elegido fue yo.
+S-SC-SU-05-0059,59,A,영수가 키가 크다.,Youngsoo es alto.
+,,B,,La altura de Youngsoo es alta.
+S-SC-SU-05-0060,60,A,뻬드로가 누나가 영문과를 전공한다.,La hermana de Pedro estudia literatura inglesa.
+,,,뻬드로의 누나가 영문과를 전공한다.,
+,,B,,Pedro y su hermana estudian literatura inglesa.
+S-SC-SU-05-0061,61,A,삼성이 핸드폰이 좋다.,Los móviles de Samsung son muy buenos.
+,,,삼성의 핸드폰이 좋다.,
+,,B,,Samsung tiene muy buen móvil.
+S-SC-SU-05-0062,62,A,맥주가 두병이 부족하다.,Hacen falta dos botellas de cerveza
+,,B,,Dos botellas de cervezas son escasas.
+S-SC-SU-05-0063,63,A,그 학생이 돈이 없어서 버스를 못탔어요.,"Ese estudiante no tenía dinero, por eso no podía tomar el autobús."
+,,B,,
+S-SC-SU-05-0064,64,A,이 꽃이 향기가 많이 나네요.,Esta flor tiene muy buen olor.
+,,B,,
+S-SC-PR-01-0065,65,A,나는 커피가 싫어요.,Yo odio el café.
+,,B,,
+S-SC-PR-01-0066,66,A,서울은 아파트가 값이 비싸요.,El precio de los pisos en Seúl es muy alto.
+,,,서울의 아파트 값이 비싸요.,
+,,B,,Los pisos de Seúl son muy caros.
+"S-SC-PR-01-0067
+",67,A,대구는 여름이 온도가 높아요.,Las temperaturas en verano en Daegu son altas.
+,,,대구의 여름 온도가 높아요.,
+,,B,대구의 여름의 온도가 높아요.,Daegu tiene la temperaturas muy altas en verano.
+"S-SC-PR-01-0068
+",68,A,아빠 커피 마셨어.,Papá ha tomado café.
+,,B,,
+S-SC-PR-01-0069,69,A,고양이를 은채가 너무 좋아해요.,A Eunchae le gustan mucho los gatos.
+,,B,은채가 고양이를 너무 좋아해요.,Los gatos le gustan mucho a Eunchae.
+S-SC-PR-01-0070,70,A,아기가 운다.,El bebé esta llorando.
+,,B,,El bebé llora.
+S-SC-PR-01-0071,71,A,비가 온다.,Llueve.
+,,B,,Está lloviendo.
+S-SC-PR-01-0072,72,A,물이 끓는다.,El agua hierve.
+,,B,,El agua está hirviendo
+S-SC-PR-01-0073,73,A,아이들이 고기를 먹는다.,Los chicos comen carne.
+,,B,,Los chicos están comiendo carne.
+S-SC-PR-01-0074,74,A,남자가 요리를 한다.,El hombre prepara la comida.
+,,B,,El hombre está preparando la comida.
+S-SC-PR-01-0075,75,A,구름이 비로 변한다.,Los nubes se convirten en lluvia.
+,,B,,
+S-SC-PR-01-0076,76,A,물이 공기가 되었다.,El agua se convirte en aire.
+,,B,,
+S-SC-PR-01-0077,77,A,하윤이가 유하에게 장난감을 주었다.,Hayun le dio juguetes a Yuha.
+,,B,,
+S-SC-PR-01-0078,78,A,은채는 그 일을 엄마와 의논하기로 했다.,Eunchae va a discutir de eso con su madre.
+,,B,,
+S-SC-PR-01-0079,79,A,그는 그 불쌍한 소년을 아들로 여겼다.,El pobre chico no es su hijo pero lo considera su hijo.
+,,B,,Él considera al pobre chico como su hijo.
+S-SC-PR-01-0080,80,A,집이 굉장히 넓다.,La casa es muy grande.
+,,B,,
+S-SC-PR-01-0081,81,A,그 그림은 실물과 너무 똑같다.,Este dibujo se parece al real.
+,,B,,Este dibujo es igual al real.
+S-SC-PR-02-0082,82,A,저는 Eloy 씨가 그 자리에 적합하다고 생각해요.,Creo que Eloy es adecuado para ese puesto.
+,,B,,
+S-SC-PR-02-0083,83,A,아기의 눈물이 그쳤다.,El bebé ha dejado de llorar.
+,,B,,
+S-SC-PR-02-0084,84,A,엄마가 아기의 눈물을 그쳤다.,La mamá hizo que el bebé dejara de llorar.
+,,B,,
+S-SC-PR-02-0085,85,A,벨이 울렸다.,Sonó el timbre.
+,,B,,
+S-SC-PR-02-0086,86,A,연서가 벨을 울렸다.,Yeonseo tocó el tiembre.
+,,B,,
+S-SC-PR-02-0087,87,A,그 남자는 그 여자를 두고 떠나 버렸다.,El hombre se fue dejando a la mujer.
+,,B,,
+S-SC-PR-02-0088,88,A,나 요즘 스트레스때문에 다 때려치고 싶어.,Quiero tirar la toalla por el estrés.
+,,B,,
+S-SC-PR-02-0089,89,A,그 옷 한번 입어 봐. 잘어울릴거 같은데?,Pruébate esta ropa. Me parece que te quedará bien.
+,,B,,
+S-SC-PR-02-0090,90,A,아이가 텔레비전을 보게 하나요?,¿Le deja al niño ver la televisión?
+,,B,,
+S-SC-PR-02-0091,91,A,곰을 만나면 죽은 체 하세요.,Finge que estás muerta cuando veas un oso.
+,,B,,Hazte la muerta cuando veas un oso.
+S-SC-PR-02-0092,92,A,예전에 스페인을 가 봤어.,Ya he ido a España antes.
+,,B,,Antes fui a España.
+S-SC-PR-02-0093,93,A,아 진짜 짜증나게 좀 만들지마.,"Por favor, no me molestes. "
+,,B,,
+S-SC-PR-01-0094,94,A,제 고양이가 바닥에 토를 해놓았어요.,Mi gato vomitó en el suelo.
+,,B,,
+S-SC-PR-01-0095,95,A,눈도 오고 하니 이쯤 헤어지자.,"Como nieva mucho, nos despedimos ahora. "
+,,B,,
+S-SC-PR-01-0096,96,A,하마터면 큰일 날뻔 했어.,Casi ocurre una desgracia.
+,,B,,"Casi ocurrió una desgracia, pero no."
+S-SC-PR-01-0097,97,A,와 진짜 에어컨이 없으니까 더워 죽겠다.,"Como no hay aire acondicionado, me muero de calor. "
+,,B,,
+S-SC-PR-01-0098,98,A,이제 수업이 슬슬 끝나려는 듯해.,Parece que la clase termina pronto.
+,,B,,
+S-SC-PR-01-0099,99,A,겨울에는 눈이 많이 온다.,En invierno nieva mucho.
+,,B,,
+S-SC-PR-01-0100,100,A,겨울에는 해가 늦게 뜬다.,En invierno amanece muy tarde.
+,,B,,
+S-SC-PR-01-0101,101,A,작년에 후안 교수님이 돌아가셨다.,El profesor Juan murió el año pasado.
+,,B,,
+S-SC-PR-01-0102,102,A,"나는 일하기 싫어, 쉬고 싶어. ","No quiero trabajar, quiero descansar. "
+,,B,,
+S-SC-PR-01-0103,103,A,너 정시에 도착해?,¿Llegas a tiempo?
+,,B,,¿Llegas en punto?
+S-SC-PR-01-0104,104,A,나는 이 가게에서 옷을 많이 샀어.,He comprado mucha ropa en esta tienda.
+,,B,,
+S-SC-PR-02-0105,105,A,내가 말한거 이해가 안돼?,¿No entiendes lo que te digo?
+,,B,,
+S-SC-PR-02-0106,106,A,네가 원하는 책 하나 가져와.,Trae el libro que quieras.
+,,B,,Trae un libro que quieras.
+S-SC-PR-02-0107,107,A,"날씨 엄청 추워. 기다려봐, 외투 하나 줄게","Hace mucho frío. Espera, te doy una chaqueta. "
+,,B,,
+S-SC-PR-02-0108,108,A,나한테 그런 소식 전하지 마세요.,No me des este tipo de noticias.
+,,B,,
+S-SC-PR-02-0109,109,A,나를 믿어봐요. 나는 불가능한건 절대 약속 안해요.,Confía en mí. No te prometo lo imposible.
+,,B,,
+S-SC-PR-02-0110,110,A,도둑은 창문을 통해 들어올수 없었다.,El ladrón no pudo entrar por la ventana.
+,,B,,
+S-SC-PR-02-0111,111,A,언제든 재앙은 일어날 수 있다.,Puede ocurrir una catástrofe en cualquier momento.
+,,B,,
+S-SC-PR-02-0112,112,A,병원에서 담배를 피면 안된다.,No se debe fumar en hospital.
+,,B,,
+S-SC-PR-02-0113,113,A,무언가가 그에게 일어난게 분명해요.,Debe de haberle ocurrido algo.
+,,B,,
+S-SC-PR-02-0114,114,A,이 수영장에선 물안경을 꼭 써야해요.,Hay que ponerse gafas de natación en esta piscina.
+,,B,,
+S-SC-PR-02-0115,115,A,"내 삶이 계속된다면, 그건 당신 덕일겁니다. ",Si mi vida ha de continuar será por ti.
+,,B,,
+S-SC-PR-02-0116,116,A,너한테 스페인 여행가기 전 꼭 알아야할 10가지 스페인어 문장을 알려줄게.,Te enseño 10 frases españolas que hay que conocer antes de viajar a España.
+,,B,,
+S-SC-PR-02-0117,117,A,나는 방탄소년단 콘서트에 가고싶었지만 박사논문때문에 시간이 없어서 못갔어요.,"Quería ir al concierto de BTS, pero no tenía tiempo por mi tesis de doctorado. "
+,,B,,
+S-SC-PR-02-0118,118,A,너는 네 나이처럼 안보여.,Tú no pareces tener la edad que tienes.
+,,B,,
+S-SC-PR-02-0119,119,A,이거 니가 혼자 한거 맞아? 아이고. 더 하지마. 만약 더 하면 진짜 나 너 죽일거야.,"¿Es verdad que lo hiciste solo? Madre mía. No lo hagas más. Si sigues, te voy a matar. ¿Vale?"
+,,B,,
+S-SC-PR-02-0120,120,A,FC바르셀로나와 레알마드리드 간의 경기는 매년 항상 충돌적인 경향이 있습니다.,El partido entre FC Barcelona y Real Madrid suele ser conflictivo todos los años.
+,,B,,
+S-SC-PR-02-0121,121,A,그는 막 집에서 돌아왔고 집을 정리하고 있었어요.,Acababa de volver del trabajo y estaba arreglando la casa.
+,,B,,Acababa de volver del trabajo y estaba recogiendo en casa.
+S-SC-PR-02-0122,122,A,"나는 일어나려고 했지만, 소파로 다시 누워버렸고 그 상태로 잠들었어요. ","Intenté levantarme, pero volví a caer en el sofá y me quedé durmiendo. "
+,,B,,
+S-SC-PR-02-0123,123,A,우리는 집을 거의 다 칠했고 이제 곧 베란다를 칠할거에요.,Hemos pintado casi toda la casa pero aun están por pintar la terraza.
+,,B,,
+S-SC-PR-02-0124,124,A,내 딸은 학교에서 곧 그 과정을 마쳐요.,Mi hija está a punto de terminar su curso en el colegio.
+,,B,,
+S-SC-PR-02-0125,125,A,그 불쌍한 아이는 엄마가 자전거에서 떨어지는걸 보자마자 울기 시작했어요.,El pobre niño se puso a llorar al ver que su mamá se cayó de la bicicleta.
+,,B,,
+S-SC-PR-02-0126,126,A,15년 전에 스페인어를 배우기 시작했어요.,Hace 15 años empezó a aprender español.
+,,B,,Hace 15 años que empezó a aprender español.
+S-SC-PR-02-0127,127,A,흡연을 그만두는건 너무 어려워요.,Es muy difícil dejar de fumar.
+,,B,,
+S-SC-PR-02-0128,128,A,그 선수는 다쳤지만 뛰는걸 멈추지 않았어요.,"Aunque ese jugador está herido, no para de correr. "
+,,B,,
+S-SC-PR-02-0129,129,A,모든 서류를 검토하는 것을 막 끝냈어요.,Acabo de terminar de examinar todos los documentos.
+,,B,,
+S-SC-PR-02-0130,130,A,우리 다음 연습 문제 채점으로 넘어가볼까요.,Vamos a pasar a corregir el siguiente ejercicio.
+,,B,,
+S-SC-PR-02-0131,131,A,가끔 나는 돈을 버는게 중요하지 않다고 생각하는 경지에 이르러요.,A veces he llegado a creer que no era importante ganar mucho dinero.
+,,B,,
+S-SC-OB-01-0132,132,A,내 운전 능력은 조금씩 좋아지고 있어.,Mi habilidad de conducir va mejorando poco a poco.
+,,B,,
+S-SC-OB-01-0133,133,A,그들의 진짜의 의도를 우리에게 계속 숨겨오고 있었다.,Nos viene ocultando sus verdaderas intensiones.
+,,B,,
+S-SC-OB-01-0134,134,A,그 회사에서 일한지 벌써 10년이 되었어?,¿Ya llevas 10 años trabajando en esa empresa?
+,,B,,
+S-SC-OB-01-0135,135,A,나는 박사논문 20페이지 썼어.,Tengo escritas veinte páginas de mi tesis de doctorado.
+,,B,,
+S-SC-OB-01-0136,136,A,Perdro와 나는 이집트로 여행갈 계획을 다 세웠다.,Pedro y yo tenemos planeado un viaje a Egipto.
+,,B,,
+S-SC-OB-01-0137,137,A,오늘 그 사람 좀 만나야겠다.,Hoy tengo que ver a esa persona.
+,,B,,
+S-SC-OB-01-0138,138,A,내 동생은 경제학을 전공합니다.,Mi hermano menor estudia economía.
+,,B,,
+S-SC-OB-01-0139,139,A,"걔가 영어는 잘하지만은, 수학은 잘 못한다. ","Él sabe muy bien inglés, pero no sabe mucho de matemática. "
+,,B,,
+S-SC-OB-01-0140,140,A,편지 한장만 그분께 전달해 주세요.,Dele solo una carta al señor.
+,,B,,
+S-SC-OB-01-0141,141,A,은채는 한국어 뿐만 아니라 스페인어도 잘해요.,Eunchae sabe muy bien no sólo coreano sino también español.
+,,B,,
+S-SC-OB-01-0142,142,A,왜 지나가는 사람을 어깨를 치고는 그냥 가세요?,¿Por qué se va sin decir nada después de empujarle el hombro a alguien?
+,,B,,
+S-SC-OB-02-0143,143,A,과일가게에 가서 딸기를 두 박스를 배달해달라고 했다.,En la frutería dije que me mandaran dos cajas de fresas.
+,,B,,
+S-SC-OB-02-0144,144,A,엄마가 김치를 한통 보냈다.,Mi madre me mandó una caja de Kimchi.
+,,B,,
+S-SC-OB-02-0145,145,A,엄마가 김치 한통을 보냈다.,Mi madre me mandó una caja de Kimchi.
+,,B,,
+S-SC-OB-02-0146,146,A,남은 책들을 저를 주세요.,Dame el resto de libros.
+,,B,,
+S-SC-OB-02-0147,147,A,유하가 또 노래방을 갔어?,¿Otra vez Yuha se fue al karaoke?
+,,B,,
+S-SC-OB-02-0148,148,A,나 교수님을 만났어.,He visto al profesor.
+,,B,,
+S-SC-OB-02-0149,149,A,사자는 얼룩말을 사냥합니다.,El león caza a la cebra.
+,,B,,
+S-SC-OB-02-0150,150,A,꿀꿀 소리를 내며 돼지는 젖소를 깨웠어요.,El cerdito despierta a la vaca haciendo oink oink.
+,,B,,
+S-SC-OB-02-0151,151,A,대학은 연구자를 양성해야한다.,La universidad debe formar investigadores.
+,,B,,
+S-SC-OB-02-0152,152,A,나는 똑같은 사람을 보질 못했어.,Nunca he visto a una persona igual.
+,,B,,Nunca he visto a ninguna persona igual.
+S-SC-OB-02-0153,153,A,우리는 많은 환자들을 도와야한다.,Tenemos que ayudar a muchos enfermos.
+,,B,,
+S-SC-OB-02-0154,154,A,우리는 지나치게 많은 통치자들에게 복종한다.,Obedecemos a demasiados gobernantes.
+,,B,,
+S-SC-OB-02-0155,155,A,그 영화들은 많은 관중들을 놀라게 했다.,Esas películas asustan a muchos espectadores.
+,,B,,
+S-SC-OB-03-0156,156,A,나는 많은 외국인들을 접대해야합니다.,Tengo que atender a muchos extranjeros.
+,,B,,Tengo que atender muchos extranjeros.
+S-SC-OB-03-0157,157,A,경제 위기는 수천명의 실업자들을 양산했다.,La crisis producirá miles de desocupados.
+,,B,,
+S-SC-OB-03-0158,158,A,더 많은 판사를 요청했으나 행정부는 그를 들어주지 않았습니다.,"Habían pedido más jueces, pero la Administración no los proporcionaba. "
+,,B,더 많은 판사를 요청했으나 행정부는 판사를 배정하지 않았습니다.,
+S-SC-OB-03-0159,159,A,나는 아시아인들 사이에서 일본인을 구별할 수 없다.,No puedo distinguir a los japóneses entre los asiáticos.
+,,B,,No puedo distinguir los japóneses entre los asiáticos.
+S-SC-OB-03-0160,160,A,장군은 도시를 버리길 원하질 않았고 전쟁을 계속하길 원했어요.,El general no quería abandonar la ciudad y seguir la guerra.
+,,B,,El general no quería abandonar a la ciudad y seguir la guerra.
+S-SC-OB-03-0161,161,A,그는 사장님께 허락을 구했다.,Le pidió permiso a su jefe.
+,,B,,
+S-SC-OB-03-0162,162,A,우리에게 그는 그걸 말했어요.,Nos lo dijo a nosotros.
+,,B,,
+S-SC-OB-03-0163,163,A,나는 그 회사에 의해 지어지는 집을 살짝 보고 싶어.,Quiero echarle un vistazo a la casa construida por esa empresa.
+,,B,,
+S-SC-OB-03-0164,164,A,당신은 여성들이 글을 통해 표현하는 것을 굉장히 중요하게 생각하네요.,Usted da gran importancia a que las mujeres se expresen por escrito.
+,,B,,
+S-SC-OB-03-0165,165,A,나는 중국어를 배우는데 어려움을 겪는 그 학생에게 조언을 하고 싶어요.,Quiero darle un consejo a ese estudiante que tiene mucha dificultad para aprender chino.
+,,B,,
+S-SC-OB-03-0166,166,A,아이들에게 선물을 줬다.,Di los regalos a los chicos.
+,,B,,
+S-SC-OB-03-0167,167,A,그에게 선물을 줬다.,Le di los regalos.
+,,B,,
+S-SC-OB-03-0168,168,A,그의 아들들에게 어제 좋은 설교를 했다.,Ayer lanzó un buen sermón a sus hijos.
+,,B,,
+S-SC-OB-03-0169,169,A,그의 아들들에게 어제 좋은 설교를 했다.,"A sus hijos, les lanzó ayer un buen sermón. "
+,,B,,
+S-SC-OB-03-0170,170,A,그의 남편에게 소식을 전했습니다.,Di la noticia a su marido.
+,,B,,
+S-SC-OB-03-0171,171,A,그의 남편에게 소식을 전했습니다.,Le di la noticia a su marido.
+,,B,,
+S-SC-OB-03-0172,172,A,Alex에게 큰 바구니를 전달했어요.,Entregaron un canasto a Alex.
+,,B,,
+S-SC-OB-03-0173,173,A,이네스는 지금 이빨이 아픕니다.,Le duelen las muelas a Inés.
+,,B,,A Inés le duelen las muelas.
+S-SC-OB-04-0174,174,A,이자율의 증가는 아무에게도 놀라운 일이 아니었습니다.,La subida de intereses no le sorprendió a nadie.
+,,B,이자율의 증가는 아무도 놀라게 하지 않았습니다.,La subida de intereses no sorprendió a nadie.
+S-SC-OB-04-0175,175,A,한 밤중의 소음은 많은 사람들을 짜증나게 합니다.,El ruido nocturno molesta a mucha gente.
+,,B,한밤중의 소음은 많은 사람들의 짜증을 일으킵니다.,El ruido nocturno le molesta a mucha gente.
+S-SC-OB-04-0176,176,A,후안은 루이사에게 화장실을 고쳐줬어요.,Juan reparó la lavadora a Luisa.
+,,B,,
+S-SC-OB-04-0177,177,A,그 아이는 선생님을 초조하게 했습니다.,La niña se le puso nerviosa a la profesora.
+,,B,그 아이는 선생님에게 초조한 감정을 느끼게 했습니다.,
+S-SC-OB-04-0178,178,A,이 소설은 사람들에게 관심을 많이 불러모으지 못했어요.,Estas novelas interesan poco a la gente.
+,,B,이 소설은 사람들에게 조금의 관심을 일으켰습니다.,Estas novelas le interesan poco a la gente.
+S-SC-OB-04-0179,179,A,엄마는 아들을 손을 씻겼다.,La madre le lavó las manos al hijo.
+,,B,,La madre lavó las manos del hijo.
+S-SC-OB-04-0180,180,A,후안의 일을 봤다. / 후안의 논문을 읽었다.,Le vi el trabajo a Juan.
+,,B,,Vi el trabajo de Juan.
+S-SC-OB-04-0181,181,A,후안은 마리아를 위해 세차를 했다.,Juan le lavó el coche a María.
+,,B,,Juan lavó el coche de María.
+S-SC-OB-04-0182,182,A,우리 엄마는 마리아의 옷을 만들어 줬다.,Mi madre le hizo un vestido a María.
+,,B,,Mi madre hizo un vestido para María.
+S-SC-OB-04-0183,183,A,마르티나는 로봇의 손을 가져다가 씻었다.,Martina tomó la mano del robot y la lavó.
+,,B,,
+S-SC-OB-04-0184,184,A,마르티나는 로봇의 손을 씻었다.,Martina le tomó la mano al robot y se la lavó.
+,,B,,
+S-SC-OB-04-0185,185,A,엄마는 내 머리를 감겨 주었다.,Mi madre me lavó el pelo.
+,,B,,
+S-SC-OB-04-0186,186,A,엄마는 내가 집을 청소하는 동안 나의 가발을 닦아주었다.,Mi madre lavó mi pelo mientras yo limpiaba la casa.
+,,B,,
+S-SC-OB-04-0187,187,A,후안의 넥타이를 정리해줬어요.,Le arreglé la corbata a Juan.
+,,B,,Arreglé la corbata de Juan.
+S-SC-OB-04-0188,188,A,미나가 남동생을 얼굴을 때렸다.,Mina le golpeó la cara a su hermano.
+,,B,,Mina golpeó la cara de su hermano.
+S-SC-OB-04-0189,189,A,미나가 남동생의 얼굴을 보았다.,Mina le vio la cara a su hermano.
+,,B,,Mina vio la cara de su hermano.
+S-SC-OB-04-0190,190,A,모퉁이 너머로 살짝 보이는 교수님의 발을 봤다.,Vieron el pie del profesor asomarse por la esquina.
+,,B,,
+S-SC-OB-04-0191,191,A,그 남자가 고양이를 꼬리를 밟았다.,Ese hombre le pisó la cola al gato.
+,,B,,Ese hombre pisó la cola del gato.
+S-SC-OB-04-0192,192,A,그 남자가 내 딸의 인형을 망가뜨렸다.,Ese hombre le rompió la muñeca a mi hija.
+,,B,,Ese hombre rompió la muñeca de mi hija.
+S-SC-OB-04-0193,193,A,마리아의 눈은 수술을 받았다.,Le operaron los ojos a Martina.
+,,B,그들은 마리아의 눈을 수술했다.,
+S-SC-OB-04-0194,194,A,페드로의 차가 도난을 당했다.,Le robaron el coche a Pedro.
+,,B,그들은 페드로의 차를 훔쳤다.,
+S-SC-OB-04-0195,195,A,그의 차가 도난을 당했다.,Le robaron su coche.
+,,B,그들은 그의 차를 훔쳤다.,
+S-SC-OB-04-0196,196,A,그의 눈은 눈물로 가득찼다.,Los ojos se le llenaron de lágrimas
+,,B,,
+S-SC-OB-04-0197,197,A,그들은 말을 죽였다.,Le mataron el caballo.
+,,B,,
+S-SC-OB-04-0198,198,A,우리 부모님의 의도를 알아차렸다.,Le noté las intenciones a mis padres.
+,,B,,Noté las intenciones de mis padres.

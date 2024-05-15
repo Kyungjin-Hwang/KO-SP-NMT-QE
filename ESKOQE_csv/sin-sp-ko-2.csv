@@ -1,0 +1,667 @@
+segmentid,index,ref,KO,SP
+S-SS-ST-01-0001,1,A,지금 너 밥먹을거니?,¿Vas a comer ahora?
+,,A',,
+S-SS-ST-01-0002,2,A,너 지금 무슨 말을 하는거야?,¿Qué dices ahora?
+,,A',,
+S-SS-ST-01-0003,3,A,자네 지금 바로 출발하려는가?,¿Sales ahora mismo?
+,,A',,
+S-SS-ST-01-0004,4,A,내가 너한테 술 한잔 못사주랴?,¿Por qué no puedo invitarte?
+,,A',,
+S-SS-ST-01-0005,5,A,내가 그런걸 알면 천재게?,¿A mí me lo preguntas?
+,,A',,¿Soy ingenioso si lo sé?
+S-SS-ST-01-0006,6,A,아프다면서 왜 와서 참견이람?,¿Este qué hace aquí si está enfermo?
+,,A',,
+S-SS-ST-01-0007,7,A,이제 나한테 그만 전화할래?,¿Puedes dejar de llamarme?
+,,A',,
+S-SS-ST-01-0008,8,A,얼른 텔레비전 그만보고 공부하지 못하겠니?,¿Puedes dejar de ver la tele y estudiar?
+,,A',,
+S-SS-ST-01-0009,9,A,와이파이 작동하나요?,¿Funciona el wifi?
+,,A',,
+S-SS-ST-01-0010,10,A,너 이 맥주가 좋아 아니면 이게 좋아?,¿Prefieres esta cerveza o esta otra?
+,,A',,
+S-SS-ST-01-0011,11,A,Eloy가 너한테 전화 했어 안했어?,¿Te ha llamado Eloy o no?
+,,A',,
+S-SS-ST-01-0012,12,A,표가 다 팔렸대. 이해했어?,Se han agotado todos los billetes. ¿Entiendes?
+,,A',,
+S-SS-ST-01-0013,13,A,한시간 내로 우리 출발하자. 알겠지?,"Dentro de una hora salimos, ¿vale?"
+,,A',,
+S-SS-ST-01-0014,14,A,아니 그에게 대답을 어떻게 안할 수 있어?,¿Cómo es que no le contestaste?
+,,A',,
+S-SS-ST-01-0015,15,A,후안이 독일에서 일하는게 확실하지 않은건가요?,¿No es cierto que Juan trabaja en Alemania?
+,,A',,
+S-SS-ST-01-0016,16,A,아 나 뭐하려 그랬지?,¿Qué iba a hacer yo?
+,,A',,
+S-SS-ST-01-0017,17,A,어디 한번 말해봐라.,Entonces dime lo que quieras.
+,,A',,
+S-SS-ST-01-0018,18,A,그러면 네가 어디 그 애에게 한번 전화를 해보려무나.,Entonces intenta llamarle.
+,,A',,
+S-SS-ST-01-0019,19,A,부패 세력은 물러가라.,"¡Fuera corruptos, vete ya!"
+,,A',,
+S-SS-ST-01-0020,20,A,자유가 아니면 죽음을 달라.,Dadme la libertad o dadme la muerte.
+,,A',,
+S-SS-ST-01-0021,21,A,얼른 신분증을 가지고 오라고 한다.,Dice que lleve rápido la tarjeta de identificación.
+,,A',,
+S-SS-ST-01-0022,22,A,교수님은 자기가 말한대로 하라고 한다.,El profesor dice que lo haga como me ha dicho.
+,,A',,
+S-SS-ST-01-0023,23,A,자리에 앉아주세요.,"Tome asiento, por favor. "
+,,A',,
+S-SS-ST-01-0024,24,A,나한테 그런말 하지마!,¡No me lo digas!
+,,A',,
+S-SS-ST-01-0025,25,A,다음 문단을 봅시다.,Véase el párrafo siguiente.
+,,A',,
+S-SS-ST-01-0026,26,A,너희들 조용히해.,Silencio. Callaos.
+,,A',,
+S-SS-ST-01-0027,27,A,그렇게 말하지는 맙시다.,No se dice por tanto.
+,,A',,
+S-SS-ST-01-0028,28,A,누가 오는지 한번 보렴.,Mira quién ha venido.
+,,A',,
+S-SS-ST-01-0029,29,A,지금 당장 말 안하면 너를 죽여버릴거야.,¡Habla ahora mismo o te mato!
+,,A',,
+S-SS-ST-01-0030,30,A,용감해지세요.,Sé valiente.
+,,A',,
+S-SS-ST-01-0031,31,A,누가 나 좀 도와줘!,¡Que alguien me ayude!
+,,A',,
+S-SS-ST-01-0032,32,A,당신 잘 지내길요.,Que usted lo pase bien.
+,,A',,
+S-SS-ST-01-0033,33,A,어서 가자. 10분 남았어.,Vamos rápido. Nos quedan 10 minutos.
+,,A',,
+S-SS-ST-01-0034,34,A,조용히 좀 합시다.,"Tranquila, por favor. "
+,,A',,Vamos a tranquilizarnos.
+S-SS-ST-01-0035,35,A,길에서 담배를 피지 말자.,No fumamos en la calle.
+,,A',,
+S-SS-ST-01-0036,36,A,우리 껴안읍시다.,Abracémonos
+,,A',,
+S-SS-ST-01-0037,37,A,우리 화내지 말자.,¡No nos enfademos!
+,,A',,
+S-SS-ST-01-0038,38,A,아이고 똑똑해라!,¡Qué inteligente!
+,,A',,
+S-SS-ST-01-0039,39,A,네가 벌써 대학에 입학하는구나!,¡Ya entras a la universidad!
+,,A',,
+S-SS-ST-01-0040,40,A,그 차 진짜 빠르다!,¡Qué rápido es ese coche!
+,,A',,
+S-SS-ST-01-0041,41,A,네 여자친구 진짜 예쁘구나!,¡Qué bonita tu novia!
+,,A',,
+S-SS-ST-01-0042,42,A,사람 진짜 많다!,¡Cuánta gente!
+,,A',,
+S-SS-ST-01-0043,43,A,진짜 덥다!,¡Qué calor!
+,,A',,
+S-SS-ST-01-0044,44,A,너무 비싸네!,¡Demasiado caro!
+,,A',,¡Qué caro!
+S-SS-ST-01-0045,45,A,잘했어!,¡Bien hecho!
+,,A',,
+S-SS-ST-01-0046,46,A,아 스트레스 받아!,¡Cuánto estrés!
+,,A',,
+S-SS-ST-01-0047,47,A,얼마나 큰 고통인지!,¡Cuánto sufrir!
+,,A',,
+S-SS-ST-01-0048,48,A,얼마나 그가 그 빠에야를 좋아하는지!,¡Cómo le gusta la paella!
+,,A',,
+S-SS-ST-01-0049,49,A,이 사람이 어떻게 사는지!,¡Cómo vive esta persona!
+,,A',,
+S-SS-ST-01-0050,50,A,내가 얼마나 많이 그 소식을 들었는지!,¡Cuánto he escuchado esa noticia!
+,,A',,
+S-SS-ST-01-0051,51,A,우리가 얼마나 조금 웃었는데!,¡Poco que nos reímos!
+,,A',,¡Pues no nos reímos!
+S-SS-ST-01-0052,52,A,네가 얼마나 잘먹는지!,¡Bien que te lo comes!
+,,A',,
+S-SS-ST-01-0053,53,A,토요일의 콘서트는 정말 굉장했어!,¡Magnífico el concerto del sábado!
+,,A',,¡Fantástico el concerto del sábado!
+S-SS-ST-02-0054,54,A,생존자가 발견되지 않았습니다.,No fueron encontrados supervivientes.
+,,A',,
+S-SS-ST-02-0055,55,A,이 책은 스페인에서 후안에 의해 쓰여졌어요.,Este libro fue escrito por Juan en España.
+,,A',,
+S-SS-ST-02-0056,56,A,모두에게 선택받기를 기다리세요.,Espera seguir siendo elegido por todos.
+,,A',,
+S-SS-ST-02-0057,57,A,이는 좋은 행운의 상징이라고 여겨지기 시작했습니다.,Empezó a ser considerado como un signo de buena suerte.
+,,A',,Fue empezado a ser considerado como un signo de buena suerte.
+S-SS-ST-02-0058,58,A,그 제안서는 신중하게 검토되었습니다.,Los presupuestos fueron revisados cuidadosamente.
+,,A',,
+S-SS-ST-02-0059,59,A,이 논문은 공들여 수정되었습니다.,La tesis fue corregida a conciencia.
+,,A',,
+S-SS-ST-02-0060,60,A,때가 왔어요.,Es llegada la hora.
+,,A',,
+S-SS-ST-02-0061,61,A,택시가 도착하자 짐을 실었습니다.,"Llegado el taxi, se cargó el equipaje. "
+,,A',,"Cuando el taxi llegó, se cargó el equipaje"
+S-SS-ST-02-0062,62,A,해가 뜨면 수탉이 크게 웁니다.,"Cuando amanece, el gallo canta muy alto. "
+,,A',,
+S-SS-ST-02-0063,63,A,문제가 있었을거야.,Debe de haber problemas.
+,,A',,
+S-SS-ST-02-0064,64,A,요즘 날씨가 너무 좋아요.,Hace muy buen tiempo estos días.
+,,A',,
+S-SS-ST-02-0065,65,A,우리에게 정말 좋은 하루였습니다.,Nos hizo un día buenísimo.
+,,A',,
+S-SS-ST-02-0066,66,A,하루종일 흐렸어요.,Estuvo nublado todo el día.
+,,A',,
+S-SS-ST-02-0067,67,A,9월 초였습니다.,Eran los primeros días de septiembre.
+,,A',,
+S-SS-ST-02-0068,68,A,너를 봐서 얼마나 좋은지 몰라!,¡Qué gusto me da verte!
+,,A',,
+S-SS-ST-02-0069,69,A,그 소식을 들으니 너무 안타까웠어요.,Me dio mucha pena al escuchar esa noticia.
+,,A',,
+S-SS-ST-02-0070,70,A,나는 모든게 잘 되고 있어요.,Me va todo bien.
+,,A',,
+S-SS-ST-02-0071,71,A,냄새가 너무 지독해요.,Huele muy mal.
+,,A',,
+S-SS-ST-02-0072,72,A,여기 이게 의무라고 쓰여있어요.,Aquí dice que es obligatorio.
+,,A',,
+S-SS-ST-02-0073,73,A,이 문서에는 모든 내용이 익명의 글쓴이에 의해 쓰여졌다고 되어있어요.,En este documento pone que todo fue escrito por un autor anónimo.
+,,A',,
+S-SS-ST-02-0074,74,A,나는 다리가 너무 아파요.,Me duele la pierna.
+,,A',,Me duele en la pierna.
+S-SS-ST-02-0075,75,A,나는 그의 충고로 충분해요.,Me basta su consejo.
+,,A',,Me basta con su consejo.
+S-SS-ST-02-0076,76,A,여기는 관광객들에게 친절합니다.,Aquí atienden muy bien a los turistas.
+,,A',,
+S-SS-ST-02-0077,77,A,멕시코에선 스페인 스페인어와 구별되는 스페인어를 말합니다.,En México hablamos un español distinto al español peninsular.
+,,A',,
+S-SS-ST-02-0078,78,A,그 택배들은 어제 전해졌어요.,Los paquetes se mandaron ayer.
+,,A',,
+S-SS-ST-02-0079,79,A,모든 기사들을 검토했습니다.,Se revisaron todos los artículos.
+,,A',,
+S-SS-ST-02-0080,80,A,사람 자기 자신에 대해 만족한다면 행복하다.,"Si se está satisfecho consigo mismo, se es feliz. "
+,,A',,
+S-SS-ST-02-0081,81,A,여기선 술을 마실 수 없습니다.,Aquí no se puede tomar alcohol.
+,,A',,
+S-SS-ST-02-0082,82,A,그것에 대해 더 언급되어선 안돼.,De eso no se debe hablar.
+,,A',,
+S-SS-ST-02-0083,83,A,노력하지 않으면 좋은 성적을 받지 못합니다.,No se obtienen buenos resultados si no se trabaja.
+,,A',,
+S-SS-ST-02-0084,84,A,도움을 받는건 필요했어요.,Era necesario ser ayudado.
+,,A',,Era necesario recibir ayuda.
+S-SS-ST-02-0085,85,A,곧 큰 재앙이 있을거라고 다들 말합니다.,Se dice que habrá pronto un gran desastre.
+,,A',,
+S-SS-ST-02-0086,86,A,한국은 60년대에 엄청 많이 발전했어요.,Corea se ha desarrollado mucho durante los 60.
+,,A',,
+S-SS-ST-02-0087,87,A,성공을 바란다면 공부를 많이 해야합니다.,"Si se desea tener éxito, hay que estudiar mucho. "
+,,A',,
+S-SS-ST-02-0088,88,A,우수한 학생들에게 상을 줬어요.,Se premió a los mejores alumnos.
+,,A',우수한 학생들은 상을 받았어요.,
+S-SS-ST-02-0089,89,A,용의자를 찾고 있습니다.,Se busca a los culpables.
+,,A',,
+S-SS-ST-02-0090,90,A,한국에서는 한국어를 말해요.,En Corea se habla coreno.
+,,A',,
+S-SS-SL-01-0091,91,A,대통령은 호주가 그의 나라의 제안을 거절한 것에 대해 한탄했습니다.,El presidente lamenta que Australia rechace la prosupuesta de su país.
+,,A',,El presidente lamenta el que Australia rechace la prosupuesta de su país.
+S-SS-SL-01-0092,92,A,카탈루냐가 오래 전부터 독립을 주장했다는 것을 어떻게 설명하죠?,¿Cómo se explica el hecho de que Cataluña haya insistido en su independencia desde hace muchos años ?
+,,A',,
+S-SS-SL-01-0093,93,A,가끔 사람들에겐 이해할 수 없는 일들이 일어납니다.,Ocurre que a veces la gente no se entiende.
+,,A',,
+S-SS-SL-01-0094,94,A,네가 가는건 이제 상관 없어.,Ya no me importa que te vayas.
+,,A',,
+S-SS-SL-01-0095,95,A,북한의 핵무장이 21세기에 많이 증가한 것은 확실합니다.,Es cierto que la nuclearización de Corea del Norte ha aumentado mucho durante el siglo XXI.
+,,A',,
+S-SS-SL-01-0096,96,A,수업시간동안은 조용히 하겠다고 약속했습니다.,Prometió que se callaría durante la clase.
+,,A',,
+S-SS-SL-01-0097,97,A,모든게 괜찮다고 생각했습니다.,Pensé que todo estaba bien.
+,,A',,
+S-SS-SL-01-0098,98,A,우리 엄마는 내가 학교 숙제를 다하기 전에 텔레비전 보는걸 허락하지 않아요.,Mi mamá no me permite que vea la televisión antes de terminar mis deberes del colegio.
+,,A',,
+S-SS-SL-01-0099,99,A,그것이 네가 하고싶은대로 다 할수 있다는 것을 의미하는 것은 아냐.,Eso no significa que puedas hacer todo lo que quieras.
+,,A',,
+S-SS-SL-01-0100,100,A,Martina가 Juan과 헤어졌다는걸 알아차리지 못했어요.,No notaba que Martina había roto con Juan.
+,,A',,No notaba que Martina hubiera roto con Juan.
+S-SS-SL-01-0101,101,A,내 생각에 아르헨티나에선 그렇게 말 안해.,Supongo que no se habla así en Argentina.
+,,A',,
+S-SS-SL-01-0102,102,A,그녀는 그녀의 아빠가 집에서 담배피는걸 엄청 싫어합니다.,Ella odia que su papá fume en la casa.
+,,A',,
+S-SS-SL-01-0103,103,A,나는 그 소년이 그 사건에 책임이 있는거 같아요.,Confío en que ese chico tenga culpa de ese asunto.
+,,A',나는 그 소년이 그 사건에 책임이 있다고 믿어요.,Confío en que ese chico tendrá culpa de ese asunto.
+S-SS-SL-01-0104,104,A,아무도 상황이 좋다는 그의 주장을 믿지 않습니다.,Nadie está a favor de su insistencia en que la situación es buena.
+,,A',,
+S-SS-SL-01-0105,105,A,그 왕은 그의 형이 자신을 죽일 것이라는 두려움을 가지고 있었습니다.,Ese rey tenía mucho miedo de que su hermano lo matara.
+,,A',,
+S-SS-SL-01-0106,106,A,나는 그걸 이미 네가 안다고 확신해.,Estoy seguro de que ya lo sabes.
+,,A',,
+S-SS-SL-01-0107,107,A,우리는 이 정책이 다른 것들보다 더 낫다는 것에 대해 말했습니다.,Hablábamos de que esa medida es mejor que otras.
+,,A',,
+S-SS-SL-01-0108,108,A,우리에게 그가 위험에 쳐했다고 경고했다.,Nos advitirtieron de que él estaba en peligro.
+,,A',,
+S-SS-SL-01-0109,109,A,그는 그의 아이가 위험에 처했다는걸 알아차렸다.,Advirtió que su niño estaba en peligro.
+,,A',,
+S-SS-SL-01-0110,110,A,네가 좋아해서 기뻐.,Me alegro de que te guste.
+,,A',,Me alegra que te guste.
+S-SS-SL-01-0111,111,A,대통령은 그의 비서가 사고를 당했다는 사실을 전해듣지 못했습니다.,La presidenta no ha informado de que su secretaria haya tenido un accidente.
+,,A',,La presidenta no ha informado de que su secretaria ha tenido un accidente.
+S-SS-SL-01-0112,112,A,우리는 그 소식들이 Ernesto가 꾸며낸것들이라고 한번도 의심하지 않았습니다.,Nunca hemos dudado de que las noticias se las inventa Ernesto.
+,,A',,
+S-SS-SL-01-0113,113,A,그가 사기를 당했다는걸 깨달았다.,Se dio cuenta de que lo habían engañado.
+,,A',,
+S-SS-SL-01-0114,114,A,나는 네가 그런 것들을 말하는게 너무 무서워.,Me da mucho miedo que digas esas cosas.
+,,A',,
+S-SS-SL-01-0115,115,A,그에게 콘서트에 올건지 물어보렴.,Pregúntale si quiere venir al concierto.
+,,A',,
+S-SS-SL-01-0116,116,A,항상 그것은 네가 어디에 머물고 싶어하는지에 달렸단다.,Eso siempre depende de dónde quieras quedarte.
+,,A',,
+S-SS-SL-01-0117,117,A,누가 공주 역할에 알맞는지에 달려있다.,Depende de a quién le corresponda el papel de princesa.
+,,A',,
+S-SS-SL-01-0118,118,A,"너는 문제가 있긴 한데, 정확히 어떤건지는 분명하지 않지. ","Tienes problemas, pero no está claro cuáles exactamente. "
+,,A',,
+S-SS-SL-01-0119,119,A,내가 제때 도착할수 있을지 의문이다.,Dudo si llegaré a tiempo.
+,,A',,Dudo de si llegaré a tiempo.
+S-SS-SL-01-0120,120,A,그걸 어떻게 해결했는지는 정말 미스테리이다.,Es un misterio cómo lo resolvió.
+,,A',,
+S-SS-SL-01-0121,121,A,어제 누가 왔는지 상상해봐.,No te imaginas quién vino ayer.
+,,A',,
+S-SS-SL-01-0122,122,A,나는 누가 나에게 편지들을 썼는지 상상했다.,Me imaginaba bien a quien me había escrito las cartas tantas veces.
+,,A',,
+S-SS-SL-01-0123,123,A,은채가 정말 착함이 분명하다.,Es cierto que Eunchae es muy buena.
+,,A',,
+S-SS-SL-01-0124,124,A,우리는 그 정치인이 훌륭한 분임을 이제야 알게되었다.,Ya nos hemos dado cuenta de que ese político es excelente.
+,,A',,
+S-SS-SL-01-0125,125,A,내가 집에 일찍 돌아왔기가 다행이다.,Es una suerte que haya vuelto a casa pronto.
+,,A',,Es una suerte haber vuelto a casa pronto.
+S-SS-SL-01-0126,126,A,나는 정부가 그 사회문제를 잘 수습하기를 기대했다.,Esperaba que el gobierno solucionara ese problema social.
+,,A',,Esperaba que el gobierno solucione ese problema social.
+S-SS-SL-01-0127,127,A,이제부터 우리가 무엇을 할것이냐가 문제다.,La cuestión es qué vamos a hacer desde ahora.
+,,A',,
+S-SS-SL-01-0128,128,A,은채가 머리가 아주 영특하다.,Eunchae es inteligente.
+,,A',,Eunchae tiene muchas luces.
+S-SS-SL-01-0129,129,A,저 사람은 아들이 유명한 가수이다.,Esa persona tiene un hijo que es un cantante muy famoso.
+,,A',,El hijo de esa persona es un cantante muy famoso.
+S-SS-SL-01-0130,130,A',네 가방이 음료가 묻었구나,Tu bolso tiene una mancha de bebida.
+,,A,,Tienes manca de bebida en el bolso.
+S-SS-SL-01-0131,131,A,이 동네는 공원이 많습니다.,Este barrio tiene muchos parques.
+,,A',,Hay muchos parques en este barrio.
+S-SS-SL-01-0132,132,A,제 남편은 제 남편이 직접 차를 운전합니다.,Mi marido conduce él personalmente.
+,,A',,
+S-SS-SL-01-0133,133,A,나는 아빠가 나한테 사줬던 책을 못찾겠어.,No puedo encontrar el libro que me compró mi papá.
+,,A',,
+S-SS-SL-01-0134,134,A,그걸 말하고 있는 사람은 거짓말을 하고 있는 것이다.,Quien dice eso miente.
+,,A',,
+S-SS-SL-01-0135,135,A,화재로부터 보존된 그 문서들은 재판에서 매우 중요하게 작용할 것입니다.,Los documentos que se salvaron del incendio serán fundamentales en el juicio.
+,,A',,
+S-SS-SL-01-0136,136,A,할머니로부터 일어나지 않았을법한 얘기를 들었다.,He escuchado de mi abuela una historia que muy bien puede no haber ocurrido.
+,,A',,
+S-SS-SL-01-0137,137,A,늦게까지 남아있던 그 손님들은 해가 뜰때까지 춤을 췄다.,"Los invitados, al menos los que se quedaron, bailaron hasta el amanecer. "
+,,A',,
+S-SS-SL-01-0138,138,A,그 책은 내 생각에 내가 절대 안읽어 본 책이다.,Ese es el único libro que creo que no ha leído nunca.
+,,A',,
+S-SS-SL-01-0139,139,A,네가 여기 머물고 싶어하는 진짜 이유는 그 멕시코에서 온 여자아이 때문이야. 그렇지?,"La verdadera razón por la que quieres quedarte es la chica mexicana, ¿no?"
+,,A',,"La verdadera razón por que quieres quedarte es la chica mexicana, ¿no?"
+S-SS-SL-01-0140,140,A,그는 그가 할수 있는 한 최대한 냉정하게 대답했다.,Él respondió con toda la sangre fría de la que era capaz.
+,,A',,
+S-SS-SL-01-0141,141,A,나는 그들이 얘기하고 있는 정보를 이해하지 못하겠다.,No entiendo la información de la que ellos están hablando.
+,,A',,
+S-SS-SL-01-0142,142,A,내가 중요한 서류에 서명할때 쓰던 그 펜은 프랑스산이다.,La pluma con la que solía firmar los documentos importantes es de Francia.
+,,A',,
+S-SS-SL-01-0143,143,A,그렇게 행동하는 방식은 옳지 않다.,No es correcto la forma en la que se comporta.
+,,A',,No es correcta la forma en la que se comporta.
+S-SS-SL-01-0144,144,A,우리 엄마는 나에게 엄마의 자매들이 돌을 가지고 놀던 방법을 알려줬다.,Mi mamá me enseñó la manera en la que sus hermanas jugaban con las piedras.
+,,A',,Mi mamá me enseñó la manera en que sus hermanas jugaban con las piedras.
+S-SS-SL-01-0145,145,A,너는 우리가 처음으로 만나게 된 날을 기억하니?,¿Recuerdas el día en que nos conocimos por primera vez?
+,,A',,¿Recuerdas el día que nos conocimos por primera vez?
+S-SS-SL-01-0146,146,A,나는 오늘 내가 원래 주차하던 곳에 주차하지 않았다.,Hoy no he aparcado mi coche en el lugar en que solía aparcarlo.
+,,A',,Hoy no he aparcado mi coche donde solía aparcarlo.
+S-SS-SL-01-0147,147,A,나는 내 논문에 대해 논의하기 위해 꼭 만나야하는 사람을 찾지 못했어요.,No encontré a la persona a la que debería conocer para discutir sobre mi tesis.
+,,A',,
+S-SS-SL-01-0148,148,A,20대에는 내가 도달해야하는 그 한계를 전혀 상상하지 않았다.,Nunca imaginó los límites a los cuales tendría que llegar en los años venideros.
+,,A',,
+S-SS-SL-01-0149,149,A,혹시 후안이 쓴 편지의 주인공인 그 여자를 아니?,¿Conoces a la chica a quien se dirige la carta escrita por Juan?
+,,A',,¿Conoces a la chica a la cual se dirige la carta escrita por Juan?
+S-SS-SL-01-0150,150,A,줄무늬 파자마가 보이는 어두운 외투를 입고 있었다.,Llevaba un abrigo oscuro por debajo del cual asomaba un pijama listado.
+,,A',,
+S-SS-SL-01-0151,151,A,어제는 후안과 마리아의 사랑이 시작된 날이다.,Ayer fue el día en que empezó el amor entre Juan y María.
+,,A',,Ayer fue el día que empezó el amor entre Juan y María.
+S-SS-SL-01-0152,152,A,그가 어제 너에게 얘기했던 정치인이다.,Ese es el político del cual te hablé ayer.
+,,A',,
+S-SS-SL-01-0153,153,A,나는 그때 내가 일했던 회사를 별로 안좋아한다.,La empresa para la cual trabajaba en esa época no le gustaba mucho.
+,,A',,
+S-SS-SL-01-0154,154,A,그 일에 대해 아직 아무것도 모르는 장관들이 모였었다.,"Se reunió con los ministros, los cuales todavía no sabían nada de lo ocurrido."
+,,A',,
+S-SS-SL-01-0155,155,A,내 생각에 너는 내가 지금 검토하고 있는 보고서를 찾고 있는거 같아.,Creo que estás buscando los informes que estoy revisando ahora.
+,,A',,
+S-SS-SL-01-0156,156,A,나는 내가 화가 많이 나있던 친구들이랑 그 문제를 해결하기 위해 만난다.,He quedado con los amigos con quienes me enfadé para solucionar el problema.
+,,A',,
+S-SS-SL-01-0157,157,A,경찰은 그 사고가 일어난걸 목격한 사람들에게 많은 것들을 질문하고 있습니다.,La policía está preguntado muchas cosas a quienes vieron cómo sucedió ese accidente.
+,,A',,
+S-SS-SL-01-0158,158,A,어제 한 기차만 출발했는데 그 기차는 마드리드로 석유를 운반하는 기차에요.,"Ayer solo salió un tren, que transportaba petróleo a Madrid. "
+,,A',,
+S-SS-SL-01-0159,159,A,어제 마드리드로 석유를 운반하는 기차만 출발했어요.,Ayer solo salió un tren que transortaba petróleo a Madrid.
+,,A',,
+S-SS-SL-01-0160,160,A,어제 후쿠오카와 도쿄를 오가던 비행기가 사고가 났어요.,Ayer tuvo un accidente el avión que volaba entre Fukuoka y Tokio.
+,,A',,
+S-SS-SL-01-0161,161,A,어제 비행기가 사고가 났는데 그 비행기는 후쿠오카와 도쿄를 오가던 비행기에요.,"Ayer tuvo un accidente el avión, que volaba entre Fukuoka y Tokio. "
+,,A',,
+S-SS-SL-01-0162,162,A,그는 그가 함께 일했던 변호사와 결혼했어요.,Él se casó con la abogada con quien había trabajado.
+,,A',,
+S-SS-SL-01-0163,163,A,우리 아빠는 우리 오빠의 차가 박은 벽을 수리하고 있어요.,Mi papá está reparando la pared contra la cual chocó el coche de mi hermano.
+,,A',,
+S-SS-SL-01-0164,164,A,그들은 집에 도착했고 많은 양의 마약을 찾았는데 그 양의 마약은 작은 소매상들에게 팔기 위한 것이었어요.,"Llegaron a su casa y le encontraron cierta cantidad de droga, la misma que utilizaba para vender a expendios pequeños. "
+,,A',,
+S-SS-SL-01-0165,165,A,바르셀로나 대학에서 공부하는 딸을 가진 그 여자 역시 같은 대학을 졸업했습니다.,La mujer cuya hija estudia en la UAB también se graduó en la misma universidad.
+,,A',,
+S-SS-SL-01-0166,166,A,당신의 문제를 내가 알게 한 진술을 한 사람은 유명한 변호사입니다.,La persona por cuyas declaraciones me enteré de tu problema es un abogado famoso.
+,,A',,
+S-SS-SL-01-0167,167,A,희귀한 이름을 가진 사람들이 있어요.,Hay personas cuyos nombres son rarísimos.
+,,A',,Hay personas que tienen nombres son rarisimos.
+S-SS-SL-01-0168,168,A,우리 아빠는 두개의 가게를 운영했는데 그 가게의 수입으로 나는 대학 공부를 할 수 있었다.,"Mi padre tenía dos tiendas, con cuyos ingresos pude hacer la carrera. "
+,,A',,Mi padre tenía dos tiendas y con esos ingresos pude hacer la carrera.
+S-SS-SL-01-0169,169,A,30개가 넘는 언어로 번역된 소설의 작가는 다음 소설을 쓰고 있습니다.,"El autor, cuya novela fue traducida en más de 30 lenguas, está escribiendo la siguiente novela. "
+,,A',,
+S-SS-SL-01-0170,170,A,너 그 태풍으로 창문이 다 깨진 그 집에 사니?,¿Vives en la casa cuyas ventantas están rotas por la tormenta?
+,,A',,¿Vives en la casa con las ventanas rotas?
+S-SS-SL-01-0171,171,A,나는 바퀴가 한국산이 아니라 독일산인 차를 가지고 싶어요.,"Quiero tener un coche cuyas ruedas sean de Alemania, no de Corea. "
+,,A',,"Quiero tener un coche con las ruedas de Alemania, no de Corea. "
+S-SS-SL-01-0172,172,A,걔는 Sofía를 알게되었는데 그 덕에 많은 사업을 시작했다.,"Conoció a Sofía, gracias a la cual montó muchos negocios. "
+,,A',,"Conoció a Sofía, gracias a la que montó muchos negocios. "
+S-SS-SL-01-0173,173,A,저 사람들이 방에 들어가기 싫어했던 사람들이에요.,Fueron esas personas quienes no quisieron entrar a la sala.
+,,A',,Fueron esas personas las que no quisieron entrar a la sala.
+S-SS-SL-01-0174,174,A,학생들 중 멀리사는 학생들이 늦게 도착했어요.,"Los alumnos, quienes vivían lejos, llegaron tarde. "
+,,A',,"Los alumnos, que vivían lejos, llegaron tarde. "
+S-SS-SL-01-0175,175,A,그들이 원하는 것을 모르는 사람들이 있다.,Hay quienes no saben lo que quieren.
+,,A',,
+S-SS-SL-01-0176,176,A,대학생들은 그의 전공에 대해 연구하고 생각해야하는 학생들이다.,Los estudiantes universitaros son quienes deben investigar y pensar de su carrera.
+,,A',,Los estudiantes universitaros son los que deben investigar y pensar de su carrera.
+S-SS-SL-01-0177,177,A,그는 아는대로 말했다.,Dijo cuanto sabía.
+,,A',그는 아는 모든 것을 말했다.,Dijo todo lo que sabía.
+S-SS-SL-01-0178,178,A,네가 원하는대로 다 초대해.,Invita a cuantos quieras.
+,,A',네가 원하는 만큼 초대해,Invita a todos los que quieras.
+S-SS-SL-01-0179,179,A,나는 그 건물이 무너지던 순간을 아직도 기억한다.,Yo aún recuerdo aquel momento cuando había destruido el edificio.
+,,A',,Yo aún recuerdo aquel momento en que había destuido el edificio.
+S-SS-SL-01-0180,180,A,나는 중세 건물들이 많은 도시로 여행가고 싶다.,Quiero viajar a una ciudad donde haya muchos edificios medivales.
+,,A',,Quiero viajar a una ciudad en la que haya muchos edificios medivales.
+S-SS-SL-01-0181,181,A,나는 그 재해에 대한 뉴스를 세계 어느 곳이든 다 알고 있을거라고 생각했다.,Yo tenía entendido que a cualquier lugar del mundo a donde llegara se tendrían noticias de la catastrofe.
+,,A',나는 세계 어디를 가든 그 재난 소식이 있을 것이라고 알고있었다.,
+S-SS-SL-01-0182,182,A,내가 일하던 곳에서 매우 가깝다.,Está muy cerca de donde trabajaba.
+,,A',,
+S-SS-SL-01-0183,183,A,나는 하윤이가 착한 아이라는 생각이 들었다.,Pienso que Hayun es una chica muy buena.
+,,A',,
+S-SS-SL-01-0184,184,A,나는 윤도가 성공할거라는 믿음을 가지고 있다.,Confío en que Yundo tenga éxito.
+,,A',,
+S-SS-SL-01-0185,185,A,나는 내가 미래에 대통령이 되는 상상을 한다.,Imagino que seré presidente en el futuro.
+,,A',,
+S-SS-SL-02-0186,186,A,걸어서 학교에 오니?,¿Vienes al colegio caminando?
+,,A',,
+S-SS-SL-02-0187,187,A,우리 할머니가 알려주신대로 빠에야를 요리했어요.,He cocinado la paella como me enseñó mi abuela.
+,,A',,He hecho la paella como me enseñó mi abuela.
+S-SS-SL-02-0188,188,A,교수님이 나에게 말해주시는대로 글을 써볼거에요.,Escribiré el texto como me diga la profesora.
+,,A',,
+S-SS-SL-02-0189,189,A,어떠한 도움 필요 없이 그걸 해냈어요.,Lo hice sin necesitar ayuda.
+,,A',,
+S-SS-SL-02-0190,190,A,우리 부모님이 절 도와주시지 않고도 그걸 했어요.,Lo hice sin que me ayudaran mis padres.
+,,A',,
+S-SS-SL-02-0191,191,A,합격하지 않은것처럼 공부했다.,Estudió como si no hubiera aprobado.
+,,A',,
+S-SS-SL-02-0192,192,A,많은 목격자들이 그가 카페의 모든 사람들을 다 죽였다고 말하는데도피고소인은 그가 아무도 죽이지 않은 것처럼 진술했습니다.,El acusado ha declarado igual que si no hubiera matado a nadie aunque muchos testigos dijeron que él mató a todas las personas en la cafetería.
+,,A',,
+S-SS-SL-02-0193,193,A,당신이 편한하게 느낄수 있게끔 집을 꾸며보았어요.,"He decorado la casa, de modo que usted se sienta bien."
+,,A',,
+S-SS-SL-02-0194,194,A,내 목숨에 위험을 느껴 나는 나를 숨기기로 결정했다.,"Temo por mi vida, de modo que he decidido ocultarme."
+,,A',,
+S-SS-SL-02-0195,195,A,네 여자친구가 근처에 사니까 너를 자주 보러 오겠다.,"Tu novia vive cerca, de manera que vendrá a visitarte a menudo."
+,,A',,
+S-SS-SL-02-0196,196,A,그 식당을 예약할 수 있게 하기 위해 저녁 식사를 바꿨습니다.,"He cambiado el horario de la cena, de manera que puedan reservar en ese restaurante. "
+,,A',,"Cambié el horario de la cena, de manera que puedan reservar en ese restaurante. "
+S-SS-SL-02-0197,197,A,그 식품은 진공 포장 되었기에 더 많은 시간동안 보관할 수 있습니다.,Los alimentos están envasados al vacío de forma que se conservan por más tiempo.
+,,A',,
+S-SS-SL-02-0198,198,A,아무도 그 소식에 관한 중요한 서류들을 보지 못하게 방문을 열쇠로 세번이나 잠궜어요.,"Cerró la puerta de la habitación tres veces con llave, de forma que nadie pudiera encontrar los documentos fundamentales de esa noticia. "
+,,A',,
+S-SS-SL-02-0199,199,A,저는 이미 그 사건에 대한 모든 진실을 다 말했으니 저에게 더 요청하지 마세요.,"Ya te he dicho toda la verdad de ese asunto, así que no insistas por favor."
+,,A',,
+S-SS-SL-02-0200,200,A,1732년에 일어난 전쟁에 관한 새로운 이론이 발견되었습니다. 그래서 그 역사지구에 대한 설명을 수정할 필요가 있어요.,"Se ha descubierto la nueva teoría de la guerra de 1732. Por todo ello, es necesario modificar la descripción actual de las zonas históricas. "
+,,A',,
+S-SS-SL-02-0201,201,A,나는 프랑스어를 못해서 그 책을 읽기 위해 구글 번역기가 필요해요.,"No sabe nada de francés, por eso necesito el Traductor de Google para leer esa novela.  "
+,,A',,
+S-SS-SL-02-0202,202,A,내 딸은 아직 산타할아버지를 무서워해서 크리스마스를 좋아하지 않아요.,"Mi niña todavía tiene mucho miedo de Papá Noel, por lo tanto no le gusta la Navidad. "
+,,A',,
+S-SS-SL-02-0203,203,A,변호사의 호소는 근거가 없어서 기각될겁니다.,"La apelación del abogado no sostiene la causa, por lo cual será denegada."
+,,A',,
+S-SS-SL-02-0204,204,A,각 자치구의 대표단들이 합의에 이르지 못했기 때문에 다시 협상을 해야합니다.,"No llegaron a un acuerdo en el consejo territorial autonómico, por consiguiente, tendrán que renegociarcon."
+,,A',,
+S-SS-SL-02-0205,205,A,나는 후안을 좋아해서 그와 함께 갈거야.,"Yo quiero a Juan, conque iré con él. "
+,,A',,
+S-SS-SL-02-0206,206,A,너는 너무 똑똑해서 모든 언어시험을 다 합격했구나.,Eres tan inteligente que has aprobado todos los examenes de idiomas.
+,,A',,
+S-SS-SL-02-0207,207,A,그 남자는 돈이 진짜 많아서 사업을 6개나 운영해요.,Este chico tiene tanto dinero que está montando más de 6 negocios.
+,,A',,
+S-SS-SL-02-0208,208,A,나는 너무 많이 공부해서 머리가 아프다.,He estudiado tanto que tengo mucho dolor de cabeza.
+,,A',,
+S-SS-SL-02-0209,209,A,Jorge는 굉장히 많은 일을 해서 부자입니다.,Jorge tenía tal trabajo que era rico.
+,,A',,
+S-SS-SL-02-0210,210,A,그는 너무 화가 나서 아무도 그를 진정시키지 못했어요.,Tenía un enfado tal que nadie pudo tranquilizarlo.
+,,A',,
+S-SS-SL-02-0211,211,A,제발 사람이 엄청 많아서 우리가 못들어가길!,¡Ojalá haya tanta gente que no podamos entrar!
+,,A',,
+S-SS-SL-02-0212,212,A,그 순간이 오면 다른 사람들이 들을 수 있게 소리를 많이 질러라.,"Cuando llegue el momento, grita mucho tanto que alguien te oiga. "
+,,A',,
+S-SS-SL-02-0213,213,A,뭘 해야할지 모를 정도로 많지 않다.,No es tanto que no sepa lo que tiene que hacer.
+,,A',,
+S-SS-SL-02-0214,214,A,사람들이 너무 많아서 아마 입장표가 다 팔렸을거야.,Hay tanta gente que posiblemente no queden entradas ya.
+,,A',,
+S-SS-SL-02-0215,215,A,5년 넘게 중국어를 공부했음에도 불구하고 말할줄을 몰라요.,"Aunque estudié chino más de cinco años, no sé hablarlo. "
+,,A',,
+S-SS-SL-02-0216,216,A,나는 중국어를 잃어버렸지만 그래도 나중에 다시 공부할거에요.,"Aunque se me olvidara el chino, volveré a estudiarlo luego. "
+,,A',,
+S-SS-SL-02-0217,217,A,나는 등록을 하지 않았지만 강의를 들을 수 있어요.,"Aunque no haya hecho la inscripción, puedo asistir a la clase."
+,,A',,"Aunque no haya hecho la inscripción, puedo tomar la clase."
+S-SS-SL-02-0218,218,A,두꺼운 외투를 가지고 갔음이도 불구하고 밤새 추위에 떨었어요.,"A pesar de que llevé un abrigo muy grueso, tuve frío toda la noche."
+,,A',,
+S-SS-SL-02-0219,219,A,그 경고에도 불구하고 나는 위험을 감수하기로 했습니다.,"A pesar de la advertencia, decidí correr el riesgo. "
+,,A',,
+S-SS-SL-02-0220,220,A,품질이 별로 좋지 않지만 그래도 나는 똑같은 메이커를 계속 구매하는 경향이 있어요.,Tienden a comprar siempre la misma marca aun cuando no tenga buena calidad.
+,,A',,
+S-SS-SL-02-0221,221,A,재정 위기에도 불구하고 작년 우리 회사의 재정 상황은 안정적이었어요.,La situación financiera de mi empresa estuvo estable el año pasado pese a la crisis financiera.
+,,A',,
+S-SS-SL-02-0222,222,A,날씨가 좋지 않았지만 지난 주말을 우리는 엄청 잘 보냈어요.,Disfrutamos mucho el fin de semana pese a que no hizo buen tiempo.
+,,A',,
+S-SS-SL-02-0223,223,A,엄청 많이 시도했음에도 불구하고 부모님을 설득하는건 불가능했어요.,Pero por más que lo intenté no fue posible persuadir a mis padres.
+,,A',,Pero por más que lo intenté no fue posible convencer a mis padres.
+S-SS-SL-02-0224,224,A,네가 나에게 잘못한게 많음에도 불구하고 나는 너를 위해 이걸 했어.,"Por mucho que me culpes, esto lo hice por ti. "
+,,A',,
+S-SS-SL-02-0225,225,A,네가 너무 똑똑함에도 불구하고 그 경연에서 우승하긴 쉽지 않을거야.,"Por muy listo que sea, no será fácil ganar el concurso. "
+,,A',,
+S-SS-SL-02-0226,226,A,저축을 조금 했지만 그래도 나는 휴가를 갈거에요.,"Por poco que ahorre, podré irme de vacaciones. "
+,,A',,
+S-SS-SL-02-0227,227,A,목숨이 위험하지만 그래도 그는 너를 도왔어.,Te ayudó aun a riesgo de exponer su vida.
+,,A',,
+S-SS-SL-02-0228,228,A,돈을 다 잃을 위험에도 불구하고 우리는 카지노에서 도박을 했어요.,"Aun a riesgo de que perdiéramos todo el dinero, apostamos en el casino. "
+,,A',,
+S-SS-SL-02-0229,229,A,네가 나에게 그걸 말했음에도 불구하고 나는 그걸 안할거다.,No lo haré por que tú me lo digas.
+,,A',,
+S-SS-SL-02-0230,230,A,마지막이더라도 부탁을 좀 들어줘.,"Haz este favor, siquiera sea el último"
+,,A',이게 마지막일테니 부탁을 좀 들어줘,"Haz este favor, aunque sea el último"
+S-SS-SL-02-0231,231,A,내키지 않더라도 축제에 갈 것이다.,Iremos a la fiesta mal que le pese.
+,,A',힘들더라도 축제에 갈 것이다.,Iremos a la fiesta aunque le pese.
+S-SS-SL-02-0232,232,A,24시간 내내 공부하진 않았지만 시험에 붙을거다.,"Ni estudiando 24 horas, aprobaré el examen. "
+,,A',,
+S-SS-SL-02-0233,233,A,말을 해도 얻는게 없을 거에요.,Ya pueden hablar que no van a conseguir nada.
+,,A',,Aunque hablen no van a conseguir nada.
+S-SS-SL-02-0234,234,A,아무것도 이루지 못할거란걸 알지만 그래도 그를 설득할 시도를 했다.,Intentó convencerlo a sabiendas de que no conseguiría nada.
+,,A',,Intentó convencerlo aunque sabía que no conseguiría nada.
+S-SS-SL-02-0235,235,A,실업률이 줄었음에도 불구하고 인플레이션은 증가했다.,"Si bien ha descendido el paro, ha subido la inflación. "
+,,A',,"Aunque ha descendido el paro, ha subido la inflación. "
+S-SS-SL-02-0236,236,A,내가 그렇게 경고 했는데도 너는 그 여자랑 갔구나.,Te fuiste con esta chica y mira que te lo advertí.
+,,A',,Te fuiste con esta chica y eso que te lo advertí.
+S-SS-SL-02-0237,237,A,열이 나서 학교에 가지 않았어요.,No fui a la escuela porque tenía fiebre.
+,,A',,
+S-SS-SL-02-0238,238,A,지각을 해서 그는 해고됐어요.,Lo echaron del trabajo por llegar tarde.
+,,A',지각을 해서 그는 짤렸어요.,Lo despidieron del trabajo por llegar tarde.
+S-SS-SL-02-0239,239,A,너무 피곤했어서 그는 그때 자러 갔어요.,"Como estaba cansado, se fue a dormir en ese momento. "
+,,A',,
+S-SS-SL-02-0240,240,A,비가 와서 나는 집에 있기로 했어요.,"Ya que llueve, me quedo en casa. "
+,,A',,"Como llueve, me quedo en casa."
+S-SS-SL-02-0241,241,A,내가 네 회사의 사장이니까 나를 좀 더 정중하게 대하기 시작하는게 좋을거야.,"Más te vale empezar a tratarme con respeto, dado que soy jefe de tu empresa. "
+,,A',,"Más te vale empezar a tratarme con respeto, porque soy jefe de tu empresa."
+S-SS-SL-02-0242,242,A,수치가 많이 변화해서 그 일이 되게 어려워.,"Este trabajo es muy difícil, puesto que las cifras pueden variar mucho."
+,,A',,"Este trabajo es muy difícil, porque que las cifras pueden variar mucho."
+S-SS-SL-02-0243,243,A,그날 밤에 너 덕에 집에 돌아갈수 있었어.,"Aquella noche pude volver a casa, gracias a ti."
+,,A',,
+S-SS-SL-02-0244,244,A,정부가 허가해줘서 이 프로젝트는 이제 완전히 가능해요.,"Este proyecto es totalmente posible, gracias a que el gobierno lo permite."
+,,A',,
+S-SS-SL-02-0245,245,A,경제적인 압박 탓에 그는 교육을 받을 수 없습니다.,No tiene posibilidades de educación por culpa de la opresión económica.
+,,A',,
+S-SS-SL-02-0246,246,A,네가 늦게와서 우리는 시간을 많이 낭비했어.,"Por culpa de que has llegado tarde, hemos perdido tiempo. "
+,,A',,
+S-SS-SL-02-0247,247,A,내가 공부를 조금해서 나 지금 너무 긴장돼.,"A causa de que he estudiado poco, estoy muy nerviosa ahora. "
+,,A',,
+S-SS-SL-02-0248,248,A,부모님의 압박 때문에 약간의 불안감을 느껴요.,Siento un poco de ansiedad debido a la presión de mis padres.
+,,A',,
+S-SS-SL-02-0249,249,A,하지만 이건 기술이 많이 발전하지 않았기 때문이다.,Pero esto es debido a que la tecnología no se ha desarrollado mucho.
+,,A',,
+S-SS-SL-02-0250,250,A,너는 노력 없이 그리고 의지도 없이 성공해냈네.,Tú logras tener éxito sin esfuerzo y no por fuerza de voluntad.
+,,A',,
+S-SS-SL-02-0251,251,A,수업에 안간건 클럽에 가서 그런게 아니라 아파서 그런거었어.,"No vine a la clase, pero no es que me fuera a discoteca sino que estaba enfermedad. "
+,,A',,
+S-SS-SL-02-0252,252,A,우리 모두 여기 모였으니 이리 와.,"Ven, que estamos aquí reunidos todos. "
+,,A',,
+S-SS-SL-02-0253,253,A,나는 우유를 사러 마트에 갔다.,Voy al mercado para comprar leche.
+,,A',,
+S-SS-SL-02-0254,254,A,네가 네 아이들을 데리러 갈수 있게 내가 내 차를 빌려줄게.,Voy a prestarte mi coche para que puedas recoger a tus niños.
+,,A',,
+S-SS-SL-02-0255,255,A,정부는 이중 노력을 피하기 위해 난민을 통제하는 많은 정책을 실행해 왔습니다.,El gobierno ha tomado muchas medidas de control para los refugidos a fin de evitar esfuerzos duplicados.
+,,A',,El gobierno ha tomado muchas medidas de control para los refugidos para evitar esfuerzos duplicados.
+S-SS-SL-02-0256,256,A,내가 너에게 모든걸 설명할 수 있게 안에 들어가게 해줘.,"Por favor, dejáme entrar a fin de que pueda explicarte todo. "
+,,A',,"Por favor, dejáme entrar para que pueda explicarte todo. "
+S-SS-SL-02-0257,257,A,이 과정들은 AI 국가 자격증을 취득하기 위해 수강 될 것입니다.,Estos cursos se utilizarán con el fin de obtener el certificado nacional de IA.
+,,A',,Estos cursos se utilizarán para obtener el certificado nacional de IA.
+S-SS-SL-02-0258,258,A,우리가 오류들을 수정할 수 있게 모든 오류들을 표시해줘.,Señala todo los errores con el fin de que podamos corregirlos.
+,,A',,Señala todo los errores para que podamos corregirlos.
+S-SS-SL-02-0259,259,A,잘못된 정보를 수정하기 위해 웹사이트에 접속하세요.,Conéctese al sitio web con el objeto de corregir la información falsa.
+,,A',,Conéctese al sitio web con para corregir la información falsa.
+S-SS-SL-02-0260,260,A,다양한 이해 관계가 있다면 모두가 동등한 변론을 하기 위해 변호인의 수를 늘릴 수 있는 권리가 있습니다.,Si tuviesen intereses diversos tendrán derecho a aumentar el número de abogados con el objeto de que todas las partes tengan igual representación.
+,,A',,Si tuviesen intereses diversos tendrán derecho a aumentar el número de abogados para que todas las partes tengan igual representación.
+S-SS-SL-02-0261,261,A,그 시대의 문학 사조를 찾기 위해 책들을 읽어라.,Lee con el propósito de encontrar tendencias literarias de esa época.
+,,A',,Lee para encontrar tendencias literarias de esa época.
+S-SS-SL-02-0262,262,A,선진국이 전쟁을 치르고 있는 국가들을 돕기 위한 다양한 정상회담이 이뤄졌다.,"Se han organizado varias cumbres, con el propósito de que los países desarrollados ayuden a los países en guerra. "
+,,A',,"Se han organizado varias cumbres, para que los países desarrollados ayuden a los países en guerra. "
+S-SS-SL-02-0263,263,A,새로운 삶을 시작 하기 위한 목적으로 많은 사람들이 미국으로 이주합니다.,Algunos se mudan a EEUU con la intención de comenzar una nueva vida.
+,,A',,Algunos se mudan a EEUU para comenzar una nueva vida.
+S-SS-SL-02-0264,264,A,사실 탈출한 사람들은 그들을 절대 못 발견하게끔 배 안에 숨어있었어요.,"En realidad, los huídos fueron escondidos en el barco con la intención de que nunca fueran encontrado."
+,,A',,"En realidad, los huídos fueron escondidos en el barco para que nunca fueran encontrado."
+S-SS-SL-02-0265,265,A,나는 카스티야어와 발렌시아어의 차이를 연구하기 위해 발렌시아에 왔습니다.,He venido a Valencia a investigar las diferencias entre castellano y valenciano.
+,,A',,He venido a Valencia para investigar las diferencias entre castellano y valenciano.
+S-SS-SL-02-0266,266,A,나는 내 아이들이 발렌시아에서 적응하는데 어려움을 겪어 여기에 왔습니다.,He venido a Madrid a que mis hijos tengan más oportunidades de trabajo.
+,,A',,
+S-SS-SL-02-0267,267,A,모두가 이 문제를 이해할 수 있게끔 말해라.,"Habla, que todo el mundo comprenda el problema. "
+,,A',,
+S-SS-SL-02-0268,268,A,내 아이들이 더 나은 미래를 꿈꿀 수 있게 나는 일을 열심히 했어요.,He trabajado mucho por que mis hijos tengan un futuro mejor.
+,,A',,He trabajado mucho para que mis hijos tengan un futuro mejor.
+S-SS-SL-02-0269,269,A,비가 안오더라도 올지도 모르니까 우산을 가져가.,Llévate el paraguas no sea que llueva.
+,,A',비가 올지도 모르니까 우산 가져가.,
+S-SS-SL-02-0270,270,A,비가 안오더라도 올지도 모르니까 우산을 가져갔다.,Me llevé el paraguas no fuera que lloviera.
+,,A',비가 올지도 모르니까 우산 가져갔다.,
+S-SS-SL-02-0271,271,A,아직 그가 아무것도 모를테니 조심해.,"Cuidado, no vaya a ser que él todavía no sepa nada aún."
+,,A',,
+S-SS-SL-02-0272,272,A,그는 생각했던거보다 더 일찍 예정되어 있을수 있으니 세션 시작을 확인했다.,"Compruebe la hora de inicio de la sesión, no fuera a ser que estuviera programada para antes el mismo día, especialmente si usted y el organizador tienen zonas horarias distintas."
+,,A',,
+S-SS-SL-02-0273,273,A,너를 행복하게 하기 위해 나는 그걸 할거야.,Lo haré con tal de que seas feliz.
+,,A',,
+S-SS-SL-02-0274,274,A,내가 논문 작성을 마쳤을 때 교수님이 나에게 선물을 줬어요.,"Cuando acabé de escribir mi tesis, mi profesor me hizo un regalo. "
+,,A',,
+S-SS-SL-02-0275,275,A,내 손자가 태어나면 나는 내 딸이 사는 동네로 이사갈거에요.,"Cuando nazca mi nieto, me mudaré al pueblo de mi hija. "
+,,A',,
+S-SS-SL-02-0276,276,A,내가 음식을 하는 동안 너는 상을 차리렴.,"Mientras yo hago la comida, tú pones la mesa. "
+,,A',,
+S-SS-SL-02-0277,277,A,멕시코에서 스페인어를 배우면서 다양한 나라에서 온 사람들을 알게되네요.,"A medida que aprendo español en México, conozco a más personas de varios países. "
+,,A',,
+S-SS-SL-02-0278,278,A,그 단계의 끝에 다다르자 다른 복잡한 상황이 생겨났어요.,"Conforme se acerca el final de la etapa, aparece otra situación complicada."
+,,A',,"A medida que se acerca el final de la etapa, aparece otra situación complicada."
+S-SS-SL-02-0279,279,A,내 프로젝트를 끝내자마자 내 상사는 나에게 다른 새로운 프로젝트를 줬다.,"En cuanto terminé el proyecto, mi jefe me dio otro proyecto nuevo. "
+,,A',,
+S-SS-SL-02-0280,280,A,수업이 끝나자마자 나는 너랑 저녁먹으러 갈거야.,"Tan pronto como acabe la clase, iré a cenar contigo. "
+,,A',,"En cuanto acabe la clase, iré a cenar contigo. "
+S-SS-SL-02-0281,281,A,여기로 이사하자마자 새로운 직업을 찾아보렴.,Busca un nuevo trabajo apenas te mudes aquí.
+,,A',,Busca un nuevo trabajo nada más mudarte aquí.
+S-SS-SL-02-0282,282,A,한 아이디어가 발전해갈수록 사람들이 많은 관심을 기울이고 있습니다.,La gente presta mucha atención cada vez que una idea está siendo desarrollada.
+,,A',,
+S-SS-SL-02-0283,283,A,할머니가 꿈에 나올때마다 항상 기적적인 승리가 있었습니다.,Se lograban victorias milagrosas siempre que mi abuela se me aparecía en sueños.
+,,A',,
+S-SS-SL-02-0284,284,A,엄마가 돌아가신 뒤로부터 나는 우울증을 겪고있어요.,"Desde que murió mi madre, he sufrido de depresión. "
+,,A',,
+S-SS-SL-02-0285,285,A,그날 우리는 그 소식을 듣기 전까지 굉장히 행복했다.,"Ese día estábamos tan contentos, hasta que escuchamos esa noticia. "
+,,A',,
+S-SS-SL-02-0286,286,A,나는 설교를 듣는 그 순간마다 생각에 잠기는걸 좋아한다.,Me gusta pensar en el momento en que se dio el sermón.
+,,A',,
+S-SS-SL-02-0287,287,A,내 남편이 손님들을 맞이하는 동안 나는 음식을 했어요.,Me encargo de la comida mientras que mi marido recibe a los invitados.
+,,A',,Me encargo de la comida en tanto que mi marido recibe a los invitados.
+S-SS-SL-02-0288,288,A,두명의 무장 강도가 광장에 난입한 순간에도 그 의원은 계속해서 말을 이어나갔습니다.,"El candidato seguía hablando, mientras tanto dos ladrones armados irrumpieron en la plaza."
+,,A',,
+S-SS-SL-02-0289,289,A,지진으로 인해 많은 집들이 무너짐과 동시에 또 많은 집들이 심각한 손상을 입었습니다.,Por el terremoto varias casas quedaron destruidas en tanto que otras sufrieron daños de gravedad variable.
+,,A',,Por el terremoto varias casas quedaron destruidas mientras que otras sufrieron daños de gravedad variable.
+S-SS-SL-02-0290,290,A,집에 도착하자마자 나는 신발을 벗어요.,"Nada más llegar a casa, me quito los zapatos. "
+,,A',,"Al llegar a casa, me quito los zapatos. "
+S-SS-SL-02-0291,291,A,노동법이 개정되자마자 많은 고용주들이 고소를 당했어요.,"Al modificar las leyes laborales, muchos empleadores fueron acusados. "
+,,A',,
+S-SS-SL-02-0292,292,A,약을 먹으면 너는 과자를 먹을 수 있어.,"Si tomas toda la medicina, puedes tomar galletas. "
+,,A',,"Si te tomas toda la medicina, puedes tomar galletas. "
+S-SS-SL-02-0293,293,A,시내에 가고 싶다면 2호선을 타세요.,"Si quieres ir al centro, coge el metro de la línea 2. "
+,,A',,
+S-SS-SL-02-0294,294,A,네가 더 준비를 했더라면 면접이 잘 끝냈을텐데.,"Si te prepararas más, terminaría bien la entrevista."
+,,A',,
+S-SS-SL-02-0295,295,A,네가 돈이 많았더라면 이 차를 살수 있었을텐데.,"Si tuvieras mucho dinero, podrías comprar este coche. "
+,,A',,
+S-SS-SL-02-0296,296,A,공룡이 살아있었다면 인류의 역사는 완전히 바뀌었을거에요.,"Si los dinosaurios hubieran seguido vivos, la historia humana habría cambiado totalmente. "
+,,A',,
+S-SS-SL-02-0297,297,A,만약 내가 그 행사에서 너를 알게되지 않았더라면 나는 지금 완전히 다른 삶을 살고 있었을거야.,"Si no te hubiera conocido en esa fiesta, viviría totalmente diferente en el presente. "
+,,A',,
+S-SS-SL-02-0298,298,A,엄마가 오면 우리 청소를 하고 아니면 더 놀자,"Que mi madre viene limpiamos, que no jugamos más. "
+,,A',,
+S-SS-SL-02-0299,299,A,그렇게 일을 한다면 너는 곧 승진할거야.,"Trabajando así, ascenderás pronto. "
+,,A',,"Trabajando así, te ascenderán pronto. "
+S-SS-SL-02-0300,300,A,신호를 지켰더라면 너는 사고를 당하지 않았을거야.,"De haber respetado el semáforo, no habrías tenido accidente. "
+,,A',,
+S-SS-SL-02-0301,301,A,네 병이 낫기만 한다면 돈은 문제가 아니다.,"El dinero no es un problema, siempre que mejores de la enfermedad. "
+,,A',,
+S-SS-SL-02-0302,302,A,12시 전에만 돌아온다면 네가 파티에 가는걸 허락해줄게.,Te dejaremos ir a esa fiesta siempre y cuando vuelvas a casa antes de las 12.
+,,A',12시 전에만 돌아온다면 네가 파티에 가는걸 허락해줄게.,Te dejaremos ir a esa fiesta siempre que vuelvas a casa antes de las 12.
+S-SS-SL-02-0303,303,A,네가 그걸 그에게 말하면 나는 너에게 비밀을 더 말하지 않을거야.,Como lo digas a él no voy a contarte más secretos.
+,,A',,
+S-SS-SL-02-0304,304,A,"추가수당을 더 주지 않는한, 우리는 더 일을 하지 않을거에요. ",No trabajaremos más a no ser que nos paguen estas horas extra.
+,,A',,No trabajaremos más excepto que nos paguen estas horas extra.
+S-SS-SL-02-0305,305,A,둘중 하나가 그 관계에서 고통받고 있다면 너네들은 커플이라고 할 수 없다.,No sois una pareja a menos que alguien sufra en la relación.
+,,A',,
+S-SS-SL-02-0306,306,A,예상치 못한 일이 발생하지 않는 한 내일 제안서를 제출하겠습니다.,"Presentaremos la propuesta mañana, excepto que surja algún imprevisto. "
+,,A',,"Presentaremos la propuesta mañana, salvo que surja algún imprevisto. "
+S-SS-SL-02-0307,307,A,스페인에서 더위를 견디지 못한다면 단 한순간도 좋지 않을거야.,No hay ningún momento ideal salvo que no pueda soportar el calor en España.
+,,A',,
+S-SS-SL-02-0308,308,A,여유를 가지는 대신 돈을 덜 버는 것을 택했어요.,Estoy dispuesto a ganar menos dinero a cambio de que haya paz.
+,,A',,
+S-SS-SL-02-0309,309,A,그들의 딸 방에 있는 것을 아무것도 건드리지 않는 조건으로 그들의 집을 우리에게 빌려줬어요.,Nos dejaron su casa a condición de que no toquemos nada de la habitación de su hija.
+,,A',,
+S-SS-SL-02-0310,310,A,"에볼라가 브라질에서 더 퍼지는 경우, 나는 내 나라로 돌아갈거에요. ","En el caso de que el virus Ébola se expanda más en Brasil, volveré a mi país. "
+,,A',,
+S-SS-SL-02-0311,311,A,그가 행동만 잘한다면 그에게 그걸 사줄거야.,Se lo compraba sólo si se había portado bien.
+,,A',,
+S-SS-SL-02-0312,312,A,집주인이 가격을 내리지만 않는다면 내 집은 더 많은 가치가 있을거에요.,Mi casa valdrá mucho menos si los precios de la propiedad caen.
+,,A',,
+S-SS-SL-02-0313,313,A,이것은 곧 제품의 하자가 있지 않는 이상 환불을 해드리지 않음을 의미합니다.,"Esto significa que no podemos aceptar devoluciones, excepto si hay defectos de producto. "
+,,A',,
+S-SS-SL-02-0314,314,A,어떤 루머에 관한 것만 아니라면 그가 좋아하는 것을 나도 좋아해.,"Lo que le gusta a él, me gusta a mí salvo si es de fútbol. "
+,,A',,
+S-SS-SL-02-0315,315,A,화낸다면 너는 아무것도 얻을 수 없을거야.,"Con enfadarte, no vas a conseguir nada. "
+,,A',,"Si te enfadas, no vas a conseguir nada. "
+S-SS-SL-02-0316,316,A,돈이 더 있다면 우리는 더 많은 가능성이 있을텐데,"Con más dinero, tendríamos más posibilidades. "
+,,A',,
+S-SS-SL-02-0317,317,A,그는 그녀가 조용히 있는 한 항상 그녀의 말에 동의했습니다.,Siempre le daba la razón con tal de que se callara.
+,,A',,
+S-SS-SL-02-0318,318,A,네가 행복하기만 하다면 나는 상관 없어.,"No me importa, con tal de que seas feliz."
+,,A',,
+S-SS-SL-02-0319,319,A,조금만 더 공부하면 너는 합격할텐데,A poco más que estudies aprobarás.
+,,A',,
+S-SS-SL-02-0320,320,A,그는 주유소에 들렀고 기름을 넣으려 했으나 실패했다.,Él se acercó a la gasolinera y trató de poner gasolina pero no pudo.
+,,A',,Él pasó por la gasolinera y trató de poner gasolina pero no pudo.
+S-SS-SL-02-0321,321,A,우리 아빠는 일을 하면서 공부도 하세요.,Mi padre es estudiante y trabaja.
+,,A',,Mi padre estudia y trabaja.
+S-SS-SL-02-0322,322,A,페퍼가 전화를 받지 않자 퓨리는 화가 많이 났다.,"Pepper no respondió a la llamada, de ahí que Fury se enfadara mucho. "
+,,A',,
+S-SS-SL-02-0323,323,A,엄마가 그 일을 그만두라고 해도 나는 계속 그 일을 한다.,"Aunque mi madre sigue diciéndome que deje el trabajo, sigo haciéndolo. "
+,,A',,
+S-SS-SL-02-0324,324,A,카페에 도착하거든 내 커피도 미리 주문해놔줘.,Al llegar a la cafetería pide mi café por favor.
+,,A',,"Cuando llegues, vete pidiéndome un café. "
+S-SS-SL-02-0325,325,A,서류를 모두 제출하지 않았으므로 당신은 합격하지 못했습니다.,"Como usted no ha presentado todos los documentos, no aprueba. "
+,,A',,
+S-SS-SL-02-0326,326,A,비가 많이 오다가 갑자기 해가 떴다.,Llovió mucho y de repente salió el sol.
+,,A',,
+S-SS-SL-02-0327,327,A,돈을 벌면 벌수록 불행해지는건 왜일까요?,¿Por qué se vuelve uno más miserable ganando más dinero?
+,,A',,
+S-SS-SL-02-0328,328,A,네가 뭘 하든지 상관 없는데 시끄럽게만 하지 마.,No me importa lo que hagas pero no hagas ruido.
+,,A',,
+S-SS-SL-02-0329,329,A,내 고양이 참치는 마치 그림자가 다가오듯 조용히 내게 왔다.,Mi gatito Chamchi se me acercó como si fuera una sombra.
+,,A',,
+S-SS-SL-02-0330,330,A,산삼이는 내 친구 고양이인데 나를 원수대하듯 대했다.,"Sansam, el gatito de mi amigo, me ha tratado como a su enemigo. "
+,,A',,
+S-SS-SL-02-0331,331,A,내 친구 고양이 점순이는 몇일 굶은듯이 밥을 먹었다.,"Jeomsun, la gatita de mi amiga, comió como si no hubiera comido durante unos días. "
+,,A',,
+S-SS-SL-02-0332,332,A,벨라는 돈을 물쓰듯 쓴다.,Bella gasta dinero como si fuera agua.
+,,A',,
+S-SS-SL-02-0333,333,A,매오는 스페인에 가느라고 프로젝트에 참여 못했어요.,Maeo no pudo participar en el proyecto porque se fue a España.
+,,A',,

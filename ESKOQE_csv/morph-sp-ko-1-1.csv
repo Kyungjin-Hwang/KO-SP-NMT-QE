@@ -1,0 +1,265 @@
+segmentid,index,ref,KO,SP
+M-IS-NO-01-0001,1,A,아이들은 밥을 먹는데 많은 시간이 걸린다.,Los niños tardan mucho en comer.
+,,B,아이들은 먹는데 많은 시간이 필요하다.,Los niños necesitan mucho tiempo para comer.
+M-IS-NO-01-0002,2,A,그 사람은 오직 졸업장을 따는 데에만 목적이 있다.,Su único propósito es obtener un diploma.
+,,B,그 사람은 오직 졸업장이 목표이다.,Esa persona solo tiene el objetivo de obtener un diploma.
+M-IS-NO-01-0003,3,A,머리 아픈데 먹는 약이 있나요?,¿Tiene algún medicamento para el dolor de cabeza?
+,,B,머리 아플 때를 위해 먹는 약이 있나요?,¿Tiene algún medicamento en caso de dolor de cabeza?
+,,,,
+M-IS-NO-01-0004,4,A,사람들은 항상 비싸고 좋은 것만 원한다.,La gente siempre quiere solo cosas caras y buenas.
+,,B,사람들은 항상 비싸고 좋은 것을 원한다.,La gente siempre quiere solo algo caro y bueno.
+M-IS-NO-01-0005,5,A,그 남자는 고향을 떠난지가 오래되었다.,El hombre hace tiempo que dejó su ciudad natal.
+,,B,그 남자는 오래 전에 고향을 떠났다.,El hombre dejó su ciudad natal hace mucho tiempo.
+M-IS-NO-01-0006,6,A,네가 그렇게 말하니 기운이 난다.,"Como dices eso, me da fuerza. "
+,,B,네가 그렇게 말하면 기운이 난다.,"Cuando dices eso, me da fuerza."
+M-IS-NO-01-0007,7,A,우리 선생님이 그런 말을 할 리가 없다.,De ninguna manera mi profesor diría eso.
+,,B,우리 선생님이 그런 말을 안했을 것이다.,Mi profesor no diría eso.
+M-IS-NO-01-0008,8,A,연습한 대로 하면 실수를 하지 않을거야.,Si lo haces tal y como lo has practicado no cometerás ningún error
+,,B,연습한걸 해서 실수를 하지 않을거야.,"Si haces lo que practicas, no cometes ningún error."
+M-IS-NO-01-0009,9,A,저는 주어진 상황에서 할 만큼 했어요.,Hice todo lo que pude dadas las circunstancias.
+,,B,저는 주어진 상황에서 할 수 있는걸 했어요.,Hice todo lo que pude en la situación dada.
+M-IS-NO-01-0010,10,A,사람들에게 나누어 줄 만큼 나누어 주었다.,Di lo suficiente para que todos tuvieran.
+,,B,사람들과 나눌 수 있게 충분히 나누어 주었다.,Se distribuyó todo para que todos pudieran compartir.
+M-IS-NO-01-0011,11,A,네가 그렇게 말하니 감사할 따름이다.,Te agradezco de que lo hayas dicho.
+,,B,네가 그렇게 말하니 감사하다.,Gracias a que tú me lo has dicho.
+M-IS-NO-01-0012,12,A,그저 당신을 만나러 왔을 따름입니다.,Solo vine a verte.
+,,B,당신을 만나러 왔습니다.,Vine a verte.
+M-IS-NO-01-0013,13,A,그가 연구하는 것은 언어학 뿐이다.,Lo que estudia es solo lingüística.
+,,B,그는 언어학만 연구한다.,Todo lo que estudia es lingüística.
+M-IS-NO-01-0014,14,A,종이 한 장만 줄래?,¿Puedes darme un pedazo de papel?
+,,B,종이 하나 줄래?,¿Puedes darme un papel?
+M-IS-NO-01-0015,15,A,신발 세켤레를 사려고요.,Quiero comprar tres pares de zapatos.
+,,B,신발 세쌍을 사려고요.,Quiero comprar tres zapatos.
+M-IS-NO-01-0016,16,A,그는 집을 다섯채나 소유하고 있어요.,Él tiene cinco pisos.
+,,B,그는 집을 다섯개 소유하고 있어요.,Él tiene cinco casas.
+M-IS-NO-01-0017,17,A,그는 맥주를 다섯병이나 마셨어요.,Ya ha bebido cinco botellas de cerveza.
+,,B,그는 맥주를 다섯개 마셨어요.,Ya ha bebido cinco cervezas.
+M-IS-NO-01-0018,18,A,커피 두잔 마실래요?,¿Tomamos dos cafés?
+,,B,커피 두컵 마실래요?,¿Tomamos dos tazas de café?
+M-IS-NO-01-0019,19,A,장미 백송이를 선물 받았어요.,Me regalaron una centenda de rosas.
+,,B,장미 100개를 선물 받았어요.,Me regalaron cien rosas.
+M-IS-NO-01-0020,20,A,나는 8층에 삽니다.,Vivo en la octava planta.
+,,B,나는 여덟번째 층에 삽니다.,
+M-IS-NO-01-0021,21,A,사무실에는 컴퓨터 여섯 대가 있어요.,Hay seis ordenadores en la oficina.
+,,B,사무실에는 여섯 컴퓨터가 있어요.,
+M-IS-NO-01-0022,22,A,물 한 병만 주실래요?,¿Puedes darme un vaso de agua?
+,,B,물 하나만 주실래요?,¿Puedes darme un agua?
+M-IS-NO-01-0023,23,A,나 빵 하나 줄래?,¿me pasas un trozo de pan?
+,,B,나 빵 한조각 줄래?,¿me pasas un pan?
+M-IS-NO-02-0024,24,A,제 2의 김연아들이 열심히 연습하고 있다.,Muchas personas talentosas como Yuna Kim practican mucho.
+,,B,김연아처럼 재능있는 사람들이 열심히 연습하고 있다.,Muchas personas con mucho talento en el patinaje artístico practican mucho.
+M-IS-NO-02-0025,25,A,우리반의 마르티나들은 똑똑하다.,Las Martinas de mi clase son inteligentes.
+,,B,우리의 마르티나들은 똑똑하다.,La Martina de mi clase es inteligente.
+M-IS-NO-02-0026,26,A,Gonzalez씨들은 매우 친절합니다.,Los señores González son muy simpáticos.
+,,B,Gonzalez들은 매우 친절합니다.,Los González son muy simpáticos.
+M-IS-NO-02-0027,27,A,보르봉 왕조는 프랑스에서 1589년부터 1791년까지 지속되었다.,Los Borbones duró en Francia desde 1589 hasta 1791.
+,,B,보르봉씨들은 1589년부터 1791년까지 지속되었다.,
+M-IS-NO-02-0028,28,A,우리 반의 은채는 모두 똑똑해요.,Las Eunchaes de mi clase son inteligentes.
+,,B,우리반의 은채들은 똑똑해요.,La Eunchae de mi clase es inteligente.
+M-IS-NO-03-0029,29,A,사람들은 김치가 몸에 좋다고 말한다.,La gente dice que el Kimchi es bueno para la salud.
+,,B,사람은 김치가 몸에 좋다고 말한다.,
+M-IS-NO-03-0030,30,A,Alicia네는 3년동안 마드리드에서 살고 있다.,La familia de Alicia lleva 3 años viviendo en Madrid.
+,,B,Alicia의 가족은 3년동안 마드리드에서 살고 있다.,Alicia y su familia llevan 3 años viviendo en Madrid.
+M-IS-NO-03-0031,31,A,박물관 고야의 작품들은 매우 인상적이다.,Los goyas del museo son muy impresionantes.
+,,B,,
+M-IS-NO-03-0032,32,A,나는 노벨문학상 수상자들을 만나고 싶다.,Quiero conocer a los nobeles de literatura.
+,,B,나는 노벨 문학상들을 알고 싶다.,Quiero conocer a los premios Nobel de literatura.
+M-IS-NO-03-0033,33,A,나는 내 속마음을 얘기했다.,Lo dije para mis adentros
+,,B,나는 내 내면을 얘기했다.,Lo dije solo para mí mismo.
+M-IS-NO-03-0034,34,A,식료품의 가격이 많이 올랐다.,El precio de los comestibles ha subido mucho.
+,,B,식료품들의 가격이 많이 올랐다.,El precio de la comida ha subido mucho.
+M-IS-NO-03-0035,35,A,은채의 안경들은 항상 깨끗하다.,Todos los pares de gafas de Eunchae simpre están limpios.
+,,B,은채의 안경쌍들은 항상 깨끗하다.,Las gafas de Eunchae simpre están limpias.
+M-IS-NO-03-0036,36,A,이 장갑들은 누구의 것인지 모르겠다.,No sé de quién son todos estos guantes.
+,,B,이 장갑은 누구의 것들인지 모르겠다.,No sé de quién son estos guantes.
+M-IS-NO-03-0037,37,A,나는 새 바지들을 샀다.,He comprado muchos pantalones nuevos.
+,,B,나는 새 바지를 샀다.,He comprado unos pantalones nuevos.
+M-IS-NO-03-0038,38,A,너는 수염이 많네.,Tienes mucha barba.
+,,B,너는 수염을 많이 가지고 있네.,Tienes muchas barbas.
+M-IS-NO-03-0039,39,A,수염들이 많이 났네요.,Tenéis mucha barba.
+,,B,당신은 수염이 많네요.,Teneís muchas barbas.
+M-IS-NO-03-0040,40,A,손을 닦자.,Vamos a lavarnos las manos.
+,,B,,Lavemonos las manos.
+M-IS-NO-03-0041,41,A,손들을 닦읍시다.,Vamos a lavar las manos.
+,,B,우리의 손을 닦읍시다.,Lavemonos las manos.
+M-IS-NO-03-0042,42,A,다들 감사드립니다.,Muchas gracias a todos.
+,,B,,Os agradezco mucho.
+M-IS-NO-03-0043,43,A,학생들이 스페인어 공부를 합니다.,Los estudiantes estudian español.
+,,B,,
+M-IS-NO-03-0044,44,A,고대들은 모두 똑똑합니다.,Los universitarios de Corea son muy inteligentes.
+,,B,,Las personas de la universidad de Corea son muy inteligentes.
+M-IS-NO-03-0045,45,A,요즘 문과는 취직들이 어렵습니다.,Los estudiantes de artes liberales tienen mucha dificultad para conseguir trabajo.
+,,B,,Las personas de artes liberales tienen mucha dificultad para conseguir trabajo.
+M-IS-NO-03-0046,46,A,구경들 하시지요.,Echen un vistazo.
+,,B,구경하세요.,Echad un vistazo
+M-IS-NO-03-0047,47,A,많이들 먹어라.,Comed mucho.
+,,B,많이 먹어.,Coman mucho.
+M-IS-NO-03-0048,48,A,책 샀어들?,¿Habéis comprado un libro?
+,,B,책 샀어?,¿Han comprado un libro?
+M-IS-NO-03-0049,49,A,공부는 많이 하셨어요들?,¿Estudiaron mucho?
+,,B,공부는 많이 했어요?,¿Estudiasteis mucho?
+M-IS-NO-04-0050,50,A,한 흰색 암컷 고양이가 자고 있습니다.,Una gata blanca está durmiendo.
+,,B,한 흰색 고양이가 자고 있습니다.,La gata blanca está durmiendo.
+M-IS-NO-04-0051,51,A,대학생들은 공부를 열심히 해야합니다.,Un estudiante universitario tiene que estudiar mucho.
+,,B,한 대학생은 공부를 열심히 해야합니다.,Unos estudiantes universitarios tienen que estudiar mucho.
+M-IS-NO-04-0052,52,A,우리반의 한 학생은 프랑스어를 아주 잘합니다.,Un estudiante de mi clase sabe hablar muy bien francés.
+,,B,우리반의 학생은 프랑스어를 아주 잘합니다.,El estudiante de mi clase sabe habar muy bien francés.
+M-IS-NO-04-0053,53,A,"스페인 국민 여러분,  오늘 아주 중요한 소식을 전달하겠습니다. ","A todos los españoles y a todas las españolas, hoy les anunciamos una noticia muy importante. "
+,,B,"모든 스페인 사람들에게, 오늘 아주 중요한 소식을 전달하겠습니다. ","A los españoles, hoy les anunciamos una noticia muy importante. "
+M-IS-NO-04-0054,54,A,우리 마을에 사는 한 소녀는 프랑스에서 왔다.,Una chica de mi barrio es de Francia.
+,,B,우리 마을에 사는 어떤 소녀는 프랑스에서 왔다.,La chica de mi barrio es de Francia.
+M-IS-NO-04-0055,55,A,이 마을에 4개의 방을 가진 집이 있나요?,¿Hay alguna casa que tenga 4 habitaciones en este barrio?
+,,B,이 마을에 4개의 방을 가진 한 집이 있나요?,¿Hay una casa que tiene 4 habitaciones en este barrio?
+M-IS-NO-04-0056,56,A,전형적인 스페인 집에는 비데가 있다.,Una casa típica de España tiene bidé.
+,,B,전형적인 스페인 집들에는 비데가 있다.,La casa típica de España tiene bidé.
+M-IS-NO-04-0057,57,A,엄마는 항상 자식을 보호한다.,Una madre siempre protege a sus hijos.
+,,B,한 엄마는 항상 그녀의 자식을 보호한다.,La madre siempre protege a sus hijos.
+M-IS-PP-01-0058,58,A,자네가 영어를 할줄 아는가?,¿Sabes inglés?
+,,B,너 영어 할줄 아니?,"Tú, ¿sabes inglés?"
+M-IS-PP-01-0059,59,A,여러분이 이 학교의 주인입니다.,Ustedes son los dueños del colegio.
+,,B,당신들이 이 학교의 주인입니다.,Sois los dueños del colegio.
+M-IS-PP-01-0060,60,A,이분이 제 아버님이에요.,Este es mi padre.
+,,B,이 남자가 제 아버님이에요.,Este señor es mi padre.
+M-IS-PP-01-0061,61,A,그 사람이 범인입니다.,Esa persona es el criminal
+,,B,그쪽이 범인입니다.,Ese es el criminal
+M-IS-PP-01-0062,62,A,내가 오늘 스페인어 공부를 시작했다.,Yo empiezo a estudiar español hoy.
+,,B,나는 오늘 스페인어 공부를 시작했다.,Empiezo a estudiar español hoy.
+M-IS-PP-01-0063,63,A,네가 그걸 알고 있었니?,¿Lo sabías tú?
+,,B,너는 그걸 알고 있었니?,¿Tú lo sabías?
+M-IS-PP-01-0064,64,A,은채 제가 알아서 잘 하겠죠.,Eunchae lo hará bien por sí misma.
+,,B,은채는 알아서 잘 하겠죠.,Eunchae lo hará bien sola.
+M-IS-PP-01-0065,65,A,누가 그걸 이미 가져갔다고 해요.,Dicen que ya alguien lo ha llevado.
+,,B,한 사람이 그걸 이미 가져갔다고 해요.,Dicen que ya alguna persona lo ha llevado.
+M-IS-PP-01-0066,66,A,"- 누가 그걸 해볼래? 
+- 제가 그걸 해볼게요. ","- ¿Quién hace esto?
+- Yo lo hago."
+,,B,"- 누가 그걸 해볼래?
+- 그걸 해볼게요. ","- ¿Quién hace esto?
+- Lo hago."
+M-IS-PP-01-0067,67,A,귀하께서 보내주신 편지를 잘 받았습니다.,Me ha llegado bien su carta.
+,,B,당신이 보내주신 편지가 제게 잘 도착했습니다.,Me ha llegado bien tu carta.
+M-IS-PP-01-0068,68,A,선생님께서 이걸 주셨어요.,El profesor me lo dio.
+,,B,선생님이 이걸 주셨어요.,
+M-IS-PP-01-0069,69,A,할아버지께서 지금 통화중이세요.,Mi abuelo está llamando por teléfono.
+,,B,할아버지가 지금 통화중이에요.,
+M-IS-PP-01-0070,70,A,우리 학교에서 우승을 차지했다.,Mi colegio ganó el campeonato.
+,,,,Ganamos el campeonato.
+,,B,우리 학교가 우승을 차지했다.,Los estudiantes de mi colegio ganaron el campeonato.
+M-IS-PP-01-0071,71,A,고려대에서 행사를 개최합니다.,La universidad de Corea organiza el evento.
+,,B,고려대에서 행사가 개최됩니다.,El evento se lleva a cabo en la Universidad de Corea.
+M-IS-PP-01-0072,72,A,네 남자친구 키가 꽤 크네.,Tu novio es bastante alto.
+,,B,네 남자친구의 키가 크네.,¡Qué altura tiene tu novio!
+M-IS-PP-01-0073,73,A,내 동생 오면 너에게 전화하라고 할게.,Le diré a mi hermano que te llame cuando venga.
+,,B,,Diré que te llame cuando venga mi hermano
+M-IS-PP-01-0074,74,A,나는 이제 그 친구가 보고싶다.,Yo ya echo de menos a ese amigo.
+,,B,그 친구는 나에게 그리움을 느끼게 한다.,Ese amigo ya hace que le eche de menos
+M-IS-PP-01-0075,75,A,선생님이 말씀하신대로 하라고 할게.,Le diré que lo haga como el profesor diga.
+,,B,,Diré que haga como el profesor diga.
+M-IS-PP-01-0076,76,A,그 남자는 그 여자를 너무 사랑했어요.,Ese hombre ama mucho a esa mujer.
+,,B,그는 그녀를 너무 사랑했어요.,El hombre ama mucho a la mujer.
+M-IS-PP-01-0077,77,A,그 아이는 그 선생님을 싫어해요.,Este niño odia a ese profesor.
+,,B,그 아이는 선생님을 싫어해요.,Este niño odia al profesor.
+M-IS-PP-01-0078,78,A,아무리 노력해도 화가 가라앉지를 않는다.,"No importa cuánto lo intente, sigo muy enfadada"
+,,B,,"no importa cuánto lo intente, mi enfado sigue siendo grande"
+M-IS-PP-01-0079,79,A,걔는 어쩌자고 혼자 거기를 다갔다니?,¿Cómo es que fue allí solo?
+,,B,걔는 왜 혼자 거기를 다갔다니?,¿Por qué fue allí solo?
+M-IS-PP-01-0080,80,A,약 먹으면 좀 나아질거야.,"Si tomas medicamento, estarás mejor. "
+,,B,약은 너를 더 낫게할거야.,El mediamento hará que te mejores.
+M-IS-PP-02-0081,81,A,엄마는 나에게 선물을 줬어요.,Mi madre me hizo un regalo.
+,,B,,Mi madre me dio un regalo.
+M-IS-PP-02-0082,82,A,엄마는 아빠에게 그 말을 하지 않았어요.,Mi madre no se lo dijo a mi padre.
+,,B,,Mi madre no dijo eso a mi padre.
+M-IS-PP-02-0083,83,A,사장님이 귀하께 편지를 보내셨습니다.,El jefe le envió una carta a usted.
+,,B,사장님이 너에게 편지를 보냈다.,El jefe envió una carta a usted.
+M-IS-PP-02-0084,84,A,범인은 우리에게 사과를 하지 않았어요.,El criminal no se disculpó con nosotros.
+,,B,,El criminal no se nos disculpó.
+M-IS-CM-01-0085,85,A,우리 집에 너를 초대할게.,Te invito a mi casa.
+,,B,집에 너를 초대할게.,Te invito a nuestra casa.
+M-IS-CM-01-0086,86,A,내 가방이 어디있더라?,¿Dónde está mi bolso?
+,,B,,
+M-IS-CM-01-0087,87,A,제 컵이 깨졌어요.,Mi copa se ha roto.
+,,B,,
+M-IS-CM-01-0088,88,A,네 책은 어디서 샀니?,¿Dónde compraste ese libro?
+,,B,,¿Dónde compraste tu libro?
+M-IS-CM-01-0089,89,A,책상위에 책들이 많은데 내건 없어.,"Hay muchos libros sobre la mesa, pero no está el mío. "
+,,B,책상위에 책들이 많은데 내 책은 없어.,"Hay muchos libros sobre la mesa, pero no está mi libro."
+M-IS-CM-01-0090,90,A,친구를 사귀는건 나에게 맞지 않다.,Hacer amigos no es lo mío.
+,,B,친구를 사귀는건 내 일이 아니다,Hacer amigos no es para mí.
+M-IS-CM-01-0091,91,A,그건 제것이 아니에요.,Eso no es mío.
+,,B,,
+M-IS-CM-01-0092,92,A,영어 선생님이세요? 제 친구 중 하나도 영어선생님이에요.,¿Eres profesor de inglés? Un amigo mío es también profesor de inglés.
+,,B,영어 선생님이세요? 제 친구도 영어선생님이에요.,¿Eres profesor de inglés? Mi amigo es también profesor de inglés.
+M-IS-CM-01-0093,93,A,내 친구는 영어선생님이야.,Mi amigo es profesor de inglés.
+,,B,내 한 친구는 영어선생님이야.,Un amigo mío es profesor de inglés.
+M-IS-CM-01-0094,94,A,우리 집은 이 동네에 있지 않아요.,Mi casa no está en este barrio
+,,B,내 집은 이 동네에 있지 않아요.,La casa mía no está en este barrio.
+M-IS-CM-01-0095,95,A,너의 자켓과 내 자켓은 같은 회사 거다.,Tu chaqueta y la mía son de la misma empresa.
+,,B,너의 자켓과 내 것은 같은 회사 거다.,La chaqueta tuya y la mía son de la misma empresa.
+M-IS-CM-01-0096,96,A,이게 네거니?,¿Esto es tuyo?
+,,B,,¿Esto es de ti?
+M-IS-CM-01-0097,97,A,그 말은 진짜 너답구나.,Esta palabra es muy tuya.
+,,,,Esta palabra es muy típica de ti.
+,,B,그 말은 진짜 너의 것이다.,La palabra es muy tuya.
+M-IS-CM-01-0098,98,A,그 애는 그 애다운 행동을 했어.,Hizo un gesto muy suyo.
+,,B,그 애는 진짜 그의 행동을 했다.,
+M-IS-CM-01-0099,99,A,이 책은 매우 흥미로워 보이는데 제 책은 그렇지 않아요.,"Este libro parece muy interesante, pero el mío no."
+,,B,이 책은 매우 흥미로워 보이는데 제 것은 그렇지 않아요.,
+M-IS-CM-01-0100,100,A,저기 많은 차들이 있는데 우리 차들은 없어요.,"Hay muchos coches allí, pero no están los nuestros.  "
+,,B,저기 많은 차들이 있는데 우리것들은 없어요.,
+M-IS-CM-01-0101,101,A,우리 차들은 매우 좋아요.,Nuestros coches son muy buenos.
+,,B,우리 차는 매우 좋아요.,Los coches de nosotros son muy buenos.
+M-IS-CM-01-0102,102,A,"시장님, 저희 입장도 생각해주십시오.","Alcalde, considere también nuestra opinión."
+,,B,"시장님, 우리 입장도 생각해주십시오.",
+M-IS-CM-01-0103,103,A,"엄마, 저희가 드리는 선물이에요. ","Mamá, este es nuestro regalo para ti."
+,,B,"엄마, 우리가 드리는 선물이에요.",
+M-IS-CM-01-0104,104,A,은채 핸드폰은 삼성 핸드폰이에요.,El móvil de Eunchae es de Samsung.
+,,B,,El móvil de Eunchae es un Samsung.
+M-IS-CM-01-0105,105,A,은채의 비싼 핸드폰은 삼성 핸드폰이에요.,El móvil caro de Eunchae es de Samsung.
+,,B,,
+M-IS-CM-01-0106,106,A,그녀의 날리는 머릿결은 매혹적이다.,Su cabello suelto es fascinante.
+,,B,,
+,,,,Trabajo en una empresa que produce camas. Nuestras camas son muy buenas.
+,,B,,Trabajo en una empresa que produce camas. Nuestra cama es muy buena.
+M-IS-CM-01-0108,108,A,우리집 침대는 굉장히 비싸요.,Nuestra cama es muy cara.
+,,B,,La cama de nuestra casa es muy cara.
+M-IS-CM-01-0109,109,A,우리 아빠는 굉장히 똑똑해.,Mi padre es muy inteligente.
+,,B,,Nuestro padre es muy inteligente.
+M-IS-CM-01-0110,110,A,우리 오빠랑 나는 우리 아빠를 매우 자랑스러워해요.,Mi hermano y yo estamos muy orgullosos de nuestro padre.
+,,B,,
+M-IS-PP-03-0241,241,A,그 아이는 예술 고등학교 학생이 되었다.,El chico consiguió ser un estudiante de secundaria de arte.
+,,B,그 아이는 예술 고등학교 학생으로 변했다.,El chico se hizo en un estudiante de secundaria de arte.
+M-IS-PP-03-0242,242,A,나는 작년 7월에 엄마가 되었다.,Me convertí en madre en julio del año pasado.
+,,,,Fui madre en julio del año pasado.
+,,B,나는 작년 7월에 엄마로 변했다.,Me hice madre en julio del año pasado.
+M-IS-PP-03-0243,243,A,내 친구는 결국 의사가 되지 못했다.,"Después de todo, mi amigo nunca se podía convertir en médico."
+,,B,내 친구는 결국 의사이지 못했다.,"Después de todo, mi amigo no fue el médico."
+M-IS-PP-03-0244,244,A,내 친구는 결국 의사가 되지 않았다.,"Al final, mi amino no quiso llegar a ser el médico."
+,,B,내 친구는 결국 의사를 안했다.,Mi amigo no quiso convertirse en el médico.
+M-IS-PP-03-0245,245,A,그 고양이는 우리집 고양이가 아닙니다.,Este gato no es nuestro gato.
+,,B,그 고양이는 우리 고양이가 아닙니다.,Este gato no es mi gato.
+M-IS-PP-03-0246,246,A,그 학생은 외국인이 아닙니다.,Este estudiante no es extranjero.
+,,B,,
+M-IS-PP-03-0247,247,A,내 아들은 아직 학생입니다.,Mi hijo todavía es estudiante.
+,,B,,
+M-IS-PP-03-0248,248,A,"설탕이 많이 들어있는걸 보니, 그 과자는 너무 달겠다. ","Como veo que contiene mucho azúcar, la galleta estará demasiado dulce."
+,,B,"설탕이 많이 들어있는걸 보니, 그 과자는 달 것이다. ","Como veo que contiene mucho azúcar, la galleta será demasiado dulce. "
+M-IS-PP-03-0249,249,A,그 아이는 키가 많이 작았다.,El chico era muy bajo.
+,,B,그 아이는 키가 많이 작았었다.,El chico estaba muy bajo.
+M-IS-PP-03-0250,250,A,내 건강은 훨씬 좋아졌어요.,Mi salud ha mejorado mucho.
+,,B,내 건강이 훨씬 더 좋아요.,Mi salud es mucho mejor ahora.
+M-IS-PP-03-0251,251,A,언제쯤 해가 길어지기 시작하나요?,¿Cuándo empiezan a alargarse los días?
+,,B,언제 해가 길기 시작하나요?,¿Cuándo empiezan a ser largos los días?
+M-IS-PP-03-0252,252,A,가을에는 잎이 빨개집니다.,En otoño las hojas se ponen en rojas.
+,,B,가을에는 잎이 빨개지기 시작합니다.,En otoño las hojas empiezan a ser rojas.
+M-IS-PP-03-0253,253,A,그 사건 이후 그는 매우 불신에 가득차게 되었습니다.,Se volvió muy desconfiado después de aquel suceso.
+,,B,그 사건 이후 그는 매우 불신에 가득차기 시작했습니다.,Empezó a ser muy desconfiado después de aquel suceso.
+M-IS-PP-03-0254,254,A,나는 너무 놀라 아무 말도 할수 없었습니다.,Me quedé mudo porque me asustó mucho.
+,,B,나는 너무 놀라 조용해졌습니다.,Me quedé tranquilo porque me asustó mucho.
+M-IS-PP-03-0255,255,A,심한 운동은 위험을 초래할 수 있습니다.,Mucho deporte puede resultar peligroso
+,,B,심한 운동은 위험해집니다.,Mucho deporte se vuelve peligroso.
+M-IS-PP-03-0256,256,A,결국 이 나라가 승자가 되었습니다.,Al final este país salió vencedor.
+,,B,결국 이 나라가 승자였습니다.,Al final este país fue vencedor.
+M-IS-CM-02-0257,257,A,각 집에는 두 개의 창문이 있습니다.,Cada casa tiene dos ventanas.
+,,B,집 마다 두개의 창문이 있습니다,Todas las casas tienen dos ventanas.
+M-IS-CM-02-0258,258,A,각 네 채의 집마다 두개의 창문이 있습니다.,"Cada cuatro casas, las casas tienen dos ventanas."
+,,B,네 채의 집은 두개의 창문이 있습니다.,Cuatro casas tienen dos ventanas.

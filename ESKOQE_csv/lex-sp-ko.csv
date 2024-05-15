@@ -1,0 +1,206 @@
+sentenceid,index,KO,SP,KO_word,SP_word,direction
+L-00-CA-01-0001,1,그녀의 시선은 늘 그를 향해 있다.,Siempre pone la mirada en él.,시선,mirada,K > S
+L-00-CA-01-0002,2,그녀는 그에게 눈길조차 주지 않았다.,Nunca fija la mirada en él.,눈길,mirada,K > S
+L-00-CA-01-0003,3,한국어와 스페인어의 자음의 개수는 다르다.,El número de consonantes del coreano es diferente al del español.,자음,consonante,K > S
+L-00-CA-01-0004,4,한국어와 스페인어의 닿소리의 개수는 다르다.,El número de consonantes del coreano es diferente al del español.,닿소리,consonante,K > S
+L-00-CA-01-0005,5,계란 알레르기가 있으신 분 계신가요?,¿Hay alguien que sea alérgico a los huevos?,계란,huevo,K > S
+L-00-CA-01-0006,6,달걀을 다섯개 사오렴.,Compra cinco huevos.,달걀,huevo,K > S
+L-00-CA-01-0007,7,저는 그 숙어의 의미를 모르겠어요.,No sé el significado de ese modismo.,의미,significado,K > S
+L-00-CA-01-0008,8,저는 교수님의 말 뜻을 모르겠어요.,No sé el significado de lo que ha dicho el profesor.,뜻,significado,K > S
+L-00-CA-01-0009,9,벽의 폭이 충분하지 않은것 같아요.,Parece que la anchura de la pared no es suficiente.,폭,anchura,K > S
+L-00-CA-01-0010,10,도로의 너비는 10m 입니다.,La carretera tiene diez metros de anchura.,너비,anchura,K > S
+L-00-CA-01-0011,11,저쪽에서 신장을 재세요.,Mide la altura por ahí.,신장,altura,K > S
+L-00-CA-01-0012,12,앉은 키도 재야하나요?,¿Se tiene que medir la altura sobre el asiento?,키,altura,K > S
+L-00-CA-01-0013,13,한국에서 차량은 우측 통행입니다.,En Corea se conduce por la derecha.,우측,derecha,K > S
+L-00-CA-01-0014,14,교차로에서 오른쪽으로 꺾으세요.,Gira a la derecha en el cruce.,오른쪽,derecha,K > S
+L-00-CA-01-0015,15,체중이 많이 줄었으면 병원에 가보세요.,Ve al médico si has perdido mucho peso.,체중,peso,K > S
+L-00-CA-01-0016,16,몸무게가 많이 늘어서 작년에 샀던 옷이 안맞아.,Ahora no me queda bien la ropa que compré el año pasado porque he ganado mucho peso.,몸무게,peso,K > S
+L-00-CA-01-0017,17,학교 앞 도로에서 공사가 진행중입니다.,Están de obra en la calle delante del colegio.,도로,calle,K > S
+L-00-CA-01-0018,18,집 앞 길에서 큰 사고가 났어요.,Hubo un gran accidente en la calle delante de mi casa.,길,calle,K > S
+L-00-CA-01-0019,19,올바른 언어의 사용은 매우 중요합니다.,Es muy importante el uso correcto de lengua.,언어,lengua,K > S
+L-00-CA-01-0020,20,상황에 적합한 말의 사용은 매우 중요합니다.,Es muy importante el uso correcto de lengua adecuado a la situación.,말,lengua,K > S
+L-00-CA-02-0021,21,해변가에 가면 우선 파라솔을 대여하자.,Vamos a alquilar un parasol cuando vamos a la playa.,파라솔,parasol,K > S
+L-00-CA-02-0022,22,마드리드에는 유명한 츄로스 카페가 있어요.,"En Madrid, hay una cafetería de churros muy conocida. ",츄로스,churros,K > S
+L-00-CA-02-0023,23,내일 데킬라 한잔 할까?,¿Mañana tomamos una tequila?,데킬라,tequila,K > S
+L-00-CA-02-0024,24,모니터를 크고 좋은걸 사고 싶어요.,Quiero comprar una pantalla grande y buena.,모니터,pantalla,K > S
+L-00-CA-02-0025,25,내 키보드가 고장나서 지금 일을 할수 없어요.,"Como mi teclado no funciona, ahora no puedo trabajar.",키보드,teclado,K > S
+L-00-CA-02-0026,26,차 키 좀 가져와봐.,Trae la llave del coche.,키,llave,K > S
+L-00-CA-02-0027,27,너 취미들이 뭐가 있니?,¿Qué hobbies tienes?,취미,hobby,S > K
+L-00-CA-02-0028,28,그는 넷 상에서의 언어 사용에 대해 연구합니다.,Él investiga el uso del lenguaje en el ciberespacio.,넷 상,ciberespacio,S > K
+L-00-CA-02-0029,29,그녀는 수다떠는걸 진짜 좋아해요.,A ella le encanta chatear.,수다 떠는 것,chatear,S > K
+L-00-CA-02-0030,30,네 청바지 진짜 예쁘다.,Tu bluyín es muy bonito.,청바지,bluyín,S > K
+L-00-CA-02-0031,31,그 마트의 가판대에서 파는 토마토가 진짜 맛있었어.,Los tomates que se vendían en el estand de ese mercado eran buenísimo.,가판대,estand,S > K
+L-00-CA-02-0032,32,비누말고 샴푸로 머리를 감으렴.,No te laves el pelo con jabón sino con champú.,샴푸,chumpú,ambos
+L-00-CA-02-0033,33,빵집에서 일하다가 나는 가수로 캐스팅 되었어요.,Hice un casting para cantante cuando trabajaba en una panadería.,캐스팅,casting,ambos
+L-00-CA-02-0034,34,손흥민은 현재 EPL에서 골 득점 랭킹 5위에요.,Heungmin Son está en el quinto en el ranquin en la primera liga de Inglaterra.,랭킹,ranquin,ambos
+L-00-CA-02-0035,35,이 카페는 무료 와이파이를 제공하지 않아요.,Esta cafetería no ofrece wifi gratis.,와이파이,wifi,ambos
+L-00-CA-02-0036,36,대학 생활의 꽃은 동아리 활동이라고 생각해.,Lo más importante de la vida universitaria son las actividades del club.,동아리,club,ambos
+L-00-CA-02-0037,37,나는 졸업하고 마케팅 관련 일을 하고 싶어요.,Quiero trabajar en el sector del marketing después de graduarme.,마케팅,marketing,ambos
+L-00-CA-02-0038,38,허위정보를 쓰는게 블로거들의 문제에요.,El problema de los blogueros es escribir información falsa.,블로거,bloguero,ambos
+L-00-CA-02-0039,39,고려대학교 캠퍼스는 진짜 예뻐요.,El campus de la universidad de Corea es muy bonito.,캠퍼스,campus,ambos
+L-00-CA-02-0040,40,오늘 이교수님 수업시간에 깜짝 테스트를 봤어.,Hoy hemos tenido un test sorpresa en la clase de Lee.,테스트,test,ambos
+L-00-CA-02-0041,41,요즘 많은 젊은이들이 피어싱과 문신을 합니다.,Muchos jóvenes ahora llevan piercings y tatuaje.,피어싱,piercing,ambos
+L-00-CA-02-0042,42,인플레이션은 정부가 해결해야할 가장 큰 과제입니다.,La inflación es un problema muy grave que el gobierno tiene que solucionar.,인플레이션,estanflación,ambos
+L-00-CA-02-0043,43,너 스파게티 좋아하니?,¿Te gustan los espaguetis?,스파게티,espaguetis,ambos
+L-00-CA-02-0044,44,예전부터 파파라치로 인해 연예인들이 겪는 스트레스가 많았어요.,Desde hace mucho tiempo muchos artistas han tenido mucho estrés por los paparazzis.,파파라치,paparazzis,ambos
+L-00-CA-02-0045,45,공부하면서 아르바이트까지 하는건 나에게 너무 힘들어요.,Me cuesta mucho estudiar y trabajar a tiempo parcial.,아르바이트,trabajo a tiempo parcial,K > S
+L-00-CA-02-0046,46,할로윈은 미국의 문화이지만 현재 한국과 스페인 모두에서 사람들이 즐깁니다.,"Aunque halloween viene de la cultura estadosunidense, hoy en día lo celebran muchas personas en ambos países, en Corea y en España.",할로윈,halloween,ambos
+L-00-CA-02-0047,47,그 카페는 카페라떼가 진짜 맛있어.,El café con leche de esa cafetería es buenísimo.,카페라떼,café con leche,K > S
+L-00-CA-02-0048,48,내 아내는 내가 만든 까르보나라를 진짜 좋아해요.,A mi mujer le gusta mucho la carbonara preparada por mí.,까르보나라,carbonara,ambos
+L-00-CA-02-0049,49,마네킹의 옷을 사고 싶어요.,Quiero comprar la ropa del maniquí.,마네킹,maniquí,ambos
+L-00-CA-02-0050,50,소프트웨어 개발자들은 급여가 높습니다.,El desarrollador de software cobra mucho sueldo.,소프트웨어,software,ambos
+L-00-DO-01-0051,51,우리 할매가 전구지 요리를 해주신디야.,Mi abuela me prepara un plato de cebollino.,전구지,cebollino,K > S
+L-00-DO-01-0052,52,바람 마이 부니께 거 공가놔라,Como hace mucho viento fijálo fuerte.,공가놔라,fija,K > S
+L-00-DO-01-0053,53,틀린 문제에는 꼽표를 해놨대이,Puse cruces en las preguntas incorrectas.,꼽표,cruces,K > S
+L-00-DO-01-0054,54,나 아래께 학교 안갔디,Anteayer no fui al colegio.,아래께,anteayer,K > S
+L-00-DO-01-0055,55,누가 내 체육복 감아갔노!!!,¿Quién ha robado mi ropa deportiva?,감아갔노,robado,K > S
+L-00-DO-01-0056,56,하매 세시가?,¿Ya son las tres?,하매,ya,K > S
+L-00-DO-01-0057,57,"워메 시장시런거, 고것도 말이라고 한당까?",¡Qué idiota! ¿De qué color era el caballo blanco de Santiago?,시장시런,idiota,K > S
+L-00-DO-01-0058,58,"으이구 징한 것, 결국 그걸 버려부렸냐..",¡Qué cabezota! ¿Al final lo tiraste?,징한 것,tenaz,K > S
+L-00-DO-01-0059,59,커피를 샀더니 살한톨 맨키로 밖에 안 주대?,¿Compré café y solo me dieron el tamaño de un grano de arroz?,맨키로,como,K > S
+L-00-DO-01-0060,60,가는 돈이 억수로 많다.,Ese chico tiene mucho dinero.,억수로,mucho,K > S
+L-00-DO-01-0061,61,그 산에 낭구가 많뎌~,En esta montaña había muchos árboles.,낭구,árbol,K > S
+L-00-DO-01-0062,62,상 가생이에 그거 두지 말어~,No dejes eso en la orilal de la mesa.,가생이,orilla,K > S
+L-00-DO-01-0063,63,거진 다 했다.,Casi he terminado.,거진,casi,K > S
+L-00-DO-01-0064,64,-아드님 어디 계세요? -가직헌디 없디?,-¿Dónde está su hijo? - ¿No está por aquí?,가직헌,cerca,K > S
+L-00-DO-01-0065,65,암시랑 않네. 어서 앞장 서게.,No pasa nada. Adelante.,암시랑 않네,No pasa nada,K > S
+L-00-DO-01-0066,66,"후안 뛰어, 나 진짜 급해.","Corre Juan, que tengo mucha bulla",급해,bulla,S > K
+L-00-DO-01-0067,67,너는 불친절한 사람이야.,Eres un sieso.,불친절한 사람,sieso,S > K
+L-00-DO-01-0068,68,우리가 갔던 그 콘서트는 엄청 좋았어.,El concierto al que fuimos estuvo muy chido.,좋은,chido,S > K
+L-00-DO-01-0069,69,우리 맥주 꺼내서 너의 생일 파티를 해보자!,Vamos a sacar las chelas y celebrar tu cumpleaños!,맥주,chela,S > K
+L-00-DO-01-0070,70,우리 아파트에는 많은 외국인들이 산다.,"En mi departamento, viven muchos extranjeros. ",아파트,departamento,S > K
+L-00-DO-01-0071,71,그녀는 수업시간에 항상 많이 말한다.,Ella siempre platica mucho en la clase.,말한다,platica,S > K
+L-00-DO-01-0072,72,굉장히 매력적인 제안이네요.,Muy piola esa propuesta,매력적인,piola,S > K
+L-00-DO-01-0073,73,"나는 바보인가봐, 차 키를 두고 왔어. ","“Seré boludo, olvidé las llaves del auto”.",바보,boludo,S > K
+L-00-DO-01-0074,74,내 차는 주차장에 있어.,Mi carro está en estacionamiento.,차,carro,S > K
+L-00-DO-01-0075,75,클럽에 남자놈들이 진짜 많네.,Hay muchos pibes en la discoteca.,남자,pibe,S > K
+L-00-DO-01-0076,76,다 젖지 않으려면 우산을 챙겨 가렴.,"Para no choparse, lleva el paraguas. ",젖다,choparse,S > K
+L-00-DO-01-0077,77,요리하려면 냄비가 하나 필요해.,"Para cocinar, necesitamos un cazo. ",냄비,cazo,S > K
+L-00-DO-01-0078,78,엊그제 우리 여기 왔었어요.,"Antier, venimos acá.",엊그제,antier,S > K
+L-00-DO-01-0079,79,그는 내 학교 친구고 그녀는 내 대학교 친구에요.,Él es mi pana del colegio y ella mi pana de la universidad.,친구,pana,S > K
+L-00-DO-01-0080,80,이봐 나한테 농담 아무거나 해봐. 나 좀 웃고 싶어.,Oye cuéntame un cacho que me quiero reír un poco,농담,cacho,S > K
+L-00-DO-02-0081,81,한국은 작년 무역수지가 적자였다.,El año pasado la balanza comercial de Corea era negativa.,무역수지,balanza comercial,ambos
+L-00-DO-02-0082,82,그 배우는 많은 악플러들을 명예훼손으로 고소했어요.,El actor acusó de difamación a muchos troles.,명예훼손,difamación,ambos
+L-00-DO-02-0083,83,그 배우는 많은 악플러들을 명예훼손으로 고소했어요.,El actor acusó de difamación a muchos troles.,악플러들,troles,ambos
+L-00-DO-02-0084,84,약관을 참조하시기 바랍니다.,"Consulta las cláusulas, por favor.",약관,cláusula,ambos
+L-00-DO-02-0085,85,국민 평균 명목소득이 3년새 많이 향상 되었어요.,El ingreso nominal promedio del país ha mejorado significativamente en los últimos tres años.,명목소득,ingreso nominal,ambos
+L-00-DO-02-0086,86,그 회사의 전환사채 발행 횟수가 많이 3년새 많이 증가하였어요.,El número de bonos convertibles emitidos por esa empresa ha aumentado mucho en los últimos tres años.,전환사채,bono convertible,ambos
+L-00-DO-02-0087,87,보호무역은 국가가 무역에 개입하는 가장 대표적인 예시입니다.,El comercio protegido es el ejemplo representativo de que el gobierno interviene en comercios internacionales.,보호무역,comercio protegido,ambos
+L-00-DO-02-0088,88,엔화 환율이 많이 하락해서 일본 여행가기 너무 좋아.,"El tipo de cambio del yen ha bajado mucho, por eso es muy buena hora para viajar a Japón.",환율,tipo de cambio,ambos
+L-00-DO-02-0089,89,한국은행은 시중금리를 동결시켰습니다.,El Banco de Corea congeló los tipos de interés comercial.,시중금리,tipo de interés comercial,ambos
+L-00-DO-02-0090,90,당신이 투자하려는 회사의 신용등급은 어떤가요?,¿Cómo es el ratio de solvencia de la empresa que quiere usted invertir?,신용등급,ratio de solvencia,ambos
+L-00-DO-02-0091,91,판사는 심신미약의 사유로 그 피고인을 기소유예 판결 하였다.,El juez determinó la anulación de la acusación por debilidad física y mental.,기소유예,anulación de acusación,ambos
+L-00-DO-02-0092,92,집을 사기 전에 꼭 그 집의 등기를 확인해봐야해.,"Antes de comprar una casa, se tiene que comprobar el registro de la propiedad de la casa. ",등기,registro,ambos
+L-00-DO-02-0093,93,소송을 하기 전에 소송 요건을 충족하였는지 먼저 알아봐야해요.,"Antes de demandar, se tiene que comprobar si fueron satisfechos los requisitos de pleito. ",소송요건,requisitos de pleito,ambos
+L-00-DO-02-0094,94,요즘 대부분의 국가는 삼권분립을 추구하고 있습니다.,"Hoy en día, la mayoría de los países persiguen la separación de los tres poderes.",삼권분립,separación de los tres poderes,ambos
+L-00-DO-02-0095,95,그 시는 공공의료기관을 짓기 위한 수의계약을 하려고 합니다.,Ese ayuntamiento trata de hacer contrato privado para construir el nuevo hospital público.,수의계약,contrato privado,ambos
+L-00-DO-02-0096,96,그 교수는 백내장을 앓았으나 다행히 각막이식을 받아 회복되었어요.,"El profesor padecía cataratas, pero afortunadamente se recuperó tras recibir un trasplante de córnea.",각막이식,transplantación de córnea,ambos
+L-00-DO-02-0097,97,그 환자의 에이즈 감염경로가 불투명합니다.,No sabe cuál es la vía de infección de SIDA de ese paciente.,감염경로,vía de infección,ambos
+L-00-DO-02-0098,98,채혈 후 모세혈관이 터져 멍이 들수 있어요.,"Después de que se extrae sangre, algunos capilares pueden estallar y salir morados. ",모세혈관,capilar,ambos
+L-00-DO-02-0099,99,악성종양 치료에는 동맥주사가 쓰입니다.,La inyección arterial se utiliza para tratar tumores malignos.,동맥주사,inyección arterial,ambos
+L-00-DO-02-0100,100,신경조직 이식에 관한 연구가 현재 활발히 진행중입니다.,El estudio de trasplante de tejido nervioso está en marcha.,신경조직,tejido nervioso,ambos
+L-00-DO-02-0101,101,그 약은 발기부전에 효과적인 약이에요.,Este medicamento es muy efectivo para la impotencia.,발기부전,impotencia,ambos
+L-00-DO-02-0102,102,우리 사장님은 갑자기 말기 암 판정을 받으셨어요.,"De repente, a mi jefe le diagnosticaron un cáncer terminal.",말기 암,cáncer terminal,ambos
+L-00-DO-02-0103,103,원심운동은 원 운동을 하는 물체가 회전 중심에서 멀어지는 현상입니다.,El movimiento centrífugo es el fenómeno en el que un objeto en movimiento circular se aleja del centro de rotación.,원심운동,movimiento centrífugo,ambos
+L-00-DO-02-0104,104,그 물질의 원자구조를 한번 확인해봐야겠어.,Tengo que comprobar la estructura del átomo.,원자,átomo,ambos
+L-00-DO-02-0105,105,삼중수소는 인간에게 그렇게 위험하지 않습니다.,El tritio no es tan peligroso para los húmanos.,삼중수소,tritio,ambos
+L-00-DO-02-0106,106,"샤를의 법칙에 따르면 압력이 일정할 때 기체의 온도가 높아지면 기체의 부피가 증가하고, 온도가 낮아지면 부피가 감소합니다. ","Según la ley de Charles, cuando la presión es constante y la temperatura de un gas aumenta, el volumen del gas aumenta; y, cuando la temperatura disminuye, el volumen disminuye.",샤를의 법칙,ley de Charles,ambos
+L-00-DO-02-0107,107,복사에너지는 적외선이나 광선 등의 복사선이 운반하는 에너지를 말합니다.,"La energía radiante se refiere a la energía transportada por la radiación, como los rayos infrarrojos o los rayos de luz.",복사에너지,energía radiante,ambos
+L-00-DO-02-0108,108,오늘 혼성합창 공연도 있나요?,¿Hoy hay un concierto de coro mixto?,혼성합창,coro mixto,ambos
+L-00-DO-02-0109,109,이 부분은 크레센도로 연주해야해.,Esta parte debe tocarse con un crescendo.,크레센도,crescendo,ambos
+L-00-DO-02-0110,110,그녀는 그 합창단에서 가장 뛰어난 소프라노입니다.,Ella es la mejor soprano en ese coro.,소프라노,soprano,ambos
+L-00-DO-02-0111,111,정당정치는 정당이 정치적실권을 가지는 정치입니다.,La política de partidos es una política en la que los partidos políticos tienen poder político real.,정당정치,política de partido,ambos
+L-00-DO-02-0112,112,스페인은 연방제인가요?,¿España es un sistema federal?,연방제,sistema federal,ambos
+L-00-DO-02-0113,113,어제 이강인이 넣은 골은 패널티킥이었어요.,El gol de Kangin Lee del partido de ayer fue un tiro de penalti.,패널티킥,penalti,ambos
+L-00-DO-02-0114,114,메시가 코너킥을 찬 후 골이 들어갔습니다.,El gol vino después de que Messi sacara de córner.,코너킥,saque de córner,ambos
+L-00-DO-02-0115,115,분명한 오프사이드였으나 심판은 그걸 보지 못했습니다.,Fue un claro fuera de juego pero el árbitro no lo vio.,오프사이드,fuera de juego,ambos
+L-00-DO-03-0116,116,그 어린 선수는 첫번째 경기에서 홈런을 쳤습니다.,El joven jugador consiguió un home run en su primer partido.,홈런,home run,ambos
+L-00-DO-03-0117,117,그 테니스 선수를 리버스를 진짜 잘하는 챔피언이다.,Ese tenista tiene el mejor revés del campeonato.,리버스,revés,ambos
+L-00-DO-03-0118,118,Kim은 2개의 터치다운을 위해 달렸다.,Kim corrió para dos touchdowns.,터치다운,touchdown,ambos
+L-00-DO-03-0119,119,축구에서 파울은 선수가 경기의 규칙을 위반하는 경우 부과됩니다.,"Una falta, en fútbol, se produce cuando un jugador comete una infracción de las reglas del juego.",파울,falta,ambos
+L-00-DO-03-0120,120,마지막 순간에 3점슛을 넣어서 경기에서 이길 수 있었다.,Metió un triple en el último segundo y ganaron el partido.,3점 슛,triple,ambos
+L-00-DO-03-0121,121,주식시장에서 개미들은 돈을 잃기가 너무 쉬워요.,"En el mercado de acciones, es muy fácil que los inversores particulares pierdan dinero. ",개미,inversores particulares,K >S
+L-00-DO-03-0122,122,정보의 주작질은 이 신문사의 큰 문제이다.,La manipulación de información es un gran problema de este periódico.,주작질,manipulación,K >S
+L-00-DO-03-0123,123,"너 농담이지, 그렇지?","Estás de coña, ¿no?",농담이다,de coña,S > K
+L-00-DO-03-0124,124,그 골키퍼 기름손이라 나는 별로 안좋아해.,No me gusta ese portero porque tiene manos de mantequilla.,기름,mantequilla,ambos
+L-00-DO-03-0125,125,나 지금 궁서체로 말하는거야.,Ahora te lo digo en serio.,궁서체,en serio,K >S
+L-00-DO-03-0126,126,지금 할인기간이야. 뭔가 득템 좀 해보자.,Son rebajas. Vamos a pillar algo.,득템하다,pillar,ambos
+L-00-DO-03-0127,127,동방에서 지금 동아리 회의를 하고 있어.,En la sala del grupo hay una reunión.,동방,sala del grupo,K >S
+L-00-DO-03-0128,128,Juan은 여자친구랑 헤어져서 잠수탔어.,"Juan ha roto con su novia, por eso se ha esfumado. ",잠수타다,se ha esfumado,ambos
+L-00-DO-03-0129,129,Juan은 항상 무임승차를 해서 아무도 그와 일하고 싶어하지 않는다.,Nadie quiere trabajar con Juan porque es un paquete siempre.,무임승차,paquete,ambos
+L-00-DO-03-0130,130,"스드메 그렇게 빨리 준비하지마, 결혼식까지 아직 많이 남았잖아. ","No te arregles tan pronto, que todavía queda bastante hasta la boda. ",스드메,arreglarse,K >S
+L-00-DO-03-0131,131,그 악개는 악플을 너무 많이 달더라.,Ese aficionado que le gusta solo un miembro de un gropu musica escribe muchos comentarios malos.,악개,aficionado que le gusta solo un miembro de un grupo musical.,K >S
+L-00-DO-03-0132,132,"나는 Luis가 너무 싫어, 매주 주말마다 걔는 걔 잘난 친구들이랑 맨날 놀거든.","Estoy harta de Luis, todos los fin de semana sale con sus amigotes. ",잘난 친구들,amigotes,S > K
+L-00-DO-03-0133,133,오늘 퇴근하고 맥주 한잔 할래?,"Cuando salgamos de trabajar hoy, ¿nos vemos de cañas?",맥주,cañas,S > K
+L-00-DO-03-0134,134,니 셔츠 내 취향 저격이다.,Me mola mucho tu camiseta.,취향 저격이다,mola,ambos
+L-00-DO-03-0135,135,어제 파티에서 우리는 끝내주게 보냈다.,Nos lo pasamos de muerte en la fiesta de ayer.,끝내주게,de muerte,ambos
+L-00-DO-03-0136,136,장난감을 정리하려고 했는데 다 망했어.,Intenté arreglar el juguete y me lo cargué.,다 망했어.,me lo cargué,S > K
+L-00-DO-03-0137,137,내일은 휴일인데 나는 일해야해.,Mañana es festivo pero yo tengo que currar.,일하다,currar,S > K
+L-00-DO-03-0138,138,"너 똥손이라서 망가뜨릴거 같아, 내가 할게.","Lo hago yo, que tú eres un manazas, seguro que lo rompes",똥손,manazas,ambos
+L-00-DO-03-0139,139,나 땡전 한푼도 없어서 이번 주말에 나갈 수 없어.,"Este finde no puedo salir, no tengo pelas.",땡전,pelas,ambos
+L-00-DO-03-0140,140,사장님은 그 소식을 들었을때 엄청 빡쳤어.,El jefe se cabreó mucho cuando se enteró.,빡쳤다,se cabreó,ambos
+L-00-DO-03-0141,141,나는 이 사건으로 너무 바빠서 뭘 해야할지 모르겠어.,"No sé que hacer, estoy muy liada con este asunto. ",바쁘다,liada,S > K
+L-00-DO-03-0142,142,그 소식을 들었을때 엄청 식겁했다.,Estaba muy flipando al oír esa noticia.,식겁했다,flipando,S > K
+L-00-DO-03-0143,143,그녀가 이미 남자친구가 있다는 말을 들었을때 기분이 정말 엿같았다.,Me dio mucho bajón cuando me dijeron que ella ya tenía novio.,엿같았다,dio mucho bajón,ambos
+L-00-DO-03-0144,144,그 그룹이 우리 노래를 불렀을 때 기분이 쩔었다.,Qué subidón cuando el grupo cantó nuestra canción.,쩔었다,subidón,ambos
+L-00-DO-03-0145,145,진짜 예술이다.,¡Qué arte!,예술이다,¡Qué arte!,ambos
+L-00-DO-04-0146,146,아가리 닥쳐.,Cierra tu puta boca,아가리,puta boca,ambos
+L-00-DO-04-0147,147,너는 존나 좋은 친구야.,Eres un amigo de puta madre.,존나 좋은,de puta madre,ambos
+L-00-DO-04-0148,148,항상 양놈들이 멕시코에서 문제야.,Siempre los gringos son un problema en México.,양놈들,gringos,ambos
+L-00-DO-04-0149,149,시발 진짜 짜증나는 인간이네. 쉴새 없이 말해.,"Joder, que hombre más pesado. Habla sin parar.",시발,joder,ambos
+L-00-DO-04-0150,150,걔는 동시에 세명의 여자친구를 사귀었어. 진짜 개자식이야.,"Él tenía tres novias al mismo tiempo, es cabrón.",개자식,cabrón,ambos
+L-00-DO-04-0151,151,"오늘 좆같은 하루였어, 나 외출 좀 해야겠어.","He tenido un día de mierda, necesito salir.",좆같다,mierda,ambos
+L-00-DO-04-0152,152,진짜 꺼져 뭐하는거야,"Vete a la mierda, ¿Qué haces aquí?",꺼져,vete,ambos
+L-00-DO-04-0153,153,"어떻게 그 자리에 올라갔는지 모르겠어, 걔 진짜 멍청이인데. ",No sé cómo ha llegado tan alto porque es imbécil,"멍청이, 백치",imbécil,ambos
+L-00-DO-04-0154,154,정신나간 멍청이네.,Es tonto perdido.,정신나간,perdido,ambos
+L-00-DO-04-0155,155,시발년! 나한테 레드카드나 주고!,¡Tu puta madre! Me ha dado tarjeta roja.,시발년,tu puta madre,ambos
+L-00-DO-04-0156,156,"내 사장님은 진짜 나쁜놈이야, 항상 마초적인 얘기만 해. ","Mi jefe es gilipollas, siempre dice algo machista.",나쁜놈,gilipollas,ambos
+L-00-DO-04-0157,157,와 너 미쳤네!,¡Qué loca estás!,미친,loco,ambos
+L-00-DO-04-0158,158,야 너 안할꺼야? 쫄보네.,"Venga, ¿no te atreves? Eres un marica. ",쫄보,marica,ambos
+L-00-DO-04-0159,159,"윗집 사람이랑 얘기하지마, 진짜 또라이야.","No hables con el vecino de arriba, está tronado. ",또라이,tronado,ambos
+L-00-DO-04-0160,160,"요즘 나 제정신이 아냐, 나 진짜 모든걸 까먹어. ","Últimamente se me va la olla, se me olvida todo. ",제정신이 아냐,se me va la olla,ambos
+L-00-DO-04-0161,161,나한테 얘기하는걸 듣고 진짜 멘붕이었어.,Me rallé mucho con lo que me estaba diciendo.,멘붕이었어,me rallé,ambos
+L-00-DO-04-0162,162,나 좆망이었어. 나 Juan 여자친구를 파티에 초대했는데 이미 헤어진 뒤었어.,La he cagado: he invitado a la novia de Juan a la fiesta y ya no están juntos.,좆망이었어,la he cagado,ambos
+L-00-DO-05-0163,163,"이모님, 여기 컵 두개만 더 주세요.","Camarera, aquí dos copas de más, por favor.",이모님,camarera,ambos
+L-00-DO-05-0164,164,아가씨 여기 컵 두개 더줘.,"Chica, trae dos copas aquí.",아가씨,chica,ambos
+L-00-DO-05-0165,165,"사장님, 잠깐만 나가 계시겠습니까?","Señor, ¿puede salir un momento por favor?",사장님,señor,ambos
+L-00-DO-05-0166,166,이봐 잠깐 나가 있어.,"Chico, sal un momento. ",이봐,chico,ambos
+L-00-DO-05-0167,167,혹시 여권이나 신분증 있으십니까? 좀 보여주세요.,"¿Usted tiene pasaporte o NIE? Enséñemelo, por favor. ",당신,usted,ambos
+L-00-DO-05-0168,168,너 여권이나 신분증 있어? 보여줘봐.,¿Tienes pasaporte o NIE? Enséñamelo.,너,tú,ambos
+L-00-DO-05-0169,169,여자가 남자보다 운전을 못한다는 것은 편견이다.,Es un prejuicio que la mujer conduce peor que el hombre.,여자,mujer,ambos
+L-00-DO-05-0170,170,운전을 왜 저렇게 해? 역시 어떤 미친년이었네.,"¿Por qué conduce así? Claro, es una tía loca.",년,tía,ambos
+L-00-DO-05-0171,171,짱깨들은 길에서 소리를 엄청 질러대.,Los chinos siempre gritan mucho en la calle.,짱깨,chinos,K >S
+L-00-DO-05-0172,172,그 클럽은 라틴아메리카 음악을 많이 틀어서 라틴아메리카 사람들이 많이 가요.,A esa discoteca van muchos panchitos porque ponen música latinoamericana.,라틴아메리카사람들,panchitos,S > K
+L-00-DO-05-0173,173,어르신이어서 잘 안들리셔서 제가 더 크게 말할게요.,Hablaré alto porque es mayor y no oye bien.,어르신,mayores,ambos
+L-00-DO-05-0174,174,꼰대 같은 말 좀 하지 마세요.,No empieces con tus historias de la guerra.,꼰대 같은 말 좀 하지 마세요.,No empieces con tus historias de la guerra.,ambos
+L-00-DO-05-0175,175,신경쓰지마. 틀딱이라서 유행을 몰라.,"No le hagas caso, es viejo, no entiende de modas. ",틀딱,viejos,ambos
+L-00-FM-01-0176,176,낮말은 새가 듣고 밤말은 쥐가 들으니 언제나 누구랑 얘기할때 말조심해.,"Por la boca muere el pez, por lo tanto siempre ten cuidado con lo que dices. ",낮말은 새가 듣고 밤말은 쥐가 들으니,Por la boca muere el pez,ambos
+L-00-FM-01-0177,177,남의 돈 천냥보다 내 돈 한냥이 더 나으니 괜히 남을 부러워하지 마렴.,"No le envidies a otra persona sin razón porque más vale pájaro en mano, que ciento volando.",남의 돈 천냥보다 내 돈 한냥이 더 나으니,más vale pájaro en mano que cien volando,ambos
+L-00-FM-01-0178,178,그 회사에서 너는 일하면서 기술도 배울수 있어. 일석이조네.,En esa empresa puedes trabajar aprendiendo muchas técnicas. Es matar dos pájaros en un tiro.,일석이조,Matar dos pájaros de un tiro,ambos
+L-00-FM-01-0179,179,쟤네는 사이가 물과 기름 같아.,Son como el agua y el aceite,물과 기름,el agua y el aceite,ambos
+L-00-FM-01-0180,180,이건 빙산의 일각에 불과하고 그 외의 문제는 지금 확인되지 않는다.,"Eso es solo la punta de iceberg, no se ve el resto del problema.",빙산의 일각,la punta de iceberg,ambos
+L-00-FM-01-0181,181,걔 누나 소식을 듣고 걔는 눈이 뒤집혔어.,Se le fue la cabeza al escuchar la noticia de su hermana.,눈이 뒤집히다,se fue la cabeza,ambos
+L-00-FM-01-0182,182,그 지하철 사고는 안전 불감증에 대한 경종을 울린다.,El accidente de metro hizo sonar las armas sobre la falta de seguridad.,경종을 울린다,hizo sonar las alarmas,ambos
+L-00-FM-01-0183,183,"항상 나한테 돈을 요구하는데, 국물도 없어",Siempre está pidiéndome dinero pero ni una gota más.,국물도 없어,ni una gota más,ambos
+L-00-FM-01-0184,184,보통 부모들은 아이들이 자신의 말을 안들으면 뚜껑이 열리지.,Los padres se ponen como una fiera cuando los niños les desobedecen.,뚜껑이 열리다,ponerse como una fiera.,ambos
+L-00-FM-01-0185,185,내 여자친구가 나랑 헤어지고 내 친한 친구랑 사귀었을때 억장이 무너졌다.,"Cuando mi novia me dejó y se fue con su mejor amigo, me rompió el corazón. ",억장이 무너졌다,rompió el corazón,ambos
+L-00-FM-01-0186,186,네가 뭘 알아 이 애송이야.,"Tú qué sabrás, eres un pipiolo ",애송이,pipiolo,ambos
+L-00-FM-01-0187,187,너 지금 내가 감기걸렸을때 차를 마셔야한다고 말하는거야? 그거 미신이야.,¿Dices que tengo que tomar el té de miel cuando estoy resfriada? Son cuentos de abuela.,미신,cuentos de abuela,ambos
+L-00-FM-01-0188,188,그에게 우리의 얘기를 들려주며 우릴 도와주길 바랐지만 그 남자는 피도 눈물도 없더라.,Intentamos que nos ayudara contándole nuestra dura historia pero ese hombre tiene el corazón de piedra.,피도 눈물도 없다,tiene el corazón de piedra,ambos
+L-00-FM-01-0189,189,우리 이모는 항상 우리 일들에 오지랖을 부린다.,Mi tía siempre mete las narices en nuestros asuntos.,오지랖을 부린다.,meter las narices,ambos
+L-00-FM-01-0190,190,그 경기를 이기지 못하면 결승전에 가지 못하기 때문에 우리는 두시간 내내 손에 땀을 쥐었다.,Estuvimos dos horas con el corazón en un puño porque si no ganaramos no iríamos al final.,손에 땀을 쥐었다.,con el corazón en un puño,ambos
+L-00-FM-01-0191,191,면접때문에 너무 긴장돼서 한주 내내 밤을 샜다.,"Como estaba muy nerviosa por la entrevista, pasé todas las noches de la semana en vela. ",밤을 새다,pasar las noches en vela,ambos
+L-00-FM-01-0192,192,뜬구름 잡는 소리 하지 말고 좀 현실적이 되어봐.,"No hagas castillos en el aire, sé más realista. ",뜬구름 잡는,hagas castillos en el aire,ambos
+L-00-FM-01-0193,193,나한테 뒤집어 씌우지 말고 네가 만든 문제는 너 혼자 해결해.,"A mí no me cargues el muerto, el problema lo causaste tú, soluciónalo tú solo. ",뒤집어 씌우지,cargar el muerto a alguien,ambos
+L-00-FM-01-0194,194,어제 좋은 밤 보냈어? 잠자리도 가졌고?,¿Fue bien a cita anoche? ¿Os acostáis?,잠자리도 가졌고,Os acostáis,ambos
+L-00-FM-01-0195,195,그는 여자친구가 바람피워서 헤어졌어.,Lo dejó con su novia porque ella le puso los cuernos.,바람 피워서,poner los cuernos,ambos
+L-00-FM-01-0196,196,이번주 주말에 나 이사하는데 손을 좀 보태줄수 있어?,¿Me echas una mano con la mudanza este fin de semana?,손을 좀 보태다,echar una mano,ambos
+L-00-FM-01-0197,197,나는 결국 내 반쪽을 찾은거 같아요.,Pienso que por fin he encontrado a mi media naranja.,반쪽을 찾다,encontrar a mi medida naranja,ambos
+L-00-FM-01-0198,198,"그 시험은 걱정마, 그거 식은 죽먹기야. ","No te preocupes por esa prueba, es pan comido.",식은 죽먹기야,es pan comido,ambos
+L-00-FM-01-0199,199,나는 너무 부끄러워서 얼굴이 뜨거웠다.,"Estaba tan avergonzada, que me puse roja como un tomate.",얼굴이 뜨거웠다.,roja como un tomate,ambos
+L-00-FM-01-0200,200,그는 콧대가 높아서 Elena랑 사귀고 싶어하지 않는다.,"Él siempre mira por encima del hombro, por eso no quiere salir con Elena. ",콧대가 높아서,mira por encima del hombro,ambos
+L-00-FM-01-0201,201,그 프로젝트로 너는 녹초가 되었구나.,Ese proyecto te ha dejado hecho polvo.,녹초가 되었구나,ha dejado hecho polvo,ambos
+L-00-FM-01-0202,202,"다른 사람한테 부탁하는게 나을거야, 미겔은 진짜 낫놓고 기역자도 몰라. ","Mejor pídeselo a otra persona, Miguel no sabe hacer la o con un canuto",낫 놓고 기역자도 모른다.,hacer la O con un canuto,ambos
+L-00-FM-01-0203,203,아니 새 직원은 어떻게 사장한테 그런 조언을 할수 있어? 진짜 새파랗게 어리네.,¿Cómo se atreve el empleado nuevo a dar consejos al jefe? ¡Es un yogurín!,새파랗게 어린 놈들,yogurín,ambos
+L-00-FM-01-0204,204,그는 절도로 기소되었는데도 얼굴이 두꺼워서 아무렇지도 않아한다.,Le acusaron de robar pero no le importó porque es un caradura,얼굴이 두꺼워서,es un cara dura,ambos
+L-00-FM-01-0205,205,"한 골 만 더, 진짜 승리가 우리 눈앞에 있어. ","Un gol más, casi podemos tocar la victoria con la mano. ",승리가 눈 앞에 있어.,tocar la victoria con la mano,ambos

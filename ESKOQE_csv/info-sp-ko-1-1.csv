@@ -1,0 +1,175 @@
+segmentid,index,KO,SP
+I-00-SU-01-0001,1,10분전에 Juan한테 전화했어.,Llamé a Juan hace 10 minutos.
+I-00-SU-01-0002,2,어제 우산 가져갔어?,¿Llevaste el paraguas ayer?
+I-00-SU-01-0003,3,"A: 너 그를 초대했어? 아니면 그녀를 초대했어?
+B: 그를 초대했어. ","A: ¿A quién invistaste a él o ella? 
+B: Lo invité a él. "
+I-00-SU-01-0004,4,어제 Eloy랑 María를 봤다. Eloy는 매우 행복해보였지만 María는 그렇지 않았다.,"Vi a Eloy y a María ayer. Él estaba muy contento, pero ella no."
+I-00-SU-01-0005,5,아이들은 영화관이 아니라 공원에 갔다.,"Los niños no fueron al cine, sino al parque. "
+I-00-SU-01-0006,6,부모들은 항상 그들의 아이를 사랑하는건 아니다.,Los padres no siempre aman a sus hijos.
+I-00-SU-01-0007,7,Juana는 시험에 합격하지 않았다.,JUANA no aprobó el examen.
+I-00-SU-01-0008,8,많은 사람들이 그 회사에는 남자만 일한다고 생각하지만 Julia가 그곳에서 일하고 있다. 나는 그걸 듣고 매우 놀랐다.,"Mucha gente piensa que solo trabajan hombres, pero Julia trabaja allí. Me sorprendí mucho al escucharlo. "
+I-00-SU-01-0009,9,Pedro와 Martina는 부부이다. 늘 Pedro가 Martina를 때렸는데 어제 처음으로 Martina가 그를 때렸다.,"Pedro y Martina son esposos. Siempre Pedro peleaba a su mujer pero ayer por primera vez, Martina lo peleó. "
+I-00-SU-01-0010,10,"A: 어제 누가 너한테 전화했는지 알아? 
+B: Juan.","A: ¿Sabes quién te llamó ayer? 
+B: Juan. "
+I-00-SU-01-0011,11,"A: 전쟁 어떻게 됐어? 
+B: 전쟁이 시작됐어. ","A: ¿Qué ha pasado con la guerra?
+B: La guerra ha empezado. "
+I-00-SU-01-0012,12,"A: 뭐가 시작했어? 
+B: 경기가 시작됐어. ","A: ¿Qué empezó?
+B: Empezó el partido. "
+I-00-SU-01-0013,13,"A: 전쟁 어떻게 됐어? 
+B: 시작됐어. ","A: ¿Qué pasó con la guerra?
+B: Empezó. "
+I-00-SU-01-0014,14,"A: 전쟁 어떻게 됐어? 
+B: 10일전에 시작됐어. ","A: ¿Qué pasó con la guerra?
+B: Empezó hace 10 días. "
+I-00-SU-01-0015,15,"A: 뭐가 시작했어? 
+B: 경기. ","A: ¿Qué empezó?
+B: El partido. "
+I-00-SU-01-0016,16,"A: 누가 너한테 전화했어?
+B: 후안이 전화했어. 
+A: 왜?
+B: 어제 있었던 회의에 대해 얘기하려고","A: ¿Quién te llamó?
+B: Me llamó Juan. 
+A: ¿Para qué?
+B: Para hablar de la reunión que tuvimos ayer. "
+I-00-SU-01-0017,17,Eloy와 Alicia는 아주 친한 친구이다. 항상 공부를 같이 하고 커피를 같이 마시고 테니스를 같이 친다. 우리는 그들이 연인일거라고 말하지만 걔네는 항상 아니라고 말한다.,"Eloy y Alicia son los mejores amigos; siempre estudian, toman café y juegan al tenis juntos. Decimos que serán novios pero ellos siempre dicen que no. "
+I-00-SU-01-0018,18,나는 María에 대해 Pedro랑 얘기를 하고 있었거든? 근데 갑자기 María가 우리가 있던 방으로 들어온거야. 그리고 나한테 Pedro랑 누구에 대해 얘기하고 있었냐고 물었어. 내가 걔한테 답하고 싶었는데 나 대신 Juan이 „상관하지마“라고 말했어.,"Estaba hablando de María con Pedro. De repente ella entró a la sala donde estabámos y me preguntó de qué hablaba con él. Quería responderle pero él contestó en mi lugar ""No te importa"". "
+I-00-SU-01-0019,19,"A: 언제부터 Pedro가 Alicia랑 일했나요?
+B: 몰라요. 아마도.. 20살때부터요
+A: 누가 20살때부터요?
+B: Pedro요.","A: ¿Desde cuándo ha trabajado Pedro con Alicia?
+B: No sé.. quizás.. desde que tenía 20 años. 
+A: ¿Quién?
+B: Pedro. "
+I-00-SU-01-0020,20,"A: 누구세요?
+B: 나야. ","A: ¿Quién eres?
+B: Soy yo. "
+I-00-SU-01-0021,21,"A: 누구였나요?
+B: 저였어요. ","A:¿Quién ha sido?
+B: He sido yo. "
+I-00-SU-01-0022,22,"A: 어디 보자… 후안이랑 내가 뭘 사야하지?
+B: 책 한권이랑 카펫을 하나 사야해. ","A: A ver, ¿qué compramos Juan y yo?
+B: Compráis un libro y una carpeta. "
+I-00-SU-01-0023,23,"A: 어디 보자… Juan이랑 내가 뭘 사야하지?
+B: Juan은 자켓을 하나 사야하고 너는 셔츠를 하나 사야해. ","A: A ver, ¿qué compramos Juan y yo?
+B: Él compra una chaqueta y tú compras una camiseta. "
+I-00-SU-01-0024,24,"지금 너희들한테 뭘 공부해야할지 말해줄게. Alicia는 수학을 공부해야하고 Pedro는 한국어를, Sofía는 영어를 해야돼. 알겠지? ","Bueno, a ver, os digo qué tenéis que estudiar. Alicia tiene que estudiar matemáticas, Pedro coreano y Sofía inglés. ¿Vale?"
+I-00-SU-01-0025,25,"A: ¿이제 너희 다 먹었니?
+B: 아니요. 시간이 좀 더 필요해요. ","A: ¿Ya habéis acabado de comer?
+B: No, necesitamos más tiempo. "
+I-00-SU-01-0026,26,"A: ¿이제 너희 다 먹었니?
+B: 나는 다먹었는데 Elena는 더 먹고 싶어해요.","A: ¿Ya habéis acabado de comer?
+B: Yo sí, pero Elena quiere comer más. "
+I-00-SU-01-0027,27,"A: 누가 교실에 있어?
+B: Juan이 있어. 
+A: 근데 다른 목소리가 들리는데…
+B: 아마.. 여자친구랑 같이 있을거야. 그 애 여자친구는 Julia야. ","A: ¿Quién está en la sala de clase?
+B: Está Juan. 
+A: Pero oigo otra voz. 
+B: Quizás… está con su novia. Se llama Julia. "
+I-00-SU-01-0028,28,후안이 마리오를 방문했어요. 할말이 있어서요.,Juan visitó a Mario. Quiería hablar.
+I-00-SU-01-0029,29,후안이 마리오를 방문했어요. 그가 할말이 있어서요.,Juan visitó a Mario. Él quiería hablar.
+I-00-SU-01-0030,30,마테오가 그가 일을 할때 후안에게 전화했어요.,Mateo llamó a Juan cuando él trabajaba.
+I-00-SU-01-0031,31,마테오가 일을 할때 후안에게 전화했어요.,Mateo llamó a Juan cuando trabajaba.
+I-00-SU-01-0032,32,어제 나는 집으로 돌아오는 길에 Ana를 만났어요.,Ayer me encontré con Ana cuando volvía a casa.
+I-00-SU-01-0033,33,어제 나는 Ana가 집으로 돌아오는 길에 Ana를 만났어.,Ayer me encontré con Ana cuando ella volvía a casa.
+I-00-SU-01-0034,34,어제 Luis는 집으로 돌아오는 길에 Ana를 만났어요.,Ayer Luis se encontró con Ana cuando volvía a casa.
+I-00-SU-01-0035,35,어제 Luis는 Ana가 집으로 돌아오는 길에 Ana를 만났어요.,Ayer Luis se encontró con Ana cuando ella volvía a casa.
+I-00-SU-01-0036,36,"A: 엘레나가 마리아를 어디서 만났어?
+B: 엘레나가 길에서 만났대. 가게에서 나오던 길이었대. ","A:¿Dónde encontró Elena a María? 
+B: Elena la encontró en la calle. Ella estaba saliendo de la tienda."
+I-00-SU-01-0037,37,"A: 엘레나가 마리아를 어디서 만났어?
+B: 엘레나가 길에서 만났대. 엘레나가 가게에서 나오던 길이었대. ","A:¿Dónde encontró Elena a María? 
+B: Elena la encontró en la calle. Estaba saliendo de la tienda."
+I-00-SU-01-0038,38,"A: 누가 마리아를 만났대?
+B: 엘레나가 길에서 만났대. 엘레나가 가게에서 나오던 길이었대. ","A:¿Quién encontró a María? 
+B: Elena la encontró en la calle. Ella estaba saliendo de la tienda."
+I-00-SU-01-0039,39,"A: 누가 마리아를 만났대?
+B: 엘레나가 길에서 만났대. 엘레나가 가게에서 나오던 길이었대. ","A:¿Quién encontró a María? 
+B: Elena la encontró en la calle. Estaba saliendo de la tienda."
+I-00-SU-01-0040,40,"A: 엘레나가 마리아를 어디서 만났어?
+B: 길에서 만났대. 마리아가 가게에서 나오고 있었대. ","A:¿Dónde encontró Elena a María? 
+B: La encontró en la calle. Ella estaba saliendo de la tienda."
+I-00-SU-01-0041,41,"A: 엘레나가 마리아를 어디서 만났어?
+B: 길에서 만났대. 마리아가 가게에서 나오고 있었대. ","A:¿Dónde encontró Elena a María? 
+B: La encontró en la calle. Estaba saliendo de la tienda."
+I-00-SU-01-0042,42,"A: 루카스가 다니엘을 언제 알게 되었대?
+B: 3년전에 루카스가 알게 되었대. 그때 루카스는 런던에서 영어를 공부하고 있었대. ","A: ¿Cuándo conoció Lucas a Daniel?
+B: Lucas lo conoció hace 3 años. En ese momento él estudiaba inglés en Londres. "
+I-00-SU-01-0043,43,"A: 루카스가 다니엘을 언제 알게 되었대?
+B: 3년전에 루카스가 알게 되었대. 그때 런던에서 영어를 공부하고 있었대. ","A: ¿Cuándo conoció Lucas a Daniel?
+B: Lucas lo conoció hace 3 años. En ese momento estudiaba inglés en Londres. "
+I-00-SU-01-0044,44,"A: 누가 언제 다니엘을 알게 되었대? 
+B: 루카스가 3년전에 알게 되었대. 그때 루카스는 런던에서 공부를 하고 있었대. ","A: ¿Quién conoció a Daniel y cuándo?
+B: Lucas lo conoció hace 3 años. En ese momento él estudiaba inglés en Londres."
+I-00-SU-01-0045,45,"A: 누가 언제 다니엘을 알게 되었대? 
+B: 루카스가 3년전에 알게 되었대. 그때 루카스는 런던에서 공부를 하고 있었대. ","A: ¿Quién conoció a Daniel y cuándo?
+B: Lucas lo conoció hace 3 años. En ese momento estudiaba inglés en Londres."
+I-00-SU-01-0046,46,"A: 루카스가 다니엘을 언제 알게 되었대?
+B: 3년전에 알게 되었대. 그때 런던에서 영어를 공부하고 있었대.
+","A: ¿Cuándo conoció Lucas a Daniel?
+B: Lo conoció hace 3 años. En ese momento él estudiaba inglés en Londres. "
+I-00-SU-01-0047,47,"A: 루카스가 다니엘을 언제 알게 되었대?
+B: 3년전에 알게 되었대. 그때 루카스는 런던에서 영어를 공부하고 있었대.","A: ¿Cuándo conoció Lucas a Daniel?
+B: Lo conoció hace 3 años. En ese momento estudiaba inglés en Londres. "
+I-00-SU-01-0048,48,우리 아빠는 산티아고 순례길에 가셨다. 처음에 나는 아빠가 많이 걱정됐다. 왜냐하면 이미 아빠에게 많은 시간동안 걷고 높은 산에 오르는 것이 얼마나 힘든일인지 알고 있었기 때문이다. 그러나 아빠는 문제 없이 매우 행복하게 돌아오셨고 여정을 마친 것에 대해 매우 자랑스러워하셨다. 아빠가 스페인에서 잘 보내고 오셔서 나는 너무 기뻤다.,"Mi padre fue al Camino De Santiago. Me preocupaba mucho por él, pues ya sabía que cuánto le costaba caminar durante mucho tiempo y subir montañas altas. Pero volvió muy contento sin ningún problema físico y sintió orgulloso de que acabó del camino. Me alegro de que se lo pasó muy bien en España. "
+I-00-SU-01-0049,49,발렌시아에서 살때 나는 Lu라는 중국 여자애와 함께 살았다. 그녀는 베이징에서 왔으며 스페인에 나보다 오래 살았기 때문에 나는 많은 도움을 받을 수 있었다. 뿐만 아니라 둘다 아시아에서 왔기 때문에 내가 스페인에서 적응할 때 그녀가 많은 조언을 해줬다.,"Cuando vivía en Valencia, vivía con una chica china que se llamaba Lu. Es de Peikín y como había vivido más que yo podía recibir mucha ayuda de ella. Además como somos de Asia, me aconsejaba mucho cuando me acomstumbré a la vida española. "
+I-00-SU-01-0050,50,"A: 너 누구랑 멕시코 갔었어? 
+B: 윤도랑 갔었어. 윤도는 되게 착하고 스페인어를 잘해서 여행을 같이하는게 되게 편했어. ","A: ¿Con quién viajaste a México?
+B: Con Yundo. Era muy simpático y hablaba muy bien español, por eso me sentía muy cómoda cuando viajé con él. "
+I-00-SU-01-0051,51,"A: 이거 누가 사준거야?
+B: 내 남자친구가 사줬어. 내 남자친구는 디자인을 전공해서 나에게 잘어울리는 옷을 잘 사주거든. ","A: ¿Quién te lo compró?
+B: Mi novio. Como estudiaba el diseño de prenda, siempre me compra la ropa que me queda bien. "
+I-00-SU-01-0052,52,"나는 발렌시아에서 살면서 스페인어를 배웠다. 발렌시아에서는 Elena라는 독일 여자와 함께 살았는데 요리를 아주 잘했다. 나는 종종 Elena가 해주는 독일 음식을 먹었고 또 내가 한국음식을 해주기도 했다. Elena는 한국 음식 중 김치전을 가장 좋아했는데 김치전이 달달하면서도 짠게 너무 맛있다고 했다. 
+","Aprendí español viviendo en Valencia. Allí viví con una alemana que se llamaba Elena y cocinaba muy bien. Muchas veces comía comida alemana que Elena preparaba y también yo le preparaba a ella comida coreana. A ella le gustaba mucho ""Gimchijeon"" y dijo que era dulce y salado a la vez por eso estaba muy rico. "
+I-00-SU-01-0053,53,"A: 남편분은 잘 지내세요?
+B: 네. 제 남편 곧 프랑스로 여행가요. 프랑스 많이 가보셨죠?
+A: 아우 그럼요. 저 정말 많이 가봤죠. 제 와이프가 프랑스어 전공이거든요. 
+B: 아 그래요? 어디서 공부하셨어요?
+A: 제가 알기로 제 와이프는 파리에서 공부했어요. ","A: ¿Cómo está tu marido?
+B: Bien. Y pronto va a viajar a Francia. ¿Tú has ido muchas veces allí? 
+A: Sí, por supuesto. He ido muchísimo. Mi mujer estudió francés. 
+B: Ah, ¿sí? ¿Dónde estudió?
+B: Creo que estudió en París."
+I-00-SU-01-0054,54,"A: 아들한테 뭔 일 있어? 
+B: 어제 우리 아들이 친구를 때렸대. 
+A: 어머.. 너 많이 놀랐겠다.
+B: 응 근데 나보다 더 놀랐더라 우리 와이프","A: ¿Qué le pasó a tu hijo?
+B: Que ayer le pegó a su amigo. 
+A: Ay.. te sorprendería mucho. 
+B: Sí pero más que a mí, le sorprendió a mi mujer. "
+I-00-SU-01-0055,55,걔는 너 싫대.,Él te odia.
+I-00-SU-02-0056,56,은채는 집에 가고 싶대.,Eunchae quiere volver a casa.
+I-00-SU-02-0057,57,"A: 무슨 일이야? 
+B: 으..나한테 날라왔어, 엄청 큰 벌레가. ","A: ¿Qué ha pasado?
+B: Uy…. se me ha acercado un insecto muy grande. "
+I-00-SU-02-0058,58,날씨 진짜 너무 춥죠. 겨울엔 엄청 춥고 여름엔 엄청 덥고... 살데가 못되요 한국은.,"Hace mucho frío, ¿no? En inverno hace mucho frío y en verano hace mucho calor. No es un país para vivir Corea. "
+I-00-SU-02-0059,59,"A: 그 차 어때요? 
+B: 진짜 별로에요 그차. ","A: ¿Cómo es ese coche?
+B: No es bueno ese coche. "
+I-00-SU-02-0060,60,"A: 나는 둘째 낳을 생각이 별로 없어. 
+B: 그렇지만 동생 좋아할거야 은채는","A: No tengo planes de tener un segundo hijo. 
+B: Pero le gustaría mucho un hermano a Alicia. "
+I-00-SU-02-0061,61,"A: 윤도는 어떻게 그렇게 비싼 차를 샀대요? 
+B: 아버지가 부자야 윤도는. ","A: ¿Cómo pudo comprar Yundo ese coche tan caro ?
+B: Su padre es muy rico. "
+I-00-SU-02-0062,62,한마디로 일을 하는 자리이고 결정을 하는 자리라고 생각합니다 대통령은.,Creo que es un puesto para trabajar y decidir. Eso es ser presidente.
+I-00-SU-02-0063,63,"A: 책을 왜그렇게 많이 사?
+B: 책을 진짜 좋아해 우리 유하는.","A: ¿Por qué compras tantos libros?
+B: Le gustan mucho a Yuha. "
+I-00-SU-02-0064,64,그 건물이 무너졌더라구요. 그 큰 건물이,El edificio fue derribado. Un edificio muy grande.
+I-00-SU-02-0065,65,그의 영화는 결국 개봉했더라구요. 그 독립영화가요.,Su película fue estrenada. Esa película independiente.
+I-00-SU-02-0066,66,"A: 요즘 가족들 다 잘 지내죠? 
+B: 돈 쓰느라 아주 잘 지내죠. 마누라만. ","A: ¿Cómo está tu familia?
+B: Todo va bien gastando mucho dinero. Bueno, solo mi mujer. "
+I-00-SU-02-0067,67,"A: 너네 할아버지 100살까지 사셨지? 진짜 건강하셨나봐
+B: 음... 담배 진짜 많이 폈어 우리 할아버지. ","A: Tu abuelo vivió hasta los 100 años. Eso es que llevaba una vida muy sana. 
+B: Pues fumaba bastante mi abuelo. "
+I-00-SU-02-0068,68,"A: 용식이 학교 다닐 때 성적 안좋았지. 
+B: 근데 결국 의사가 되었어 용식이. ","A: Cuando era estudiante, Yongsik no sacaba buenas notas. 
+B: Pues.. llegó a ser médico Yongsik. "
+I-00-SU-02-0069,69,아무도 그 음식을 먹어볼수 없었어. 왜냐하면 그걸 다 먹어 버렸어 내 아들이.,"Nadie pudo probar ese plato, porque se lo comió todo mi hijo. "
+I-00-SU-02-0070,70,고장이 결국 났네 그 컴퓨터가.,Al final no funciona ese ordenador.

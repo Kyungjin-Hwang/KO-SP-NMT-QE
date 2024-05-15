@@ -1,0 +1,224 @@
+sentenceid,index,KO,SP,KO_word,SP_word
+M-FO-DE-01-0001,1,그는 눈치가 없다.,Él tiene una percepción lenta.,눈치,percepción
+M-FO-DE-01-0002,2,그의 생각과 행동에는 모순이 있다.,Hay una contradicción entre su pensamiento y su comportamiento.,모순,contradicción
+M-FO-DE-01-0003,3,기업들에게 비용의 절감은 매우 중요하다.,La reducción de costo es muy importante para las empresas.,절감,reducción
+M-FO-DE-01-0004,4,익명화가 좋은지 모르겠어요.,No sé si la anonimización es buena.,익명화,anonimización
+M-FO-DE-01-0005,5,가난의 영속화/만성화는 매우 큰 문제이다.,La cronificación de la pobreza es un problema muy grave.,영속화,crinificación
+M-FO-DE-01-0006,6,그 가게의 주인은 고객의 충성화에 대해 많은 고민을 하고 있습니다.,El dueño de la tienda está pensando mucho en la fidelización de clientes.,충성화,fidelización
+M-FO-DE-01-0007,7,실업문제를 우선시하는 것이 필요합니다.,La priorización del problema de desempleo es necesaria.,우선시,priorización
+M-FO-DE-01-0008,8,새로운 노동 개혁은 고용의 일시화를 피하기 위한 것입니다.,Con la nueva reforma laboral se pretende evitar la temporalización del empleo,일시화,temporalización
+M-FO-DE-01-0009,9,그는 태양광 추적 시스템에 대해 많이 조사하고 있습니다.,Él investiga mucho los sistemas de seguimiento solar.,추적,seguimiento
+M-FO-DE-01-0010,10,여성들의 힘이 강해지는 것은 스페인의 페미니즘이 실제로 추구하는 것입니다.,El empoderamiento femenino es lo que persigue actualmente el feminismo español.,힘이 강해지는 것,empoderamiento
+M-FO-DE-01-0011,11,오늘 신문에서 대기오염에 관한 보도 기사를 볼 수 있다.,Se puede leer un reportaje sobre la contaminación atmosférica en el periódico de hoy.,오염,contaminación
+M-FO-DE-01-0012,12,"대법원은 ""파업권을 행사하는 근로자를 직무를 수행하는 다른 근로자로 대체하는 사용자의 관행""은 파업권과 양립할 수 없다고 했다. ",El Tribunal Supremo aclara que el esquirolaje interno no es compatible con el derecho de huelga.,파업권을 행사하는 근로자를 직무를 수행하는 다른 근로자로 대체하는 사용자의 관행,esquirolaje
+M-FO-DE-01-0013,13,나는 패션쇼에 한번 가보고 싶다.,Quiero visitar un desfile de moda.,쇼,desfile
+M-FO-DE-01-0014,14,나는 와인 큰 병 하나를 사고 싶다.,Quiero comprar un botellón de vino.,큰 병,botellón
+M-FO-DE-01-0015,15,두번째 위치에 있는 선수가 결국 큰 총성을 울렸고 승리했다.,El corredor en segunda posición dio un arreón final y ganó,큰 총성,arreón
+M-FO-DE-01-0016,16,축제 날에 젊은이들이 큰 폭죽을 던졌다.,"El día de la fiesta, los jóvenes tiraron cohetones.",큰 폭죽,cohetones
+M-FO-DE-01-0017,17,아마존에 방문하면 정말 굉장한 풍경들을 볼 수 있을거야.,"Cuando visites a Amazon, podrás ver espectáculos grandiosos. ",굉장한,gradioso
+M-FO-DE-01-0018,18,고양이들은 그의 주인에게 머리를 부딪힌다.,Los gatos normalmente les dan cabezazos a sus dueños.,머리,cabezazo
+M-FO-DE-01-0019,19,갑자기 그 남자아이는 책상을 쾅 쳤다.,"De repente, el chico dio un puñetazo en la mesa.",쾅 쳤다,dio un puñetazo
+M-FO-DE-01-0020,20,정부는 공공자금조달에서 제외되는 의약품 리스트를 줄이기로 결정하였다.,El gobierno ha decidido reducir la lista del medicamentazo,공공자금조달에서 제외되는 의약품,medicamentazo
+M-FO-DE-01-0021,21,정부는 전기 요금 인상에 대한 효과를 저지하려 노력한다.,El gobierno intenta contrarrestar los efectos de tarifazo electrónico.,요금 인상,tarifazo
+M-FO-DE-01-0022,22,올해 우크라니아와 러시아 간 전쟁이 끝날 가능성은 많지 않다.,No hay muchas posibilidades de que termine la guerra entre Ucrania y Rusia este año.,가능성,posibilidades
+M-FO-DE-01-0023,23,많은 학생들은 고용 가능성을 고려하여 그들의 전공을 선택한다.,Muchos estudiantes eligen sus carreras teniendo en cuanta la empleabilidad,고용 가능성,empleabilidad
+M-FO-DE-01-0024,24,우리 사회에서 학생들이 상호문화주의와 다문화주의를 배우는 것은 필요하다.,"En nuestra sociedad, es necesario que los estudiantes aprendan interculturalidad y multiculturalidad.",상호문화주의,interculturalidad
+M-FO-DE-01-0025,25,사진을 평가하는 기준 중 하나는 그 독창성이다.,Uno de los criterios para la puntuación de las fotografías es la originalidad,독창성,originalidad
+M-FO-DE-01-0026,26,이 이야기는 그 고유성 때문에 채택되었습니다.,Eligieron este cuento principalmente por su originalidad.,고유성,originalidad
+M-FO-DE-01-0027,27,슬픔은 우울증이나 정서불안과 같은 정신과 병리학 증상이 될수도 있다.,La tristeza puede ser un síntoma de patologías mentales como por ejemplo la depresión o la distimia,슬픔,tristeza
+M-FO-DE-01-0028,28,지금 SNS는 리한나가 주연으로 연기한 장면의 섹시함으로 뜨겁다.,Ahora las redes arden con la torridez de las escenas protagonizadas por Rihanna.,섹시함,torridez
+M-FO-DE-01-0029,29,우리 마을에는 아주 유명한 찻집이 있다.,"En mi barrio, hay una tetería muy famosa. ",찻집,tetería
+M-FO-DE-01-0030,30,보통 선진국에는 문맹률이 많이 낮다.,Normalmente en los países desarrollados la tasa de anafabetismo es muy baja.,문맹률,anafabetismo
+M-FO-DE-01-0031,31,페이스북이나 인스타그램과 같은 SNS에는 항상 그렇지 않은 착한 척(위선)이 넘쳐난다.,"En las redes sociales, especialmente en facebook e instagram, abunda el buenrollismo que no siempre es real",착한 척,buenrollismo
+M-FO-DE-01-0032,32,불륜으로 인해 약혼 관계가 깨졌다.,Se ha roto el noviazgo por infidelidad.,불륜,infidelidad
+M-FO-DE-01-0033,33,유명한 역사학자가 수업을 하기 때문에 이 수업은 매우 유명하다.,Esta clase es muy famosa porque la da / la imparte un historiador muy conocido,역사학자,historiador
+M-FO-DE-01-0034,34,필기 할때 나는 많은 종류의 형광펜을 사용한다.,"Cuando tomo apuntes, utilizo muchos tipos de subrayadores. ",형광펜,subrayadores
+M-FO-DE-01-0035,35,환경을 파괴하는 많은 공장들로 인해 강이 많이 오염되었다.,"Por culpa de muchas fábricas deforestadoras, el río se ha contaminado mucho. ",환경을 파괴하는,deforestadoras
+M-FO-DE-01-0036,36,인도네시아는 세계의 파괴자로써 브라질을 앞질렀다.,Indonesia supera a Brasil como mayor deforestador del mundo,파괴자,deforestador
+M-FO-DE-01-0037,37,요즘 한국에서는 많은 젊은이들이 개발자가 되고 싶어 한다.,Ahora en Corea muchos jovenes quieren ser desarrolladores.,개발자,desarrolladores
+M-FO-DE-01-0038,38,사랑에 미친자는 물불 안가린다.,A los locos de amor no les importa nada.,미친자,locos
+M-FO-DE-01-0039,39,나는 매일 운동을 하기 때문에 근육을 풀어주기 위한 마사지기를 샀다.,"Como hago deporte todos los días, me compré un masajeador para aliviar los músculos.",마사지기,masajeador
+M-FO-DE-01-0040,40,2분에 분침을 맞추지 마라.,"Retrasa el minutero dos minutos por favor, está mal. ",분침,minutero
+M-FO-DE-01-0041,41,블로거들을 통한 마케팅은 매우 효과적이다.,El marketing por los blogueros es muy efectivo.,마케팅,marketing
+M-FO-DE-01-0042,42,많은 페이스북 유저들은 어플 내 많은 광고에 대해 불평한다.,Muchos facebookeros quejan de mucha publicidad en la aplicación.,페이스북 유저,facebookeros
+M-FO-DE-01-0043,43,여름 내내 많은 서퍼들이 이 해변에 방문한다.,Muchos surferos visitan esta playa todo el verano.,서퍼들,surferos
+M-FO-DE-01-0044,44,보통 트위터리안들은 정치인들을 많이 비판한다.,Normalmente los tuiteros critican mucho a los políticos.,트위터리안,tuiteros
+M-FO-DE-01-0045,45,나는 80년대 음악을 많이 좋아한다.,Me encanta la música ochentera.,80년대,ochentera
+M-FO-DE-01-0046,46,모든게 끝나고도 그가 개죽음을 당하지 않아 다행이에요.,Me alegré al ver que no murió en vano después de todo.,개죽음,murió en vano
+M-FO-DE-01-0047,47,나는 이렇게 상황이 개막장이라는 사실을 믿을 수 없어요.,No puedo creer que la situación se haya vuelto tan ridículamente caótica.,개막장,ridículamente caótica
+M-FO-DE-01-0048,48,그거 그 가격에 샀다니 진짜 개이득이다.,¡Qué chulo lo que has comprado!,개이득,chulo
+M-FO-DE-01-0049,49,그는 그의 선생님을 엿보고 있다.,Él mira de reojo a su profesor.,엿보고,reojo
+M-FO-DE-01-0050,50,날고기를 섭취하는 것은 매우 위험하다.,Comer carne cruda es muy peligroso.,날고기,carne cruda
+M-FO-DE-01-0051,51,그런 날강도가 따로 없다.,¡Qué ladrón perverso!,날강도,ladrón perverso
+M-FO-DE-01-0052,52,예전에는 선배와의 맞담배는 꿈도 꿀 수 없었다.,Antes no se podría imaginar a los jóvenes fumando delante de superiores.,맞담배,fumando delante
+M-FO-DE-01-0053,53,레알마드리드와 FC바르셀로나의 맞대결은 많은 사람이 기대하고 있는 경기에요.,El partido entre el Madrid y el Barcelona es el algo que muchas personas esperan.,맞대결,partido entre
+M-FO-DE-01-0054,54,내가 너 팔로했으니 맞팔 해줘.,"Como ya te sigo, siguéme tú por favor.",맞팔 해줘,siguéme tú
+M-FO-DE-01-0055,55,엄마들은 아이들에게 교육적 목적으로 잔심부름을 시키곤 한다.,Las madres les piden unos pequeños recados a sus niños con un objetivo educativo.,잔심부름,pequeños recados
+M-FO-DE-01-0056,56,요즘 우리는 탈공업사회에서 살고 있다.,Vivimos en una sociedad posindustrial.,탈공업,posindustrial
+M-FO-DE-01-0057,57,"지방자치제도는 권력의 탈집중화, 정치의 탈중앙화의 상징이다. ",El sistema regional autonómico es un símbolo de desconcentración de poder y descentralización política.,탈집중화,deconcentración
+M-FO-DE-01-0058,58,많은 젊은이들이 탈조선을 외치는건 그만큼 삶이 각박하다는 것을 의미한다.,Muchos jóvenes coreanos griten el escape de Joseon es una prueba de lo duro de sus condiciones de vida.,탈조선,el escape de Joseon
+M-FO-DE-01-0059,59,술 좀 그만 처먹어라.,No empines tanto el codo.,술 좀 그만 처먹어라.,No empines tanto el codo.
+M-FO-DE-01-0060,60,제발 처울지 좀 마.,No seas llorón.,처울지,llorón
+M-FO-DE-01-0061,61,생고기를 사려고 정육점에 갈거야.,Voy a ir a carnicernía para comprar carne.,생고기,carne
+M-FO-DE-01-0062,62,저 그룹은 생신인이라 라이브를 잘 못해요.,"Ese grupo es muy novato, por eso no canta bien en vivo/en directo.",생신인,muy novato
+M-FO-DE-01-0063,63,일을 그렇게 처리하다니 너무 무책임한거 아닙니까?,¿Eres tan irresponsable que hiciste algo así?,무책임,irresponsable
+M-FO-DE-01-0064,64,"대답을 너무 무근본, 무맥락으로 하시는데요?",¿Contestas sin base ni contexto?,"무근본, 무맥락",sin base ni contexto
+M-FO-DE-01-0065,65,그 물질은 너무 비환경적입니다.,Este material no es ecológica.,비환경적,no es ecológica
+M-FO-DE-01-0066,66,비청결한 환경은 어린이들에게 좋지 않아요.,Un ambiente no limpio no es bueno para los niños.,비청결한,no limpio
+M-FO-DE-01-0067,67,폭력을 저지르는 학생들에겐 참교육이 필요하다.,Se necesita una educación auténtica para los estudiantes que usan la violencia.,참교육,educación auténtica
+M-FO-DE-01-0068,68,돈 없는 환자를 외면하지 않다니 정말 참의사이다.,"Es un médico auténtico porque no ignora a los pacientes sin dinero, ",참의사,médico auténtico
+M-FO-DE-01-0069,69,아주 화딱지가 나서 견딜수 없다.,No puedo tranquilizarme por la puta rabia.,화딱지,la puta rabia
+M-FO-DE-01-0070,70,걔는 딸한테 주책바가지라서 걔 말은 믿을 수 없어.,Su opinión no cuenta porque estás cieco con su hija.,주책바가지,cieco
+M-FO-DE-01-0071,71,저런 싹바가지 없는 친구가 다있어?,¡Qué una puta maleducada!,싹바가지,puta maleducada
+M-FO-DE-01-0072,72,봄이 되면 샛노란 꽃들을 볼 수 있을거야.,En primavera podrás ver las flores amarillas de azafrán.,샛노란,azafrán
+M-FO-DE-01-0073,73,은채는 가위질을 열심히 하고 있다.,Eunchae está muy concentrada cortando con las tijeras.,가위질,cortando con las tijeras
+M-FO-DE-01-0074,74,엄마는 칼질을 잘 못해서 맨날 다쳐요.,Mi madre se corta mucho porque porque no hace bien los cortes con el cuchillo,칼질,los cortes con el cuchillo
+M-FO-DE-01-0075,75,카톡질 좀 그만해.,Deja el katalk.,카톡질,el katalk
+M-FO-DE-01-0076,76,수업시간에 문자질을 왜하니?,¿Por qué chateas durante la clase?,문자질,chateas
+M-FO-DE-01-0077,77,예전엔 사냥꾼을 직업으로 하는 사람이 많았다.,"En el pasado, había muchas personas que trabajaban como cazadores.",사냥꾼,cazadores
+M-FO-DE-01-0078,78,엄마는 진짜 똑부러지는 살림꾼이에요.,Mi madre es muy buena ama de casa.,살림꾼,muy buena ama de casa
+M-FO-DE-01-0079,79,그가 와이프에게 하는걸 보면 사랑꾼이 따로 없다.,Seguro que él está ciego de amor considerando lo que le hace a su mujer.,사랑꾼,ciego de amor
+M-FO-DE-01-0080,80,그는 멋쟁이여서 늘 멋진 옷을 입고 다닌다.,"Él va siempre de punta en blanco, por eso siempre se viste muy bien. ",멋쟁이여서,va siempre de punta en blanco
+M-FO-DE-01-0081,81,너 사장님한테 그렇게 말하는걸 보니 너 정말 아부쟁이구나.,"Considerando lo que dices al jefe, eres un pelota. ",아부쟁이구나,eres un pelota.
+M-FO-DE-01-0082,82,너 또 나랑 비슷하게 입었네. 진짜 따라쟁이구나.,Otra vez te vistes como yo. Eres un copión.,따라쟁이,copión
+M-FO-DE-01-0083,83,이 옷은 백화점에서 샀는데도 싼티난다.,Este vestido parece cutre aunque lo compré en los grandes almacenes.,싼티,cutre
+M-FO-DE-01-0084,84,이 옷은 시장에서 샀는데도 비싼티가 난다.,Este vestido da el pego pero lo compré en el mercadillo.,비싼티가 난다,da el pego
+M-FO-DE-01-0085,85,그 아이는 아주 멋대가리가 없어.,Este chico no tiene buen gusto.,멋대가리,buen gusto
+M-FO-DE-01-0086,86,그렇게 겉멋만 들어서 어떡하니?,¿Cómo puede ser tan extravagante?,겉멋,extravagante
+M-FO-DE-01-0087,87,아기들은 놀이를 통해 학습한다.,Los bebés aprenden a través de juegos.,놀이,juegos
+M-FO-DE-01-0088,88,나의 딸은 나에게 매일 매일 큰 기쁨을 줘요.,Mi hija me da gran felicidad todos los días.,기쁨,felicidad
+M-FO-DE-01-0089,89,차를 많이 쓰지 않아 덮개로 덮어두었어요.,"No uso mucho el coche, por eso lo cubrí con una funda.",덮개,funda
+M-FO-DE-01-0090,90,운전하기는 어렵지 않아요.,No es difícil conducir.,운전하기,conducir
+M-FO-DE-01-0091,91,과일이 설익어서 맛이 없다.,"La fruta está verde, por eso no sabe bien.",설익어서,está verde
+M-FO-DE-01-0092,92,하고싶은대로 마음껏 하렴.,Haz lo que quieras hasta la saciedad.,마음껏,hasta la saciedad
+M-FO-DE-01-0093,93,말하는걸 들어보면 그는 믿음직스러운 아빠에요.,Él parece un padre confiable escuchándolo hablar,믿음직스러운,confíable
+M-FO-DE-01-0094,94,앞 사람을 밀치지 마세요!,¡No empujes a la persona de delante!,밀치지,empues
+M-FO-DE-01-0095,95,인스타그램을 하는 것은 요즘 젊은이들 사이에 유행입니다.,Estar en instagram está de moda entre los jóvenes.,인스타그램을 하는 것,Estar en instagram
+M-FO-DE-01-0096,96,등대는 바다를 환히 밝힙니다.,El faro alumbra el mar.,밝힙니다,alumbra
+M-FO-DE-01-0097,97,태풍으로 인해 파도가 철렁거립니다.,El mar se mueve mucho por la tormenta por la tormenta.,파도가 철렁거립니다.,El mar se mueve mucho
+M-FO-DE-01-0098,98,왜 애를 울리고 그래?,¿Por qué haces llorar al niño?,울리고,haces llorar
+M-FO-DE-01-0099,99,그 쥐는 고양이에게 잡아 먹혔어요.,A ese ratón se lo comió un gato.,잡아 먹혔어요,se lo comió
+M-FO-DE-01-0100,100,그 아이는 정말 총명해요.,Ese chico es muy listo.,총명해요.,es muy listo
+M-FO-DE-01-0101,101,그렇게 문제를 해결하다니 너는 정말 지혜로운 아이구나.,Eres muy sabio ya que solucinaste el problema de esa manera.,지혜로운,sabio
+M-FO-DE-01-0102,102,우는걸 들키고 싶어하지 않다니 그 아이는 매우 남자답네.,No quiere que nadie le vea llorar porque ese niño es muy hombre.,남자답네,es muy hombre
+M-FO-DE-01-0103,103,제 딸은 정말 사랑스러워요.,Mi hija es muy cariñosa.,사랑스러워요,cariñosa
+M-FO-DE-01-0104,104,붉은색을 좋아하는건 정말 고대생다워요.,Preferir el color rojo es muy de los estudiantes de la universidad de Corea.,고대생다워요,muy de los estudiantes de la universidad de Corea
+M-FO-DE-01-0105,105,나이를 중요하게 생각하는 것은 정말 한국스러운 문화에요.,Valorar la edad es muy de Corea.,한국스러운,muy de Corea
+M-FO-DE-01-0106,106,제 동생은 집에서 게임이나하고 정말 잉여롭게 지내요.,Mi hermano es muy holgazán porque juega a videojuegos en casa todo el día.,잉여롭게,holgazán
+M-FO-DE-01-0107,107,경찰은 집집이 방문하여 용의자를 찾았어요.,La polícia visita cada casa buscando al sospechoso.,집집이,cada casa
+M-FO-DE-01-0108,108,비로소 그 여자애랑 친해졌어요.,Por fin me he hecho amigo de la chica.,비로소,por fin
+M-FO-DE-01-0109,109,저는 맹세코 그 일을 하지 않을거에요.,No lo haré por Dios.,맹세코,por Dios
+M-FO-DE-01-0110,110,교수님은 학교에서 되게 멀리 살아요.,El profesor vive muy lejos de la universidad.,멀리,muy lejos
+M-FO-CO-01-0111,111,빨리 그걸 끝내고 같이 놀자.,Vamos a jugar juntos después de terminarlo rápidamente.,빨리,rápidamente
+M-FO-CO-01-0112,112,그 안경집은 되게 약해보여요.,Ese estuche de gafas parece muy frágil.,안경집,estuche de gafas
+M-FO-CO-01-0113,113,캔따개가 없으면 캔을 딸수가 없어.,No puedo abrir latas sin abrelatas.,캔따개,abrelatas
+M-FO-CO-01-0113,114,오가는게 힘들면 자고 가렴.,"Si es duro ir y venir, pasa la noche aquí.",오가는게,ir y venir
+M-FO-CO-01-0115,115,피부에 좁쌀 같은게 생겼어요.,Tienes granos.,좁쌀,granos
+M-FO-CO-01-0116,116,물걸레로 유리를 청소할거에요.,Voy a limpiar el cristal con un trapo húmedo.,물걸레,un trapo húmedo
+M-FO-CO-01-0117,117,큰 가방은 많은데 손가방이 없어서 하나 사려구요.,"Tengo muchos bolsos grandes pero no tengo ningún maletín, por eso voy a comprar uno.",손가방,maletín
+M-FO-CO-01-0118,118,보자기로 음식을 덮어놓았어요.,He cubierto la comida con el paño.,보자기,paño
+M-FO-CO-01-0119,119,가죽신은 정말 비싸네요.,El calzado de piel son muy caros.,가죽신,calzado de piel
+M-FO-CO-01-0120,120,요즘 도시농부들을 위한 교육 프로그램이 많아요.,Hoy en día hay muchos programas para los campesinos urbanos.,도시농부,campesinos urbanos
+M-FO-CO-01-0121,121,그는 어깨 깡패에요.,Tiene los hombros como un armario.,어깨깡패,los hombros como un armario
+M-FO-CO-01-0122,122,빈말이라도 정말 고마워,"Aunque sea jarabe de pico, muchas gracias.",빈말이라도,aunque sé que no lo dice de verdad
+M-FO-CO-01-0123,123,그 아이의 아버지가 어제 돌아가셨어요.,Faltó el padre del niño ayer.,돌아가셨어요,faltó
+M-FO-CO-01-0124,124,쥐뿔도 모르면서 아는체 하지 마라.,"Tú no sabe ni jota, no finjas saber.",쥐뿔도,ni jota
+M-FO-CO-01-0125,125,그는 밤낮으로 쉬지않고 계속 일해요.,Trabaja día y noche sin descanso.,밤낮으로,día y noche
+M-FO-CO-01-0126,126,앉은키는 작은데 실제로는 키가 크구나.,Pareces pequeño sentado pero eres alto realmente.,앉은키,sentado
+M-FO-CO-01-0127,127,요즘 사과가 값싸요.,Estos días las manzanas están a precio más bajo.,값싸요,a precio más bajo
+M-FO-CO-01-0128,128,그는 모르는게 없는 척척박사에요.,Él es un sabelotodo.,척척박사,sabelotodo
+M-FO-CO-01-0129,129,저는 고기 덮밥을 좋아해요.,Me gusta el arroz cubierto con carne.,고기덮밥,el arroz cubierto con carne
+M-FO-CO-01-0130,130,검붉은 피가 뚝뚝 떨어졌어요.,Le ha salido sangre rojo oscuro.,검붉은,rojo oscuro
+M-FO-CO-01-0131,131,그 배우는 발연기로 유명해요.,Este actor es muy conocido porque actúa de pena.,발연기,actúa de pena
+M-FO-CO-01-0132,132,요즘 가수가 팬들에게 역조공하는게 유행이에요.,Estos días está de moda que los cantantes hagan un regalo como muestra de agradecimiento a sus aficionados.,역조공,hagan un regalo como muestra de agradecimiento a sus aficionados
+M-FO-CO-01-0133,133,급식체 좀 쓰지 마.,No uses palabras de adolescentes.,급식체,palabras de adolescentes
+M-FO-CO-01-0134,134,우리 아버지는 꽃중년이라고 불려요.,Mi padre se considera un madurito atractivo.,꽃중년,un madurito atractivo
+M-FO-CO-01-0135,135,내년에는 꿀보직에서 일을 하고 싶어.,Quiero trabajar en un puesto muy fácil.,꿀보직,un puesto muy fácil
+M-FO-DE-01-0136,136,다음학기는 꿀강만 찾아서 들을래.,Matricularé solo las clases marías.,꿀강,las clases marías
+M-FO-DE-01-0137,137,나는 천유로 급여 세대이다.,Pertenezco a la generación de los mileuristas.,천유로,mileuristas
+M-FO-DE-01-0138,138,이번 주말에 내가 좋아하는 스탠드업 코미디언인 Luis Piedrahita를 보러 가자.,"Este fin de semana vamos a ver a Luis Piedrahita, monologuista favorito.",스탠드업 코미디언,monologuista
+M-FO-DE-01-0139,139,세무사들은 부모가 자식에게 돈을 빌려줄 때 모든 필요조건을 충족해야한다고 조언합니다.,Los fiscalistas aconsejan cumplir todos los requisitos al formalizar un préstamo de padres a hijos,세무사들,fiscalistas
+M-FO-DE-01-0140,140,페론주의자들은 아르헨티나 사회에 많은 영향을 끼쳐왔습니다.,Los peronistas han influido mucho en la sociedad argentina.,페론주의자들,peronistas
+M-FO-DE-01-0141,141,점점 더 학교에서 인간화 교육이 중요해진다.,Cada vez más se apuesta por una educación humanizante en los colegios,인간화,humanizante
+M-FO-DE-01-0142,142,예전엔 이혼이 아이들에게 불안정한 것이라고 생각되었다면 요즘 유아심리학자들은 집에서의 나쁜 환경이 더 아이들에게 불안정하다고 말한다.,"Antes se pensaba que un divorcio era algo desequilibrante para los niños, pero ahora los psicólogos infantiles dicen que es más desequilibrante un mal ambiente en casa.",불안정한,desequilibrante
+M-FO-DE-01-0143,143,그 얘기 하지마. 사기를 꺾는 얘기여서 내 기운이 없어져.,"No me cuentes esas historias, son desmoralizantes, no me animan.",사기를 꺾는,desmoralizantes
+M-FO-DE-01-0144,144,보통 스페인어 화자들은 이탈리어와 포르투갈어를 쉽게 배웁니다.,Normalmente los hispanoparlantes aprenden fácilmente el italiano y el portugués.,스페인어 화자들,hispanoparlantes
+M-FO-DE-01-0145,145,헝클어진 머리 좀 봐! 산발이네.,¡Qué greñas lleva! Es un greñoso.,산발,greñoso
+M-FO-DE-01-0146,146,16세기 많은 작가들이 세르반테스의 스타일을 추구했습니다.,Muchos escritores seguían el estilo cervantino en el signo XVI.,세르반테스의,cervantino
+M-FO-DE-01-0147,147,이 영화에는 기묘한 장면이 많습니다.,En esta película hay muchas escenas berlanguianas.,기묘한,berlanguianas
+M-FO-DE-01-0148,148,나는 밤에 외출하는 것보다 오후에 외출하는 것을 더 좋아해요.,Me gusta más el tardeo que salir por la noche.,오후,tardeo
+M-FO-DE-01-0149,149,나는 SNS에 진실이 없고 허세가 많아서 SNS를 안좋아한다.,"No me gustan las redes sociales porque casi nada es verdad, hay mucho postureo.",허세,postureo
+M-FO-DE-01-0150,150,이 옷 스타일은 나에게 지나치게 화려하다.,Este estilo de ropa es demasiado llamativo para mí.,화려하다,llamativo
+M-FO-DE-01-0151,151,항상 나는 우리가 성공하기 위해선 종합적인 스타일 뿐만 아니라 직접적인 스타일로도 진행해야한다고 말했다.,Siempre dije que teníamos que manejar tanto el estilo combinativo y como directo para tener éxitos.,종합적인,combinativo
+M-FO-DE-01-0152,152,수영을 위한 이 특별한 옷을 입으면 모든 사람들이 떠다닐 수 있습니다.,Todas las personas son flotable cuando lleva este vestido especial para nadar.,떠나닐 수,flotable
+M-FO-DE-01-0153,153,하이브리드 플러그인 자동차는 외부 전기 공급으로 충전이 가능하게 하는 기술에 기반한다.,Los coches híbridos enchufables cuentan con una tecnología que permite cargarlos desde un suministro de electricidad externo.,플러그인,enchufable
+M-FO-DE-01-0154,154,이 웹사이트는 아무도 관리하지 않아 해킹당할만 합니다.,Este sitio web es muy pirateable porque nadie lo dirige.,해킹당할만 합니다,pirateable
+M-FO-DE-01-0155,155,그는 항상 다른것보다 그의 이상을 우선시하는것 보니 매우 돈키호테적이다.,Él es muy quijotesco porque siempre defiende sus ideales ante todo.,돈키호테적,quijotesco
+M-FO-DE-01-0156,156,만난지 세번만에 결혼한 내 친구와 남편은 매우 드라마틱하다.,Lo de mi amiga y su marido es telenovelesco: es la tercera vez que se casan.,드라마틱,telenovelesco
+M-FO-DE-01-0157,157,그 선수는 비가 올때 공을 잘 친다.,Este jugador batea muy bien cuando llueve.,선수,jugador
+M-FO-DE-01-0158,158,궁금한 점이 있다면 구글링해서 정보를 찾아봐.,"Si tienes dudas, googlea y busca la información.",구글링,googlea
+M-FO-DE-01-0159,159,나는 지중해 해변에서 서핑하는 것을 좋아해요.,Me gusta mucho surfear en una playa mediterranea.,서핑,surfear
+M-FO-DE-01-0160,160,대통령은 그의 의견을 말하고 싶을 때 항상 트위터를 한다.,El presidente siempre tuitea cuando quiere decir su opinión.,트위터를 한다.,tuitea
+M-FO-DE-01-0161,161,나중에 왓츠앱하자.,Vamos a whatsappear luego.,왓츠앱하자.,whatsappear
+M-FO-DE-01-0162,162,어느 불법 단체가 스페인 정부 홈페이지를 해킹하려고 했다는거 들었어?,¿Has oído que una entidad ilegal ha tratado de hackear el sitio web del gobierno español?,해킹하려고,hackear
+M-FO-DE-01-0163,163,수업시간동안 메시지하지 말아라.,No mensajes durante la clase.,메시지하지 말아라,No mensajes
+M-FO-DE-01-0164,164,비록 한국 식당이지만 모든 것들이 스페인화되었다.,"Aunque es el restaurante coreano, todo está españolizado.",스페인화,españolizado
+M-FO-DE-01-0165,165,대통령은 모든 것이 정해진 인터뷰를 하고싶어 했으나 프로그램이 거절했다.,El presidente quiso hacer una entrevista guionizada pero el programa se negó.,정해진,guinizada
+M-FO-DE-01-0166,166,그 주가 매우 크기 때문에 시장은 시의 경계를 다시 짓고 싶어 했다.,"El alcalde quiere comarcalizar el territorio, porque la provincia ahora es muy grandes.",경계를 다시 짓고,comarcalizar
+M-FO-DE-01-0167,167,노래부를때 어떻게 목소리를 더 감미롭게 할 수 있나요?,¿Cómo se puede dulcificar la voz cuando se canta?,감미롭게,dulcificar
+M-FO-DE-01-0168,168,그 남자아이는 머리가 너무 커서 적당한 모자를 찾을 수 없다.,"Este chico es un cabezón, por eso no puede encontrar una gorra adecuada.",머리가 너무 커서,cabezón
+M-FO-DE-01-0169,169,한국인들은 큰 코를 가진 사람들은 복이 많다고 믿습니다.,Los coreanos creen que las personas con narizón traen mucha suerte.,큰 코,narizón
+M-FO-DE-01-0170,170,너는 그 도움 안되는 친구들이랑 오후 내내 생산성 없이 게임만 하면서 보냈구나.,Te pasas las tardes jugando a videojuegos con tus amigotes sin hacer nada productivo.,도움 안되는 친구들,amigotes
+M-FO-DE-01-0171,171,그녀는 항상 짧은 치마를 입고 다녀서 많은 사람들이 그녀를 음란하다고 생각했습니다.,Muchas personas pensaban que ella es una calentorra porque siempre llevaba faldas muy cortas.,음란,calentorra
+M-FO-DE-01-0172,172,보통 나는 엄마가 요리할 때 부엌 앞방에서 엄마를 돕는다.,Normalmente ayudo a mi mamá en la antecocina cuando ella prepara la cena.,부엌 앞방,antecocina
+M-FO-DE-01-0173,173,코로나바이러스로 인해 회의를 미루는 것이 좋을 것 같습니다.,Creo que es mejor posponer el congreso por el coronavirus.,미루는,posponer
+M-FO-DE-01-0174,174,콘서트의 선판매가 시작되었다.,Ya está activa la preventa para el concierto.,선판매,preventa
+M-FO-DE-01-0175,175,성관계 후 통증은 이 질병의 증상입니다.,Es un síntoma de esta enfermedad es el dolor poscoital.,성관계 후,poscoital
+M-FO-DE-01-0176,176,많은 사람들이 휴가 후 증후군을 겪고 있다.,Ahora los niños sufren del síndrome postvacacional.,휴가 후,postvacacional
+M-FO-DE-01-0177,177,우리의 목표는 초학문적 교육을 성취하는 것이다.,Nuestro objetivo es lograr una educación transdisciplinar.,초학문적,transdisciplinar
+M-FO-DE-01-0178,178,많은 사람들이 지금 이 나라가 재산업화를 겪고 있다고 말한다.,Mucha gente dice que ahora este país está experimentando una reindustrialización.,재산업화,reindustrialización
+M-FO-DE-01-0179,179,Gran Teatre del Liceu는 설립된지 150주년이 되었지만 재개장은 불가능하다.,"Se cumplió en este año el 150 aniversario de la fundación del Gran Teatre del Liceu, pero no fue posible su reinauguración.",재개장,reinauguración
+M-FO-DE-01-0180,180,우리는 정보과잉 사회에 살고 있기 때문에 좋은 정보를 고르는 교육이 필요하다.,"Como vivimos en la sociedad de sobreinformación, es necesario enseñar a elegir buenas fuentes de información.",정보과잉,sobreinformación
+M-FO-DE-01-0181,181,지금 한국의 가장 큰 문제는 인구감소이다.,Ahora un problema muy grave de Corea es subpoblación.,인구감소,subpoblación
+M-FO-DE-01-0182,182,보통 대학원생들은 그들의 세부전공에 더 집중한다.,Normalmente los estudiantes de posgrado se centran más en su subespecialidad.,세부전공,subespecialidad
+M-FO-DE-01-0183,183,시는 다양한 협회의 회원들을 통합하는 프로젝트의 보조금을 늘렸다.,El ayuntamiento ha aumentado las subvenciones a proyectos interasociativos.,다양현 협회의 회원들을 통합하는,interasociativos
+M-FO-DE-01-0184,184,그러나 그는 자신의 주의 산만함을 자책하면서 그 길을 계속 따라가는 것은 편하게 느끼지 않았습니다.,"Pero no le convenía seguir por ese camino, autoacusándose de distracciones. ",자책하면서,autoacusándose
+M-FO-DE-01-0185,185,그는 이 텍스트를 그녀와 Pedro가 함께 편집했다.,Coeditó el texto con ella y Pedro.,함께 편집했다,coeditó
+M-FO-DE-01-0186,186,IMF는 이 차관에 공동 출자자로 참여하지 않았다.,El FMI no participará como cofinanciador del préstamo.,공동 출자자,confinanciador
+M-FO-DE-01-0187,187,이 기계의 공동 개발자들 사이에 판매 방법에 대한 큰 논쟁이 있다.,Hay un gran debate sobre la manera de vender entre los coinventores de esta maquina.,공동 개발자들,coinventores
+M-FO-DE-01-0188,188,이 강의는 단일테마만 다뤄서 너무 지루하다.,Esta lectura es muy aburrida porque trata de un monotema.,단일 테마,monotema
+M-FO-DE-01-0189,189,많은 사람들이 이번 올림픽에 더블메달리스트가 없는 것이 이상하다고 말한다.,Mucha gente dice que es muy raro que no haya ningún bimedallista en esta Olimpiada.,더블메달리스트,bimedallista
+M-FO-DE-01-0190,190,이 레스토랑은 미슐랭 3스타여서 예약하기 너무 어렵다.,"Este restaurate es triestrellado, por eso es muy difícil reservar. ",미슐랭 3스타,triestrellado
+M-FO-DE-01-0191,191,우리가 여러 위험을 감수해야하기 때문에 나는 이 프로젝트가 맘에 들지 않는다.,No me gusta este proyecto porque tenemos que correr multiriesgo.,여러 위험,multiriesgo
+M-FO-DE-01-0192,192,마요르카에서 다양한 형태의 가족을 위한 바다가 보이는 환상적인 숙소를 찾아봐라.,Descubre esta espectacular vivienda plurifamiliar en Mallorca con vistas al mar.,다양한 형태의 가족,plurifamiliar
+M-FO-DE-01-0193,193,이 여성분은 아주 친절하다.,Esta señora es superagradable.,아주 친절하다,superagradable
+M-FO-DE-01-0194,194,이 두명의 보컬리스트는 정말 슈퍼콤보이다.,Los dos vocalistas son supercombo.,슈퍼콤보,supercombo
+M-FO-DE-01-0195,195,우리 엄마는 두개의 직업을 가지고 있어요. 그녀는 정말 슈퍼우먼이에요.,Mi madre tiene dos profesiones. Ella es una supermujer.,슈퍼우먼,supermujer
+M-FO-DE-01-0196,196,"이 계약에 따르면, 선수의 초과 활동은 금지되어 있다. ","Según el contrato, la ultraactividad del jugador está prohibida. ",초과 활동,ultraactividad
+M-FO-DE-01-0197,197,나는 너무 더워서 엄청 차가운 음료가 필요해.,"Tengo mucho calor, por eso necesito una bebida ultrafría. ",엄청 차가운,ultrafría
+M-FO-DE-01-0198,198,오염으로 인해 이 지역은 거의 사막이다.,Por la contaminación esta zona es un semidesierto.,거의 사막,semidesierto
+M-FO-DE-01-0199,199,비료 제작 최적화 테스트는 준산업 규모로 수행될 것입니다.,Se realizarán ensayos de optimización del compostaje a escala semi-industrial.,준산업,semi-industrial
+M-FO-DE-01-0200,200,결함이 있지만 이 상품은 거의 새 상품이다.,Este producto es seminuevo aunque tiene un defecto.,거의 새,seminuevo
+M-FO-DE-01-0201,201,미래에 우리는 초이동과 탈지역의 사회에서 살 것이다.,"En el futuro, viviremos en una sociedad de hipermovilidad y deslocalización.",초이동과 탈지역,hipermovilidad y deslocalización
+M-FO-DE-01-0202,202,이 나라는 많은 감염자들로 인한 초감염 상황에 있다.,Este país está inmerso en una situación hiperendémica con muchos contagiados.,초감염,hiperendémica
+M-FO-DE-01-0203,203,회의에서 결정사항에 반하는 내용을 얘기하지 마.,No comuniques la contradecisión en el congreso.,결정사항에 반하는 내용,contradecisión
+M-FO-DE-01-0204,204,이 스페인정부 정책의 목적은 개개인의 빚 탕감이다.,La meta de esta medida del gobierno español es el desendeudamiento de los particulares.,빚 탕감,desendeudamiento
+M-FO-DE-01-0205,205,우리 회사의 상황을 고려하면 그의 제안은 거절할 수 없습니다.,Su propuesta es irrechazable considerando la situación de nuestra empresa.,거절할 수 없습니다,irrechazable
+M-FO-DE-01-0206,206,정부를 향한 비난으로 가득찬 담화가 발표되었습니다.,Pronunció un discurso lleno de descaliticativos hacia el gobierno.,자질이 갖춰져 있지 않다,descalificativos
+M-FO-DE-01-0207,207,내 생각에 그 선수는 되게 재능있었는데 지금은 아니에요. 사람들은 그가 전 챔피언이었다고 말해요.,Creo que este jugador era muy talentoso pero ahora no. Todo el mundo dice que es el exnúmero uno.,전 챔피언,exnúmero uno.
+M-FO-DE-01-0208,208,나는 지금 의지가 충만해. 이기고 싶어.,Estoy extramotivado. Quiero ganar.,의지가 충만해,extramotivado
+M-FO-DE-01-0209,209,인터넷에서 창조된 신언어가 많다.,Hay mucha neolengua creada en el internet.,신 언어,neolengua
+M-FO-CO-01-0210,210,Nature Fire은 스페인에서 다양한 연료를 동시에 연소하는 연소기 공장의 선두주자입니다.,Natural Fire es pionera en la fabricación de quemadores policombustibles en España.,다양한 연료,policombustibles
+M-FO-CO-01-0211,211,우리 동네에는 여름에 새벽 4시까지 시내에서 해변으로 가는 야간버스가 있다.,En mi pueblo en verano hay un buhobús para ir del centro a las playas hasta las 4 de la mañana,야간버스,buhobús
+M-FO-CO-01-0212,212,많은 옷 회사들은 철마다 새로운 스타일을 내놓기 위해 유행에 민감한 사람을 채용한다.,Muchas firmas de ropa contratan a cazatendencias para renovar la temporada.,유행에 민감한 사람,cazatendencias
+M-FO-CO-01-0111,213,"축제에서는 음악, 간식 그리고 페이스페인팅이 있을거에요. ","En la fiesta habrá música, merienda y pintacaras.",페이스페인팅,pintacaras
+M-FO-CO-01-0214,214,"그녀를 조심해, 그녀는 꽃뱀이거든.","Ten cuidado con ella, es una devorahombres.",꽃뱀,devorahombres
+M-FO-CO-01-0215,215,날씬해지는 것에 집착하는 많은 여자들이 지방을 태우는 약들을 먹는다.,Muchas mujeres obsesionadas con adelgazar recurren a pastillas quema grasas.,지방을 태우는,quema grasas
+M-FO-CO-01-0216,216,당신은 일반 승강기를 이용해주시기 바랍니다. 이것은 환자들을 위한 침상 전용 승강기입니다.,"usted suba por el ascensor normal, por favor, esto es un montacamillas, solo para los enfermeros",침상 전용 승강기,montacamillas
+M-FO-CO-01-0217,217,불쌍한 사람.. 완전 아첨꾼이네... 그는 항상 Ana를 기쁘게 하려고 노력하지만 Ana는 관심을 전혀 주지 않아.,"Pobrecito, es un pagafantas...  está siempre intentando agradar a Ana pero ella no le hace caso.",아첨꾼,pagafantas
+M-FO-CO-01-0218,218,어느 날 엄마가 좀비로 변한다면 엄마를 거부하시겠습니까? 나는 잃어버린 원인을 찾아 그에 관한 모든것을 옹호하고 그를 관용하는 관용하는 사람들로부터 질문을 받았습니다.,"¿Rechazarías a tu madre si se convierte un día en un zombi? Me preguntan quienes presumen de tolerarlos, esos defiendelotodo buscando causas perdidas.",모든것을 옹호하고,defiendelotodo
+M-FO-CO-01-0219,219,약물의존성은 약물을 자주 사용함에 따라 일어나는 병리학적 현상입니다.,La dragodependencia es una patologia causada por el uso frecuente de drogas.,약물의존성,drogadependencia
+M-FO-CO-01-0220,220,나는 내 오빠한테 턴테이블을 선물하고 싶다.,Quiero regalarle un giradisco a mi hermano.,턴테이블,giradisco
+M-FO-CO-01-0221,221,우리 할아버지는 우리에게 너무나도 사랑이 넘치신다.,Mi abuelo es muy amoroso con nosotros.,사랑이 넘치신다,amoroso
+M-FO-CO-01-0222,222,너는 정말 칭얼대는 아이구나.,Eres un niño muy quejoso.,칭얼대는,quejoso
+M-FO-CO-01-0223,223,아마존에 방문하면 굉장히 위대한 풍경들을 볼 수 있을거야.,"Cuando visites el Amazonas, podrás ver espectáculos grandiosos. ",굉장히 위대한,grandiosos
