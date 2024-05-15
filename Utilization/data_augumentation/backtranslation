@@ -1,0 +1,43 @@
+import pandas as pd
+from transformers import MarianMTModel, MarianTokenizer
+
+token = "huggingface_token"  # Hugging Face Token
+
+def translate(texts, model_name, token):
+    tokenizer = MarianTokenizer.from_pretrained(model_name, token=token)
+    model = MarianMTModel.from_pretrained(model_name, token=token)
+    translated_texts = []
+    for text in texts:
+        if pd.isna(text) or text.strip() == "":
+            translated_texts.append(text)  
+            continue
+        encoded_text = tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
+        translated = model.generate(**encoded_text)
+        translated_texts.append(tokenizer.decode(translated[0], skip_special_tokens=True))
+    return translated_texts
+
+df = pd.read_csv("./Dataset_for_NLP.csv")  
+ko_texts = df['Korean'].tolist() 
+
+# 모델 이름 확인
+ko_to_en_model_name = 'Helsinki-NLP/opus-mt-ko-en'
+en_to_ko_model_name = 'Helsinki-NLP/opus-mt-tc-big-en-ko'
+
+# 번역 실행
+translated_to_english = translate(ko_texts, ko_to_en_model_name, token)
+translated_to_spanish = translate(translated_to_english, 'Helsinki-NLP/opus-mt-en-es', token)
+back_translated_to_english = translate(translated_to_spanish, 'Helsinki-NLP/opus-mt-es-en', token)
+back_translated_to_korean = translate(back_translated_to_english, en_to_ko_model_name, token)
+
+# 증강된 데이터 DataFrame 생성
+augmented_df = pd.DataFrame({
+    'Original_Korean': ko_texts,
+    'Augmented_Korean': back_translated_to_korean,
+    'Augmented_Spanish': translated_to_spanish
+})
+
+# None 값이나 빈 문자열을 포함하는 행 제거
+augmented_df = augmented_df.replace('', pd.NA).dropna()
+
+# 증강된 데이터 저장
+augmented_df.to_csv('augmented_dataset.csv', index=False)
