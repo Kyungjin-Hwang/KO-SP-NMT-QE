@@ -1,0 +1,507 @@
+{
+    "document-id": "5",
+    "filename": "info-sp-kp-1-2",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": [
+        {
+            "segmentid": "I-00-NS-01-0001",
+            "index": 1,
+            "KO": "장미, 나는 그 꽃을 참 좋아한다. ",
+            "SP": "Las rosas, me encantan esas flores. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0002",
+            "index": 2,
+            "KO": "장미는 남편이 어제 나에게 사줬어요.",
+            "SP": "Las rosas las me compró mi marido ayer."
+        },
+        {
+            "segmentid": "I-00-NS-01-0003",
+            "index": 3,
+            "KO": "교수님은 어제 그걸 찾았어요. 그 책을요.",
+            "SP": "El profesor los encontró ayer, esos libros. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0004",
+            "index": 4,
+            "KO": "마리아, 나는 그녀가 기억이 하나도 안난다. ",
+            "SP": "María, no me acuerdo de ella. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0005",
+            "index": 5,
+            "KO": "엘로이, 걔 어제 내가 대학교에서 봤어요. ",
+            "SP": "A Eloy lo vimos ayer en la universidad."
+        },
+        {
+            "segmentid": "I-00-NS-01-0006",
+            "index": 6,
+            "KO": "빠른것은 우사인볼트에요.",
+            "SP": "Rápido sí que lo es Usain Bolt."
+        },
+        {
+            "segmentid": "I-00-NS-01-0007",
+            "index": 7,
+            "KO": "똑똑한 사람은 아인슈타인이죠.",
+            "SP": "Inteligente sí que lo es Einstein."
+        },
+        {
+            "segmentid": "I-00-NS-01-0008",
+            "index": 8,
+            "KO": "Juana가 그걸 얘기할 수 있었다는 것은 저는 믿을 수 없어요.",
+            "SP": "Que Juana haya podido decir eso no puedo creerlo."
+        },
+        {
+            "segmentid": "I-00-NS-01-0009",
+            "index": 9,
+            "KO": "메시, 그 선수 내가 진짜 좋아해요. ",
+            "SP": "Messi, ese jugador me encanta. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0010",
+            "index": 10,
+            "KO": "김연아, 그녀는 정말 매혹적이에요. ",
+            "SP": "Yuna Kim, ella sí que me fascina. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0011",
+            "index": 11,
+            "KO": "BTS에 관해서, 몇년 째 나는 그를 콘서트에서 못보고 있어요. ",
+            "SP": "En cuanto a BTS, hace años que no lo veo en concierto. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0012",
+            "index": 12,
+            "KO": "그 학생은 믿을만 하지 않아요.",
+            "SP": "En ese estudiante no es posible confiar."
+        },
+        {
+            "segmentid": "I-00-NS-01-0013",
+            "index": 13,
+            "KO": "내가 궁금한건 외계인이 존재하느냐에요.",
+            "SP": "De lo que tengo dudas es de la existencia de extraterrestres."
+        },
+        {
+            "segmentid": "I-00-NS-01-0014",
+            "index": 14,
+            "KO": "내 여자친구가 그렇게 화난걸 난 본적이 없어요.",
+            "SP": "A mi novia no la vi nunca tan enfadada."
+        },
+        {
+            "segmentid": "I-00-NS-01-0015",
+            "index": 15,
+            "KO": "Alicia 말이에요, 그녀는 Juan이랑 얘기하고 싶어하지 않아요. ",
+            "SP": "En cuanto a Alicia, ella nunca hablará con Juan. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0016",
+            "index": 16,
+            "KO": "유하에 관해서요, 그녀는 항상 다른 아이들과 잘지내기 떄문에 어린이집에서 잘 지낼거에요. ",
+            "SP": "Por lo que afecta a Yuha, ella estará muy bien en la guardería porque siempre se lleva muy bien con otros niños.  "
+        },
+        {
+            "segmentid": "I-00-NS-01-0017",
+            "index": 17,
+            "KO": "Juan에 대해 말하자면, 그는 그 시험을 절대 합격하지 못할거에요. ",
+            "SP": "Hablando de Juan, él nunca aprobará el examen. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0018",
+            "index": 18,
+            "KO": "모두가 Juan에 관해서는 우리가 절대로 얘기하면 안된다고 생각해요.",
+            "SP": "Todos piensan que de Juan no deberíamos hablar."
+        },
+        {
+            "segmentid": "I-00-NS-01-0019",
+            "index": 19,
+            "KO": "나는 María에 대해서는 아무도 불평을 가지지 않는다는 것이 놀랍지 않네요.",
+            "SP": "No me sorprende que de María nadie se haya quejado."
+        },
+        {
+            "segmentid": "I-00-NS-01-0020",
+            "index": 20,
+            "KO": "우리, 아무도 못봤어요. ",
+            "SP": "Nosotros, nadie nos ha visto. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0021",
+            "index": 21,
+            "KO": "Alicia, 나는 그 순간에 떠올렸어요. ",
+            "SP": "Alicia, estaba pensando en ella en este momento. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0022",
+            "index": 22,
+            "KO": "우리에게는 아무것도 얘기하지 않았어요.",
+            "SP": "A nosotros no nos han dicho nada."
+        },
+        {
+            "segmentid": "I-00-NS-01-0023",
+            "index": 23,
+            "KO": "남자친구는 내가 그 순간에 떠올렸어요.",
+            "SP": "En mi novio estaba pensando en ese momento."
+        },
+        {
+            "segmentid": "I-00-NS-01-0024",
+            "index": 24,
+            "KO": "핸드폰 나는 그 끔찍한 기계가 너무 싫어요.",
+            "SP": "El móvil, yo odio esas máquinas infernales. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0025",
+            "index": 25,
+            "KO": "핸드폰은 내가 너무 싫어해요.",
+            "SP": "El móvil lo odio."
+        },
+        {
+            "segmentid": "I-00-NS-01-0026",
+            "index": 26,
+            "KO": "엄마에게는 아이들이 각자 편지를 쓸거에요.",
+            "SP": "A su madre cada chico le escribrá cartas."
+        },
+        {
+            "segmentid": "I-00-NS-01-0027",
+            "index": 27,
+            "KO": "시장과 시민들에 관해서요, 전자가 후자를 너무 싫어해요. ",
+            "SP": "En cuanto al alcalde y a los ciudadanos, éste repudia a aquellos. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0028",
+            "index": 28,
+            "KO": "이 선물은 민지에게 아무도 주지 않았어요.",
+            "SP": "Ese regalo a Minji no se lo dio nadie."
+        },
+        {
+            "segmentid": "I-00-NS-01-0029",
+            "index": 29,
+            "KO": "그 고장난 기계에 대해서, 내 사장님은 배터리가 없어서라고 설명했어요. ",
+            "SP": "En cuanto a la máquina averiada, mi jefe me explicó que no tenía batería. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0030",
+            "index": 30,
+            "KO": "그 프로젝트에 대해서, 사장님은 우리가 제안한 아이디어를 받아들이지 않으셨어요. ",
+            "SP": "En cuanto a ese proyecto, mi jefe no aceptará la idea de que ya lo hemos conseguido. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0031",
+            "index": 31,
+            "KO": "겨울왕국에 대해 말하자면, 그 영화를 본 내 딸은 정말 굉장했다고 나에게 말했다. ",
+            "SP": "Hablando de \"el reino de hielo\", mi niña, que ha visto esa película, me ha dicho que es muy bonita. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0032",
+            "index": 32,
+            "KO": "그 논문에 대해 언급하자면, 당신은 이틀 정도 휴식을 취하면 곧 그걸 마칠 수 있을겁니다.  ",
+            "SP": "Por lo que se refiere a esa tesis, te tomas un par de días de descanso y seguro que lo acabas pronto. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0033",
+            "index": 33,
+            "KO": "대통령은 그러나 총리의 스캔들에 관해서 특별히 언급하지는 않았다.",
+            "SP": "El presidente no mencionó especialmente el escandálo del primer ministerio."
+        },
+        {
+            "segmentid": "I-00-NS-01-0034",
+            "index": 34,
+            "KO": "내 남자친구는 그거 별로 안좋아할거 같아.",
+            "SP": "A mi novio no le gustará mucho eso."
+        },
+        {
+            "segmentid": "I-00-NS-01-0035",
+            "index": 35,
+            "KO": "산에는 갔어요, 근데 바다는 안갔어요. ",
+            "SP": "A la montaña fui, pero al mar no. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0036",
+            "index": 36,
+            "KO": "그건 근데 너무 했다 진짜.",
+            "SP": "Eso realmente es muy malo."
+        },
+        {
+            "segmentid": "I-00-NS-01-0037",
+            "index": 37,
+            "KO": "그 음료수는 남편이 어제 나에게 사줬어요.",
+            "SP": "Esa bebida me la compró mi marido ayer."
+        },
+        {
+            "segmentid": "I-00-NS-01-0038",
+            "index": 38,
+            "KO": "너는 그 제안을 좋다고 받아들였니?",
+            "SP": "¿Tú has aceptado esa surgencia por gusto?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0039",
+            "index": 39,
+            "KO": "오닉이, 사람 이름이 아니고 잘생기고 매력있는 고양이 이름이야. ",
+            "SP": "Onyx, eso no es un nombre de persona sino de un gato muy guapo y atractivo. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0040",
+            "index": 40,
+            "KO": "토끼말이야.. 사실 동물 토끼가 아니고 고양이야.",
+            "SP": "Conejo... actualmente no es el animal sino el nombre de un gato."
+        },
+        {
+            "segmentid": "I-00-NS-01-0041",
+            "index": 41,
+            "KO": "그 사람, 이상한 사람이면 어떡해요? ",
+            "SP": "Esa persona, ¿qué tengo que hacer si es una persona muy extraña?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0042",
+            "index": 42,
+            "KO": "우리 아들, 드디어 이번에 합격했어요. ",
+            "SP": "Mi hijo... por fin él ha aprobado."
+        },
+        {
+            "segmentid": "I-00-NS-01-0043",
+            "index": 43,
+            "KO": "가짜 뉴스들, 저한테 제발 이런 것 좀 말하지 말아주세요.  ",
+            "SP": "Las noticias falsas, no me cuentes estas noticias por favor. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0044",
+            "index": 44,
+            "KO": "시호.. 걔는 이상한 개그를 너무 좋아해.",
+            "SP": "A Siho le gusta mucho la comedia extraña."
+        },
+        {
+            "segmentid": "I-00-NS-01-0045",
+            "index": 45,
+            "KO": "우리팀, 이번엔 우승 할수 있을거 같아? ",
+            "SP": "Nuestro equipo, ¿esta vez podrá ganar el campeón?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0046",
+            "index": 46,
+            "KO": "블랙핑크, 너도 봤어? ",
+            "SP": "¿Black Pink, las has visto a ellas también?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0047",
+            "index": 47,
+            "KO": "자세한 소식, 최세라 기자 전해주시죠. ",
+            "SP": "Más datos relacionados con esta histora, nos lo contará Sera Choi. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0048",
+            "index": 48,
+            "KO": "이게 그리고 그렇게 간단한 문제가 아니더라구..",
+            "SP": "Esto, esto no es un problema muy simple. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0049",
+            "index": 49,
+            "KO": "A: 저 선수 누구야? \nB: 저 선수가 올해 MVP에요. ",
+            "SP": "A: ¿Quién es ese jugador?\nB: Ese jugador es el jugardor más valorado de este año. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0050",
+            "index": 50,
+            "KO": "용식이 네가 진짜 사랑해?",
+            "SP": "¿A Yongsik lo quieres en serio?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0051",
+            "index": 51,
+            "KO": "산삼이가 제 친구가 키우는 고양이 이름이거든요.",
+            "SP": "Sansam es el nombre del gato de mi amiga."
+        },
+        {
+            "segmentid": "I-00-NS-01-0052",
+            "index": 52,
+            "KO": "핸드폰이 요즘 부모들 사이에서 가장 큰 걱정거리에요.",
+            "SP": "El movíl es una gran preocupación entre los padres estos días."
+        },
+        {
+            "segmentid": "I-00-NS-01-0053",
+            "index": 53,
+            "KO": "결혼이란 인생에서 가장 큰 축복이다.",
+            "SP": "El matrimonio es la gran felicidad de la vida."
+        },
+        {
+            "segmentid": "I-00-NS-01-0054",
+            "index": 54,
+            "KO": "자식이란 원래 마음대로 되지 않는 존재이다.",
+            "SP": "El niño es un ser que no podemos manipular."
+        },
+        {
+            "segmentid": "I-00-NS-01-0055",
+            "index": 55,
+            "KO": "대통령이란 국민의 목소리에 귀를 기울여야하는 사람이다.",
+            "SP": "El presidente es la persona que tiene que escuchar la voz del pueblo."
+        },
+        {
+            "segmentid": "I-00-NS-01-0056",
+            "index": 56,
+            "KO": "문법이란 언어에 내재되어 있는 규칙과 질서이다.",
+            "SP": "La gramática son la regla y el orden inherentes al idioma."
+        },
+        {
+            "segmentid": "I-00-NS-01-0057",
+            "index": 57,
+            "KO": "A: 이번에 우리 아빠 차 망가뜨린거 청소년들이래.\nB: 어휴 청소년들이란..",
+            "SP": "A: Quienes rompieron el coche de mi padre son unos adolecentes. \nB: Ay.. los adolescentes..."
+        },
+        {
+            "segmentid": "I-00-NS-01-0058",
+            "index": 58,
+            "KO": "A: 은채에 대해 걱정이 많아? \nB: 은채야 걱정 없고 내 논문이 문제지 뭐..",
+            "SP": "A: ¿Te preocupa mucho Alicia?\nB: Alicia no me preocupoa sino mi tesis..."
+        },
+        {
+            "segmentid": "I-00-NS-01-0059",
+            "index": 59,
+            "KO": "아 뭐 아기들끼리 싸우는거야 너무 당연한거 아닌가요?",
+            "SP": "Que los niños se peleen es muy natural, ¿no?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0060",
+            "index": 60,
+            "KO": "나야 모른척하면 그만이니 신경쓰지마.",
+            "SP": "Yo voy a ignorar, por eso no te preocupes.  "
+        },
+        {
+            "segmentid": "I-00-NS-01-0061",
+            "index": 61,
+            "KO": "그와 결혼하는데 무슨 특별한 이유랄 것이야 있겠어요?",
+            "SP": "¿La razón especial por la que me caso con él, eso existe realmente?"
+        },
+        {
+            "segmentid": "I-00-NS-01-0062",
+            "index": 62,
+            "KO": "이 책을 Alicia가 원한다.",
+            "SP": "ESTOS LIBROS quiere Alicia."
+        },
+        {
+            "segmentid": "I-00-NS-01-0063",
+            "index": 63,
+            "KO": "이 케이크들을 María가 싫어한다.",
+            "SP": "ESTAS TARTAS odia María."
+        },
+        {
+            "segmentid": "I-00-NS-01-0064",
+            "index": 64,
+            "KO": "겨울에, 과일을 아주 조금 그들이 샀다. ",
+            "SP": "En invierno, POCAS FRUTAS compraron. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0065",
+            "index": 65,
+            "KO": "문 앞에 편지 뒀어.",
+            "SP": "He dejado una carta delante de la puerta."
+        },
+        {
+            "segmentid": "I-00-NS-01-0066",
+            "index": 66,
+            "KO": "A: 너 뭐 먹을래? \nB: 샌드위치 먹을래. ",
+            "SP": "A: ¿Qué quiere comer?\nB: Quiero un sandwich. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0067",
+            "index": 67,
+            "KO": "A: 유하랑 은채랑 지금 뭐한대? \nB: 티비를 지금 보고있어.. 내일이 시험인데 말이야. ",
+            "SP": "A: ¿Qué hacen Yuha y Eunchae?\nB: Están viendo la tele…aunque mañana es el examen. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0068",
+            "index": 68,
+            "KO": "드디어 Galaxy S24를 Juan이 샀다.",
+            "SP": "Un GALAXY S24 compró Juan por fin."
+        },
+        {
+            "segmentid": "I-00-NS-01-0069",
+            "index": 69,
+            "KO": "A: 석준이는 지금 어디 가나요? \nB: 학교에를 간대요. 일요일인데도요.  ",
+            "SP": "A: ¿A dónde va Seokjune ahora?\nB: AL COLEGIO va él.. aun siendo domingo. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0070",
+            "index": 70,
+            "KO": "A: 그 레스토랑은 뭐가 맛있어? \nB: 빠에야가 진짜 맛있어요. ",
+            "SP": "A: ¿Qué está muy rico en ese restaurante?\nB: Está muy rica la paella. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0071",
+            "index": 71,
+            "KO": "A: 누가 거기 있니?? \nB: 철수가 있어요. ",
+            "SP": "A: ¿Quién está allí?\nB: Está Cheolsu. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0072",
+            "index": 72,
+            "KO": "A: 파리에 뭐가 유명해? \nB: 에펠탑이 유명하잖아. ",
+            "SP": "A: ¿Qué es conocido en Paris?\nB: Es muy popular la Torre Effel. "
+        },
+        {
+            "segmentid": "I-00-NS-01-0073",
+            "index": 73,
+            "KO": "A: 너네 반에서 누가 제일 똑똑하니? \nB: 은채가 진짜 똑똑해. ",
+            "SP": "A: ¿Quién es el más inteligente en tu clase?\nB: Es muy inteligente Eunchae. "
+        },
+        {
+            "segmentid": "I-00-NS-02-0074",
+            "index": 74,
+            "KO": "윤도가 지금 먹는 것은 제가 사준 햄버거입니다.",
+            "SP": "Lo que Yundo está comiendo ahora es la hamburguesa que le he comprado."
+        },
+        {
+            "segmentid": "I-00-NS-02-0075",
+            "index": 75,
+            "KO": "하지만 이들 중 치료를 받을 수 있는 건 고양이와 강아지 뿐이고 나머지는 다른 수의사에게 가야합니다.",
+            "SP": "Sin embargo, los que pueden recibir tratamiento son solo el gato y el perro. Los demás tienen que ir a otro veterinario. "
+        },
+        {
+            "segmentid": "I-00-NS-02-0076",
+            "index": 76,
+            "KO": "저희 엄마가 진짜 바라는 것은 누나의 결혼입니다.",
+            "SP": "Lo que mi madre desea mucho es el matrimonio de mi hermana."
+        },
+        {
+            "segmentid": "I-00-NS-02-0077",
+            "index": 77,
+            "KO": "내가 내 남편을 알게된 것은 그 해 11월이였다.",
+            "SP": "El momento en que yo conocí a mi marido fue en noviembre de ese año."
+        },
+        {
+            "segmentid": "I-00-NS-02-0078",
+            "index": 78,
+            "KO": "어제 이서와 윤도가 만난 것은 마드리드에서였다",
+            "SP": "El lugar donde Yiseo y Yundo se encontraron ayer fue Madrid."
+        },
+        {
+            "segmentid": "I-00-NS-02-0079",
+            "index": 79,
+            "KO": "스페인에 제일 많은게 하몽이야. 가서 많이 먹어.",
+            "SP": "Jamón es lo que hay mucho en España. Come mucho cuando vayas."
+        },
+        {
+            "segmentid": "I-00-NS-02-0080",
+            "index": 80,
+            "KO": "정부가 탈북민에 대해 우호적인 정책을 펼친게 2000년부터였지 그 전에는 이렇지 않았다.",
+            "SP": "Fue en el 2000 cuando el gobierno coreano llevó a cabo una medida favorable para los refugiados de Corea del Norte."
+        },
+        {
+            "segmentid": "I-00-NS-02-0081",
+            "index": 81,
+            "KO": "내가 진짜 속상했던게 아무 말도 없이 네가 떠나 버린거야.",
+            "SP": "Me da lástima que te fueras sin despedirte."
+        },
+        {
+            "segmentid": "I-00-NS-02-0082",
+            "index": 82,
+            "KO": "콜럼버스가 라틴아메리카를 발견한게 아마 1492년이었지?",
+            "SP": "¿Sería en 1492 cuando Columbus descubrió Latinoamérica?"
+        },
+        {
+            "segmentid": "I-00-NS-02-0083",
+            "index": 83,
+            "KO": "그 회사에서 일하는게 그렇게 힘들었니?",
+            "SP": "¿Te costaba tanto trabajar en esa empresa?"
+        }
+    ]
+}

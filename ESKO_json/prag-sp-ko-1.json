@@ -1,0 +1,1377 @@
+{
+    "document-id": "4",
+    "filename": "prag-sp-kp-1",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": [
+        {
+            "segmentid": "P-PA-PS-01-0001",
+            "index": 1,
+            "KO": "당신은 더 얘기하고 싶겠지만 저는 그 사람이랑 더 이상 얘기하고 싶지 않아요.",
+            "SP": "A lo mejor tú quieres hablar más, pero yo no quiero hablar más con él. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0002",
+            "index": 2,
+            "KO": "선생님을 한번 믿고 너에게 알려준대로 공부해봐.",
+            "SP": "Confía en tu profesora y trata de estudiar como te he enseñado."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0003",
+            "index": 3,
+            "KO": "이 박철수를 좀 믿어보세요.",
+            "SP": "Confía en mí, por favor. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0004",
+            "index": 4,
+            "KO": "(전화)\nA: 여보세요.\nB: 여보세요. 이은채씨 맞으시죠?\nA: 네, 맞는데요.",
+            "SP": "A: Hola.\nB: Hola. ¿Eres Eunchae Lee?\nA: Sí, soy yo. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0005",
+            "index": 5,
+            "KO": "(전화) 좋은 오후입니다. Carlos 입니다.",
+            "SP": "(teléfono) Buenas tardes. Soy Carlos."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0006",
+            "index": 6,
+            "KO": "(전화) 안녕하세요, 스페인라틴아메리카연구소입니다. ",
+            "SP": "(teléfono) Instituto de estudios hispánicos, digáme. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0007",
+            "index": 7,
+            "KO": "A: 우리 과제 주제 뭐하지? \nB: 좀 더 생각해보자.",
+            "SP": "A: ¿Qué tema del proyecto hacemos?\n B: Vamos a pensarlo más."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0008",
+            "index": 8,
+            "KO": "A: 민지야, 이제 잘 시간이네~ 우리 같이 자러갈까?\nB: 싫어요. 저 더 놀래요. ",
+            "SP": "A: Minji, es hora de irse a dormir. ¿Vamos a dormir?\nB: No, quiero jugar más. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0009",
+            "index": 9,
+            "KO": "여러분 질문이 많은건 좋은데 우리 질문 전에 손을 들고 질문할까요?",
+            "SP": "Chicos, es bueno tener muchas preguntas, pero antes de preguntar ¿levantamos la mano, primero?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0010",
+            "index": 10,
+            "KO": "너희들은 아직 시험 두 파트를 할 한시간이 남아있어. 자 우리 해보자!",
+            "SP": "Tenéis una hora para hacer las dos partes del examen. ¡Empezamos!"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0011",
+            "index": 11,
+            "KO": "A: 엘레나, 우리는 이혼을 하기로 했단다. \nB: 왜요? 아빠도 여기 동의 했나요? ",
+            "SP": "A: Elena, nos vamos a separar. \nB: ¿Por qué? ¿Papá también está de acuerdo?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0012",
+            "index": 12,
+            "KO": "A: 자기야~\n B: 응? 왜 불렀어?",
+            "SP": "A: Cariño~\n B: ¿Sí? Dime. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0013",
+            "index": 13,
+            "KO": "A: 조금 더 깎아주실래요?\nB: 아이~ 자기한테는 싸게 판거야.",
+            "SP": "A: ¿Puedes dejármelo más barato?\nB: Te lo estoy dejando al precio más bajo. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0014",
+            "index": 14,
+            "KO": "A: 당신 뭔데 나에게 그런말을 합니까?\nB: 당신이야말로 여기서 뭐하는거지? ",
+            "SP": "A: ¿Tú quién eres para decirme eso?\nB: Lo mismo te digo. ¿qué haces aquí?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0015",
+            "index": 15,
+            "KO": "당신의 관심이 많은 아이들을 살릴 수 있습니다.",
+            "SP": "Tu interés salva vidas de niños."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0016",
+            "index": 16,
+            "KO": "안녕하세요, 이쪽은 제 친구 Pedro입니다. ",
+            "SP": "Hola, este es mi amigo, Pedro."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0017",
+            "index": 17,
+            "KO": "A: 지금 저에게 뭐하시는거에요?\nB: 그쪽이 먼저 실수를 했잖아요.",
+            "SP": "A: ¿Por qué me haces eso ahora?\nB: Tú me has faltado al respecto, primero. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0018",
+            "index": 18,
+            "KO": "멍청아 더 얘기하지마, 나 좀 자자. ",
+            "SP": "No me hables más, idiota, que quiero dormir. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0019",
+            "index": 19,
+            "KO": "A: 엄마는 더 놀기 싫은데 알리시아는 더 놀고 싶지. \nB: 네 엄마, 나 더 놀래요. ",
+            "SP": "A: Mamá no quiere jugar más, pero Alicia sí.  \nB: Sí, mamá, Quiero jugar más. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0020",
+            "index": 20,
+            "KO": "A: 알리시아 엄청 많이 먹었네. 배부르니? \n B: 응, 엄마 나 너무 배불러요.",
+            "SP": "A: Alicia ha comido mucho. ¿Estás llena?\n B: Sí, mamá. Estoy muy llena."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0021",
+            "index": 21,
+            "KO": "당신 지금 여기서 뭐하고 계세요? 얼른 집에 가요!",
+            "SP": "¿Qué hace usted aquí? ¡Váyase a casa rápido!"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0022",
+            "index": 22,
+            "KO": "A: 당신이 내게 책임 없냐고 물어봤잖아요.\nB: 지금 당신이라고 얘기했어요?\nA: 그럼 당신이라고 하지 뭐라고 불러.\nB: 이제 반말도 하네.",
+            "SP": "A: Tú me has preguntado si soy culpable.\nB: ¿Me hablas de tú?\nA: Sí, te hablo te tú ¿o cómo te hablo?\nB: Ahora me estás hablando descortésmente. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0023",
+            "index": 23,
+            "KO": "자네 지금 뭐하나?",
+            "SP": "¿Qué haces ahora?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0024",
+            "index": 24,
+            "KO": "학생은 지금 장학금을 알아보고 있는건가?",
+            "SP": "¿Ahora estás buscando información sobre becas?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0025",
+            "index": 25,
+            "KO": "고객님은 카드 결제를 원하시는걸까요?",
+            "SP": "¿Usted quiere pagar con tarjeta?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0026",
+            "index": 26,
+            "KO": "안녕하세요, 좋은 오후이니다. 무엇을 도와드릴까요?",
+            "SP": "Hola, buenas tardes. ¿En qué puedo ayudarle?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0027",
+            "index": 27,
+            "KO": "Pedro 교수님, 교수님은 뭐드시고 싶으세요?",
+            "SP": "Pedro, ¿qué quieres comer? "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0028",
+            "index": 28,
+            "KO": "환자분은 앞으로 한달동안 술을 드시면 안됩니다.",
+            "SP": "No tienes que tomar alcohol durante un mes."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0029",
+            "index": 29,
+            "KO": "A: 왜 숙제를 벌써하니?\nB: (엄마를 가리키며) 이분이 좀 엄하셔셔요~",
+            "SP": "A: ¿Por qué estás haciendo los deberes ya?\nB: (Indicando a su madre) Esta, que es muy estricta. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0030",
+            "index": 30,
+            "KO": "A: 왜 기분이 별로야?\nB: (멀리 있는 남자친구를 가리키며) 쟤가 좀 지루해서~",
+            "SP": "A: ¿Por qué no pareces contenta?\nB: (Indicando a su novio) Ese, que es un aburrido. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0031",
+            "index": 31,
+            "KO": "A: 누가 네 사촌이야?\nB: 저기, 노란 옷입은 사람. ",
+            "SP": "A: ¿Quién es tu primo?\nB: Ese, el de amarillo. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0032",
+            "index": 32,
+            "KO": "A: 누가 감독이야?\nB: 저기 콧수염 있는 사람. ",
+            "SP": "A: ¿Quién es el director?\nB: Aquel de la barba. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0033",
+            "index": 33,
+            "KO": "이것은 나의 책이고 저것은 교수님 책이에요.",
+            "SP": "Este es mi libro y aquel es el libro del profesor."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0034",
+            "index": 34,
+            "KO": "이것은 시훈이의 가방이고 그것은 걔 친구 가방이에요.",
+            "SP": "Esta es la mochila de Sihun y esa es la de su amigo."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0035",
+            "index": 35,
+            "KO": "나 지금 광화문이야. 이리로 와.",
+            "SP": "Ahora yo estoy en Gwanghwamun, ven aquí. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0036",
+            "index": 36,
+            "KO": "A: 나 지금 공항가려고..\nB: 거기 가서 뭐하게? ",
+            "SP": "A: Ahora me voy al aeropuerto.\nB: ¿Qué vas a hacer allí?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0037",
+            "index": 37,
+            "KO": "A: 내 핸드폰 어디있지?\nB: 저기 있어. 저기 가서 얼른 가져와. ",
+            "SP": "A: ¿Dónde está mi móvil?\nB: Está ahí. Ve ahí y traélo ahora. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0038",
+            "index": 38,
+            "KO": "A: 내 핸드폰 어디있지?\nB: 여기 있어. ",
+            "SP": "A: ¿Dónde está mi móvil?\nB: Aquí está. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0039",
+            "index": 39,
+            "KO": "내 원룸은 가까운 Zona Rosa에 있어요, 20분정도 걸려요.",
+            "SP": "Mi estudio está aquí en la Zona Rosa, a sólo 20 minutos. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0040",
+            "index": 40,
+            "KO": "미국은 많은 인구가 사는 큰 나라에요. 이 나라에는 실업률이 굉장히 많죠. 많은 우리 한국인들은 이 점에 대해 궁금증을 갖습니다. 비록 우리는 서울에 있지만, 미국의 실업률에 대해 논의해볼까요? ",
+            "SP": "Estados Unidos es un país muy grande con mucha población. Aquí en este país hay mucho desempleo y muchos de nosotros, los coreanos, tenemos mucha curiosidad de eso. Aunque estemos en Seúl, analicemos la tasa de desempleo en Estados Unidos."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0041",
+            "index": 41,
+            "KO": "얘야, 가까이 오지 마. 거기 있으렴. 30cm 거리는 유지하자.",
+            "SP": "Quietecito. No te me acerques más. Quédate ahí. Manten una distancia de 30 cm."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0042",
+            "index": 42,
+            "KO": "아마 길 건너 거기 있는 Talpan 중학교에 갔을 수도 있어요.",
+            "SP": "Podría haber ido a la secundaria de Talpan que está ahí en la esquina de enfrente."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0043",
+            "index": 43,
+            "KO": "거기 저 멀리 있는 마을로 가버리렴.",
+            "SP": "Vete a un pueblito ahí, lejos, por ahí. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0044",
+            "index": 44,
+            "KO": "뻬드로는 그걸 모른다고 말했고 거기 바로 문제가 있습니다.",
+            "SP": "Pedro dice que no lo sabe y ahí está el problema."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0045",
+            "index": 45,
+            "KO": "여기까지 말한 모든것을 강력히 주장하는 바입니다.",
+            "SP": "Insisto en todo lo que he dicho hasta aquí."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0046",
+            "index": 46,
+            "KO": "그는 복권에 당첨되었고 거기서부터 그의 삶은 완전히 바뀌었습니다.",
+            "SP": "Le tocó la lotería: a partir de ahí, su vida cambió por completo."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0047",
+            "index": 47,
+            "KO": "나는 여기 이 방에서는 책 읽는 것을 좋아하고 거기선 그 램프와 함께 읽는것을 좋아합니다.",
+            "SP": "Me encanta leer aquí en esta habitación, con esa lámpara ahí. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0048",
+            "index": 48,
+            "KO": "여기가 바로 그 방입니다.",
+            "SP": "Aquí es la habitación."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0049",
+            "index": 49,
+            "KO": "이건 미국 지도야. 나는 특히 여기 뉴욕에서 살고 싶어.",
+            "SP": "Es el mapa de Estados Unidos. Especialmente, quiero pasar vacaciones aquí, en Nueva York. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0049",
+            "index": 49,
+            "KO": "이건 미국 지도야. 나는 특히 여기 뉴욕에서 살고 싶어.",
+            "SP": "Es el mapa de Estados Unidos. Especialmente, quiero pasar vacaciones allí, en Nueva York. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0049",
+            "index": 49,
+            "KO": "이건 미국 지도야. 나는 특히 여기 뉴욕에서 살고 싶어.",
+            "SP": "Es el mapa de Estados Unidos. Especialmente, quiero pasar vacaciones ahí, en Nueva York. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0050",
+            "index": 50,
+            "KO": "그는 지금 거기 어딘가를 여행하고 있어요.",
+            "SP": "Él está por ahí viajando."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0051",
+            "index": 51,
+            "KO": "더 가까이로 와.",
+            "SP": "Vente más acá."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0052",
+            "index": 52,
+            "KO": "집은 강에서 더 멀리 있어요.",
+            "SP": "La casa está más allá del río."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0053",
+            "index": 53,
+            "KO": "(전화)\nA: 너 집에 언제 오려고? \nB: 엄마 나 3시쯤 가!",
+            "SP": "(teléfono)\nA: ¿Cuándo vuelves a casa?\nB: Mamá, llegaré más o menos a las 3. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0054",
+            "index": 54,
+            "KO": "A: 너 이따 뭐해?\nB: 나 파티 가려고! 너도 올래? ",
+            "SP": "A: ¿Qué haces luego?\nB: Voy a una fiesta. ¿Quieres venir?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0055",
+            "index": 55,
+            "KO": "내일 우리 학교 축제에 네 선물 가져갈게.",
+            "SP": "Mañana me voy a traer tu regalo a la fiesta de nuestra uni."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0056",
+            "index": 56,
+            "KO": "나는 여기 있을래.",
+            "SP": "Me quedo aquí."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0057",
+            "index": 57,
+            "KO": "나 물 좀 먹자. 얼른 갈게",
+            "SP": "Dejáme tomar agua, vengo enseguida. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0058",
+            "index": 58,
+            "KO": "나는 버스를 기다리면서 그와 수다 떨고 있어.",
+            "SP": "Estoy charlando con él esperando el autobús."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0059",
+            "index": 59,
+            "KO": "나는 내 아들을 위해 책을 두권 샀어요.",
+            "SP": "Compré dos libros para mi hijo."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0060",
+            "index": 60,
+            "KO": "나는 너를 위해 빠에야를 요리할거야.",
+            "SP": "Voy a preparar paella para ti."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0061",
+            "index": 61,
+            "KO": "조금만 더 기다려, 나 거의 도착했어. ",
+            "SP": "Espera un poco más, ya llego. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0062",
+            "index": 62,
+            "KO": "나 지금 엄청 중요한 회의 중이야.",
+            "SP": "En este momento estoy en la reunion muy importante."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0063",
+            "index": 63,
+            "KO": "지금 이 때를 즐겨야해.",
+            "SP": "Tenemos que disfrutar de este momento."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0064",
+            "index": 64,
+            "KO": "A: 어? 지금 텔레비전에 우리가 갔던 콘서트 영상이 나오네\nB: 아 저때 진짜 재밌었는데, 근데 지금은 다시 안가고 싶긴 해.",
+            "SP": "A: Mira. Ahora en la tele esta saliendo un vídeo del concierto donde fuimos. \nB: En ese momento fue muy divertido, pero ahora no volvería a ir."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0065",
+            "index": 65,
+            "KO": "우리는 Ana에 대해 얘기하고 있었는데 그 때 걔가 왔어.",
+            "SP": "Estábamos hablando de Ana y en ese momento llegó."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0066",
+            "index": 66,
+            "KO": "1997년에 대학생활을 시작했는데 그 때 나는 일도 하고 있었다.",
+            "SP": "Empecé la universidad en 1997. En aquel momento, estaba trabajando también. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0067",
+            "index": 67,
+            "KO": "그때 교수님이 했던 얘기 기억나?",
+            "SP": "¿Recuerdas lo que el profesor nos dijo en ese momento?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0068",
+            "index": 68,
+            "KO": "접때 길에서 만난 그 남자 기억나?",
+            "SP": "¿Recuerdas a ese hombre que nos hemos encontrado en la calle antes?"
+        },
+        {
+            "segmentid": "P-PA-PS-01-0069",
+            "index": 69,
+            "KO": "Pedro는 텔레비전을 보고 있었다. 이 때 갑자기 전화 벨이 울렸다.",
+            "SP": "Pedro veía la television. En este momento, sonó el teléfono. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0070",
+            "index": 70,
+            "KO": "Pedro는 텔레비전을 보고 있었다. 그 때 갑자기 전화 벨이 울렸다.",
+            "SP": "Pedro veía la television. En este momento, sonó el teléfono. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0071",
+            "index": 71,
+            "KO": "A: 언제와? 급해!\nB: 응 지금 가~",
+            "SP": "A: ¿Cúando vienes? ¡Tenemos prisa!\nB: Ahora voy."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0072",
+            "index": 72,
+            "KO": "A: 더 얘기하고 싶은데 시간이 없네.\nB: 언제 한번 또 얘기하자. ",
+            "SP": "A: Quiero hablar más, pero no tengo tiempo. \nB: Hablamos luego otra vez. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0073",
+            "index": 73,
+            "KO": "내일 더 공부할게요.",
+            "SP": "Mañana estudio más."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0074",
+            "index": 74,
+            "KO": "A: 대통령이 오늘 새로운 외교 정책을 발표했어. \nB: 오 맞아 나도 그거 들었어. ",
+            "SP": "A: Hoy el presidente ha anunciado una nueva medida diplomática. \nB: Ay, sí. Lo he oído también."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0075",
+            "index": 75,
+            "KO": "A: 내가 아까도 말했듯이 그건 내 잘못이 아니야. \nB: 난 그거 납득 못하겠는데",
+            "SP": "A: Como he dicho antes, eso no es por mi culpa. \nB: Yo no puedo aceptarlo. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0076",
+            "index": 76,
+            "KO": "너는 볼때마다 날씬해지네. 진짜 농담이 아니야.",
+            "SP": "Te veo cada vez más delgada. Y eso no es ninguna broma."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0077",
+            "index": 77,
+            "KO": "음 이건 공정하지 않아요. 그리고 전 이것에 대해 얘기하려고 합니다.",
+            "SP": "Pues no es justo, y de eso estoy hablando. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0078",
+            "index": 78,
+            "KO": "앞서 말씀하신 것은 저희에게 많은 가르침을 줍니다.",
+            "SP": "Lo dicho arriba nos enseña muchas cosas."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0079",
+            "index": 79,
+            "KO": "이전에 말한 것은 문제의 주요 원인 중 하나에 관한 것이었어.",
+            "SP": "Lo anteriormente dicho es una de las principales causas del problema."
+        },
+        {
+            "segmentid": "P-PA-PS-01-0080",
+            "index": 80,
+            "KO": "너는 영어로 말하면 항상 실수를 많이하는데 그게 진짜 문제야.",
+            "SP": "Siempre te equivocas mucho al hablar en inglés, y ese es el problema. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0081",
+            "index": 81,
+            "KO": "범인은 그의 존재를 알아야합니다. 그것만이 어떤 무시할 수 없는 강력한 무기이자 보호로 작용할 것입니다.",
+            "SP": "El delicuente debe conocer su existencia, para que esto se convierta en una protección, en un arma disuasiva. "
+        },
+        {
+            "segmentid": "P-PA-PS-01-0082",
+            "index": 82,
+            "KO": "그 말씀하신 그거요, 거의 항상 저는 그런 것에서 실수를 해요. ",
+            "SP": "Dicho esto, casi siempre me equivoco en este tipo de cosas."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0083",
+            "index": 83,
+            "KO": "Juan은 배가 고파서 바나나 하나를 먹었어요.",
+            "SP": "Juan se comió un plátano porque tenía hambre."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0084",
+            "index": 84,
+            "KO": "Juan은 바나나 하나가 다 익어서 그걸 먹었어요.",
+            "SP": "Juan se comió un plátano porque estaba maduro."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0085",
+            "index": 85,
+            "KO": "Juan은 점심 시간이어서 바나나 하나를 먹었어요.",
+            "SP": "Juan se comió un plátano porque era la hora de almorzar."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0086",
+            "index": 86,
+            "KO": "Juan은 성숙하기 때문에 그 말을 무시했어요.",
+            "SP": "Juan pudo ignorar esas palabras porque era maduro."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0087",
+            "index": 87,
+            "KO": "Alicia는 쇼핑몰에 갔을 때 그 마블 셔츠를 샀어요.",
+            "SP": "Alicia compró esa camiseta de Marvel cuando fue al centro comercial."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0088",
+            "index": 88,
+            "KO": "Alicia는 그 마블 셔츠가 할인할때 그걸 샀어요.",
+            "SP": "Alicia compró esa camiseta de Marvel cuando estaba en rebajas."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0089",
+            "index": 89,
+            "KO": "Alicia는 비가 많이 올 때 그 마블 셔츠를 샀어요.",
+            "SP": "Alicia compró esa camiseta de Marvel cuando llovía mucho."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0090",
+            "index": 90,
+            "KO": "Sofía는 매우 부자여서 항상 그 비싼 레스토랑에서 프랑스 음식을 저녁으로 먹는다.",
+            "SP": "Sofía siempre cena comida francesa de ese restaurante muy caro porque es muy rica."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0091",
+            "index": 91,
+            "KO": "Sofía는 항상 그 비싼 레스토랑에서 프랑스 음식을 저녁으로 먹는다. 왜냐하면 그 프랑스 음식이 매우 맛있기 때문이다.",
+            "SP": "Sofía siempre cena comida francesa de ese restaurante muy caro porque está muy rica."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0092",
+            "index": 92,
+            "KO": "María는 매우 개방적이어서 성인용품점에 들어가는데 전혀 망설이지 않았다.",
+            "SP": "María no dudó en entrar a la tienda de productos para adultos porque es abierta."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0093",
+            "index": 93,
+            "KO": "María는 문이 열려있었기 때문에 성인용품점에 들어가는데 전혀 망설이지 않았다.",
+            "SP": "María no dudó en entrar a la tienda de productos para adultos porque está abierta."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0094",
+            "index": 94,
+            "KO": "Ana는 수영복이 필요하다고 생각하지 않았기 때문에 여행에 안가져갔어요.",
+            "SP": "Ana no llevó su bañador en el viaje porque no creía que le hiciera falta."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0095",
+            "index": 95,
+            "KO": "Ana는 딸이 수영복이 필요할거라고 생각하지 못해서 여행에 안가져갔어요.",
+            "SP": "Ana no llevó su bañador en el viaje porque no creía que le hiciera falta a la niña."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0096",
+            "index": 96,
+            "KO": "Juan 그 개자식은 일에 도착하자마자 루머를 퍼트리기 시작했어.",
+            "SP": "Tan pronto como llegó Juan al trabajo el cabrón empezó a contrar rumores."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0097",
+            "index": 97,
+            "KO": "Juan은 일에 도착하자마자 루머를 퍼트리기 시작했어.",
+            "SP": "Tan pronto como llegó Juan al trabajo empezó a contrar rumores."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0098",
+            "index": 98,
+            "KO": "Juan 그 애는 일에 도착하자마자 루머를 퍼트리기 시작했어.",
+            "SP": "Tan pronto como llegó Juan al trabajo ese chico empezó a contar rumores."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0099",
+            "index": 99,
+            "KO": "빛이 길을 훑고 지나갈 때, 그리고 아마 그것과 대조되어 내부의 어둠과 대성당의 공허함이 매우 인상 깊었다. ",
+            "SP": "Al pasar de la luminosidad de la calle, y tal vez por contraste con ella, impresionaba la oscuridad interior y el vacío de la Catedral, en la que apenas había a la vista cuatro o cinco personas."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0100",
+            "index": 100,
+            "KO": "마리아는 암탉이 하나 있어서 그걸로 스프를 했어. 그리고 그걸 보온병에 넣었지. 보온병에..",
+            "SP": "María tenía gallina, hizo un caldo, lo puso en un termo, en un termo. Yo tenía sesos, unas cabezas. Y los sesos los hice huecos y unas tortillas, resumiendo que preparamos la comida. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0101",
+            "index": 101,
+            "KO": "그리고 우리 셋이 가자.. 그러니까 María Jesús랑 Patricio.. 항상 걔네는 최상의 방에만 가..  Paticio가 매일매일 운전을 하니까 좀 쉴수 있게 하려고. 그리고 그 우리 방에 애들.. 그 침대 하나는 걔네가 쓰고 다른건 우리가 써.",
+            "SP": "…Y vamos los tres o sea María Jesús y Patricio y van siempre a las mejores habitación o sea que para que pudieran descansar porque Patricio tenía que estar todos los días bastantes horas, conduciendo. Los chicos en nuestra habitación, una cama para ellos, otra para nosotros..."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0102",
+            "index": 102,
+            "KO": "A: 내일 발렌시아 어느 동네에서 축구 경기 있대. \nB: 축구경기? 어디서? 베니마클렛? 어느 팀이랑? \nA: 어딘지는 몰라. 내 친구 하나가 나한테 말해줬어. 근데 저번에는 거기였어. ",
+            "SP": "A: Mañana hay un partido de fútbol en un barrio de Valencia. \nB: ¡El partido de fútbol! ¿Y dónde? ¿en Benimaclet? ¿Cón qué equipo?\nA: No sé dónde es. Me lo ha dicho un amigo mío. Pero el otro día fue ahí. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0103",
+            "index": 103,
+            "KO": "A: 내일 발렌시아 어느 동네에서 축구 경기 있대. \nB: 축구경기? 어디서? 베니마클렛? \nA: 경기는 거기서 하는데 어느 팀이랑 하는지는 몰라. ",
+            "SP": "A: Mañana hay un partido de fútbol en un barrio de Valencia. \nB: ¡El partido de fútbol! ¿Y dónde? ¿en Benimaclet? ¿Cón qué equipo?\nA: Es en Benimaclet pero no sé con quién es. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0104",
+            "index": 104,
+            "KO": "A: 나 니 계좌로 돈 보냈어.\nB: 나 그거 필요없어. 엄마한테 쓰라고 해. 아빠가 나 몰래 술 먹게 두지 말고. 알겠지? 그 돈 아빠가 쓰게 하지마. ",
+            "SP": "A: He traspasado dinero a tu cuenta.\nB: No lo necesito. Dile a mamá que lo utilice. No dejes que papá beba en mi ausencia, ¿vale? No dejes que lo utilice. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0105",
+            "index": 105,
+            "KO": "A: 안에 해산물 있어요? \nB: 해산물이랑.. 해산물이 아닌것도 있죠. \nA: 해산물 아닌게 뭔데요? \nB: 하하 그 수수께기 한번 맞춰봐요",
+            "SP": "A: ¿Hay marisco dentro?\nB: Marisco y … lo que no es marisco. \nA: Ah… Y ¿qué es lo que no es marisco?\nB: Jaja, adivina el acertijo. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0106",
+            "index": 106,
+            "KO": "고려대학교로 가는 중이었어요. 거기에서 친구를 만나기로 했거든요.",
+            "SP": "Estoy de camino a la Universidad de Corea. He quedado con mi amigo ahí."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0107",
+            "index": 107,
+            "KO": "유하유럽 어떤 나라에서 유학했어.  그리고 걔 한국에서 취직 했을걸?",
+            "SP": "Yuha estudió arte en un país en Europa y volvió. Y probablemente consiguió un trabajo aquí en Corea."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0108",
+            "index": 108,
+            "KO": "유하 유럽의 어떤 나라에서 유학했어. 아마.. 프랑스일건데 잘은 몰라.",
+            "SP": "Yuha estudió en un país en Europa y volvió. Probablemente es Francia, pero no estoy segura. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0109",
+            "index": 109,
+            "KO": "A: 나 내일 경찰서 가서 성범죄경력조회회신서 받아야해.\nB: 그거 인터넷으로는 안돼? 꼭 경찰서 가야해?\nA: 몰라. 그냥 가서 하는게 편하겠더라고..\nB: 내일 너 바쁜데 거기까지 또 언제가냐..",
+            "SP": "A: Mañana tengo que ir a la policía para solicitar el certificado de delitos sexuales. \nB: ¿No se puede hacer en internet? ¿Hay que ir allí?\nA: No sé. Parece más cómodo ir allí directamente. \nB: Mañana estás muy ocupado y ¿cómo podrás ir allí?"
+        },
+        {
+            "segmentid": "P-PA-PS-02-0110",
+            "index": 110,
+            "KO": "와 너네 음식을 왜이리 많이 준비했어? 다 내가 좋아하는 것들이네!",
+            "SP": "¿Por qué habeís preparado tanta comida? ¡Me gusta todo!"
+        },
+        {
+            "segmentid": "P-PA-PS-02-0111",
+            "index": 111,
+            "KO": "저기 고양이 세마리 있는 곳에 책이 두 권 있는데 거기서 맘에 드는 것 골라봐.",
+            "SP": "Hay dos libros donde hay tres gatos y elige el libro que quieras."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0112",
+            "index": 112,
+            "KO": "Juan이 María랑 헤어졌다고? 그것 참 안된 일이다.",
+            "SP": "¿Juan ha roto con María? Es una pena."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0113",
+            "index": 113,
+            "KO": "축구 경기장에 핸드폰이 두개가 있는데, 그중 하나가 후안의 것이야? ",
+            "SP": "Hay dos móviles en el estadio de fútbol. ¿Uno de los dos es el de Juan?"
+        },
+        {
+            "segmentid": "P-PA-PS-02-0114",
+            "index": 114,
+            "KO": "너네 되게 많은 음식들을 들고 왔네! 진짜 다 모두 반갑다.",
+            "SP": "Habéis traído mucha comida. Me alegro de veros a todos."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0115",
+            "index": 115,
+            "KO": "장난감을 들고 있는 남자아이가 자네 손주인가? 그것 참 귀엽구만.",
+            "SP": "¿El niño con el juguete es tu nieto? ¡Qué lindo!"
+        },
+        {
+            "segmentid": "P-PA-PS-02-0116",
+            "index": 116,
+            "KO": "장난감을 들고 있는 남자아이가 자네 손주인가? 그거 진짜 비싸보이네.",
+            "SP": "¿El niño con el juguete es tu nieto? Parece que es muy caro."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0117",
+            "index": 117,
+            "KO": "저 고양이가 네 고양이야? 그것 참 까맣다.",
+            "SP": "¿Ese gato es tu gato? Es muy negro."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0118",
+            "index": 118,
+            "KO": "거기 있던 셋 다 그 얘기를 듣고 화가 났어요.",
+            "SP": "Los tres que estaban allí se enfadaron mucho al escuchar esa historia."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0119",
+            "index": 119,
+            "KO": "우리 딸은 거기 가서 고작 가방 하나 사왔더라.",
+            "SP": "Mi hija compró solo una mochila cuando fue allí."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0120",
+            "index": 120,
+            "KO": "아니 너 그렇게 옷을 많이 샀으면서 이 겨울에 입을건 두개밖에 없어?",
+            "SP": "¿Tienes solo dos prendas aunque has comprado tantas?"
+        },
+        {
+            "segmentid": "P-PA-PS-02-0121",
+            "index": 121,
+            "KO": "그 가게에 그림들도 진짜 많고 책들도 진짜 많았는데 나는 한권만 사왔어요.",
+            "SP": "Había muchos dibujos y muchos libros en esa tienda pero compré solo un libro."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0122",
+            "index": 122,
+            "KO": "그 공원에 강아지들도 많고 사람들도 많았는데 나는 그 중 한명에게 길을 물어봤어요.",
+            "SP": "Había muchos perros y muchas personas en ese parque, y pregunté la dirección a una. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0123",
+            "index": 123,
+            "KO": "그는 두개의 자켓과 두개의 신발을 가지고 있는데 그 중 한 자켓을 노숙자에게 줬어요.",
+            "SP": "Tenía dos chaquetas y dos pares de zapatos, y le dio una a un vagabundo. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0124",
+            "index": 124,
+            "KO": "그는 두개의 자켓과 두개의 신발을 가지고 있는데 그 중 신발 한켤레를 노숙자에게 줬어요.",
+            "SP": "Tenía dos chaquetas y dos pares de zapatos, y le dio uno a un vagabundo. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0125",
+            "index": 125,
+            "KO": "나는 커피 세잔과 쿠키 세개를 시켰는데 그 중 하나가 잘못 나왔어요.",
+            "SP": "He pedido tres cafés y tres galletas, pero me ha dado uno mal. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0126",
+            "index": 126,
+            "KO": "저 강아지 진짜 말처럼 달리네.",
+            "SP": "Ese perrito corre como un caballo."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0127",
+            "index": 127,
+            "KO": "어제 본 그 영화 생각보다 별로더라.",
+            "SP": "La película que vimos ayer era peor de lo que pensaba."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0128",
+            "index": 128,
+            "KO": "요즘 인기있는 영화 많은데 어제 본 그 영화는 그 중 최악이었어.",
+            "SP": "Hoy en día hay muchas películas populares, pero esa película que vimos ayer era peor que las otras. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0129",
+            "index": 129,
+            "KO": "나는 애가 세명인데 그 중에 첫째가 가장 똑똑해.",
+            "SP": "Tengo tres niños y el mayor es el más inteligente."
+        },
+        {
+            "segmentid": "P-PA-PS-02-0130",
+            "index": 130,
+            "KO": "네가 뭘 좋아할지 몰라서 내가 가진거 다가지고 왔어.",
+            "SP": "No sabía qué te gustaba, por eso llevo todo lo que tengo. "
+        },
+        {
+            "segmentid": "P-PA-PS-02-0131",
+            "index": 131,
+            "KO": "네가 파스타랑 피자를 좋아한다길래 둘 다 준비했어.",
+            "SP": "He oído que te gustan la pasta y la pizza, por eso he preparado los dos. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0132",
+            "index": 132,
+            "KO": "조용히 좀 해주실수 있나요?",
+            "SP": "¿Te puedes callar, por favor?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0133",
+            "index": 133,
+            "KO": "나랑 영화관 가자.",
+            "SP": "Vente al cine conmigo."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0134",
+            "index": 134,
+            "KO": "나랑 영화관 가는게 어때?",
+            "SP": "¿Por qué no vienes al cine conmigo?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0135",
+            "index": 135,
+            "KO": "나는 오늘 밤에 네가 나랑 영화관 가는걸 어떻게 생각하는지 물어보고 싶었어.",
+            "SP": "Quería preguntarte si tenías ganas de ir al cine conmigo esta noche."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0136",
+            "index": 136,
+            "KO": "그 상자 드는걸 혹시 도와주시는게 가능할까요?",
+            "SP": "¿Sería posible que me ayudaras con esa caja?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0137",
+            "index": 137,
+            "KO": "당신을 방문하는게 좋은 아이디어일지도 모른다고 생각했어요.",
+            "SP": "Supongo que quizá sería una buena idea ir a visitarle."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0138",
+            "index": 138,
+            "KO": "너에게 부탁한걸 가져오는걸 잊어버린거야. 그렇지?",
+            "SP": "Se te habrá olvidado traer lo que te pedí, ¿no?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0139",
+            "index": 139,
+            "KO": "아주 잠깐만 저랑 얘기를 나눌 수 있는지 좀 여쭤보고 싶었어요.",
+            "SP": "Te quería preguntar si tienes un ratito para hablar conmigo."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0140",
+            "index": 140,
+            "KO": "감독님, 제 생각에는 그렇게 하면 안될 것 같습니다. ",
+            "SP": "No creo que se debería hacer eso, señor director. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0141",
+            "index": 141,
+            "KO": "번거롭게 해드려서 정말 죄송한데요, 저에게 이 보고서를 보여주실 수 있나요? ",
+            "SP": "Odio tener que molestarte, pero ¿me podrías mirar este informe? "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0142",
+            "index": 142,
+            "KO": "문을 닫을 때 조심히 닫아주셔야 할거 같아요.",
+            "SP": "Se debería tener más cuidado al cerrar la puerta."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0143",
+            "index": 143,
+            "KO": "승객여러분들은 이륙하거나 착륙할때 자리에 앉아 안전벨트를 꼭 메주셔야 합니다.",
+            "SP": "Los pasajeros deben asegurarse de que llevan puesto el cintruón de seguridad al despegar y al aterrizar."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0144",
+            "index": 144,
+            "KO": NaN,
+            "SP": "Tienes cara de ser una persona generosa. ¿Me puedes prestar un poco de plata, por favor?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0145",
+            "index": 145,
+            "KO": "너 단거 먹는거 엄청 좋아하니까 우리 커피랑 조각 케이크를 하나 먹자.",
+            "SP": "Como sé que te gustan tanto los dulces, tomemos un pastelito con el café. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0146",
+            "index": 146,
+            "KO": "니네 진짜 엄청 좋고 큰 집에 사는구나!",
+            "SP": "¡Tenéis una casa preciosísima y grandísima!"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0147",
+            "index": 147,
+            "KO": "자기야 물 한병만 가져다줘.",
+            "SP": "Tráeme un vaso de agua, cariño. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0148",
+            "index": 148,
+            "KO": NaN,
+            "SP": "A: ¿A qué hace frío en la habitación?\nB: Sí hace un poquito de frío. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0149",
+            "index": 149,
+            "KO": "A: 이해 하셨나요 아니면 못하셨나요? \nB: 대충 했어요. ",
+            "SP": "A: ¿Lo comprendes o no?\nB: Más o menos. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0150",
+            "index": 150,
+            "KO": "우리 둘이 함께 가는게 좋은 아이디어라고 생각하지 않니?",
+            "SP": "¿No crees que es una buena idea que vayamos los dos juntos?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0151",
+            "index": 151,
+            "KO": NaN,
+            "SP": "¿Y si \"ataco\" la tortilla de patatas? "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0152",
+            "index": 152,
+            "KO": "저는 당신이 이러한 종류의 회의를 좋아하지 않는걸 알고있지만 그래도 와주시길 부탁드립니다.",
+            "SP": "Sé que no eres muy aficionada a las reuniones de este tipo, pero hazme el favor de venir. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0153",
+            "index": 153,
+            "KO": "Iris, 너 공부하는거 끝나면 너랑 놀아줄게. ",
+            "SP": "Jugaré contigo cuando termines de estudiar, Iris. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0154",
+            "index": 154,
+            "KO": "나는 네가 나에게 차를 빌려줘도 상관없다고 생각해.",
+            "SP": "Estoy seguro de que no te importará prestarme el coche."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0155",
+            "index": 155,
+            "KO": "일을 엄청 많이 했으니 우리 잠시만 쉴까요?",
+            "SP": "¿Nos tomamos un descansito después de tanto trabajo?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0156",
+            "index": 156,
+            "KO": "내가 어제 너를 도왔으니 오늘은 네가 되갚아줄 차례야.",
+            "SP": "Como te eché una mano ayer, hoy me puedes devolver el favor. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0157",
+            "index": 157,
+            "KO": "A: 엄마는 네가 공부를 열심히 해서 좋은 대학에 갔으면 좋겠어. 노래는 대학에 가서 취미로 하자. \nB: 엄마 나는 노래가 너무 좋아서 가수가 되고 싶어.",
+            "SP": "A: Mamá quiere que entres a una buena universidad estudiando mucho. Ya cantarás como pasatiempo\ndespués de que hayas empezado la universidad. \nB: Mamá, quiero ser cantante porque me gusta mucho cantar. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0158",
+            "index": 158,
+            "KO": "A: 은채야 너 오늘 수업 끝나고 뭐해? \nB: 특별한거 없어. 왜? \nA: 오늘 내 생일이라서 파티할건데 네가 와주면 좋을거 같아. ",
+            "SP": "A: Eunchae, ¿qué haces después de la clase?\nB: Nada especial. ¿Por que?\nA: Como hoy es mi cumpleaños, tengo una fiesta y me gustaría que vinieras. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0159",
+            "index": 159,
+            "KO": "저 죄송한데요, 거기 있는 펜 좀 주시겠어요? ",
+            "SP": "Perdón, ¿podrías pasarme esa pluma de allí?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0160",
+            "index": 160,
+            "KO": "연락이 안되네. 전화 좀 해야겠다.",
+            "SP": "No contesta. Tienes que llamarle."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0161",
+            "index": 161,
+            "KO": "저 죄송한데요, 말씀 좀 여쭐께요. ",
+            "SP": "Perdona, pero quiero preguntarte algo. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0162",
+            "index": 162,
+            "KO": "A: 나 오늘 시험에 떨어졌어. \nB: 그래? 그렇지만 열심히 노력했으니 다음 번에는 붙겠다. ",
+            "SP": "A: Hoy he suspendido el examen. \nB: ¿Ah sí? Pero lo has intentado mucho, por eso seguro que aprobarás el siguiente examen. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0163",
+            "index": 163,
+            "KO": "또 큰 수술을 성공적으로 끝냈다고 들었네. 우리 병원에서 자네 아니면 누가 또 그런 수술을 하겠나?",
+            "SP": "He oído que otra vez realizaste una operación muy grande. ¿Quién podría hacerlo en nuestro hospital si no tú?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0164",
+            "index": 164,
+            "KO": "안녕하세요? 어르신. 뭐 하나 여쭤봐도 될까요?",
+            "SP": "Hola, señor. ¿Puedo preguntarle algo? "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0165",
+            "index": 165,
+            "KO": "A: 언니 생각엔 어떤게 더 나아요? \nB: 파란색이 어머니한텐 더 잘 어울리는거 같아요. ",
+            "SP": "A: ¿Cuál crees que me queda mejor? \nB: Creo que la azul le queda mejor. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0166",
+            "index": 166,
+            "KO": "A: 나는 NCT 127이 부른 그 노래를 진짜 좋아해. \nB: 나도 들어봤는데...근데 그거 NCT드림이 부른걸걸요. ",
+            "SP": "A: Me encanta la canción de NCT127. \nB: La he oído también… pero a lo mejor es de NCT DREAM. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0167",
+            "index": 167,
+            "KO": "A: 내 생각엔 이교수님이 그걸 아셔. \nB: 이 교수님은 그걸 모를텐데...",
+            "SP": "A: Creo que el Prof. Lee ya lo sabe. \nB: Quizás no lo sepa…. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0168",
+            "index": 168,
+            "KO": "왜 벽에 낙서했니?",
+            "SP": "¿Por qué has garabateado la pared?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0169",
+            "index": 169,
+            "KO": "A: 빠에야 맛이 어때? 내가 만들었는데. \nB: 진짜 맛있어. 스페인에서 먹는거 같아.  ",
+            "SP": "A: ¿Qué tal sabe la paella? La he preparado yo. \nB: Muy rica. Es como si estuviera comiendo en España. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0170",
+            "index": 170,
+            "KO": "A: 뭐 이런걸 다 준비했어? 안그래도 되는데...\nB: 별거 아니야. ",
+            "SP": "A: ¿Por qué has preparado tanta cosa? No es necesario…\nB: No es nada especial. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0171",
+            "index": 171,
+            "KO": "제가 이걸 받아도 되는지 모르겠어요.",
+            "SP": "No estoy seguro de si puedo recibir esto."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0172",
+            "index": 172,
+            "KO": "A: 박사학위 받은거 축하해. \nB: 감사합니다. 교수님 덕분에 무사히 마쳤어요. ",
+            "SP": "A: Felicidades por doctorarte. \nB: Muchas gracias. Gracias a usted, he podido terminar bien. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0173",
+            "index": 173,
+            "KO": "차린건 없지만 많이 드세요.",
+            "SP": "Que aproveche aunque no sea tanto."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0174",
+            "index": 174,
+            "KO": "A: 뭘 이렇게 많이 준비했어요? \nB: 한다고 했는데.. 맘에 드실지 모르겠네요. ",
+            "SP": "A: ¿Por qué has preparado tantas cosas? \nB: Lo he intentado mucho… pero no estoy segura de si te gustarán. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0175",
+            "index": 175,
+            "KO": "A: 차 진짜 좋아 보인다. \nB: 좋기는.. 새 차라서 좋아 보이는거야. ",
+            "SP": "A: Tu coche parece genial. \nB: No tan genial, solo es nuevo. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0176",
+            "index": 176,
+            "KO": "A: 네 남자친구 진짜 잘생겼다. \nB: 잘생기기만 하면 뭐해? 성격이 좋아야지. ",
+            "SP": "A: Tu novio es muy guapo. \nB: ¿Por qué es importante si es guapo? Lo importante es tener una buena personalidad."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0177",
+            "index": 177,
+            "KO": "A: 어제 사고는 정말 죄송했습니다. 제가 너무 급하게 운전했어요. \nB: 아닙니다. 사람 안다쳤으면 됐죠. ",
+            "SP": "A: Siento mucho lo del accidente de ayer. Yo conducía de prisa. \nB: No pasa nada, nadie resultó herido"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0178",
+            "index": 178,
+            "KO": "저를 믿고 그 일을 맡겨주셔서 감사합니다.",
+            "SP": "Muchas gracias por confíar en mí y encargarme ese trabajo."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0179",
+            "index": 179,
+            "KO": "너 프로젝트 끝냈어? 진짜 부럽다.",
+            "SP": "¿Has terminado el proyecto? Te envidio mucho."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0180",
+            "index": 180,
+            "KO": "A: 교수님 늦어서 죄송해요. \nB: 아니야, 나도 방금 왔어. 괜찮아. ",
+            "SP": "A: Siento llegar tarde. \nB: Tranquilo, llegué hace un ratito también. Está bien. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0181",
+            "index": 181,
+            "KO": "A: 학원에 왜 안갔어? 너 진짜 이럴거야? \nB: 그 학원 다니기 싫다고 말씀드렸는데요. ",
+            "SP": "A: ¿Por qué no has ido a la academia? ¿Por qué te comportas así?\nB: Ya te he dicho muchas veces que no quiero ir a esa academia. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0182",
+            "index": 182,
+            "KO": "A: 누구 찾아요? \nB: 혹시 그 멕시코에서 온 Juan 아세요? \nA: 아.. 모르는데.. 왜? ",
+            "SP": "A: ¿A Quién estás buscando?\nB: A lo mejor.. ¿conoces a Juan, que viene de México?\nA: Ah.. no sé.. pero ¿por qué?  "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0183",
+            "index": 183,
+            "KO": "A: 팀장님. 건강은 좀 괜찮으세요? \nB: 응 근데 그 일본 수출건은 어떻게 됐어? \nA: 복귀하시자마자 일 생각 뿐이시네요. ",
+            "SP": "A:Señor director.. ¿ahora se encuentra ya bien? \nB: Sí, pero ¿qué ha pasado con lo de la exportación a Japón?\nA: Nada más llegar y ya piensa en trabajo"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0184",
+            "index": 184,
+            "KO": "주민 여러분께 알려드립니다. 오늘은 재활용 쓰레기를 버리는 날입니다. 각 동 앞에 설치된 쓰레기장에 재활용을 버려주시기 바랍니다.",
+            "SP": "Atención vecinos. Hoy es el día de recogida de reciclaje. Tiren los residuos en el contenedor instalado delante de cada edificio."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0185",
+            "index": 185,
+            "KO": "A: 수상을 축하드립니다. \nB: 저는 많은 스텝들이 차린 밥상에 밥숟가락만 얹었을 뿐입니다.",
+            "SP": "A: Felicidades por recibir premio. \nB: Yo solo he puesto mi granito de arena en la producción"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0186",
+            "index": 186,
+            "KO": "A: 몸이 많이 불편해서 오셨어요?\nB: 네. 기침을 많이 해서요. ",
+            "SP": "A: ¿Viene porque no se encuentra bien?\nB: Sí. Tengo mucha tos."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0187",
+            "index": 187,
+            "KO": "A: 진작 감사 인사를 드리러 찾아뵀어야 하는데 너무 늦었습니다. \nB: 아유 아니에요. 수상 축하드려요. ",
+            "SP": "A: Siento venir tan tarde; quería haber venido antes a agradecérselo.  \nB: Tranquila. Felicidades por recibir premio. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0188",
+            "index": 188,
+            "KO": "A: 아니 아빠 왜이렇게 용돈을 많이 줬어?\nB: 아빠가 우리딸 너무 이뻐서~",
+            "SP": "A: Ay, papá, ¿por qué me has dado tanto dinero? \nB: Porque eres muy cariñosa~"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0189",
+            "index": 189,
+            "KO": "A: 똑똑한 아들 둬서 기분이 좋으시겠어요~\nB: 아유 난 한것도 없는데.. 지가 알아서 컸죠. ",
+            "SP": "A: Estarás muy contenta con un hijo tan inteligente. \nB: Yo no he hecho nada…. él es así. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0190",
+            "index": 190,
+            "KO": "A: 안녕하세요. 무엇을 도와드릴까요?\nB: 갤럭시S24를 사려고 하는데요. ",
+            "SP": "A: Hola. ¿En qué puedo ayudarle?\nB: Quiero comprar un GALAXY S24. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0191",
+            "index": 191,
+            "KO": "A: 네 딸 진짜 점점 이뻐진다. \nB: 아유 별 말씀을요. ",
+            "SP": "A: Tu hija se está poniendo cada vez guapa. \nB: Ay, no me digas. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0192",
+            "index": 192,
+            "KO": "A: 저.. 죄송한데.. 여기가 문과대학 건물인가요? \nB: 아 네. \nA: 그럼 혹시 서어서문학과 사무실도 여기에 있어요? \nB: 아 잘 모르겠는데요. ",
+            "SP": "A: Eh… perdón… ¿aquí es el edificio de la facultad de artes liberales? \nB: Ah, sí. \nA: Entonces, a lo mejor, ¿aquí está también la oficina del departamento de literatura y lingüística españolas?\nB: Ah.. eso no lo sé. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0193",
+            "index": 193,
+            "KO": "A: 감사합니다. 신세진걸 어떻게 보답하죠. \nB: 아닙니다. 전 그냥 제 일을 한것일 뿐입니다. ",
+            "SP": "A: Muchas gracias. ¿Cómo te lo puedo paga?\nB: Tranquila. Yo hago solo mi trabajo. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0194",
+            "index": 194,
+            "KO": "A: 지금 몇시지?\nB: 죄송합니다.",
+            "SP": "A: ¿Qué hora es ahora?   B: No lo sé. Lo siento."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0195",
+            "index": 195,
+            "KO": "A: 도쿄는 한국 도시야. 그렇지?\nB: 그럼 로마는 스페인 도시지. ",
+            "SP": "A: Tokio es una ciudad de Corea. \nB: Claro y entonces Roma es una ciudad de España. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0196",
+            "index": 196,
+            "KO": "A: Alicia는 어떤 선수야?\nB: Alicia는 진짜 물고기야. ",
+            "SP": "A: ¿Cómo es la nadadora Alicia? \nB: Es un pez. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0197",
+            "index": 197,
+            "KO": "A: 내가 우리 학교에서 제일 이뻐.\nB: 그럼 나는 우리나라 대통령이지. ",
+            "SP": "A: Eres la más guapa en nuestro cole. \nB: Claro y entonces también soy la presidenta del país. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0198",
+            "index": 198,
+            "KO": "A: 너 노래하는거 잘 들었어. 좀 하대?\nB: 좀 하죠.   ",
+            "SP": "A: He oído que has cantado. Has cantado fatal, ¿no' \nB: Sí, muy mal. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0199",
+            "index": 199,
+            "KO": "A: 우리 차 기름이 다 떨어졌어. \nB: 여기서 200m만 더 가서 우회전 해",
+            "SP": "A: Ya casi no queda gasolina. \nB: Sigue 200 metros más y gira a la derecha. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0200",
+            "index": 200,
+            "KO": "A: 너 무슨 책 읽고 있니? \nB: 그냥 읽고 있어요. ",
+            "SP": "A: ¿Qué libro estás leyendo? \nB: Un libro."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0201",
+            "index": 201,
+            "KO": "A: 제가 준비한 파티는 즐거웠나요? \nB: 음식도 너무 맛있었고, 사람도 너무 많았고, 노래도 흥겨웠고 그랬어요. ",
+            "SP": "A: ¿Te lo pasaste bien en mi fiesta? \nB: La comida era buenísima, había muchas personas y las canciones eran muy emocionantes. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0202",
+            "index": 202,
+            "KO": "A: Juan은 진짜 개새끼야. \nB: 아 오늘 날씨 진짜 좋네. 너 밥 먹었어?  ",
+            "SP": "A: Juan es de puta madre. \nB: Hoy hace muy buen tiempo. ¿Has almorzado?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0203",
+            "index": 203,
+            "KO": "A: 시험 잘 봤니? \nB: 엄마 오늘 뭐 먹을까?",
+            "SP": "A: ¿Qué tal tu examen de hoy? \nB: Mamá, ¿qué hay hoy de comer?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0204",
+            "index": 204,
+            "KO": "A: 엄마 나 티비봐도 되나요? \nB: 너 어제 본 시험 점수가 몇점이었지?",
+            "SP": "A: Mamá, ¿puedo ver la tele? \nB: ¿Qué nota sacaste en el examen de ayer??"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0205",
+            "index": 205,
+            "KO": "A: 어제 내 남자친구가 BTS의 노래를 불러줬어. \nB: 잘 불렀어? \nA: 어제 BTS 콘서트에 가서 노래를 직접 듣는거 같았지. ",
+            "SP": "A: Ayer, mi novio me cantó una canción de BTS. \nB: ¿La cantó bien?\nA: Como si estuviera en un concierto de BTS."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0206",
+            "index": 206,
+            "KO": "A: 너 그 꽃 Ana에게 주려고 산거지? \nB: 아니.. 음… 이 근처에 엄마가 있어서 엄마한테 줄겸..뭐 근처에 온김에 …",
+            "SP": "A: ¿Compraste esa flor para Ana? \nB: No… pues… mi mamá está cerca de aqui, es para ella... pero como ana está cerca también..."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0207",
+            "index": 207,
+            "KO": "A: 엄마, 나는 그 전쟁지역에 가서 사람들을 도우려고 해요. \nB: 너 그거 자살 행위야! 차라리 엄마를 죽이겠다고 그래!",
+            "SP": "A: Mamá, quiero ir a ese lugar donde hay guerra y ayudar a los refugiados. \nB: ¡Ese viaje es un suicido! ¡Me vas a matar!"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0208",
+            "index": 208,
+            "KO": "A: 나 어제 네가 다른 남자아이랑 키스하는걸 봤다. \nB: 뭐라구요? \nA: 끔찍하더구나. 마치 괴물을 본것 같았다. ",
+            "SP": "A: Ayer te vi besándote con otro chico.\nB: ¿Qué? \nA: Fue horrible. Pensaba que estaba viendo un monstruo."
+        },
+        {
+            "segmentid": "P-PA-PC-01-0209",
+            "index": 209,
+            "KO": "A: 따님이 스트레스로 자살했다구요?\nB: 네.. \nA: 원인이 직장 내 상사의 괴롭힘이라고 들었어요. \nB: 그 괴물이 내 딸을 죽였나요? ",
+            "SP": "A: ¿Tu hija se suicidó por estrés?\nB: Sí…\nA: He oído que fue por el acoso de su compañero. \nB: ¿Ese monstruo es el que mató a mi hija?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0210",
+            "index": 210,
+            "KO": "A: Juan, 너 진짜 지금 뭐하는거야! 너 지금 일도 제대로 못하고 맨날 지각하고! 너 지금 짤리고 싶어? \nB: 죄송합니다. \nC: 사장님 무슨 일이세요?\nA: 아무것도 아니에요. ",
+            "SP": "A: Juan, ¿qué estás haciendo? ¡No trabajas bien y siempre llegas tarde! ¿Quieres que te despida?\nB: Lo siento. \nC: Señor, ¿qué ha pasado?\nA: Nada. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0211",
+            "index": 211,
+            "KO": "A: 왜 도대체 맨날 약속시간에 늦는거야? 왜 맨날 답은 안하고? \nB: 자기야 미안해. \nA: 맨날 미안하다면 다야? \nB: 하 알았어. 나 그냥 지금 갈게.",
+            "SP": "A: ¿Por qué siempre llegas tarde? ¿Por qué no me contestas nunca? \nB: Cariño, lo siento. \nA: ¿Con \"lo siento\" se arregla todo?\nB: Bueno. Pues ya me voy. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0212",
+            "index": 212,
+            "KO": "A: 내일부터 본격적인 항암치료가 시작될거에요. 힘들거에요. 머리도 점점 빠질거구요. \nB: 내가 원하던거네요!\nA: 하하 그렇죠. 가발도 마음대로 고를수 있어요. \nB: 재밌으시네요. 이 병원에 코미디 부서도 있나봐요?  \nA: 있죠. 월급 주는 부서요. ",
+            "SP": "A: Desde mañana empezamos el tratamiento contra el cáncer. Será muy duro y perderás poco a poco el pelo. \nB: ¡Justo lo que quería!\nA: Jaja, sí. Podrás elegir cualquier peluca. \nB: Eres muy divertido. ¿Hay un departamento de comedia en este hospital?\nA: Bueno, sí, el departamento de nóminas. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0213",
+            "index": 213,
+            "KO": "A: 저는 제 남편을 너무 사랑해요. \nB: 그가 그렇게 매력적인가요? \nA: 네 잘생겼고, 요리도 잘해요. 노래도 잘하죠. \nB: 그런데 떠나요? ",
+            "SP": "A: Yo quiero mucho a mi marido. \nB: ¿Es muy atractivo?\nA: Sí. Es guapo, cocina bien y canta muy bien. \nB: ¿Y por qué quieres dejarlo?"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0214",
+            "index": 214,
+            "KO": "A: 그 교수님 수업 진짜 어려워요. 과제도 너무 많고 우리에게 많은걸 바라는거 같아요. 시험도 어렵고요. 수업시간에 끊임없이 질문해요. \nB: 아 그래요? \nA: 네.. 모두가 그 수업을 싫어할거에요. \nB: 수업 드랍 방법 서류 지금 드릴게요. ",
+            "SP": "A: La clase de ese profesor es muy difícil. Hay muchos deberes y siempre nos exige mucho. El examen es muy difícil y nos pregunta mucho durante la clase. \nB: Ah, ¿sí?\nA: Sí. Creo que todos odian esa clase. \nB: Ahora te doy el documento de cancelación de la clase. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0215",
+            "index": 215,
+            "KO": "A: 엄마 나 혼자 자기 싫어요. \nB: 혼자 자야 착한 아이인데?  \nA: 그래도 혼자 자기 싫어요. \nB: 산타할아버지에게 올해는 오지 말라고 해야겠네. ",
+            "SP": "A: No quiero dormir sola, mamá. \nB: Las niñas buenas duermen solas. \nA: No, aún no quiero dormir sola. \nB: Pues le diré a Papá Noel que no venga este año. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0216",
+            "index": 216,
+            "KO": "A: 나 올해 시험 세개나 합격했어. 스페인어랑 회계사시험이랑 운전면허시험!\nB: 운전면허시험도 시험이야? \nA: 왜 아니야? \nB: 대단한 천재 오셨네. ",
+            "SP": "A: Este año he aprobado tres exámenes. El DELE, el examen de contabilidad y el de conducir.  \nB: ¿El examen de conducir también es un examen? \nA: ¿Por qué no? \nB: Aquí hay un gran genio. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0217",
+            "index": 217,
+            "KO": "A: 지금 배가 너무 고파 죽을거 같아. \nB: 그래? \nA: 햄버거가 너무 먹고싶네. \nB: 1588-2000이야.",
+            "SP": "A: Me muero de hambre. \nB: ¿Sí?\nA: Tengo muchas ganas de hamburguesa. \nB: Es 1588-2000. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0218",
+            "index": 218,
+            "KO": "A: 집을 구하려고 해요. 방이 네개였으면 좋겠고 화장실도 두개에 수영장도 있었으면 좋겠어요. \nB: 원하는 월세 금액은요? \nA: 월 1000유로요. \nB: 하 날씨가 진짜 좋네요. 이 날씨에 어울리는 다른 동네로 가세요.  ",
+            "SP": "A: Quiero alquilar una casa. Quiero una casa con cuantro habitaciones, dos baños y una piscina. \nB: ¿Cuánto podrías pagar de alquile?\nA: 1000 euros al mes. \nB: Hace buen tiempo. ¿y no querrías irte a otra ciudad con mejor tiempo? "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0219",
+            "index": 219,
+            "KO": "A: 프로젝트 잘 되어가요? \nB: 아니요. 각자 다른 의견을 말해서 진행이 안되네요.  \nA: 하.. 사공이 많군요.  \nB: 네.. 산으로 가고 있어요. ",
+            "SP": "A: ¿Cómo va el proyecto?\nB: No.. todos da su opión, por eso no va bien. \nA: Ay.. hay muchos barqueros. \nB: Sí.. estamos yendo a la montaña. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0220",
+            "index": 220,
+            "KO": "A: 그 유튜버는 항상 경제에 대해 많이 설명해서 나는 그가 전문가라고 생각했어요. \nB: 근데 아니래?\nA: 아니래요. 경제를 전공한것도 아니고 그 분야에서 일한적도 없대요 \nB: 아이고.. 빈수레가 요란하다더니",
+            "SP": "A: Ese youtuber siempre explica mucho de la economía, por eso pensaba que era especialista.\nB: ¿Pero no?\nA: No... su carrera no es de economía, y nunca ha trabajado en ese sector. \nB: Ya.. Perro ladrador, poco mordedor"
+        },
+        {
+            "segmentid": "P-PA-PC-01-0221",
+            "index": 221,
+            "KO": "A: 계속 그렇게 걸으면 무릎 수술을 받아야할수도 있어요. \nB: 걷는 방법을 고치려고 하는데 어렵네요. \nA: 언제부터 그렇게 걸으셨어요? \nB: 세살 버릇 여든까지 가고 있어요. ",
+            "SP": "A: Si usted sigue andando así, tendrán que operarlo de la rodilla. \nB: He intentado cambiar la forma de andar, pero es difícil. \nA: ¿Desde cuándo anda así?\nB: La cabra siempre tira al monte. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0222",
+            "index": 222,
+            "KO": "A: 우리반 학생들은 아직 그걸 잘 모르지만 다들 함께 노력하고 있어요. \nB: 백지장도 맞들면 낫죠. ",
+            "SP": "A: Los estudiantes de mi clase lo intentan todo juntos aunque no lo sepan bien. \nB: La unión hace la fuerza. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0223",
+            "index": 223,
+            "KO": "A: 그 팀은 더 못하는 팀인데 고작 주장을 하기 위해 그 팀으로 옮기는거야? \nB: 용의 꼬리보다 뱀의 머리가 되는게 낫다고 생각해. ",
+            "SP": "A: ¿Te vas a trasladar a ese equipo para ser el capitán aunque no juega bien?\nB: Mas vale ser cabeza de ratón, que cola de león. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0224",
+            "index": 224,
+            "KO": "A: 이 동전들로 뭐할거야? \nB: 내 금고에 모을거에요. 그리고 나중에 돈이 많이 모이면 유럽으로 여행 갈거에요. \nA: 그래. 티끌모아 태산이지. ",
+            "SP": "A: ¿Qué vas a hacer con estas monedas?\nB: Voy a guardarlas en mi caja. Y luego cuando haya mucho dinero, voy a viajar a Europa. \nA: Vale... muchos pocos, hacen mucho. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0225",
+            "index": 225,
+            "KO": "A: 그 선수는 맨날 금메달만 땄었는데 이번 대회에선 예선 탈락이래. \nB: 원숭이도 나무에서 떨어지는구나. ",
+            "SP": "A: Ese jugador siempre había ganado medallas de oro, pero en este partido, fue eliminado en la eliminatoria. \nB: No hay caballo, por bueno que sea, que no tropiece. "
+        },
+        {
+            "segmentid": "P-PA-PC-01-0226",
+            "index": 226,
+            "KO": "나는 네가 화요일에 시간이 있는지 물어보고 싶어, 그리고 그렇다면 내 파티에 오면 좋을것 같아. ",
+            "SP": "Me pregunto si estás libre el martes y de ser así, si te gustaría venir a mi fiesta. "
+        }
+    ]
+}

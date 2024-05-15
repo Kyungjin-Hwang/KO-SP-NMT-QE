@@ -1,0 +1,1065 @@
+{
+    "document-id": "2",
+    "filename": "morph-sp-ko-1-2",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": [
+        {
+            "segmentid": "M-IS-PR-01-0111",
+            "index": 111,
+            "KO": "나는 걷고 그는 뛴다.",
+            "SP": "Yo camino y él corre."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0112",
+            "index": 112,
+            "KO": "남편은 그림을 그리고 있다.",
+            "SP": "Mi marido está pintando."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0113",
+            "index": 113,
+            "KO": "이 상황에서 웃지, 그럼 울겠니?",
+            "SP": "En esta situación me río por no llorar."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0114",
+            "index": 114,
+            "KO": "그는 뛰지 않고 있다.",
+            "SP": "Él no está corriendo."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0115",
+            "index": 115,
+            "KO": "나는 우는 것을 싫어해.",
+            "SP": "No me gusta llorar."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0116",
+            "index": 116,
+            "KO": "그는 요리하는데 30분이 필요하다고 한다.",
+            "SP": "Dice que necesita 30 minutos para hacer / preparar la comida."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0117",
+            "index": 117,
+            "KO": "내가 텔레비전을 보고 있는데 전화벨이 울렸다.",
+            "SP": "Sonó el teléfono cuando veía la televisión."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0118",
+            "index": 118,
+            "KO": "오랜만에 만났는데 얘기나 좀 합시다.",
+            "SP": "Como ha pasado tanto tiempo desde la última vez que nos vimos, vamos a hablar. "
+        },
+        {
+            "segmentid": "M-IS-PR-01-0119",
+            "index": 119,
+            "KO": "뛰는 아이가 제 아들입니다.",
+            "SP": "Ese (chico) que corre / esta corriendo es mi hijo"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0120",
+            "index": 120,
+            "KO": "내가 도착하면 그 아이는 자고 있겠구나.",
+            "SP": "Cuando yo llegue a casa, mi hijo dormirá."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0121",
+            "index": 121,
+            "KO": "나는 내일은 공부를 3시간 하겠다.",
+            "SP": "Mañana estudio 3 horas."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0122",
+            "index": 122,
+            "KO": "그건 개나 소나 할 수 있겠다.",
+            "SP": "Esto lo puede hacer cualquiera."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0123",
+            "index": 123,
+            "KO": "지금 회의를 시작해도 되겠습니까?",
+            "SP": "¿Podríamos empezar la reunión ahora?"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0124",
+            "index": 124,
+            "KO": "별 희한한 사람을 다 보겠네.",
+            "SP": "¡Qué persona tan extraña!"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0125",
+            "index": 125,
+            "KO": "그는 음악을 들으며 공부한다.",
+            "SP": "Él estudia escuchando música."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0126",
+            "index": 126,
+            "KO": "그는 시인이며 교수이다.",
+            "SP": "Él es poeta y al mismo tiempo profesor."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0127",
+            "index": 127,
+            "KO": "그렇게 뛰니 무릎이 아프지.",
+            "SP": "Corre tanto que le duelen las rodillas."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0128",
+            "index": 128,
+            "KO": "밥을 다 먹고 나니 배가 아프기 시작했다.",
+            "SP": "Nada más comer, empecé a tener dolor de estómago // empezó a dolorme el estómago. "
+        },
+        {
+            "segmentid": "M-IS-PR-01-0129",
+            "index": 129,
+            "KO": "집에서 기다릴 아이를 생각하며 빨리 일을 끝냈다.",
+            "SP": "Pensando en el niño esperando en casa, terminé el trabajo rápidamente."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0130",
+            "index": 130,
+            "KO": "오늘은 그림을 다 그릴 것 같다.",
+            "SP": "Hoy acabaré de pintar."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0131",
+            "index": 131,
+            "KO": "지금 회의를 시작하시겠어요?",
+            "SP": "¿Va a empezar la reunión ahora?"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0132",
+            "index": 132,
+            "KO": "핸드폰을 좀 끄시겠어요?",
+            "SP": "¿Podría apagar el móvil?"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0133",
+            "index": 133,
+            "KO": "한시간을 걸어 시장에 도착했다.",
+            "SP": "Caminé una hora y llegué al mercado."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0134",
+            "index": 134,
+            "KO": "밥을 많이 먹어 탈이 났다.",
+            "SP": "Comió tanto que se siente mal."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0135",
+            "index": 135,
+            "KO": "그는 나의 짐을 들어 주었다.",
+            "SP": "Él levantó mi carga."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0136",
+            "index": 136,
+            "KO": "나는 지금 밥 먹어.",
+            "SP": "Ahora estoy comiendo."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0137",
+            "index": 137,
+            "KO": "좀 잘 그려라.",
+            "SP": "Pinta bien, por favor."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0138",
+            "index": 138,
+            "KO": "참 가엾어라.",
+            "SP": "Me da mucha pena."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0139",
+            "index": 139,
+            "KO": "아빠는 나에게 핸드폰을 사주었다.",
+            "SP": "Mi padre me compró un móvil."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0140",
+            "index": 140,
+            "KO": "꽃이 활짝 피었구나.",
+            "SP": "Muchas flores han florecido."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0141",
+            "index": 141,
+            "KO": "예쁜 꽃을 샀네.",
+            "SP": "Compró las flores bonitas."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0142",
+            "index": 142,
+            "KO": "지금 이대로만 하면 대학은 붙었다.",
+            "SP": "Si sigues así, apruebas la universidad."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0143",
+            "index": 143,
+            "KO": "너 하는꼴보니 내일 엄마한테 죽었다.",
+            "SP": "Viendo lo que estás haciendo, mañana tu madre te va a matar."
+        },
+        {
+            "segmentid": "M-IS-PR-01-0144",
+            "index": 144,
+            "KO": "너 계속 그렇게 깐족대다가 벌써 한대 맞았다",
+            "SP": "Si sigues hablando así, te voy a dar"
+        },
+        {
+            "segmentid": "M-IS-PR-01-0145",
+            "index": 145,
+            "KO": "너 그렇게 말하면 엄마한테 혼난다.",
+            "SP": "Si hablas así, tu va a reprender/reñir. "
+        },
+        {
+            "segmentid": "M-IS-PR-02-0146",
+            "index": 146,
+            "KO": "나는 오늘 공부 안한다.",
+            "SP": "Hoy no estudio."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0147",
+            "index": 147,
+            "KO": "엄마는 나에게 책을 안사줬다.",
+            "SP": "Mi madre no me compró libros."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0148",
+            "index": 148,
+            "KO": "엄마는 나에게 책을 사주지 않았다.",
+            "SP": "Mi madre no me compró libros."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0149",
+            "index": 149,
+            "KO": "그는 술을 마셔 운전을 못한다.",
+            "SP": "Como toma mucho alcohol, no puede conducir."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0150",
+            "index": 150,
+            "KO": "그는 술을 마셔 운전을 안한다.",
+            "SP": "Como toma mucho alcohol, no conduce. "
+        },
+        {
+            "segmentid": "M-IS-PR-02-0151",
+            "index": 151,
+            "KO": "내 피부는 그렇게 하얗지 않다.",
+            "SP": "Mi piel no es tan blanca."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0152",
+            "index": 152,
+            "KO": "내 피부는 그렇게 안하얗다.",
+            "SP": "Mi piel no es tan blanca."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0153",
+            "index": 153,
+            "KO": "그들도 역시 오지 않는다.",
+            "SP": "Ellos tampoco vienen."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0154",
+            "index": 154,
+            "KO": "나는 미국에 한번도 간적이 없다.",
+            "SP": "Nunca he viajado a Estados Unidos."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0155",
+            "index": 155,
+            "KO": "네가 한 시험은 좋지도 않지만 나쁘지도 않다.",
+            "SP": "El examen que hiciste no fue bueno, pero tampoco malo."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0156",
+            "index": 156,
+            "KO": "그는 이쪽으로도 저쪽으로도 갈 수 없었다.",
+            "SP": "No pudo ir ni a un lado ni a otro."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0157",
+            "index": 157,
+            "KO": "너는 그것을 상상조차 못할 것이다.",
+            "SP": "Tú no puedes ni imaginarlo"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0158",
+            "index": 158,
+            "KO": "너희들 중 아무도 시험을 치지 않았구나.",
+            "SP": "Ninguno de vosotros hizo el examen."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0159",
+            "index": 159,
+            "KO": "너 그림을 그렸니?",
+            "SP": "¿Has pintado este dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0160",
+            "index": 160,
+            "KO": "너 그림을 그렸어?",
+            "SP": "¿Has pintado tú este dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0161",
+            "index": 161,
+            "KO": "걔가 그 그림을 그렸을까?",
+            "SP": "¿Habrá pintado él él este dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0162",
+            "index": 162,
+            "KO": "너 그림 그렸나?",
+            "SP": "¿Pintaste el dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0163",
+            "index": 163,
+            "KO": "너 그림 그리니?",
+            "SP": "¿Pintas el dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0164",
+            "index": 164,
+            "KO": "너 그림 그려?",
+            "SP": "¿Pintas el dibujo?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0165",
+            "index": 165,
+            "KO": "나 지금 그림 그릴까?",
+            "SP": "¿Ahora pinto dibujos?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0166",
+            "index": 166,
+            "KO": "걔가 너에게 그렇게 말했더냐?",
+            "SP": "¿Él te dijo eso?"
+        },
+        {
+            "segmentid": "M-IS-PR-02-0167",
+            "index": 167,
+            "KO": "걔가 그 그림을 그렸던가?",
+            "SP": "¿Habrá pintado él este dibujo? ¿no?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0168",
+            "index": 168,
+            "KO": "나는 스페인어와 한국어를 말해요.",
+            "SP": "Hablo español y coreano."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0169",
+            "index": 169,
+            "KO": "너 어디 사니?",
+            "SP": "¿Dónde vives?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0170",
+            "index": 170,
+            "KO": "네 아버지 뭐 드시니?",
+            "SP": "¿Qué come tu padre?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0171",
+            "index": 171,
+            "KO": "아르헨티나에서는 스페인어를 말합니다.",
+            "SP": "En Argentina se habla español."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0172",
+            "index": 172,
+            "KO": "매우 빨리 달립니다.",
+            "SP": "Corre muy rápido."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0173",
+            "index": 173,
+            "KO": "어제 레알 마드리드에 대해 말했어요.",
+            "SP": "Ayer hablamos del Real Madrid."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0174",
+            "index": 174,
+            "KO": "(우리는) 무엇에 대해 말할까요?",
+            "SP": "¿De qué hablamos?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0175",
+            "index": 175,
+            "KO": "너희들 스페인어와 영어 배우니?",
+            "SP": "¿Aprendéis español e inglés?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0176",
+            "index": 176,
+            "KO": "당신들은 여기 앉아야합니다.",
+            "SP": "Ustedes tienen que sentarse aquí."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0177",
+            "index": 177,
+            "KO": "술을 마신 후 운전을 해서는 안됩니다.",
+            "SP": "No se debe conducir después de tomar alcohol."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0178",
+            "index": 178,
+            "KO": "그들은 대학생이에요.",
+            "SP": "Ellos son estudiantes universitarios."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0179",
+            "index": 179,
+            "KO": "그녀들은 이 병원의 간호사들입니다.",
+            "SP": "Ellas son enfermeras de este hospital."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0180",
+            "index": 180,
+            "KO": "내가 어릴 때 축구하는 것을 좋아했어요.",
+            "SP": "Cuando era niña, me gustaba jugar al fútbol. "
+        },
+        {
+            "segmentid": "M-IS-PR-03-0181",
+            "index": 181,
+            "KO": "내가 어릴때 축구를 좋아하게 되었어요.",
+            "SP": "Cuando era niña, me empezó a gustar jugar al fútbol."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0182",
+            "index": 182,
+            "KO": "작년에 나는 후안을 몰랐다.",
+            "SP": "No conocía a Juan el año pasado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0183",
+            "index": 183,
+            "KO": "작년에 후안을 알게되었다.",
+            "SP": "Conocí a Juan el año pasado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0184",
+            "index": 184,
+            "KO": "그 해에 이 차를 가지고 있었어요.",
+            "SP": "Tenía ese coche en ese año."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0185",
+            "index": 185,
+            "KO": "그 해에만 이 차를 가지고 있었어요.",
+            "SP": "Tuve ese coche en ese año."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0186",
+            "index": 189,
+            "KO": "나는 그차를 1년동안 가지고 있었어요.",
+            "SP": "Tuve ese coche un año."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0187",
+            "index": 187,
+            "KO": "공부를 열심히 했지만 시험에 합격하지 못했어요.",
+            "SP": "Estudiaba mucho, pero no podía aprobar el examen."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0188",
+            "index": 188,
+            "KO": "지난주 일요일에 공부를 많이 하고 술을 많이 마셨어요.",
+            "SP": "El domingo pasado estudié mucho y tomé mucho alcohol."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0189",
+            "index": 189,
+            "KO": "스페인에 살때 매일 많이 달리곤 했어요.",
+            "SP": "Todos los días corría mucho cuando vivía en España."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0190",
+            "index": 190,
+            "KO": "어제 늦게 일어나 사무실까지 달렸어요.",
+            "SP": "Ayer corrí hasta la oficina porque me levanté muy tarde."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0191",
+            "index": 191,
+            "KO": "작년에는 늦게 일어나곤 했어요.",
+            "SP": "Me levantaba muy tarde el año pasado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0192",
+            "index": 192,
+            "KO": "어제 늦게 일어났어요.",
+            "SP": "Ayer me levanté muy tarde."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0193",
+            "index": 193,
+            "KO": "나는 아빠하고 너는 엄마하면서 놀자.",
+            "SP": "Vamos a jugar a que yo era un papá y tú eras una mamá."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0194",
+            "index": 194,
+            "KO": "가능하다면 너를 도울텐데.",
+            "SP": "Si pudiera, te ayudaba. "
+        },
+        {
+            "segmentid": "M-IS-PR-03-0194",
+            "index": 194,
+            "KO": "가능하다면 너를 도울텐데.",
+            "SP": "Si pudiera, te ayudaría."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0195",
+            "index": 195,
+            "KO": "너 영어할줄 몰랐나?",
+            "SP": "¿Tú no sabías el inglés?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0196",
+            "index": 196,
+            "KO": "소금을 줄래?",
+            "SP": "¿Puedes darme sal?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0197",
+            "index": 197,
+            "KO": "소금을 줄 수 있나요?",
+            "SP": "¿Podía darme sal?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0198",
+            "index": 198,
+            "KO": "소금을 주실수 있나요?",
+            "SP": "¿Podríá darme sal?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0199",
+            "index": 199,
+            "KO": "소금을 줘.",
+            "SP": "Dame sal."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0200",
+            "index": 200,
+            "KO": "오늘 내 아들은 도서관에 없을거에요.",
+            "SP": "Hoy mi hijo no estará en la biblioteca."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0201",
+            "index": 201,
+            "KO": "내일 내 아들은 도서관에 없을거에요.",
+            "SP": "Mi hijo no estará en la biblioteca mañana."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0202",
+            "index": 202,
+            "KO": "어제 우리 아빠는 빠에야를 드셨을거에요.",
+            "SP": "Ayer mi padre comería paella."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0203",
+            "index": 203,
+            "KO": "우리 아빠는 빠에야를 먹었을거야",
+            "SP": "Mi padre comería una paella"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0204",
+            "index": 204,
+            "KO": "오늘 아침에 아침을 먹지 않았어요.",
+            "SP": "Esta mañana no he desayunado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0205",
+            "index": 205,
+            "KO": "오늘 아침에 아침을 먹지 않았어요.",
+            "SP": "Esta mañana no desayuné."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0206",
+            "index": 206,
+            "KO": "어제 많이 싸워서 오늘 남동생이랑 한마디도 얘기를 안했어요.",
+            "SP": "Hoy no he hablado nada con mi hermano porque ayer discutimos mucho"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0207",
+            "index": 207,
+            "KO": "우리는 아프리카에 여행 간적이 없어요.",
+            "SP": "Nunca hemos viajado a África."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0208",
+            "index": 208,
+            "KO": "너희들 빠에야 먹어봤니?",
+            "SP": "¿Alguna vez habéis comido paella?"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0209",
+            "index": 209,
+            "KO": "집에 도착했을때 엄마는 이미 저녁을 다 준비해놨다.",
+            "SP": "Cuando llegué a casa, mi madre ya había preparado la cena. "
+        },
+        {
+            "segmentid": "M-IS-PR-03-0210",
+            "index": 210,
+            "KO": "네가 도착했을 때 수업은 이미 끝나있을 것이다.",
+            "SP": "Ya habrá terminado la clase cuando llegues."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0211",
+            "index": 211,
+            "KO": "선생님이 내일 퀴즈가 있을거라고 우리에게 말했다.",
+            "SP": "Mi profesor nos dijo que mañana tendríamos el quiz."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0212",
+            "index": 212,
+            "KO": "선생님이 지난주에 우리에게 많이 화가났었다고 말했다.",
+            "SP": "Mi profesor nos dijo que la semana anterior se había enfadado con nosotros."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0213",
+            "index": 213,
+            "KO": "내가 너라면, 그에게 아무것도 말하지 않을거야.",
+            "SP": "Si yo fuera tú, no les diría nada."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0214",
+            "index": 214,
+            "KO": "내가 돈이 많다면 이미 그 럭셔리한 차를 가지고 있었을텐데.",
+            "SP": "Si hubiera tenido mucho dinero, ya tendría un coche de lujo. "
+        },
+        {
+            "segmentid": "M-IS-PR-03-0215",
+            "index": 215,
+            "KO": "네가 시험에 합격하길 바라.",
+            "SP": "Ojála apruebes el examen."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0216",
+            "index": 216,
+            "KO": "네가 시험에 합격하길 바랬어.",
+            "SP": "Ojála aprobaras el examen"
+        },
+        {
+            "segmentid": "M-IS-PR-03-0217",
+            "index": 217,
+            "KO": "네가 시험에 합격했길 바라.",
+            "SP": "Ojála hayas aprobado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0218",
+            "index": 218,
+            "KO": "네가 시험에 합격했길 바랬어.",
+            "SP": "Ojála huberas aprobado."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0219",
+            "index": 219,
+            "KO": "아마 Juan이 아플거야.",
+            "SP": "Posiblemente Juan esté muy enfermo."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0220",
+            "index": 220,
+            "KO": "아마 Juan이 아팠을거야.",
+            "SP": "Posiblemente Juan haya estado muy enfermo."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0221",
+            "index": 221,
+            "KO": "아마 Juan이 아팠을거야.",
+            "SP": "Posiblemente Juan estuviera muy enfermo."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0222",
+            "index": 222,
+            "KO": "아마 Juan이 아팠을거야.",
+            "SP": "Posiblemente Juan hubiera estado muy enfermo."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0223",
+            "index": 223,
+            "KO": "네가 행복하길 바랄게.",
+            "SP": "Que seas feliz."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0224",
+            "index": 224,
+            "KO": "조용히하라고 했잖아, 안들려. ",
+            "SP": "Que te calles, que no oigo."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0225",
+            "index": 225,
+            "KO": "다음분 들어오세요.",
+            "SP": "Que pase el siguiente."
+        },
+        {
+            "segmentid": "M-IS-PR-03-0226",
+            "index": 226,
+            "KO": "어린이들은 줄을 서주길 바랍니다.",
+            "SP": "Por favor, que los niños se pongan en una fila."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0227",
+            "index": 227,
+            "KO": "오늘은 우리 회의를 하지 말자.",
+            "SP": "Hoy no vamos a tener reunión."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0228",
+            "index": 228,
+            "KO": "밥 먹으면서 핸드폰을 하지 말아라.",
+            "SP": "No estés con / No uses el móvil mientras comes."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0229",
+            "index": 229,
+            "KO": "내가 이 책을 읽어야해서 지금 빌려주지 못해.",
+            "SP": "Como tengo que leer este libro, no puedo prestártelo. "
+        },
+        {
+            "segmentid": "M-IS-PR-02-0230",
+            "index": 230,
+            "KO": "내가 이 책을 읽어야해서 지금 못 빌려줘.",
+            "SP": "Como tengo que leer este libro, no puedo prestártelo. "
+        },
+        {
+            "segmentid": "M-IS-PR-02-0231",
+            "index": 231,
+            "KO": "나 지금 아기를 봐야해서 나가지 못해.",
+            "SP": "Como tengo que cuidar a mi niño, no puedo salir. "
+        },
+        {
+            "segmentid": "M-IS-PR-02-0232",
+            "index": 232,
+            "KO": "이번에는 네가 회의에 참석하지 않으면 안돼.",
+            "SP": "Esta vez debes participar en la reunión."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0233",
+            "index": 233,
+            "KO": "그 소식을 들었을때 안타까운 맘이 없지는 않았어요.",
+            "SP": "Mi dio mucha pena escuchar esa noticia."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0234",
+            "index": 234,
+            "KO": "저는 그 의견에 반대하진 않습니다.",
+            "SP": "No estoy en contra de esa idea."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0235",
+            "index": 235,
+            "KO": "시험 결과가 나쁘진 않아요.",
+            "SP": "El resultado del examen no es tan malo."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0236",
+            "index": 236,
+            "KO": "나에게 곧 편지를 꼭 써주세요.",
+            "SP": "No deje Ud. de escribirme pronto."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0237",
+            "index": 237,
+            "KO": "나는 웃지 않을 수 없었어요.",
+            "SP": "No pude menos que reír."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0238",
+            "index": 238,
+            "KO": "네가 그렇게까지 부탁하는데 내가 그 일을 하지 않을 수 없네.",
+            "SP": "No puedo menos que hacer ese trabajo considerando que me pides mucho."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0239",
+            "index": 239,
+            "KO": "돈이 부족하진 않아. 전기 요금은 낼 수 있어.",
+            "SP": "No me hace falta más dinero. Puedo pagar la tarifa de la luz."
+        },
+        {
+            "segmentid": "M-IS-PR-02-0240",
+            "index": 240,
+            "KO": "그가 부정행위를 했다는 걸 교수님이 모르진 않았어요.",
+            "SP": "El profesor no ignoraba que él engañó en el examén."
+        },
+        {
+            "segmentid": "M-IS-CM-02-0259",
+            "index": 259,
+            "KO": "그 차의 색은 독특하다.",
+            "SP": "El color del coche es muy distintivo."
+        },
+        {
+            "segmentid": "M-IS-CM-02-0260",
+            "index": 260,
+            "KO": "어제 새로운 옷을 샀다.",
+            "SP": "Ayer compré ropa nueva."
+        },
+        {
+            "segmentid": "M-IS-CM-02-0261",
+            "index": 261,
+            "KO": "\b잘생긴 남자가 방금 카페에 들어왔다.",
+            "SP": "Hace un rato un hombre guapo entró a la cafetería."
+        },
+        {
+            "segmentid": "M-IS-CM-02-0262",
+            "index": 262,
+            "KO": "외국인 학생들은 모두 기숙사에 산다.",
+            "SP": "Todos los estudiantes extranjeros viven en dormitorios."
+        },
+        {
+            "segmentid": "M-IS-CM-02-0263",
+            "index": 263,
+            "KO": "그 동물원에는 다양한 동물들이 있다.",
+            "SP": "Hay varios animales en el zoológico"
+        },
+        {
+            "segmentid": "M-IS-CM-02-0264",
+            "index": 264,
+            "KO": "봄에는 예쁜 꽃들이 핀다.",
+            "SP": "En primavera florecen las flores bonitas."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0265",
+            "index": 265,
+            "KO": "그는 매우 똑똑하다.",
+            "SP": "Él es muy inteligente."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0266",
+            "index": 266,
+            "KO": "내 아이는 반에서 가장 키가 큽니다.",
+            "SP": "Mi niño es el más alto de su clase."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0267",
+            "index": 267,
+            "KO": "아빠는 자주 테니스를 치십니다.",
+            "SP": "Mi padre juega al tenis frecuentemente."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0268",
+            "index": 268,
+            "KO": "나는 가끔 술을 마십니다.",
+            "SP": "A veces tomo alcohol."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0269",
+            "index": 269,
+            "KO": "매일 운동을 하는것은 중요합니다.",
+            "SP": "Es muy importante hacer ejercicio todos los días."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0270",
+            "index": 270,
+            "KO": "당분간 저는 회사를 가지 않습니다.",
+            "SP": "Durante un tiempo no voy a trabajar."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0271",
+            "index": 271,
+            "KO": "이번 모임에 꼭 참석해주세요.",
+            "SP": "Ven a la reunión, por favor. "
+        },
+        {
+            "segmentid": "M-IS-CM-03-0272",
+            "index": 272,
+            "KO": "그 아이는 벌써 스스로 양치를 합니다.",
+            "SP": "El niño ya se lava los dientes solo."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0273",
+            "index": 273,
+            "KO": "그 소식을 듣고 나는 급히 병원으로 갔다.",
+            "SP": "Al escuchar la noticia, fui al hospital deprisa."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0274",
+            "index": 274,
+            "KO": "얌전히 앉아 있으렴.",
+            "SP": "Siéntate tranquila."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0275",
+            "index": 275,
+            "KO": "\b그 학생은 멀찍이 서있었다.",
+            "SP": "El estudiante estaba lejos."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0276",
+            "index": 276,
+            "KO": "거북이는 느리게 기어간다. ",
+            "SP": "La tortuga gatea lento. "
+        },
+        {
+            "segmentid": "M-IS-CM-03-0277",
+            "index": 277,
+            "KO": "그는 빠르게 교수님의 말을 적었다.",
+            "SP": "Él apuntó muy rápido lo que dijo el profesor."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0278",
+            "index": 278,
+            "KO": "아이가 길을 안전하게 건널수 있도록 길을 통제했다.",
+            "SP": "La policía controló el tráfico para que el niño cruzara la calle con seguridad."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0279",
+            "index": 279,
+            "KO": "아이가 길을 안전하게 건널수 있도록 도와줬다.",
+            "SP": "Ayudé al niño a cruzar la calle con seguridad."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0280",
+            "index": 280,
+            "KO": "나는 매일 학교에 걸어서 간다.",
+            "SP": "Todos los días voy al colegio a pie."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0281",
+            "index": 281,
+            "KO": "강이 깊어서 수영은 못했다.",
+            "SP": "No podía nadar porque el río es profundo."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0282",
+            "index": 282,
+            "KO": "그는 키가 매우 크다.",
+            "SP": "Él es muy alto."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0283",
+            "index": 283,
+            "KO": "나는 항상 7시에 일어난다.",
+            "SP": "Siempre me levanto a las siete."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0284",
+            "index": 284,
+            "KO": "방금 전에 무슨 일이 일어난거니?",
+            "SP": "¿Qué ha pasado hace un rato?"
+        },
+        {
+            "segmentid": "M-IS-CM-03-0285",
+            "index": 285,
+            "KO": "나는 앞으로 절대 그애와 얘기 안할거야.",
+            "SP": "Nunca hablaré con ese chico."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0286",
+            "index": 286,
+            "KO": "나는 외국어를 공부하는걸 정말 좋아해.",
+            "SP": "Me gusta mucho estudiar idioas extranjeras."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0287",
+            "index": 287,
+            "KO": "그는 이미 충분히 크게 얘기하고 있어요.",
+            "SP": "-¿Puede hablar un poco más alto? -¿Más? Ya habla bastante alto."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0288",
+            "index": 288,
+            "KO": "그 차는 빨리 달린다.",
+            "SP": "El coche va rápido."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0289",
+            "index": 289,
+            "KO": "얌전히 먹어.",
+            "SP": "Come tranquilo."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0290",
+            "index": 290,
+            "KO": "오늘 눈이 엄청 많이 왔다.",
+            "SP": "No oigo nada, ¿puedes hablar más alto, por favor?"
+        },
+        {
+            "segmentid": "M-IS-CM-03-0291",
+            "index": 291,
+            "KO": "내 조부모님은 잘 듣지 못하신다.",
+            "SP": "Mis abuelos oyen fatal."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0292",
+            "index": 292,
+            "KO": "택시 기사가 너무 운전을 끔찍하게 해서 나 너무 무서웠어.",
+            "SP": "El taxista conducía horrible, por eso me daba mucho miedo. "
+        },
+        {
+            "segmentid": "M-IS-CM-03-0293",
+            "index": 293,
+            "KO": "나 급하게 가야해.",
+            "SP": "Tengo que irme urgentemente."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0294",
+            "index": 294,
+            "KO": "내 고양이는 소파에서 평화롭게 잔다.",
+            "SP": "Mi gato duerme plácidamente en el sillón."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0295",
+            "index": 295,
+            "KO": "그는 조용히 집에 들어왔다.",
+            "SP": "Él entró tranquilamente en casa."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0296",
+            "index": 296,
+            "KO": "네가 \"네\"라고 말하는걸 분명히 들었어.",
+            "SP": "Yo oí claramente que dijiste \"sí\"."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0297",
+            "index": 297,
+            "KO": "자전거 도로는 그 이름이 가리키듯 자전거만을 위한 도로입니다.",
+            "SP": "Un carril bici está, como su nombre indica, reservado para bicis. "
+        },
+        {
+            "segmentid": "M-IS-CM-03-0298",
+            "index": 298,
+            "KO": "스페인 역사에서 중요한 순간만을 공부하자.",
+            "SP": "Solo estudiamos los momentos clave de la historia de España."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0299",
+            "index": 299,
+            "KO": "나는 예전엔 좀 변두리에살았는데 지금은 마드리드에 살고 그래서 너무 좋아.",
+            "SP": "Yo antes vivía en una ciudad dormitorio, pero ahora vivo en Madrid y me encanta. "
+        },
+        {
+            "segmentid": "M-IS-CM-03-0300",
+            "index": 300,
+            "KO": "이슬람 국가들에게서 여자들은 아직도 물건처럼 여겨진다.",
+            "SP": "En los países musulmanes las mujeres son mujeres objetos."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0301",
+            "index": 301,
+            "KO": "요즘 유럽연합 회원국들은 우크라이나 전쟁에 관해 많이 논의한다.",
+            "SP": "Hoy en dia los países miembro de la UE discute mucho de la guerra en Ucrania."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0302",
+            "index": 302,
+            "KO": "소련의 위성국들은 여전히 러시아의 영향하에 있다.",
+            "SP": "Estados satélite de la Unión Soviética todavia están bajos de la influencia de Rusia."
+        },
+        {
+            "segmentid": "M-IS-CM-03-0303",
+            "index": 303,
+            "KO": "스페인에서 많은 여자들은 이제 꽃같은 여자로 남고 싶어하지 않는다.",
+            "SP": "En España muchas mujeres ya no quieren ser mujeres florero."
+        }
+    ]
+}

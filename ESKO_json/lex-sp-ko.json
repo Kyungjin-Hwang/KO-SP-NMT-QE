@@ -1,0 +1,29 @@
+{
+    "document-id": "1",
+    "filename": "lex-sp-ko",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": {
+        "segmentId": "L-00-FM-01-0205",
+        "index": 205,
+        "sourceText": "한 골 만 더, 진짜 승리가 우리 눈앞에 있어. ",
+        "targetText": "Un gol más, casi podemos tocar la victoria con la mano. ",
+        "word": {
+            "text_source": "승리가 눈 앞에 있어.",
+            "wordindex_source": [],
+            "startPoint_source": [],
+            "endPoint_source": [],
+            "text_target": "tocar la victoria con la mano",
+            "wordindex_target": [
+                25
+            ],
+            "startPoint_target": [
+                25
+            ],
+            "endPoint_target": [
+                54
+            ]
+        }
+    }
+}

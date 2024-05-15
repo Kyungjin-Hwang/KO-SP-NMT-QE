@@ -1,0 +1,709 @@
+{
+    "document-id": "4",
+    "filename": "prag-sp-ko-2",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": [
+        {
+            "segmentid": "M-TE-ST-01-0001",
+            "index": 1,
+            "KO": "[여자] 사무엘\n몇 가지 물을 게 있다\n넌 이 학교에 다닌 지 얼마 안 됐지?\n\n[사무엘] 네, 4개월쯤 됐어요\n전엔 산 에스테반에 다녔죠\n\n[여자] 산 에스테반이면 그 붕괴된 학교 말이니?\n진정하렴\n괜찮아질 거다",
+            "SP": "[mujer] Samuel.\nTengo que hacerte unas preguntas.\nNo llevas mucho en esta escuela, ¿verdad?\n\n[Samu] No, llegué hace cuatro meses.\nEstudiaba en San Esteban antes.\n\n[mujer] San Esteban, el colegio que se derrumbó.\nTranquilo.\nTodo va a ir bien.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0002",
+            "index": 2,
+            "KO": "- 사무!\n- 왔어? - \n- 잘 지냈지?\n안녕, 예쁜이\n미안, 내가 한 말 때문에 자살하진 않을 거지?\n- 아는 사이야?\n- 우리 형 친구야\n- 여기 진짜 천국이다\n냄새나? 쟤들은 오줌도 향수일 거야\n한번 둘러보자",
+            "SP": "- ¡Samu!\n- ¿Qué tal, tío? - \n- ¿Qué tal?\nHola, guapa.\nHostia, perdona, no te vas a inmolar por llamarte guapa, ¿no?\n- ¿Os conocéis?\n- Es colega de mi hermano.\n- Esto es el puto paraíso, chaval.\n¿No lo hueles? Esas pivitas mean colonia, tronco, te lo digo yo.\nVamos a dar una vueltecita, ¿no?",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0003",
+            "index": 3,
+            "KO": "- 저것 봐 화성인 보듯 쳐다보네\n- 익숙해지도록 해\n- 같이 사진이나 찍자 셀카 한 장 남겨줘야지\n\n[사진 찍기] \n\n- 구경 좀 해보자\n- 여기선 휴대폰 못 써\n걸리면 일주일간 압수당할 거야\n- 그건 헌법에 위배돼\n- 헌법을 읽어 봤어? \n- 아니, 영화로 나오겠지",
+            "SP": "- Joder, nos miran como a marcianos.\n- Te acabas acostumbrando.\n- Bueno, venga, una fotito, un selfi o algo, ¿no?\n\n[capturación foto]\n\n- Vamos a dar una vuelta.\n- Aquí no se puede usar el móvil. \nSi te pillan, te lo confiscan y no lo vuelves a ver en una semana.\n- Eso va en contra de la Constitución.\n- ¿Tú te has leído la Constitución? \n- Pues no, listo. Estoy esperando a que saquen la película.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0004",
+            "index": 4,
+            "KO": "- 파티 몇 시야? \n- 무슨 파티?\n- 파티 얘기 하지 않았어? 난 크리스티안이야\n- [영어로] 그래 안녕! 스페인어 할 줄 아니?\n\n[웃는 소리] \n\n- 친구들이랑 얘기 중이었어\n- 미안\n- 근데 인스타그램 해?\n- 원하면 내 거 알려줄게\n- 그래, 알려줘",
+            "SP": "- ¿A qué hora es la fiesta? \n- ¿Qué fiesta?\n- ¿Alguien ha dicho fiesta? Hola, soy Christian.\n- [en inglés] Sí. ¡Hola! ¿Hablas español?\n\n[ríen]\n\n- Estaba hablando con mis amigos.\n- Ah, perdona.\n- Por cierto, ¿tenéis Instagram?\n- Si queréis, os paso el mío.\n- Sí. Ay, sí, por favor.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0005",
+            "index": 5,
+            "KO": "- 크리스티안 누구나 지나칠 때가 있어\n학년 말 파티였고...\n술도 있겠다\n싸움이 걷잡을 수 없게 커질 수도 있지\n- 그게 저랑 무슨 상관이죠?\n- 전 그런 애 아니에요\n부모님이 없는데도 심문할 수 있는 거예요?\n- 그냥 질문일 뿐이야 \n하지만 네가 협조하지 않으면 서로 데려갈 거다\n부모님이랑 변호사도 부르고\n그건 어쩌다 다쳤니?\n- 문에 부딪혔어요\n- 난 왜 네가 거짓말을 하는 것 같을까?",
+            "SP": "- A ver, Christian, a cualquiera se le puede ir la mano.\nEs la fiesta de fin de curso.\nHay alcohol.\nQuizá una bronca que se sale de madre.\n- ¿Y a mí qué me cuenta?\nYo no soy así.\n¿Pueden interrogarme sin mis padres delante?\n- Solo son unas preguntas.\nPero si no quieres colaborar, te podemos llevar a comisaría,\ncon tus padres y un abogado.\n¿Esa herida cómo te la has hecho?\n- Me pegué contra una puerta.\n- ¿Por qué tengo la sensación de que me estás mintiendo?",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0006",
+            "index": 6,
+            "KO": "-내 동생!\n동생아!\n- 세상에!\n- 학교 생활은 잘하고 있어? \n- 응\n- 누가 건드리면 말만 해\n- 집엔 어떻게 왔어?\n- 내가 안 반가워? \n- 반갑지, 출소한 거야?\n- 아니, 아직 아냐 맥주나 마시자",
+            "SP": "- Hermanito.\nHermanito.\n- Madre mía.\n- Irá bien en Pijolandia, ¿no? \n- Sí.\n- Que me lío a tortas con quien haga falta.\n- ¿Qué haces aquí, tío? \n- ¿No te hace ni puta gracia verme?\n- Sí, pero ¿te han soltado ya? \n- No, sigo allí, no te jode. Una cerveza.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0007",
+            "index": 7,
+            "KO": "- 이거 어때?\n-맘에 드니?\n- 엄마\n그거 어제도 보여줬잖아요 제 대답은 똑같아요\n- 넌 매사에 무관심하지\n- 기분 좀 내는 게 그렇게 어려워?\n- 널 위해 해주시는 거잖아\n- 날 위해서?\n- 해 달라고 한 적 없어\n- 마리나\n우린 네 사교계 데뷔를 축하해 주고 싶은 거야\n- 절 남친 찾는 어린 처녀로 소개해서요?\n- 마리나, 그만해라\n- 뭘요?\n이 얘기는 금지예요?\n- 전학생들은 어떠니?\n- 멍청한 놈이랑 이슬람 원리주의자, 반항아죠\n- 웃음거리로는 최고예요 \n- 그럼...\n걔들 중 한 명을 파티에 초대하는 게 어떠냐?\n- 진심이세요?\n- 안 될 거 없지",
+            "SP": "- Oye, ¿y este?\n- ¿Te gusta este?\n- Mamá...\nEse me lo enseñaste ayer y la respuesta de hoy es la misma.\n- Todo te parece mal, Marina.\n- ¿Qué te cuesta poner un poquito de buena cara?\n- Papá y mamá lo hacen por ti.\n- ¿Por mí?\nNadie se lo ha pedido.\n- Cariño...\nLo único que queremos es celebrar que eres una mujer y presentarte en sociedad.\n- Presentarme como una jovencita virginal que busca novio.\n- Marina, por favor.\n- ¿Qué?\nNo vamos a hablar nunca de ello, ¿no?\n- ¿Qué tal los chicos nuevos del cole?\n- Un tarado, una integrista y uno con el puño en alto.\n- Como chiste no tendrían precio. \n- Oye...\n¿Y si invitáis a alguno de ellos a la fiesta?\n- ¿Es en serio?",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0008",
+            "index": 8,
+            "KO": "- 얼른 나와라! 다음 수업 가야지!\n탈의실에 누구 있냐?\n뭐 하니?\n- 무슨 문제 있어? \n- 아뇨, 왜요?\n- 그럼 됐다, 교실로 가\n- 고마워\n넌 괜찮은 녀석이구나\n-  아니, 내가 널 구해줬으니 \n보답은 해야지",
+            "SP": "- Vamos, chicos. A la siguiente clase.\n¿Queda alguien en el vestuario?\n¿Qué hacéis, chicos?\n- ¿Pasa algo? \n- ¿Qué va a pasar?\n- Pues venga, a clase.\n- Muchas gracias, tío.\n-  Eres un colega.\nColega no soy, te acabo de salvar el culo.\nIgual me lo puedes compensar.\n",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0009",
+            "index": 9,
+            "KO": "- 안녕\n저기, 내 파티에 와줄래?\n-  고맙지만 난 파티 안 좋아해\n- 스카프는 하든 안 하든 상관없어 생각 바뀌면 와줘\n- 이건 히잡이야\n스카프가 아니라\n- 히잡\n- 억지로 쓰는 거 아냐\n- 좋겠다\n난 이 웃기는 데뷔 파티를 억지로 여는 기분이거든\n모르겠다\n기회를 줘\n우리가 다 오빠 같진 않아\n8시에 시작해\n사무엘이 주소 알아\n",
+            "SP": "- ¿Qué tal?\nOye, me gustaría que vinieras a mi fiesta.\n- Gracias, pero no es mi ambiente.\n- Puedes venir con el pañuelo o sin él, ven como quieras, ¿vale?\n- Se llama \"hiyab\",\nno pañuelo.\n- Hiyab.\n- Y nadie me obliga a llevarlo.\n- Pues qué suerte.\n- Yo sí siento que me obligan a hacer mi puesta de largo ridícula.\nNo sé.\nDanos una oportunidad. No todos somos como mi hermano.\nEs a partir de las ocho.\nSamuel tiene la dirección.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0010",
+            "index": 10,
+            "KO": "- 사무엘 맞지? \n- 네\n- 우리 집 벽에다 정확히 뭘 쓰려고 한 거냐?\n'도' 다음에 말이다\n- '를'요\n- '도를 지켜라 즉 자신에게 진실하라'\n- 그래? \n- 햄릿의 한 구절이죠\n- 물론 햄릿의 한 구절이겠지 영리하구나\n- 그런데...\n내 생각엔 이걸 쓰려던 것 같아\n도둑놈, 개자식...\n요즘 언론에서 날 부르는 이름 말이다",
+            "SP": "- Samuel, ¿verdad? \n- Sí.\n- ¿Exactamente qué era lo que queríais poner en la fachada de mi casa?\n- L-A-D-R...\n- A-N.\n- \"Ladran, luego cabalgamos\".\n- Ah. \n- Es una cita del Quijote.\n- ¿Una cita del Quijote? Muy ingenioso.\n- Pero...\nA mí me da que queríais poner\n\"ladrón\", \"hijo de puta\" o algo de eso que me llama la prensa últimamente.\n",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0011",
+            "index": 11,
+            "KO": "- 어울려서 좋을 게 없는 애들인데\n왜 볼 때마다 걔들이랑 있는 거야?\n- 오빠는 왜 걔들을 건드리는데?\n- 네가 또 다치는 게 싫으니까!\n- 파블로는 날 해치려던 게 아냐 \n- 마리나!\n그런 얘기 할 때 아냐\n- 그럼 언제 하죠?\n언제 하면 좋은데요?\n왜 그 얘기를 못 하죠?\n제게 아무 일도 없었고\n아무 문제 없을 거라고 믿게 만들려고\n정신과 의사한테 큰돈을 쓰셨지만\n그거 아세요?\n이 얘기를 피하실 때마다 제가 쓰레기가 된 기분이에요\n전 남자애랑 사랑에 빠졌고 성병에 감염됐어요\n다들 말하라고요!\n어서 말해봐요, 엄마!",
+            "SP": "- Esa gente es un veneno, Marina. Y lo sabes.\n¿Por qué cada vez que me doy la vuelta parece que estás con ellos?\n- ¿Por qué no les dejas en paz?\nPorque me niego a que te vuelvan a hacer daño, Marina.\n- Que Pablo no quería hacerme daño. \n- Marina.\nNo es el momento, por favor.\n- ¿Y cuándo?\nDime cuándo es el momento.\n¿Por qué no podemos hablar del tema?\nOs habéis gastado una pasta en psicólogos para convencerme de que no pasaba nada.\nDe que la vida seguía, que todo iba a ir bien.\n¿Y sabéis qué?\nQue cada vez que evitáis el tema, me siento como una puta mierda.\nMe enamoré como una imbécil de un chico y me contagió.\nNecesito que lo digáis.\nDilo, dilo, mamá.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0012",
+            "index": 12,
+            "KO": "- 됐다\n- 내 휴대폰 내놔!\n- 알겠어\n- 멍청하긴\n모르는 사람들을 집에 들이게\n될 텐데 무책임하잖아\n-그게 제일 중요하지\n하지만 난 널 알아\n넌 그 부잣집 여자애가\n오는지에만 관심 있잖아\n그래서 이런 서커스도\n벌이는 거고\n-멍청한 소리 마",
+            "SP": "- Creado. Ya está. \n- ¡Dame el móvil!\n- Ya. \n- Imbécil.\nAhora tenemos gente en casa que no conocemos.\nEres un irresponsable.\n-Eso sobre todo. Pero te conozco un rato, Samu.\nSé que solo te interesa que venga la pija esa.\nPor eso montas todo este circo.\n-Idiota.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0013",
+            "index": 13,
+            "KO": "- 난 네가 내...\n- 알아\n- 네 여동생처럼 되진 않아\n걘 약에 취해 이용당했지만\n난 누구한테도 이용 안 당해\n- 네가 내 부모님처럼\n될까 봐 그래\n- 너희 부모님이 무슨...\n- 내 친부모 말이야\n일주일 전에 기관에 갔어\n어떻게 사는지 알아보려고\n내가 10년 늦게 찾아갔더라\n둘 다 마약 과용으로 죽었지\n그건 네 인생을 망칠 거야\n그렇게 둘 순 없어\n넌 내 친구니까\n- 왜 여태 얘기 안 했어?\n- 우린 이런 얘기 안 했잖아\n차, 여자, 파티 얘기나 했지\n- 이런 얘기도 해야겠네\n- 그래",
+            "SP": "- No quiero que... \n- ¡Que sí, Guzmán!\n¡No voy a acabar como tu hermana!\nA ella la drogaron y se aprovecharon de ella,\npero de mí no se aprovecha ni Dios.\nNo quiero que acabes como mis padres.\n- ¿Tus padres qué tienen que ver? \n- Mis padres biológicos, Ander.\nHace una semana fui a la agencia. Quería saber cómo estaban.\nPor lo visto llegué diez años tarde.\nHan palmado por sobredosis.\nEsa mierda te destroza la vida, tío. \nYo no puedo dejar que te pase nada.\nEres mi amigo.\n- ¿Por qué no me lo has contado antes?\n- Pues, tú y yo hablamos de otras cosas.\nHablamos de coches, de tías, de fiesta, pero no de eso.\n- Quizá deberíamos, ¿no?\n- Pues sí.\n",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0014",
+            "index": 14,
+            "KO": "- 네 꼴이 어떤지 봤어?\n- 저번에 무슨 일이 있었는지\n다시 알려줘야 해?\n이번엔 뭘 먹었어?\n- 파블로는 나한테 약 안 먹였어\n같이 담배 좀 피운 게 다야\n내가 원해서 같이 잔 거고\n운이 나빴던 거지\n- 운이 아니야, 넌 그런 놈이랑\n자고도 정신 못 차리고\n계속 그런 부류랑 어울려\n- 아직도 그게\n가난한 사람들 병이라고 생각해?\n- 파블로는 오빠처럼\n상류층 여자애들을 좋아했어\n어떻게 감염됐을 것 같아?\n누구한테나\n일어날 수 있는 일이야\n오빠도 감염될 수 있어\nHIV는 집이 얼마나 크고\n돈을 얼마나 벌고\n성이 얼마나 긴지는\n전혀 신경 안 쓰거든",
+            "SP": "- ¿Tú te has visto?\n¿Te tengo que recordar lo que pasó la última vez que te dejamos en paz?\n¿Qué has tomado esta vez?\n- Que Pablo no me drogó. Que solo fumamos un poco y ya está.\nPero lo hice con él porque yo quise, y punto, y tuve mala suerte.\n- Mala suerte, no. Lo hiciste con quien no debías, \npero no aprendes\ny sigues juntándote con esa gente.\n¿De verdad sigues creyendo que es una enfermedad de pobres, no?\nA Pablo le gustaban las niñas pijas como a ti.\n- ¿O cómo te crees que se contagió él, si no?\nQue le puede pasar a cualquiera.\nEs que te puede pasar a ti también.\nQue al VIH le importa una mierda\ncómo de grande sea tu casa,\ncuánto dinero ganas o cómo de largos son tus apellidos.\nQue no es como tú.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0015",
+            "index": 15,
+            "KO": "- 구스만\n- 무슨 짓이야?\n- 무슨 약 했어?\n- 그런 거 아냐\n- 너 취했어!\n- 아냐!\n입도 못 다물면서?\n- 약 안 했어!\n- 너!\n뭘 준 거야?\n- 아무것도 안 줬어\n- 내 친구한테 접근하지 마 기침약도 주지 마 안 그러면 너희 가족이 네가 뭘 하고 다니는지 알게 될 거야!\n- 구스만, 쟤한테 산 거 아니야\n- 거짓말 그만해 저놈한테 다 들었어\n",
+            "SP": "- Guzmán, ya... \n- Pero ¿qué haces?\n- ¿Qué te has tomado? \n- No me he tomado nada.\n- ¡Estás drogado! \n- ¡Que no!\n- No cierras la boca. \n- ¡No he tomado nada!\n- Tú. \n¿Qué le has dado a mi amigo? \n- Yo nada.\n- Como te vuelves a acercar aunque sea para darle una pastilla para la tos, te juro que tu hermana, tu madre, tu padre y toda tu puta familia va a saber lo que haces.\n- Guzmán, que él no es quien me pasa.\n- ¡Que me dejes de mentir, retrasado, que me lo dijo él!",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0016",
+            "index": 16,
+            "KO": "- 목격자가 당신이 피투성이로 학교를 빠져나갔다는군요\n- 목격자요?\n물론 부잣집 애겠죠\n걔들은 거짓말이라곤 안 하니까. 그렇죠?\n- 목격자는 사무엘이에요\n당신 동생\n거짓말인가요?\n- 내가 마리나를 해칠 리 없단 건\n사무엘이 잘 알 겁니다\n- 왜죠?\n- 우린 연인이었거든요",
+            "SP": "- Tenemos un testigo que te vio salir corriendo manchado de sangre.\n- ¿Un testigo?\nClaro, un niñito rico, seguro.\nPor supuesto, porque ellos nunca mienten, ¿verdad?\n- Nuestro testigo es Samuel.\nTu hermano.\n¿Está mintiendo?\nÉl sabe perfectamente que yo nunca haría daño a Marina.\n- ¿Por qué? \n- Porque estábamos juntos.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0017",
+            "index": 17,
+            "KO": "- 크리스티안, 생선 좋아해?\n- 저의가 있는 질문이야?\n-저녁 먹을 건데\n같이 먹었으면 해서\n너한테 진 빚도 있고\n- 좋아",
+            "SP": "- Christian, ¿te gusta el pescado?\n- Eh, ¿eso va con segundas?\n- Vamos a pedir la cena y queremos invitarte.\nAdemás, creo que te lo debemos.\n-Vale.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0018",
+            "index": 18,
+            "KO": "- 마리나가 임신한 건 알았어요?\n- 알았냐고요?\n누구 애였다고 생각해요?\n왜 우리가 같이 달아나려고 했을 것 같아요?\n- 마리나를 데리러 학교에 갔다가...\n그렇게 된 걸 발견한 거예요\n우린 여기서 최대한 멀리 떠나고 싶었어요\n그걸 용납 못 할 사람이 누군지 알아요?\n당신 목격자예요\n- 그러니까 지금...\n당신 동생이 마리나를 죽였단 건가요?",
+            "SP": "- ¿Sabía que estaba embarazada?\n- ¿Que si lo sabía?\n¿De quién se piensa que era ese crío?\n¿Por qué se cree que nos íbamos a largar juntos?\nFui a recogerla al colegio...\nMe la encontré así.\nQueríamos irnos a tomar por culo de aquí.\n¿Sabe quién no soportaba esa idea?\nSu puto testigo.\n- ¿Estás sugiriendo...\n...que tu hermano la mató?",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0019",
+            "index": 19,
+            "KO": "- 사무엘, 휴대폰 주렴\n- 죄송해요, 엄마예요\n중요한 내용이면 반 친구들한테도...\n- 휴대폰 내놓으렴 \n- 엄마였어요\n- 규칙 알잖니 누구였든 휴대폰 내놔라\n- 엄마가 몇 시에 끝나는지 물어본 거예요\n- 나디아, 읽어 봐라\n- 읽어 \n- 안 돼\n- '마리나는 에이즈 아냐, 멍청아'\n'HIV라고' \n- 그만 읽어!\n뭔 소리를 지껄인 거야?\n- 구스만, 진정해라\n- 뭘 쓴 거냐고! \n- 진정해!\n- 어떻게 그걸 읽게 하죠? \n- 예의부터 지켜라\n그리고 휴대폰 사용은 금지고 난 그럴 권리가 있었다\n- 권리 좋아하시네요 \n- 입 다물어",
+            "SP": "- ¿Me das el teléfono?\n- Era mi madre.\n- Conoces las normas, Samuel. Me da igual, dame el teléfono.\n- Me estaba preguntando que a qué hora salgo.\n- Nadia, lee, por favor.\n- Lee.\n- No.\n- \"Marina no tiene sida, animal.\n- Es VIH\"...\n- ¡Deja de leer!\n¿Qué coño pasa, eh?\n- Guzmán, tranquilo.\n- ¿Qué coño escribes?\n- Tranquilízate.\n- ¿Y tú por qué le dejas leerlo?\n- Primero, me hablas con respeto.\nSegundo, conocéis las normas.\nNo se pueden utilizar móviles,estaba en todo mi derecho.\n- Te ha salido muy bien.\n- Cállate.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0020",
+            "index": 20,
+            "KO": "- 안녕 \n- 안녕\n- 걱정 마 \n- 그래\n- 괜찮아\n미결 구금이니 보석금만 내면 나오실 거야\n- 그게 얼만데?\n- 30만 유로\n- 오후에 낼 거야 \n- 재판은?\n- 상관없어, 증거도 없고\n- 근데 왜 기소한 거야? \n- 젠장, 나도 몰라!\n어떤 판사가 뉴스에 나오고 싶었나 보지\n아빠한테 불리한 건 없어 증거가 없다고\n",
+            "SP": "- Hola. \n- Hola.\n- No te rayes, tío. \n- Que no.\n- No pasa nada.\nEs prisión provisional. Se paga la fianza y fuera.\n- ¿Y cuánto es?\n- Trescientos mil.\n- Esta tarde pagamos. \n- ¿Y el juicio?\n- Me da igual. No tienen nada.\n- Entonces, ¿por qué le han acusado? \n- ¡Pues yo qué sé, joder, Ander!\nPorque algún juez tenía ganas de salir en las noticias. ¡Ni puta idea!\nPero no tienen nada contra él, ¿vale? No tienen ninguna prueba.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0021",
+            "index": 21,
+            "KO": "- 오마르!\n여긴 왜 왔어?\n미쳤어?\n- 반갑다 \n- 마리나 오빠가 누군지 알아?\n걔가 알면 무슨 짓을 할 줄 알고!\n- 난 돈만 벌면 돼 \n- 오마르\n뭐 때문에? 돈을 왜 버는데?\n- 네가 무슨 상관이야? \n- 걱정되니까 그렇지, 멍청아\n감옥살이를 하게 되거나... 설마 운동화나 오토바이 사려는 건 아니지?\n- 지금 내가 사는 곳이 감옥이야\n이 돈이 날 자유롭게 해줄 거라고\n집 떠날 자금이야\n이제 알겠어?\n- 오마르 \n- 이거 놔",
+            "SP": "- ¡Eh!\n¿Qué haces aquí? \n¿Eres gilipollas, o qué?\n- Hola, ¿eh? \n- ¿Tú sabes quién es el hermano de Marina?\n¿Sabes de lo que es capaz si se entera?\n- Me da igual, necesito la pasta. \n- Omar.\n¿Para qué? ¿Qué quieres?\n- ¿Y a ti qué te importa? \n- Me importas tú. ¡Imbécil!\nNo quiero que por...\nPor comprarte unas zapatillas, una moto o cualquier cosa acabes en la cárcel.\n- Yo ya vivo en una puta cárcel.\nEsto, esta pasta es lo que me va a hacer libre.\nEs para irme de casa.\n¿Lo entiendes ahora?\n- Omar. \n- Quita.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0022",
+            "index": 22,
+            "KO": "- 누가 팔았지?\n- 네? \n- 마약상 말이다\n미성년자한테, 그것도 학교에서 약을 판 게 누구야?\n- 몰라요 이름은 들은 적 없어요\n- 번호는 있을 거 아니니 문자 해서 만난 거 아냐?\n휴대폰 다오\n\n- 안 돼요 \n- 이건 심각한 일이야\n이름만 알면 돼\n마리나, 휴대폰 달라니까!\n- 안 돼요 \n- 어서 내놔!\n- 이름은 말할 테니 제발 신고하지 마세요\n- 휴대폰 내놓으렴\n- 오마르예요 이름은 오마르고 나디아 오빠예요",
+            "SP": "- ¿Quién te lo ha vendido?\n- ¿Cómo? \n- Tu camello.\nEl que no ha tenido problema en vender droga a una menor en su colegio.\n- No sé, es que nunca me ha dicho su nombre.\n-¿No tienes su número? ¿No le has escrito para quedar con él?\n- El teléfono.\n\n- No. \n- Marina, esto es serio.\nSolo necesito un nombre.\nMarina, dame el teléfono. Marina.\n-  No puedo. \n- ¡Dámelo!\n- Le doy un nombre, pero por favor no le denuncie.\n- Dame el teléfono.\n- ¡Omar!\nSe llama Omar, es el hermano de Nadia.\n",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0023",
+            "index": 23,
+            "KO": "- 훨씬 낫네\n넌 입 다물고 있을 때 더 예뻐\n- 아빠가 그런 짓을 했는데 내가 면회를 갈 것 같아?\n- 글쎄\n설명할 기회는 줘야 하지 않을까?\n그리고 너희 아버지잖아\n- 아버지는 도둑이야\n가족 재산까지 훔쳤으니 아무것도 얻을 자격 없어\n- 그건 판사가 결정할 일이야\n가족은 언제나 힘이 돼 줘야 해\n그래야 가족이지\n- 내가 가야 한다고 생각해?\n너희 아버지라면 너한테 그러실걸?",
+            "SP": "- Te ves mejor, ¿eh?\nCalladita te ves más bonita.\n- ¿De verdad crees que con lo que ha hecho voy a verle a la cárcel?\n- No sé.\nSe merece una oportunidad, ¿no? Para explicarse.\nY es tu padre.\n- Es un ladrón.\nLe ha robado hasta a su familia, no se merece nada.\n-  Mira, lo que merece debería decidirlo un juez.\nLa familia está para apoyarse siempre.\nSi no, ¿para qué sirve?\n- ¿De verdad debería ir?\nYo creo que es lo que él haría por ti.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0024",
+            "index": 24,
+            "KO": "- 폴로, 마지막으로 물을게\n진짜 저놈한테 네 여친을 뺏길 거야?\n- 나 무시하는 거 못 봤어?\n내 말은 안 들어 \n- 말은 그만둬\n네가 사랑한다는 걸 행동으로 보여주라고!\n- 너야 남 얘기니까 쉽겠지\n어떻게?\n- 그거까지 알려줘야 해?",
+            "SP": "- Polo, por última vez,\n¿vas a dejar que el del puto casquete\nte quite la novia delante de tus narices?\n- Pero ¿no ves que ella pasa de mí?\nNo escucha. \n- Pues déjate de cháchara, joder.\nMuéstrale que la quieres, pasa a la acción, haz algo.\n- Claro, qué fácil es para ti.\n¿Cómo?\n- ¿Te lo tengo que dar todo hecho?",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0025",
+            "index": 25,
+            "KO": "- 뭐지?\n- 어떻게 된 거야?\n폴로, 무슨 짓을 한 거야?\n- 모르겠어\n- 숨을 안 쉬는 것 같아 \n- 누가 숨을 안 쉬어?\n- 본 사람 있어?\n폴로, 널 본 사람 있어?\n좋아\n- 피부터 닦자, 이리 와\n그래, 손 줘 봐\n- 셔츠도 벗어야겠어\n- 크리스티안 \n- 응?\n- 셔츠 남는 거 있어?\n- 설명 좀... \n- 셔츠나 가져와!\n- 날 봐!\n저 트로피 없애\n누구한테도 들키면 안 돼 알아들어?\n- 누가 숨을 안 쉬는데?\n폴로! 누가 숨을 안 쉬냐고\n- 마리나",
+            "SP": "- ¿Qué coño?\n- ¿Qué ha pasado?\nPolo, ¿qué has hecho?\n- No lo sé.\n- Pero creo que no respira.\n- ¿Quién no respira?\n- ¿Te ha visto alguien?\nPolo, ¿te ha visto alguien?\nBien.\n- Tenemos que limpiarte la sangre, ven.\nVale.Las manos, dame las manos.\nLa puta camisa.\n- Christian. \n- ¿Qué?\n- ¿Tienes una camisa para prestársela?\n- ¿Me podéis explicar...? \n- ¡Coge una puta camisa!\n- ¡Mírame!\nDeshazte del trofeo.\nQue nadie te vea con él, ¿me oyes?\n- ¿Me puedes explicar de una puta vez quién cojones no respira?\n¡Polo! ¿Quién coño no respira, joder?\n- Marina.",
+            "note": "엘리트들 / Elites"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0026",
+            "index": 26,
+            "KO": "-저기, 시간 있어?\n- 아니.\n- 중국 어선에서 요리할 기회가 있는데... 설거지는 안 해도 돼.\n\n\"잠시 중국인을 떠올렸고 내가 침 뱉는 사람을 싫어한다는 게 떠올랐다.\"\n\n- 당신 뭐야? 경찰이야? \n- 잠깐, 거기로 가면 죽어. 무장 기동대가 당신을 기다리고 있어. 지난 6일간 당신을... \n- 왜 그 말을 믿어야 하지?\n\n나는 그렇게 교수를 만났다. 고환에 총을 겨누며 말이다.",
+            "SP": "- Perdona, ¿tienes un minuto?\n- No.\n- Lo de cocinar en un barco chino solo tiene una ventaja, que no tienes que fregar los platos.\n\n\"Por un momento pensé en los chinos y en que odio a la gente que escupe\".\n\n- ¿Quién eres, policía? \n- Espera, espera. Vas de camino al matadero, tienes a un equipo esperándote y tienen un coche desde hace seis días...\n- ¿Por qué te voy a creer?\n\n\"Y así conocí al Profesor, apuntándole con una pistola en las pelotas\".",
+            "note": "종이의 집 / La casa de Papel - S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0027",
+            "index": 27,
+            "KO": "- 앞으로 이곳에 살 거야. 화난 군중으로부터 멀리 떨어져서, 5개월 동안 이 작전을 연구할 거지.\n- 5개월이라니?\n- 미쳤어?\n- 생각해 봐 사람들은 돈을 벌기 위해 학교에 다니지 그렇게 해서 잘 풀린다 해도 형편없는 일을 해. 5개월이 대수야? 난 그것보다 훨씬 더 오래 이 일을 고민해 왔어. 성공해서 다시는 일하지 않으려고. 당신들도 마찬가지야. 당신들의 자녀도. 지금 서로를 잘 모르겠지만 그렇게 계속 유지했으면 해. 이름도, 개인적인 질문도 피하도록, 연애는 물론이고. 각자 쉬운 이름을 정해줘. 숫자나, 행성 도시 이름도 좋아.\n- 17번 씨, 23번 양 이렇게?\n- 시작부터 난감하네 내 전화번호도 기억 못 하는데\n- 그래서 말한 거잖아\n- 행성은?\n- 난 화성을 하고 이쪽은 천왕성이 좋겠네\n- 난 천왕성 할 생각 없어\n- 천왕성이 어때서? \n- 이상하잖아\n- 그럼 도시로 하지. 도시가 좋겠네\n- 좋아",
+            "SP": "- Viviremos aquí, alejados del mundanal ruido.\n- Cinco meses, los cinco meses que pasaremos estudiando cómo dar el golpe. \n- ¿Cómo que cinco meses?\n- ¿Estamos locos o qué?\n- Mira, la gente pasa años estudiando para tener un sueldo, un sueldo que, en el mejor de los casos, no deja de ser un sueldo, un sueldo de mierda.¿Qué son cinco meses? Yo llevo pensando en esto... mucho más tiempo. Para no volver a trabajar en mi vida. Ni vosotros... ni vuestros hijos. Bien. De momento no os conocéis y quiero que siga siendo así. No quiero nada de nombres, ni preguntas personales, ni, por supuesto, relaciones personales. Quiero que cada uno elija un nombre, algo sencillo. Puede ser números, planetas, ciudades...\n-Rollo \"Señor 17, la señorita 23\". \n-Ya empezamos mal. Yo no sé recordar mi número de teléfono. \n-Por eso te lo digo.\n-¿Y planetas? Yo puedo ser Marte, este Urano.\n-Yo Urano no seré, así que te olvidas.\n-¿Qué le pasa a Urano? \n-Que tiene mala rima.\n- Van a ser ciudades, ciudades. Quedamos con ciudades.\n- Bien.",
+            "note": "종이의 집 / La casa de Papel - S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0028",
+            "index": 28,
+            "KO": "- 이 가면은 누가 골랐어?\n- 이게 왜? \n- 하나도 안 무섭잖아\n- 영화를 보면 다들 무서운 가면을 써. 좀비, 해골 죽음의 천사...\n- 총을 들고 있다면 해골보다 더 무서운 게 미친 짓이야.\n- 그만해 \n- 수염 난 이놈은 누구야?\n- 달리야, 아주 뛰어난 스페인 화가지\n- 화가였구나 \n- 그래\n- 그림을 그리는 화가 \n- 그래",
+            "SP": "- ¿Quién eligió la careta?\n-¿Qué le pasa a la careta? \n-Que no da miedo.\n- Tú ves las pelis de atracadores y las caretas dan miedo. Son zombis, esqueletos, la muerte, yo qué sé, sientes...\n- Con un arma en la mano e aseguro que da más miedo un loco que un esqueleto.\n-Venga ya. \n-¿Quién era el payo este del bigote?\n-Dalí, hijo, un pintor español. Era muy bueno.\n-Un pintor. \n-Sí.\n-Un pintor de pintar. \n-Sí.",
+            "note": "종이의 집 / La casa de Papel - S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0029",
+            "index": 29,
+            "KO": "- 여기 누워 봐 \n- 젠장\n- 이런 침대에 누워 봤어? 감방에는 이런 거 없을 텐데. 여기가 어딘지 보여? 우리 대박 친 거야. 진짜 대박 쳤다고.\n- 착각하지 마. 대박은 무슨. 넌 할 줄 아는 일 있어? 제대로 된 일자리 가져 봤어? 이력서 내본 적 있느냐고. 말을 말자.\n- 이력서? 뭐하러?\n- 아빠를 감방에서 꺼내려고?\n- 나라고 자랑스러운 줄 알아? 12년 동안 감방을 들락날락했지. 왠지 알아?\n- 왜?\n- 난 별로 똑똑하지 못하기 때문이야. 너도 마찬가지야. 하지만 이 일에는 대신 머리 써주는 사람이 있어. 우리가 허튼짓 안 하고 운이 좋다면여기서 나가서 발 뻗고 살 수 있어. \n- 허튼짓이라니?\n- 얼른 담자. 가득 담아.",
+            "SP": "- Túmbate aquí, cojones. \n-Venga, coño.\n-¿Cuándo has tenido tú una cama como esta?En el talego no la tenías. ¿Has visto dónde estamos, papa? Que somos muy grandes. Que somos muy grandes.\n-Chaval, no te equivoques. Somos pequeños. ¿Tú sabes hacer algo?¿Has trabajado alguna vez?¿Has presentado el currículum en algún sitio?Ah. Venga, coño.\n-El currículum. ¿El currículum para qué? ¿Para sacarte a ti de Alcalá Meco?\n-¿Crees que me siento orgulloso de eso? 12 años de mi vida entrando y saliendo de la cárcel. ¿Y sabes por qué?\n-¿Por qué?\n-Porque no soy muy listo, hijo. Y tú tampoco. Pero en este golpe el cerebro lo pone otro. Y si tenemos suerte y no haces mucho el gilipollas, saldrás de aquí con la vida resuelta.\n-No voy a hacer el gilipollas. \n-Venga, coño. Llena esto.",
+            "note": "종이의 집 / La casa de Papel - S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0030",
+            "index": 30,
+            "KO": "- 왜 경보기가 울리지?\n- 모르겠어. 그냥 저기 서 있는데 이유를 모르겠어\n- 왜 달아나지 않지? \n- 나도 몰라\n- 1분 40초 남았어\n- 1분...\n- 이름이 뭐랬지?\n- 아르투로\n- 아르투로? \n- 그래. 아무것도 못 봤어! 맹세코 아무것도 못 봤어. 아무것도 못봤다고!\n- 나를 봐.\n- 아무것도 못 봤다고. \n- 아르투로, 나를 봐.\n- 싫어 \n- 나를 보라니까. 이봐, 날 좀 봐. 어서. 이봐. 영화 좋아해?좋아하느냐고.\n- 그래. 영화 진짜 좋아해.\n- 공포 영화를 보면 있잖아. 맨 처음에 당신 같은 착한 남자가 나와. 딱 보면 '저 사람 죽겠네' 싶은 남자.\n- 그래\n- 그리고 진짜 그렇게 돼. 항상 죽고 말지. 장담하는데 당신 그러다 죽어.",
+            "SP": "- ¿Por qué ha saltado la alarma? \n- No lo sé. Están parados sin hacer nada, no lo entiendo.\n- ¿Por qué no cogen el dinero y se van?\n- ¡No lo sé!\n- Un minuto, 40 segundos.\n-Un minuto...\n- ¿Cómo te llamas?\n- Arturo.\n- Arturo, ¿verdad?\n- Sí. ¡No, no he visto nada! ¡No he visto nada, lo juro, no he visto nada, no he visto nada!\n- Mírame. \n- No he visto nada.\n- Venga, Arturo, mírame. \n- No.\n- Mírame, mírame. Eh, eh, venga, va. Eh. ¿Te gusta el cine? ¿Te gusta?\n- Soy... Soy muy aficionado.\n- ¿Y tú te has dado cuenta que en las películas de miedo siempre sale uno al principio, así, majete como tú, que tú dices: \"Este huele a muerto\", y luego no falla? \n- No...\n- Siempre cae. Arturo, créeme, hueles a muerto.",
+            "note": "종이의 집 / La casa de Papel - S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0031",
+            "index": 31,
+            "KO": "금일 입소식은 \n이쪽\n실내 강당에서 진행하도록 하겠습니다. \n이병 장정 앞으로\n앞사람이랑 간격 맞춥니다. \n팔 뻗습니다\n부대 차렷\n국기에 대하여 경례!",
+            "SP": "Entrad. \nLa ceremonia tendrá lugar \npor aquí \nen el salón principal\nQue se acerquen los reclutados. \nColocaos en fila. \nEstirad los brazos. \n¡Atención¡\n¡Saludad a la bandera nacional!",
+            "note": "\bD.P S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0032",
+            "index": 32,
+            "KO": "- 이병 안준호. \n- 너는, 씹새끼야. 그냥 와꾸가 마음에 안 들어. \n- 위치로\n- 네!\n- 짜증나? 어?\n- 이병 안준호!\n- 짜증나?\n- 이병 안준호!\n- 왜? 한대 치려고?\n- 아닙니다.",
+            "SP": "- Soldado An Jun-ho, señor. \n- Maldito cabrón. No me gusta tu aspecto. \n- Ponte firme. \n- ¡Sí, señor!\n- ¿Te molesta?\n- Soldado An Jun-ho, señor. \n- ¿Sí?\n- Soldado An Jun-ho, señor.\n- ¿Qué pasa? ¿Vas a pelear conmigo?\n- No, señor. ",
+            "note": "\bD.P S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0033",
+            "index": 33,
+            "KO": "- 아니 이 씨발새끼들은 다 감옥에를 가야돼. \n- 야\n- 이러니 내가 억울하겠냐, 안하겠냐?\n- 하, 우리 아빠는\n- 자기 구청장을 한번 더 해야한다고, 한다고\n- 그래서 내가\n- 국방의 의무를\n- 존나게 성실하게 수행하고 있다고. ",
+            "SP": "- Estos idiotas deberían estar en la cárcel. \n- Oye\n- ¿Entiendes por qué estoy tan enfadado?\n- Mi padre\n- quería ser jefe de distrito una vez más. \n- Y por eso\n- Estoy cumpliendo \n- Con mi maldito deber militar. ",
+            "note": "\bD.P S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0034",
+            "index": 34,
+            "KO": "- 신우석 자살했다\n- 모텔방에서 번개탄 피웠다고\n- 소방차 출동하고 난리였는데 네새끼들은..\n- 저기.. 죄송한데 불 좀… \n- 예, 가지세요 또 있어요. \n- 휴가 나오셨나 봐요. \n- 예, 뭐",
+            "SP": "- Shin Woo-suk se ha suicidado.\n- Quemó carbón en su habitación. \n- Incluso fue el equipo de rescate y tú…\n- Disculpe señor. ¿Me prestas el mechero?\n- Puedes quedártelo. Tengo otro. \n- ¿Estás de permiso?\n- Sí, supongo. ",
+            "note": "\bD.P S01 E01"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0035",
+            "index": 35,
+            "KO": "- 한번 뿌릴때마다 PX 가서 냉동 2천원어치\n- 어떻게? 콜? \n- 콜, 콜 콜!\n- 뿌려줘 뿌려줘.\n- 역시 헌병은 달라. \n- 야 나, 나도 뿌려줘\n- 그리고 나도 뿌려줘!",
+            "SP": "- Cada bote son 2000 Jones en comida de la tienda. \n- ¿Qué os parece? ¿Hecho?\n- ¡Hecho! ¡Hecho!\n- ¡Rocía! ¡Corre!\n- La Policía Militar sabe lo que necesitamos. \n- Vamos, échame. \n- Échame a mí después. ",
+            "note": "\bD.P S01 E02"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0036",
+            "index": 36,
+            "KO": "- 그러니까 그 군인이 잡으라는 탈영병은 안 잡고 가라오케에서 술을 마셨는데\n- 그 사이에 탈영한 애는 죽었고\n- 그것도 모자라서 후임이 선임을 쥐어팼다? \n- 네 그렇습니다. \n- 그럼 일단 걔 보직 해제부터 시키세요. \n- 예. \n- 영창에서 퇴창하는대로 바로…",
+            "SP": "- Así que ese soldado fue a beber a un karaoke en vez de coger al desertor. \n- Y mientras, ¿el desertor murió?\n- Y un subalterno pegó a su superior? \n- Así es señor. \n- Entonces haga que lo expulsen.\n- Sí, señor. \n- Lo haré cuando salga de la prisión. ",
+            "note": "\bD.P S01 E02"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0037",
+            "index": 37,
+            "KO": "- 어이, 민간인 아저씨\n- 고참이 아주 개좆으로 보이지?\n- 모르셨습니까?\n- 말년은 민간인이라 고참 대접 없지 말입니다. \n- 쌍년들이 아주 쌍으로 지랄이네\n- 한마디만 더 하면 아가리 찢는다.\n- 한마디\n- 개새끼가",
+            "SP": "- Mira, civil. \n- ¿No respetas a tus superiores?\n- ¿No lo sabías?\n- Cuando estás a punto de licenciarte, eres como un civil. \n- Los dos idiotas me estáis cabreando. \n- Otra palabra y te parto la cara. \n- Otra palabra\n- Serás gilipollas. ",
+            "note": "\bD.P S01 E02"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0038",
+            "index": 38,
+            "KO": "- 그리고 내무반 애들이랑 엮이지 마. \n- 남이야 남\n- 우린 우리 할것만 잘하면 돼\n- 탈영병 잡는거\n- 예 알겠습니다. \n- 여기 얼마나 평화롭고 좋니?\n- 괴롭히는 사람도 없고, 어?",
+            "SP": "- Y no te mezcles con esos en los barracones. \n- No son como nosotros.\n- Debemos centrarnos en el trabajo:\n- Atrapar a soldados desertores. \n- Sí señor. \n- ¿A que esto es tranquilo?\n- Aquí nadie te molesta. ",
+            "note": "\bD.P S01 E02"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0039",
+            "index": 39,
+            "KO": "- 네, 봉천동에 사시는 안준호 이병이 신청하신 환경 호르몬이 없는 라면\n- 끓여드릴게요.\n- 너 형제 있어?\n- 동생 있습니다.\n- 응, 여동생?\n- 안 이쁩니다. \n- 나 안물어봤어. \n- 부모님은 잘 계시고?\n- 그냥 계십니다. \n- 너는 고참이 얘기하는데 왜 성의없이 이렇게 대답을 해?\n- 밖에 나오면 형이라고…",
+            "SP": "- Fídeos instantáneos si disyuntores endocrinos como pidió el soldado Ah de Bongcheon-dong. \n- Ya casi está. Voy enseguida. \n- ¿Tienes hermanos?\n- Tengo una hermana pequeña. \n- ¿Una hermana pequeña?\n- No es guapa. \n- No he preguntado. \n- ¿Tus padres están bien?\n- Supongo que sí. \n- ¿Por qué respondes con ese tono falso a tu superior?\n- Me dijiste que olvidara las formas. ",
+            "note": "\bD.P S01 E03"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0040",
+            "index": 40,
+            "KO": "- 면목 없습니다. \n- 애들 바로 복귀시키고 시정하도록 하겠습니다. \n- 아 첫인상부터 좀 불안하더라니 진짜, 씨.\n- 지금 자기가 뭘 잘못한 건지를 알아?\n- 예? \n- 어이, 박 중사요. \n- 보직이 군탈 담당인데, 탈영병 잡는게 그렇게 어려워? \n- 아니 실적 높이라고 멍석까지 깔아줬는데… 왜 똥을 싸지르시냐고 이 박 중사님아…",
+            "SP": "- Lo siento, señor. \n- Les diré que vuelvan y arreglen las cosas.\n- Vaya, con razón me cayó usted bien desde el principio. \n- ¿De verdad no sabe lo que hizo mal?\n- ¿Disculpe?\n- Sargento Park. \n- ¿Por qué no puede hacer bien su trabajo y atrapar desertores?\n- Quise ayudarle para que ganara más puntos, pero ¿por qué hizo un desastre? ",
+            "note": "\bD.P S01 E03"
+        },
+        {
+            "segmentid": "M-TE-ST-01-0041",
+            "index": 41,
+            "KO": "- 근데 너 얼굴은 또 왜 그래? 너 인제 싸움질도 해?\n- 아이, 됐고 상우는 요즘 뭐 하나? 회사 잘 다녀요? 걔는 맨날 바빠\n- 지금도 외국에 출장 갔다\n- 에이, 싸가지 없는 새끼. 상우 집에 오면 나한테 연락 좀 하라고 그래요. 어머니도 알지? 이 새끼 서울대 붙은 거 다 나 때문이야. 내가 어렸을 때부터 학교도 데리고 다녔잖아. 근데 자식 대학 가고, 취직하고 나한테 술을 한번 안 사. \n- 쓸데없는 소리 하지 말고 너 이거 가지고 얼른 집에 가. 또 술집으로 새지 말고",
+            "SP": "- ¿Y qué te pasó en la cara? ¿Ahora peleas?\n- Oye, olvídalo. ¿Qué estará haciendo Sang-woo ahora ¿Cómo le va en el trabajo? Siempre está ocupado.\n- Está en un viaje de negocios.\n- Ese mocoso desagradecido. Dile que me llame cuando llegue a casa. Recuerdas, ¿no? Gracias a mí, entró a la Universidad de Seúl. Lo llevaba a la escuela cuando éramos niños. Fue a la universidad y consiguió trabajo gracias a mí, pero nunca me invitó un trago.\n- Deja de decir tonterías. Toma esto y vete a casa. No vayas a un bar. Derecho a casa.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0042",
+            "index": 42,
+            "KO": "- 야! 널 여기서 다 만나네, 어? 이년 눈깔 봐라, 성질은 여전하네, \n- 어? 하긴 네가 몇 대 맞는다고, 뭐 쫄 캐릭터는 아니지 오갈 데 없는 년 먹여 주고 재워 주고 기술까지 가르쳐 줬더니 내 뒤통수를 쳐?\n- 너한테 빚진 거보다 갖다 바친 게 더 많아\n- 그렇게 당당한 년이 왜 도망을 쳤을까?\n- 도망이 아니라 독립한 것뿐이야\n- 독립?\n- 하, 아이씨\n- 독립을 해? 네가 뭐, 유관순이냐? 그럼 나가서 태극기라도 흔들든가\n- 아, 맞다 너 북한 년이니까 인공기 흔들어야지, 응?\n",
+            "SP": "- ¡Oye! Cielos. No puedo creer que te haya encontrado aquí. Mira esos ojos. Tu carácter no ha cambiado.\n- Pero, claro, no eres de las que retroceden después de unos golpes. Te alimenté, te di un techo, hasta te enseñé mis habilidades, ¿y me traicionas?\n- Ya me quitaste más de lo que te debo.\n- Si eso es cierto, ¿por qué huiste?\n- No me escapé. Me independicé.\n- ¿Te independizaste? \n- Ja…\n- ¿Te independizaste? ¿Eres Yu Gwan-sun o qué? Sal a ondear una bandera.\n- Claro. Eres del norte, así que ondea la bandera de Corea del Norte.\n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0043",
+            "index": 43,
+            "KO": "- 선생님 제가요 애가 있거든요\n- 아직 이름도 못 지어서 출생 신고도 못 했는데요\n- 저 좀 내보내 주세요\n- 선생님 잘못했어요 제발, 제발 살려 주세요. \n- 돈은 어떻게든 갚을게요. 제발 살려 주세요\n- 저도요, 저도 그만하고 싶어요. 내보내 주세요\n- 제발 살려 주세요\n- 뭔가 오해가 있는 거 같습니다. 저희는 여러분을 해치거나 돈을 받아 내려는 게 아닙니다. ",
+            "SP": "- ¡Señor! Tengo un hijo.\n- No he registrado su nacimiento porque aún no le he puesto nombre. \n- Dejad que me vaya.\n- Lo siento mucho, señor. Por favor. Perdonadme la vida.\n- Yo también pagaré mis deudas. Perdonadme.\n- Y a mí.  Quiero parar aquí.\n- Perdonadme. Dejadme ir a casa.\n- ¡Perdonadme la vida!\n- Parece haber un malentendido. No queremos haceros daño ni cobrar vuestras deudas.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0044",
+            "index": 44,
+            "KO": "이렇게 여러분과 헤어지게 돼서 저희도 안타깝습니다. 하지만 저희는 여러분을 위한 기회의 문을 완전히 닫지 않겠습니다. 여러분의 다수가 게임의 재개를 원하시면 언제든 게임을 다시 시작하겠습니다. 그럼 안녕히 돌아가십시오.",
+            "SP": "- Es una pena que debamos despedirnos así. Sin embargo, no cerraremos del todo la puerta de esta oportunidad. Si la mayoría desea volver a participar, reiniciaremos el juego. Entonces, adiós.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0045",
+            "index": 45,
+            "KO": "- 너 빚 때문에 그래? 씨, 야. 쌍문동의 자랑 쌍문동이 낳고 기른 천재 서울대 경영학과 수석 입학 조상우가 뭐가 걱정이야? 다시 벌면 되지. 엄마한테 가서 다 말씀드리고 새로 시작해.\n- 다시 벌어? 60억을?\n- 60억? 아, 6억이라며?\n- 그놈들도 모르는 게 있어\n- 아니, 너 증권 회사 다닌다더니 주식을 한 거야?\n- 주식은 그렇게 크지 않고 선물을 했어\n- 선물? 선물로 그 돈을 써? 아, 누구 선물을 ;얼마나 비싼 걸 산 거야? 여자 생겼냐?\n- 그런 선물이 아니고 그런 게 있어.",
+            "SP": "- ¿Es por las deudas? Oye, eres el orgullo de Ssangmun-dong, el genio nacido y criado aquí. El mejor alumno de la Escuela de Negocios. No te preocupes. Conseguirás el dinero. Habla con tu madre y empieza de nuevo.\n- ¿Cómo voy a ganar…seis mil millones?\n- ¿Seis mil millones? Creía que eran 600.\n- Hay cosas que no saben.\n- ¿Invertiste en acciones trabajando en la firma de inversiones?\n- Las acciones no eran tantas Fue también en futuros.\n- ¿Futuros? ¿Tanto apostaste por tu futuro? ¿A qué se puede apostar tanto dinero? ¿Te echaste novia?\n- No es ese tipo de \"futuro\". No importa.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0046",
+            "index": 46,
+            "KO": "- 사장님, 밀린 월급 주세요\n- 아유, 야 내가 그거 몇 번 말하냐? 지금 돈이 없어. 너도 알다시피 회사 사정이, 인마.\n- 저 손가락 치료 잘 못 받았어요. 병원비 제대로 못 받았어요. 하, 나 이제 고향 갈 거예요. 제발요, 돈 주세요. \n- 야, 이씨 밖에 있는 애들한테 물어봐. 걔들은 월급 받았는가. 수금이 돼야 돈을 주지, 이 새끼야! 야, 나도 아픈 데가 한두 군데가 아니야. 근데 병원에를 못 가, 돈이 없어서\n- 사장님 돈 준다고 했잖아요!",
+            "SP": "- Señor, págueme el todo lo que me debe.\n- ¿Cuántas veces tengo que decírtelo? Ahora no puedo. El negocio no va bien… \n- Podrían haberme tratado el dedo. Pero no podía pagar el hospital. Me voy a casa. Deme mi dinero.\n- Joder. Pregunta a los demás si les he pagado. ¡No puedo pagar si no me pagan! A mí me duele todo el cuerpo y no voy al médico porque no tengo dinero.\n- Me dijo que me pagaría.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0047",
+            "index": 47,
+            "KO": "- 니 사정은 내가 아주 잘 알지만서두. 고조, 그게 맘먹고 튄 브로커들을 찾을 방법이 없디. 당한 사람이 너뿐이 아니야. 몇 사람은 고것덜 잡갔다고 단둥까지 직접 갔다가 오히려 공안한테 걸려서 북으로 다시 끌려갈 뻔했어.\n- 그럼 다른 방법은 없는 건가요?\n- 다시 다른 브로커를 고용해야디. 근데 그게 니도 알갔지만 또 새로 다시 시작해야 되니까니.\n- 얼만데요?\n- 일단 니네 부모 소재 파악부터 다시 해야 되고. 씁, 요새는 고 국경 경비가 살벌해져서 강 건너 주는 비용도 마이 올랐고…\n- 그래서 얼만데?\n- 최소한 4천 이상은 있어야…",
+            "SP": "- Entiendo muy bien tu situación. Pero, ya sabes, es imposible encontrar a unos agentes que huyen con dinero. No eres la única víctima. Algunas de las víctimas fueron hasta Dandong para atraparlos, pero la Policía china las interceptó y casi los devuelven al norte.\n- Entonces, ¿hay alguna otra manera? \n- Tendrás que contratar a otro agente. Pero, como sabes, tendrás que empezar de cero.\n- ¿Cuánto?\n- Primero, tendrán que volver a localizar a tus padres. Y han reforzado la seguridad en la frontera y el precio por ayudarlos a cruzar el río se ha disparado.\n- ¿Cuánto me costaría?\n- Por lo menos… unos 40 millones de wones.\n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0048",
+            "index": 48,
+            "KO": "- 혹시 조상우 씨 어머니 되십니까?\n- 예, 조상우 우리 아들 맞는데요.\n- 조상우 씨 지금 어디 있습니까?\n- 미국 출장 갔는데요. 왜 그러세요?\n- 어, 경찰입니다. 어, 조상우 씨께서 횡령과 사문서 위조, 특정 경제 범죄 가중 처벌법 위반 혐의로 체포 영장이 발부됐습니다.\n- 예? 누굴 체포해요? 아유, 형사님들 좀 뭔가 착오가 있는가 본데 저, 우리 아들은 뭘 잘못하고 그럴 애가 아니에요. \n- 아드님하고 연락되시면은 경찰서로 자진 출두 하라고 좀 전해 주십시오. 계속 도주하시면 나중에 재판에서도 불리해집니다.",
+            "SP": "- Es la madre del señor Cho Sang-woo?\n- Sí, Cho Sang-woo es mi hijo.\n- ¿Sabe dónde se encuentra?\n- Está de viaje en Estados Unidos. ¿Por qué lo buscan?\n- Somos policías.\n- Tenemos una orden de detención del señor Cho Sang-woo por malversación, falsificación de documentos y otros delitos económicos.<\n- ¿Cómo? ¿Detener a quién?\n- Ay, señor. Debe de haber un malentendido, inspectores. Mi hijo nunca haría nada ilegal.\n- Si habla con él, dígale que se presente voluntariamente.Si sigue huyendo así, tendrá consecuencias en el juicio.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0049",
+            "index": 49,
+            "KO": "- 이 돈 어디서 났어? 알리, 이 돈 어디서 났어?\n- 지금부터 내 말 잘 들어. 이거 가지고 최대한 빠른 비행기표를 사서 당신이랑 아이는 먼저 고향으로 돌아가.\n- 당신은?\n- 둘이 먼저 가 있어. 난 일 끝나는 대로 바로 갈게\n- 당신 무슨 일 있지? 그렇지?\n- 지금은 아무것도 묻지 마. 오늘 당장 짐을 싸서 여기서 나가 내 상황을 이해해 주길 바라. 사랑해, 당신도 아이도.",
+            "SP": "- ¿De dónde lo has sacado? Ali, ¿de dónde es este dinero?\n- Escucha bien. Compra billetes para el primer vuelo para ti y el niño.\n- ¿Y tú?\n- Vosotros iréis primero. Yo iré en cuanto termine mi trabajo.\n- Te ha pasado algo, ¿no?\n- No preguntes nada por ahora. Haz las maletas y vete de inmediato. Espero que lo entiendas. Os quiero mucho.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-ST-01-0050",
+            "index": 50,
+            "KO": "- 나… 다시 가기로 했어.\n- 어딜요? 거기를요?\n- 어차피 얼마 못 살 텐데 이렇게 죽을 날만 기다리다가 가고 싶지 않아. 혹시 알아? 거기서 내가 1등 할지. 그때 그 '무궁화꽃'도 자네보다 내가 먼저 들어왔어.\n- 아이, 그래도 거기는…\n- 밖에 나와 보니까 그 사람들 말이 다 맞더라고. 여기가 더 지옥이야.",
+            "SP": "- He… decidido volver allí.\n- ¿Adónde? ¿Al juego?<\n- Verás. No me queda mucho tiempo. No quiero… quedarme esperando a la muerte. Nunca se sabe. Podría acabar ganando. Cuando jugamos a luz roja, luz verde, llegué a la meta antes que tú.\n- Pero ese lugar es…\n- Después de salir, me di cuenta de que todo lo que decían era verdad. La vida aquí es una tortura aún peor.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0051",
+            "index": 51,
+            "KO": "- 다니엘, 오늘 네가 보게 될 것은 아무에게도 얘기해선 안 된다.\" 아버지가 주의를 주었다. \"네 친구 토마스에게도, 그 누구에게도 말이다.\"\n- \"엄마한테도요?\" 내가 나지막이 물었다. 아버지는 평생 당신을 그림자처럼 쫓아다닌 그 슬픈 미소 뒤로 숨으며 한숨을 쉬었다.\n- \"당연히 되고말고.\" 아버지는 시선을 떨어뜨리며 대답했다. \"우린 엄마하고는 비밀이 없잖니. 엄마한테는 뭐든지 말해도 된단다.\" ",
+            "SP": "—Daniel, lo que vas a ver hoy no se lo puedes contar a nadie —advirtió mi padre—. Ni a tu amigo Tomás. A nadie.\n—¿Ni siquiera a mamá? —inquirí yo, a media voz. Mi padre suspiró, amparado en aquella sonrisa triste que le perseguía\ncomo una sombra por la vida.\n—Claro que sí —respondió cabizbajo—. Con ella no tenemos secretos. A ella puedes contárselo todo. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0052",
+            "index": 52,
+            "KO": "우리가 현관문을 나셨을 때 거리는 안개와 야경꾼들 사이에서 아직 깨어나지 못하고 있었다. 마침내 도시가 기지개를 커며 수채화 같은 장막을 벗어던지자. 람블라스 거리의 가로등들이 연방 깜박이면서 안개 낀 가로를 비추었다. 아르코 델 테아트로가에 이르러 파란 바다 안개 같은 둥근 아치 지붕을 통과한 뒤 우리는 라발 지구를 향해 계속 걸었다.",
+            "SP": "Las calles aún languidecían entre neblinas y serenos cuando salimos al portal Las farolas de las Ramblas dibujaban una avenida de vapor, parpadeando al tiempo que la ciudad se desperezaba y se desprendía de su disfraz de acuarela. Al llegar a la calle Arco del Teatro nos aventuramos camino del Raval bajo la arcada que prometía una bóveda de bruma azul. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0053",
+            "index": 53,
+            "KO": "그날 오후 산타 아나 가의 집으로 돌아온 나는 내 방에 틀어박혀 새로운 친구의 첫 줄을 읽기로 마음먹었다. 미처 깨닫기도 전에 나는 어찌할 수 없이 그 책 속으로 빠져들었다. 그 소설은 친아버지를 찾아 나선 남자의 이야기였다. 친아버지를 한 번도 본 적 없는 그는 어머니가 임종하며 남긴 마지막 말 몇 마디로 아버지의 존재를 알게 되었던 것이다.",
+            "SP": "Aquella tarde, de vuelta en el piso de la calle Santa Ana, me refugié en mi habitación y decidí leer las primeras líneas de mi nuevo amigo. Antes de darme cuenta, me había caído dentro sin remedio. La novela relataba la historia de un hombre en busca de su verdadero padre, al que nunca había llegado a conocer y cuya existencia sólo descubría merced a las últimas palabras que pronunciaba su madre en su lecho de muerte. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0054",
+            "index": 54,
+            "KO": "여길 보면, 이 책은 1936년 6월에 바르셀로나의 카베스타니 에디토레스가 2,500부를 출판했을 때의 간행본이구나.\"\n\"그 출판사를 아세요?\"\n\"몇 년 전에 문을 닫았지. 그런데 초판은 이게 아니구나. 1935년 11월에 파리에서 간행되었어. 출판사는 '갈리아노 & 뇌발'이고. 못 들어본 곳인데.\"\n\"그럼, 그 책은 번역본인가요?\" 나는 헷갈려하며 물었다.\n\"그건 아니야. 여기 쓰여 있는 걸로는 이 텍스트가 원본이다.\"\n\"스페인어로 쓰인 책이 프랑스에서 처음 출판됐다고요?\"\n\"처음은 아닐 거다. 그 시절에는 말이다.\" 아버지가 덧붙였다.\n\"바르셀로가 뭘 좀 알지도 모르는데•••·•.\"",
+            "SP": "—Según esto, este ejemplar forma parte de una edición de dos mil quinientos ejemplares impresa en Barcelona, por Cabestany Editores, en diciembre de 1935.\n—¿Conoces esa editorial?\n—Cerró hace años. Pero la edición original no es ésta, sino otra de noviembre del mismo año, pero impresa en París... La editorial es Galliano & Neuval. No me suena.\n—Entonces, ¿el libro es una traducción? —pregunté, desconcertado.\n—No menciona que lo sea. Por lo que aquí se ve, el texto es original.\n—¿Un libro en castellano, editado primero en Francia?\n—No será la primera vez, con los tiempos que corren —adujo mi padre—.A lo mejor Barceló nos puede ayudar..",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0055",
+            "index": 55,
+            "KO": "\n\"얘야, 이 책 어디서 났니?\"\n\"비밀이에요.\" 내가 대답했다. 아버지는 속으로 미소 짓고 있으리라.\n바르셀로가 이맛살을 찌푸리며 아버지에게로 시선을 돌렸다.\n\"셈페레, 자네의 일이고 또 자네를 존경하는 내 마음과 우리를 형제처럼 묶어준 깊고 오랜 우정에 대한 경의도 있고 하니 이 책을 사십 두로*로 하고 얘기를 끝내세나.\"\n\"홍정은 내 아들과 해야 하네.\" 아버지가 말했다. \"책은 이 아이 거니까.\"\n바르셀로는 내게 늑대 같은 미소를 보냈다.\n\"얘야, 어떻게 하겠니? 첫 거래로 사십 두로는 나쁘지 않거든.... 셈페레. 자네 아들 이 사업에서 크게 성공하겠는걸.\"\n모임 참석자들이 그를 보고 웃었다. 바르셀로는 가족 지갑을 꺼내며 만족스럽게 나를 바라보았다. 그가 당시로는 대단한 액수였던 사십 두로를 세어 내게 내밀었다. 나는 말없이 고개를 저었다. 바르셀로가 눈살을 찌푸렸다.\n\"탐욕이란 죽을죄까지는 아니지만 아주 추악한 죄악이란다. 알지?\" 그가 말했다. \"좋다. 육십 두로면 은행에 보관해야 될 정 도로 큰돈이야. 네 나이엔 이제 장래를 생각해야만 하지.\" 나는 다시 고개를 저었다. 바르셀로는 외알 안경 너머로 아버지에게 약이 오른 시선을 던졌다.\n\"날 보진 말게나.\" 아버지가 말했다. \"난 그저 여기까지 동행 한 것뿐이라네.\" 바르셀로는 한숨을 쉬고 나를 찬찬히 살펴보았다.\n\"어디 보자. 얘야, 네가 원하는 게 뭐냐?\"\n\"홀리안 카락스가 누구고, 또 그가 쓴 다른 작품들을 어디 가면 찾을 수 있는지 알고 싶어요.\" 바르셀로는 살짝 웃고는 자기 상대를 다시 보고 지갑을 도로 넣었다.\n\"이야, 학자 났군. 셈페레, 자네 이 아이에게 뭘 먹이는 건가?\" 그가 농을 걸었다.\n바르셀로는 나를 향해 은밀하게 몸을 기울였는데 그 잠시 동안 나는 그의 시선에서 전에는 없었던 일종의 경의를 희미하게 본 듯했다.\n\"이렇게 하자.\" 그가 내게 말했다. \"내일, 일요일 오후에 아테 네오* 도서관으로 와서 날 찾아라. 다시 잘 조사해보게 네 책도 가져와. 그러면 홀리안 카락스에 대해  가 아는 걸 얘기해주마. 키드 프로 쿠오지.\"\n\"키드 프로 쿠오요?\"",
+            "SP": "—¿Dónde lo has encontrado, chavalín?\n—Es un secreto —repliqué, sabiendo que mi padre debía de estar sonriendo por dentro.\nBarceló frunció el ceño y desvió la mirada hacia mi padre.\n—Amigo Sempere, porque es usted y por todo el aprecio que le tengo y en honor a la larga y profunda amistad que nos une como a hermanos, dejémoslo en cuarenta duros y no se hable más.\n—Eso lo va a tener que discutir con mi hijo —adujo mi padre—. El libro es suyo.\nBarceló me ofreció una sonrisa lobuna.\n—¿Qué me dices, muchachete? Cuarenta duros no está mal para una primera venta... Sempere, este chico suyo hará carrera en este negocio.\nLos contertulios le rieron la gracia. Barceló me miró complacido, sacando su billetero de piel. Contó los cuarenta duros, que para aquel entonces eran toda una fortuna, y me los tendió. Yo me limité a negar en silencio. Barceló frunció el ceño.\n—Mira que la codicia es pecado mortal de necesidad, ¿eh? —adujo—. Venga, sesenta duros y te abres una cartilla de ahorro, que a tu edad ya hay\nque pensar en el futuro.\nNegué de nuevo. Barceló le lanzó una mirada airada a mi padre a través de su monóculo.\n—A mí no me mire —dijo mi padre—. Yo aquí sólo vengo de acompañarte.\nBarceló suspiró y me observó detenidamente. A ver, niño, pero ¿tú qué es lo que quieres?\n—Lo que quiero es saber quién es Julián Carax, y dónde puedo encontrar otros libros que haya escrito.\nBarceló rió por lo bajo y enfundó de nuevo su billetera, reconsiderando a su adversario.\n—Vaya, un académico. Sempere, pero ¿qué le da usted de comer a este crío? —bromeó.\nEl librero se inclinó hacia mí con tono confidencial y, por un instante, me pareció entrever en su mirada un cierto respeto que no había estado allí\nmomentos atrás.\n—Haremos un trato —me dijo—. Mañana domingo, por la tarde, te pasas por la biblioteca del Ateneo y preguntas por mí. Tú te traes tu libro para que lo pueda examinar bien, y yo te cuento lo que sé de Julián Carax. Quid pro quo.\n—¿Quid pro qué? ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0056",
+            "index": 56,
+            "KO": "\"다니엘이라고 했던가. 그렇지?\" 그가 물었다. \"책은 가져왔겠지?\"\n나는 두 번이나 고개를 끄덕이고서 바르셀로가 자신과 그 신비로운 동행자 옆에 권한 의자에 앉았다. 몇 분 동안 그는 내가 거기 있다는 데 개의치 않고 잔잔히 미소만 지었다. 이윽고 나는 그가 그 흰옷의 여인을 내게 소개해주리라는 희망을 버렸다. 바르셀로는 그녀가 그곳에 없다는 듯이, 그리고 우리 중 누구도 그녀를 볼 수 없다는 듯이 행동했다. 눈이 마주칠까 염려하며 곁눈질로 관찰한 그녀는 아득히 먼 곳만 바라보고 있었다. 그녀의 얼굴과 팔의 피부는 너무 창백해서 투명해 보이기까지 했다. 물에 젖은 돌처럼 반짝이는 검은 머리카락 아래 견고한 선으로 그린 듯 날카로운 용모였다. 기껏해야 스무 살 정도 됐을 것 같았지만, 버들가지처럼 영혼을 사로잡는 듯한 자태와 태도에 깃든 그 무언가 때문에 그녀에게는 나이가 없을지도 모른다는 생각이 들기도 했다. 그녀는 고급 상점 쇼윈도 안의 마네킹처럼 영원한 젊음에 붙잡혀 있는 듯했다. 바르셀로가 나를 주목하고 있음을 눈치챘을 때 나는 백조 같은 그녀의 목 아래 뛰는 맥박을 세려 하고 있었다.",
+            "SP": "—Daniel, ¿verdad? —preguntó el librero—. ¿Has traído el libro?\nAsentí por duplicado y acepté la silla que Barceló me brindaba junto a él y a su misteriosa acompañante. Durante varios minutos, el librero se limitó a sonreír plácida mente, ajeno a mi presencia. Al poco abandoné toda esperanza de que me presentase a quien fuera que fuese la dama de blanco. Barceló se comportaba como si ella no estuviese allí y ninguno de los dos pudiese verla. La observé de reojo, temeroso de encontrar su mirada, que seguía perdida en ninguna parte. Su rostro y sus brazos vestían una piel pálida, casi traslúcida. Tenía los rasgos afilados, dibujados a trazo firme bajo una cabellera negra que brillaba como piedra humedecida. Le calculé unos veinte años a lo sumo, pero algo en su porte y en el modo en que el alma parecía caerle a los pies, como las ramas de un sauce, me hizo pensar que no tenía edad. Parecía atrapada en ese estado de perpetua juventud reservado a los maniquíes en los escaparates de postín. Estaba intentando leerle el pulso bajo aquella garganta de cisne cuando advertí que Barceló me observaba fijamente. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0057",
+            "index": 57,
+            "KO": "붉은 집은 인형과 꼭두각시를 훔치기 위해 완구점과 박물관을 습격하는, 비밀에 싸인 한 인물의 고통스런 삶에 대한 이야기였다. 그는 그 인형과 꼭두각시들의 눈을 후벼파내 자기가 사는, 센 강변의 유령이 나올 법한 버려진 온실로 가져갔다. 어느 날 밤, 그 도둑은 산업혁명기에 석연찮은 술수를 부려 부자가 된 한 거물이 소장한 인형들을 훔치러 제네랄 포이 대로의 호화 저택에 침입했다가 대단히 박식하고 품위 있는 파리 상류사회 아가씨인 그 집 딸과 사랑에 빠지게 되었다. 우여곡절 많은 그 로맨스가 험난한 여러 사건들과 모호한 에피소드들로 채워지며 진행 될수록, 여주인공은 이름을 절대로 밝히지 않는 수수께끼 같은 주인공이 인형들의 눈을 멀게 한다는 비밀을 알게 된다. 친부와 그의 도자기 인형 수집에 대한 끔찍한 비밀까지 알게 된 그녀는 저 무수한 고딕소설의 비극적 결말에 빠질 수밖에 없었다.",
+            "SP": "La casa roja relataba la atormentada vida de un misterioso individuo que asaltaba jugueterías y museos para robar muñecos y títeres, a los que posteriormente arrancaba los ojos y llevaba a su vivienda, un fantasma invernadero abandonado a orillas del Sena. Al irrumpir una noche en una mansión suntuosa de la avenue Foix para diezmar la colección privada de muñecos de un magnate enriquecido a través de turbias artimañas durante la revolución industrial, su hija, una señorita de la buena sociedad parisina, muy leída y fina ella, se enamoraba del ladrón. A medida que avanzaba el tortuoso romance, plagado de incidencias escabrosas y episodios a media luz, la heroína desentrañaba el misterio que llevaba al enigmático protagonista, que nunca revelaba su nombre, a cegar a los muñecos, descubría un horrible secreto sobre su propio padre y su colección de figuras de porcelana y se hundía inevitablemente en un final de tragedia gótica sin cuento.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0058",
+            "index": 58,
+            "KO": "\"나중에 사자.\" 아버지가 속삭였다.\n거리로 나서자 아버지는 부드러운 목소리로 우리는 만년필을 살 만한 여유가 없다고 했다. 서점 운영으로는 생활을 하고 또 나를 좋은 학교에 보내는 것만으로도 빠듯했다. 위대한 빅토르 위고의 몽블랑 만년필은 기다려야 하리라. 나는 아무 말도 하지 않았지만 아버지는 내 얼굴에 깃든 낙담을 읽은 게 틀림없었다.\n\"이렇게 하자.\" 아버지가 제안했다. \"네가 글을 쓰기 시작할 나이가 되면 다시 와서 사자꾸나.\"\n\"그 전에 팔리면요?\"\n\"아무도 사가지 않을 거란다, 아빠를 믿어. 그리고 만일 팔린다면 페데리코 씨에게 부탁해서 하나 만들어달라고 하자. 아주 솜씨가 좋으신 분이니 말이야.\"",
+            "SP": "—Quizá otro día —musitó mi padre.\nUna vez en la calle, me dijo con voz mansa que no nos podíamos permitir su precio. La librería daba lo justo para mantenernos y enviarme a un buen colegio. La pluma Montblanc del augusto Víctor Hugo tendría que esperar. Yo no dije nada, pero mi padre debió de leer la decepción en mi rostro.\n—Haremos una cosa —propuso—. Cuando ya tengas edad de empezar a escribir, volvemos y la compramos.\n—¿Y si se la llevan antes?\n—Ésta no se la lleva nadie, créeme. Y si no, le pedimos a don Federico que nos haga una, que ese hombre tiene las manos de oro.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0059",
+            "index": 59,
+            "KO": "\"그래, 오늘 돈 구스타보씨하고는 어땠니?\"\n\"그분 조카를 알게 됐어요, 클라라라고.\"\n\"앞 못 보는 그애 말이냐? 사람들 말로는 무척 예쁘다더구나.\"\n\"모르겠어요. 자세히 안 봐서.\"\n\"그편이 더 낫지.\"\n\"그 사람들한테 제가 내일 학교 끝나고 집에 들러 그 불쌍한 조카한테 뭔가 읽어줄 수도 있다고 말했어요. 아주 외로워하더 라고요. 아빠가 허락해주시면요.\" \n아버지는 곁눈질로 나를 살폈다. 마치 자신이 너무 일찍 늙어 버린 건지 아니면 내가 너무 빨리 자란 건지 자문하는 듯이. 나는 화제를 바꾸기로 마음먹었고, 유일하게 찾아낸 이야깃거리는 다름아닌 내 마음을 파고든 것이었다.\n\"전쟁 때 몬주익 성으로 사람들이 잡혀가서 두 번 다시 못 돌아왔다는 게 사실이에요?\"\n아버지는 얼굴색 하나 변하지 않고 숟가락을 비우고는 나를 찬찬히 바라보았다. 짧은 미소가 입가에 스치고 지나갔다.\n\"누가 그런 말을 하더냐? 바르셀로냐?\"\n\"아뇨. 토마스 아길라르요. 걔가 학교에서 가끔씩 이야기를 해주거든요.\"\n아버지는 천천히 고개를 끄덕였다.\n\"다니엘, 전쟁 때는 설명하기 아주 어려운 일들이 벌어진단다. 아빠도 그것들의 진정한 의미를 모를 때가 많아. 그런 일들은 때론 그냥 내버려두는게 좋단다.\"\n아버지는 한숨을 내쉬고는 맛없이 수프를 들이마셨다. 나는 잠자코 아버지를 살폈다.\n\"죽기 전에 네 엄마는 나한테 전쟁에 대해서는 절대 네게 얘기 하지 않겠다고 약속하게 했단다. 무슨 일이 있었는지 네가 아무것도 기억하지 못하도록 말이야.\"\n나는 뭐라고 대답해야 할지 알 수 없었다. 아버지는 마치 허공에서 뭔가를 찾는 듯이 눈을 반쯤 감아버렸다. 그것이 시선을 둘 곳인지 아니면 침묵인지, 어쩌면 당신 말에 힘을 실어줄 엄마인지 나는 몰랐다.\n\"가끔씩 그 말을 듣는 게 아니었다는 생각이 든단다. 내가 실수했다고 말이야. 아빠도 잘 모르겠구나.\"\n\"괜찮아요, 아빠......\"\n\"아니, 괜찮지 않아, 다니엘. 전쟁 후엔 아무것도 괜찮지 않단다. 그리고 맞아, 그 성에 들어갔다가 나오지 못한 사람이 많은 건 분명하지.\"",
+            "SP": "—Entonces, ¿qué tal todo hoy con don Gustavo?\n—Conocí a su sobrina, Clara.\n—¿La ciega? Dicen que es una belleza.\n—No sé. Yo no me fijo.\n—Más te vale.\n—Les dije que a lo mejor me pasaba mañana por su casa, al salir del colegio, para leerle algo a la pobre, que está muy sola. Si tú me das permiso.\nMi padre me examinó de reojo, como si se preguntase si estaba él envejeciendo prematuramente o yo creciendo demasiado rápido. Decidí cambiar de tema, y el único que pude encontrar era el que me consumía las entrañas.\n—En la guerra, ¿es verdad que se llevaban a la gente al castillo de Montjuïc y no se les volvía a ver?\nMi padre apuró la cucharada de sopa sin inmutarse y me miró detenidamente, la sonrisa breve resbalándole de los labios.\n—¿Quién te ha dicho eso? ¿Barceló?\n—No. Tomás Aguilar, que a veces cuenta historias en el colegio.\nMi padre asintió lentamente\n—En tiempos de guerra ocurren cosas que son muy difíciles de explicar, Daniel. Muchas veces, ni yo sé lo que significan de verdad. A veces es mejor\ndejar las cosas como están.\nSuspiró y sorbió la sopa sin ganas. Yo le observaba, callado.\n—Antes de morir, tu madre me hizo prometer que nunca te hablaría de la guerra, que no dejaría que recordases nada de lo que sucedió.\nNo supe qué contestar. Mi padre entornó la mirada, como si buscase algo en el aire. Miradas o silencios, o quizá a mi madre para que corroborase sus palabras.\n—A veces pienso que me he equivocado al hacerle caso. No lo sé.\n—Es igual, papa...\n—No, no es igual, Daniel. Nada es igual después de una guerra. Y sí, es cierto que hubo mucha gente que entró en ese castillo y nunca salió.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0060",
+            "index": 60,
+            "KO": "\"너한테 실망했다. 다니엘.\" 아버지가 말했다.\"내가 널 그 비밀의 장소로 데려갔을 때 네가 고를 책은 특별한 거라고, 넌 책을 입양하고 그에 대해 책임을 져야 한다고 했잖니.\"\n\"아빠, 그때 전 열 살이었고, 그건 애들 장난 같은 거였죠.\" 아버지는 마치 내가 비수라도 꽂은 것처럼 나를 바라보았다.\n\"그리고 지금은 열네 살이고, 단순한 아이가 아니라 자기가 어른이라고 생각하는 아이지. 다니엘, 넌 살면서 어려운 일을 많이 겪을 거다. 그것도 아주 빨리.\"\n그 시절에는 내가 바르셀로가에서 많은 시간을 보내 아버지가 상처받은 거라고 믿고 싶었다. 바르셀로와 클라라는 아버지가 냄새조차 맡아보지 못한 호화로운 세계에 살고 있었다. 나는 구스타보 씨의 하녀가 나한테 엄마처럼 구는 걸 아버지가 못마 땅해한다고, 또 누군가가 그 역할을 하는 걸 내가 받아들이자 상처받은 거라고 생각했다. 이따금 책 꾸러미를 싸거나 발송을 준비하며 서점 안쪽 방에 있을 때면 손님이 아버지에게 하는 농담이 들려왔다.",
+            "SP": "—Me has decepcionado, Daniel —me dijo—. Cuando te llevé a aquel lugar secreto, te dije que el libro que escogieras era algo especial, que tú lo ibas a adoptar y que debías responsabilizarte de él.\n—Entonces tenía diez años, papá, y aquello era un juego de niños.\nMi padre me miró como si le hubiese apuñalado.\n—Y ahora tienes catorce, y no sólo sigues siendo un niño, eres un niño que se cree un hombre. Vas a llevarte muchos disgustos en la vida, Daniel. Y\nmuy pronto.\nEn aquellos días yo quería creer que a mi padre le dolía que pasase tanto tiempo con los Barceló. El librero y su sobrina vivían en un mundo de lujos que mi padre apenas podía olfatear. Pensaba que le molestaba que la criada de don Gustavo se comportase conmigo como si fuese mi madre y que le ofendía que yo aceptase que alguien pudiera desempeñar aquel papel. A veces, mientras yo andaba por la trastienda haciendo paquetes o preparando un envío, oía a algún cliente bromear con mi padre. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0061",
+            "index": 61,
+            "KO": "\"또또까 형!\"\n\"왜?\"\n\"철든다는 게 그렇게 대단한 거야?\"\n\"무슨 뚱딴지 같은 소리야?\"\n\"에드문두 아저씨가 그러는데, 난 조숙해서 곧 철이 들거래. 그런데 하나도 달라진 기분이 안 들거든.\"\n\"에드문두 아저씨는 바보야. 너한테 쓸데없는 말이나 하고.\"\n\"아저씨는 바보 아냐. 만물박사야. 나도 크면 만물박사도 되고 시인도 될 거야. 그래서 나비넥타이를 매고 다닐래. 나 비넥타이를 매고 사진도 찍을 거고.\"\n\"왜 하필 나비넥타이를 매냐?\"\n\"시인은 나비넥타이를 매야 돼. 에드문두 아저씨가 잡지에 난 시인들 사진을 보여 줬는데, 모두 나비넥타이를 매고 있었어.\"\n\"제제. 아저씨가 하는 말을 전부 믿지는 마. 아저씨는 약간 미친 데다가 거짓말쟁이야.\"\n\"그러면 아저씨가 갈보의 자식이야?\"\n\"야! 너 그런 말 하다가 입을 얻어맞았으면서도 계속 그런 말을 하냐? 에드문두 아저씨는 그건 아냐. 약간 미쳤다고만 했잖아. 정신병자 몰라?\"\n\"아저씨는 거짓말쟁이라면서?\"\n\"거짓말쟁이하고 그게 무슨 상관이야?\"\n\"상관 있어. 지난번에 아빠가 쎄베리노 아저씨랑 카드 놀이를 하시다가, 라본네 아저씨를 두고 '그 늙은 갈보자식은 순 거짓말쟁이라니까!'라고 했단 말이야. 그렇게 말해도 아빠 입을 때리는 사람은 아무도 없던데?\"",
+            "SP": "—Totoca.\n—¿Qué pasa?\n—¿La edad de la razón pesa?\n—¿Qué tontería es ésa?\n—Tío Edmundo lo dijo. Dijo que yo era \"precoz\" y que en seguida iba a entrar en la edad de la razón. Y no siento ninguna diferencia.\n—Tío Edmundo es un tonto. Vive metiéndote cosas en la cabeza.\n—El no es tonto. Es sabio. Y cuando yo crezca quiero ser sabio y poeta y usar corbata de moño. Un día voy a fotografiarme con corbata de moño.\n—¿Por qué con corbata de moño?\n—Porque nadie es poeta sin corbata de moño. Cuando tío Edmundo me muestra retratos de poetas en una revista, todos tienen corbata de moño.\n—Zezé, deja de creerle todo lo que te dice. Tío Edmundo es medio \"tocado\". Medio mentiroso.\n—¿Entonces él es un hijo de puta?\n—¡Mira que ya te ganaste bastantes palizas por decir malas palabras! Tío Edmundo no es eso. Yo dije \"tocado\", medio loco.\n—Pero dijiste que él era mentiroso.\n—Una cosa no tiene nada que ver con la otra.\n—Sí que tiene. El otro día papá conversaba con don Severino, ese que juega a las cartas con él y dijo eso de don Labonne: \"El hijo de puta del viejo miente como el diablo\". . . Y nadie le pegó.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0062",
+            "index": 62,
+            "KO": "\"너 몇 살이냐. 얘야?\n\"다섯 살이요. 아니 여섯 살이에요. 아니, 여섯 살이 아니라 다섯 살이에요.\"\n\"그러니까 다섯 살이냐, 여섯 살이냐?\"\n학교를 다닌다는 것을 생각하고 거짓말을 했다.\n\"여섯 살이에요.\n\"여섯 살이면 교리 문답을 배우기에 딱 알맞은 나이인데\"\n\"저도 배울 수 있어요?\"\n\"그럼, 왜 못해? 매주 목요일 오후 세 시에 오거라. 오겠니?\n\"봐서요. 아저씨께서 타다 남은 초를 주시면 올게요.\"\n\"그 초 도막으로 뭘 하게?\"\n악마가 또 나를 충동질했다. 그래서 거짓말을 하고 말았다.\n\"연줄에 칠하려고요. 그러면 줄이 단단해지거든요.\"\n\"그럼 가져가거라.\"\n나는 초 도막을 끌어 모아 책과 구슬이 들어 있는 가방에 집어 넣었다. 그렇게 신이 날 수가 없었다.\n\"고맙습니다. 자까리아스 아저씨.\"\n\"목요일이라는 걸 명심해라. 알았지?\" 나는 날 듯이 뛰어나왔다. 아직 시간은 여유가 있었다. 나는 카지노 앞으로 달려갔다. 사람의 왕래가 뜸한 틈을 타 거리를 가로질렀다. 그리고 잽싸게 있는 힘을 다해 길바닥에 초 칠을 한 다음 다시 돌아와 카지노의 닫힌 문 앞 길거리에 앉아 기다렸다. 멀찍이 떨어져 맨 처음 넘어지는 사람이 누구인지 보고 싶었다.",
+            "SP": "—¿Qué edad tienes, muchacho?\n—Cinco; no, seis años. Seis no, en realidad cinco.\n—¿En qué quedamos, cinco o seis? Pensé en la escuela y mentí.\n—Seis.\n—Pues con seis años ya estás en buena edad para comenzar el Catecismo.\n—¿Yo puedo?\n—¿Por qué no? Solamente tienes que venir todos los jueves a las tres de la tarde. ¿Quieres venir?\n—Depende. Si usted me da los cabitos de vela, vengo.\n—¿Y para qué los quieres? El diablo me había musitado una cosa. Nuevamente mentí.\n—Es para encerar el hilo de mi barrilete para que quede más fuerte.\n—Entonces llévalos.\nReuní los pedacitos y los metí en medio de la bolsa, junto con los cuadernos y las bolitas. Deliraba de alegría.\n—Muchas gracias, don Zacarías.\n—Escucha bien, ¿eh? El jueves.\nSalí volando. Como era temprano me daba tiempo para hacer aquello. Corrí hacia enfrente del Casino y, cuando no venía nadie, crucé la calle y pasé lo más rápidamente posible los pedacitos de cera por la calzada. Después volví corriendo y me quedé esperando, sentado en el umbral de una de las cuatro puertas cerradas del Casino. Quería ver de lejos quién iba a resbalar primero.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0063",
+            "index": 63,
+            "KO": "거리에 나오기가 무섭게 또또까 형은 천천히 걷는 나를 내버리고 달아나 버렸다. 보통은 악마가 먼저 나를 충돌질하고 그러면 내가 야단을 쳤다. 나는 그런 편이 더 좋았다. 하지만 이번에는 내가 먼저 마음속에서 잠자고 있는 장난꾸러기 악마를 깨웠다. 히우-쌍빠울루 고속도로가 나를 유혹했다. 바로 '박쥐' 때문이었다. 그것은 영락없는 '박쥐'였다. 달리는 자동차 뒤꽁무니에 매달려 시원한 바람을 맞을 수 있는 박쥐였다. 세상에서 가장 신나는 일이었다. 아이들이면 누구나 해보고 싶은 장난이었다. 내게 그 장난을 가르쳐 준 것은 또포가 형이었다. 형은 뒤에 오는 차에 치일지도 모르니 있는 힘을 다해 꽉 잡아야 한다고 천 번도 넘게 주의를 주었다. 시간이 지남에 따라 두려움은 줄어들고 모험심은 커져서 점점 더 어려운 박쥐에 매달리고 싶어졌다. 난 이 모험에 홀딱 빠 저 라디스라우 씨의 차에까지 매달려 보았다. 아직 매달려 보지 못한 차는 미끈한 포르투갈 사람의 차뿐이었다. 멋지게 손질된 차가 나의 도전을 기다리고 있었다. 네 바퀴는 늘 새 것 같았고 금속 부품들은 반짝반짝 윤이 나 얼굴이 비칠 정도였다. 경적 소리도 아주 재미있었다. 마치 들판에 있는 소의 목쉰 울음소리 같았다. 하지만 그렇게 멋진 차의 주인은 세상에서 가장 흉하게 얼굴을 찌푸리고 다니는 사람이었다.\n그래서 아무도 그의 차에 매달릴 엄두를 못 내고 있었다. 들리는 말에 따르면 그는 사람들을 때려 죽이고, 죽이기 전에는 거세하겠다는 위협을 한다고 했다. 우리 학교 아이들 중에 그 차를 넘보는 애는 아무도 없었다. 아니, 지금까지는 아무도 없었다고 말하는 것이 좋겠다.\n내가 이 이야기를 하자 밍기뉴가 말했다.\n\"제제, 정말 아무도 못해 봤니?\"\n\"정말 아무도 못했어. 아무도 그럴 용기를 못 내.\"\n나는 밍기뉴가 내 계획을 눈치채고 웃고 있는 걸 보았다.",
+            "SP": "Apenas alcanzábamos la calle, Totoca comenzaba a correr, dejándome caminar sólito, lentamente. Y entonces empezaba a despertarse mi diablo artero. Me gustaba que mi hermano se adelantara para poder reinar a gusto. Me fascinaba la carretera Río-San Pablo. \"Murciélago.\" Sin duda, el \"murciélago\". Treparme a la parte trasera de los automóviles y sentir el camino desapareciendo a tal velocidad que el viento me castigaba, corriendo y silbando. Aquello era lo mejor del mundo. Todos nosotros lo hacíamos; Totoca me había enseñado, con mil recomendaciones, que me asegurara bien, porque los otros coches que venían atrás eran un peligro. Poco a poco aprendía a perder el miedo, y el sentido de la aventura me instigaba a buscar los \"murciélagos\" más difíciles. Yo era tan experto que hasta había aprovechado ya el coche de don Ladislau; solamente me faltaba el hermoso automóvil del Portugués. ¡Coche lindo, bien cuidado, era aquél! Los neumáticos siempre nuevos. Y todo de metal tan reluciente que uno se podía reflejar en él. La bocina daba gusto: era un mugido ronco, como si fuese el de una vaca en el campo. Y él pasaba estirado, dueño de toda esa belleza, con la cara más severa del mundo. Nadie se atrevía a trepar sobre su rueda trasera. Decían que pegaba, mataba y amenazaba capar al intruso antes de matarlo. Ningún chico de la escuela se atrevía, o se había atrevido hasta ahora. Cuando estaba conversando sobre eso con Minguito, me preguntó.\n—¿Nadie, de veras, Zezé?\n—Seguro, nadie. Ninguno tiene coraje. \nSentí que Minguito se estaba riendo, casi adivinando lo que yo pensaba en ese momento.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0064",
+            "index": 64,
+            "KO": "\"제제 나 좀 도와줘\"\n\"무슨 일인데?\"\n'너. 비에 알지?\"\n\"까빠네마의 '황소 말이야?\"\n\"그래, 그 녀석. 녀석이 학교 끝나면 날 패려고 벼르고 있어. 내 대신 네가 싸워 주지 않을래?\"\n\"하지만 날 죽여 놓을 텐데.\"\n\"그렇지 않아, 넌 싸움도 잘하고 용감하잖아.\"\n\"좋아. 학교 끝나고?\"\n\"응, 끝나고.\"",
+            "SP": "—Zezé, necesito que me ayudes,\n—¿Que hiciste?\n—¿Te acuerdas de Bié?\n—¿Aquel buey de la calle Barón de Capaiema?\n—Ese mismo. Me va a agarrar a la salida. ¿No quieres pelearte con él, en mi lugar?...\n—¡Pero me va a matar!\n—¡Que va a matarte! Además, eres peleador y valiente.\n—Está bien. ¿A la salida?\n—Sí, a la salida.\n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0065",
+            "index": 65,
+            "KO": "\"아저씨, 우리 엄마 한 번도 못 봤죠? 우리 엄마는 인디언 이에요. 진짜 인디언의 딸이에요. 그래서 우리 식구들은 모두 반쯤은 인디언이에요.\"\n\"그런데 너는 어떻게 그렇게 피부가 하얗지? 머리는 흰색 에 가까운 금발이고 말이야.\"\n\"포르투갈 인의 피가 섞여서 그렇대요. 그래도 엄마는 진짜 인디언이에요. 엄마는 거무스름한 피부에 새까만 생머리를 하고 있어요. 글로리아 누나랑 나만 이런 억센 털 러시아고양이처럼 태어났어요. 엄마는 집세를 벌려고 영국 사람이 하는 방직 공장에 나가요. 저번엔 실타래 상자를 나르다가 허리를 다쳐서 굉장히 아파했어요. 의사한테까지 갈 정도였으니까. 디스크에 걸릴지도 모른다고 의사가 허리에 압박 붕대를 감아 줬어요. 엄마는 저한테 참 잘해 줘요. 때리실 때에도 뒤뜰에 있는 가느다란 접시꽃 나뭇가지로 종아리만 때려요. 엄마는 밤에 집에 돌아오면 너무 피곤해서 얘기할 기운도 없으세요.\"\n그가 차를 몰고 있는 동안 나는 쉴새 없이 재잘거렸다.\n\"가장 지독한 건 큰누나예요. 만날 남자친구 때문에 정신이 없어요. 엄마는 누나보고 우리를 데리고 바람이나 쐬고 오라고 할 때마다 윗길로는 가지 말라고 해요. 엄마도 윗길 모퉁이에서 남자친구가 기다리고 있다는 걸 알거든요. 그런데 아랫길로 가도 거기에 다른 남자친구가 기다리고 있어요. 하도 연애 편지를 많이 써가지고 남아나는 연필이 없다니까요.\"\n\"다 왔다.\"\n시장 근처에 이르자 그는 약속한 장소에 차를 세웠다.\n\"내일 보자. 꼬마야\"",
+            "SP": "—¿Usted nunca vio a mi madre? Es india. Hija de indio. Todos allá en casa son medio indios.\n—¿Y cómo saliste tan blanquito? Y además con cabellos rubios, casi blancos.\n—Es la parte del portugués. Mamá es india, bien morena y de cabellos lisos; solamente Gloria y yo salimos así, como gato barcino de mal pelo. Ella trabaja en los telares del Molino Inglés para ayudar a pagar la casa. El otro día fue a levantar una caja y sintió un dolor horrible. Tuvo que ir al médico; le dio una faja porque tenía una hernia que se estranguló. Mamá es buena conmigo. Cuando me pega, agarra varillas de \"guanxuma\"16 del fondo y me pega en las piernas solamente. Vive tan cansada que cuando llega a casa de noche no tiene ganas ni de conversar.\nEl automóvil marchaba y yo conversaba.\n—La que es brava es mi hermana mayor. Enamoradiza hasta no poder más. Cuando mamá la mandaba que me cuidara y paseara, le recomendaba que no fuera más allá de nuestra calle, porque sabía que en la esquina tenía un festejante esperando. Pero ella iba para ese lado que le decían, y allá tenía otro festejante que también la esperaba. Lápices ni había, porque vivía escribiendo cartas para su festejante...\n—Llegamos...\nEstábamos cerca del Mercado y paraba en el lugar establecido.\n—Hasta mañana, muchachito.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0066",
+            "index": 66,
+            "KO": "나와 그는 기회 있을 때마다 드라이브를 했다. 어느 날인가 그는 차를 세우더니 내게 미소를 지어 보이며 물었다.\n\"우리 차를 타고 드라이브하는 게 그렇게 좋으니?\"\n\"이게 우리 차라고요?\n\"내 것은 모두 다 네 거야. 우린 가장 친한 친구잖아.\" 나는 뛸 듯이 기뻤다. 아, 이렇게 멋진 차의 절반이 내 것 이라는 것을 모두에게 얘기할 수 있다면 얼마나 좋을까.\n\"이제 우리는 정말 친한 친구 사이가 된 거지?\"\n\"맞아요.\"\n\"그러면 뭐 하나만 물어 보자.\"\n\"뭔데요?\"\n\"아직도 이 다음에 커서 날 죽일 생각이니?\"\n\"아니요. 절대 안 그럴 거예요.\"",
+            "SP": "Siempre que podía él inventaba un paseo, y fue en uno de ellos cuando detuvo el coche y me sonrió:\n—¿Te gusta pasear en \"nuestro\" coche?\n—¿También es mío?\n—Todo lo que es mío es tuyo. Como dos grandes amigos.\nQuedé enloquecido. ¡Ay, si yo pudiera contar a todo el mundo que era medio dueño del coche más hermoso del mundo!\n—¿Quiere decir que ahora somos completamente amigos?\n—Sí, lo somos. ¿Te puedo preguntar una cosa?\n—Claro que sí, señor.\n—Pienso que ahora ya no querrás crecer para matarme, ¿verdad?\n—No, nunca haría eso.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0067",
+            "index": 67,
+            "KO": "우리는 아름다운 길을 따라 달렸다. 포장도 안된 좁은 길 이었지만 길가의 나무와 풀밭은 아름다웠다. 밝은 태양과 맑게 갠 푸른 하늘은 말할 것도 없었다. 진지냐 할머니가 언젠가 기쁨은 \"마음속에 빛나는 태양\"이라고 말한 적이 있다. 그리고 그 태양이 모든 것을 행복으로 비춰 준다고 했다. 그게 사실이라면 내 마음속의 태양이 모든 것을 아름답게 비춰주고 있는지도 몰랐다.\n차가 아주 천천히 달리는 동안 우리는 많은 이야기를 나누었다. 자동차마저도 우리 이야기를 귀담아 들으려는 것 같았다.\n\"너는 나하고 있을 땐 비단같이 부드럽고 착해, 네 선생님하고 있을 때도. 네 선생님 성함이 뭐라고 했지?\"\n\"쎄실리아 빠임이요. 선생님 한쪽 눈에 점이 나 있는 건 알지요?\" 그는 웃었다.\n\"그러니까. 쎄실리아 빠임 선생님은 네가 학교 밖에서 못된 짓을 저지르고 다닌다는 것을 믿지 않는다고 그랬지. 네 동생이나 글로리아랑 있을 때도 넌 아주 착해. 그런데 어떻게 사람이 그렇게 변하지?\"",
+            "SP": "Habíamos viajado por lindos caminos. La carretera no era ancha ni asfaltada, ni empedrada; pero, en compensación, los árboles y los pastos eran una belleza. Y eso para no hablar del sol y del cielo alegre, tan azul. Una vez Dindinha había dicho que la alegría es \"un sol brillante dentro del corazón\". Porque el sol lo iluminaba todo de felicidad. Si eso era verdad, dentro de mi pecho un sol lo embellecía todo...\nVolvimos a conversar sobre ciertas cosas, mientras el coche se deslizaba sin ningún apuro. Hasta parecía que él también quería escuchar la conversación.\n—Es cierto, cuando estás conmigo eres una seda y muy buenito. Dices que tu maestra... ¿cómo se llama?...\n—Doña Cecilia Paim. ¿Sabes que ella tiene una manchita blanca en uno de los ojos?\nSe rió.\n—Pues doña Cecilia Paim, según me dijiste, no creería en nada de lo que haces fuera de las clases. Con tu hermanito y con Gloria eres bueno. Entonces, ¿por que cambias así?",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0068",
+            "index": 68,
+            "KO": "저를 놓아주세요, 샘물님 \n꽃이 울며 말했습니다 \n나는 산마을에서 태어났어요 \n나를 바다로 데려가지 마세요 \n그곳에선 하늘하늘 가지를 흔들었지요 \n그곳에선 푸른 하늘에서 \n청초한 이슬 방울이 떨어졌지요 \n차갑고 명랑한 샘물은 \n소곤소곤 속삭이듯 \n모래밭을 달리며 \n꽃들을 실어 갑니다",
+            "SP": "Déjame, fuente, decía\nLa flor al llorar.\nYo he nacido en el monte,\nNo me lleves hacia el mar.\nAy, balanceo de mis ramas,\nBalanceo de las ramas mías,\nAy, gotas de rocío claras,\nCaídas del cielo azul. . .\nY la fuente sonora y fría,\nCon un susurro burlón,\nPor sobre la arena corría,\nCorría llevando a la flor. . .",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0069",
+            "index": 69,
+            "KO": "사공이여, 사공이여\n야속한 뱃사공이여\n당신 때문에 나는\n죽을 것만 같다오\n\n파도가 밀려와\n백사장을 뒹굴다 밀려가면\n내 사랑 뱃사공도\n저 멀리 떠나간다네\n\n뱃사공의 사랑은\n한 시간도 못 가고\n배가 닻을 울리면\n뱃사공도 떠나간다네\n\n파도가 밀려와......",
+            "SP": "Marinero, marinero,\nMarinero de amargura,\nPor tu causa, marinero,\nBajaré a la sepultura. . .\nLas olas golpeaban\nY en la arena se deslizaban,\nAllá se fue el marinero\nQue yo tanto amaba. . .\nEl amor de marinero\nEs amor de media hora,\nEl navío leva anclas\nY él se va en esa hora. . .\nLas olas golpeaban. . .",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0070",
+            "index": 70,
+            "KO": "사랑하는 마누엘 발라다리스 씨, 오랜 세월이 흘렀습니다.\n저는 마흔여덟 살이 되었습니다. 때로는 그리움 속에서 어린 시절이 계속되는 듯한 착각에 빠지곤 합니다. 언제라도 당신이 나타나셔서 제게 그림 딱지와 구슬을 주실 것만 같은 기분이 듭니다. 나의 사랑하는 뽀르뚜가, 제게 사랑을 가르쳐 주신 분은 바로 당신이었습니다. 지금은 제가 구슬과 그림 딱지를 나누어 주고 있습니다. 사랑 없는 삶이 무의미하다는 것을 알기 때문입니다. 때로는 제 안의 사랑에 만족하기도 하지만 누구나와 마찬가지로 절망할 때가 더 많습니다.\n\n그 시절, 우리들만의 그 시절에는 미처 몰랐습니다. 먼 옛날 한 바보 왕자가 제단 앞에 엎드려 눈물을 글썽이며 이렇게 물었다는 것을 말입니다.\n\n왜 아이들은 철이 들어야만 하나요?\"\n\n사랑하는 뽀르뚜가, 저는 너무 일찍 철이 들었던 것 같습니다. 영원히 안녕히!\n\n우루투바에서 1967.",
+            "SP": "Los años pasaron, mi querido Manuel Valadares. Hoy tengo cuarenta y ocho años y, a veces, en mi nostalgia, siento la impresión de que continúo siendo una criatura. Que en cualquier momento vas a aparecer trayéndome fotos de artistas de cine o más bolitas. Tú fuiste quien me enseñó la ternura de la vida, mi Portuga querido. Hoy soy yo el que tiene que distribuir las bolitas y las figuritas, porque la vida sin ternura no vale gran cosa. A veces soy feliz en mi ternura, a veces me engaño, lo que es más común. \n\nEn aquel tiempo... En el tiempo de nuestro tiempo, no sabía que muchos años antes un Príncipe Idiota, arrodillado frente a un altar, preguntaba a los iconos, con los ojos llenos de lágrimas:\n\n¿POR QUE LES CUENTAN COSAS A LAS CRIATURITAS?\"\n\nY la verdad es, mi querido Portuga, que a mí me contaron las cosas demasiado pronto. ¡Adiós!\nUbatuba, 1967",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0071",
+            "index": 71,
+            "KO": "•미디어 파일 재생, 스피커폰 통화 등 스피커를 사용하는 경우에는 제품을 귀에 가까이 대지 마세요.\n• 직사광선 등 강한 광원에 카메라 렌즈가 노출되지 않도록 주의하세요. 직사광선과 같은 강한 광원에 카메라 렌즈가 노출되면 카메라 이미지 센서가 손상될 수 있습니다. 손상된 이미지 센서는 회복되지 않으며 그로 인해 촬영 시 점이나 얼룩이 생길 수 있습니다.\n• 제품의 유리 또는 아크릴이 깨지거나 파손된 상태로 사용할 경우 다칠 위험이 있으니 반드시 삼성전자 서비스 센터에서 수리 후 사용하세요.\n• 마이크, 스피커 또는 수화부에 먼지나 이물질이 들어가거나 해당 부분이 가려지면 제품의 소리가 작아지거나 특정 기능이 정상적으로 동작하지 않을 수 있습니다. 이때, 뾰족한 물체 등으로 먼지나 이물질을 무리해서 제거하는 경우 제품이 손상될 수 있으니 주의하세요.",
+            "SP": "• No se acerque el dispositivo a los oídos cuando utilice los altavoces, por ejemplo, para reproducir archivos multimedia o hablar por teléfono.\n• Tenga cuidado de no exponer la lente de la cámara a una fuente de luz potente, como la luz solar directa. Si esto sucede, el sensor de imágenes de la cámara puede estropearse y no se podrá reparar. Además, provocará la aparición de puntos o manchas en las fotos.\n• Si utiliza el dispositivo con el cristal o el cuerpo acrílico roto, podría sufrir lesiones físicas. Utilice el dispositivo solo después de que haya sido reparado en un Servicio de Atención Técnica (SAT) de Samsung o un centro de atención técnica autorizado.\n• Si entran polvo o suciedad en el micrófono, el altavoz o el receptor, o estas partes se cubren, el sonido del dispositivo puede atenuarse y algunas funciones podrían dejar de estar disponibles. Si intenta extraerlos con un objeto afilado, el dispositivo podría estropearse y verse deteriorado.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0072",
+            "index": 72,
+            "KO": "제품에는 무선 충전 코일이 내장되어 있어 무선 충전기(별매품)를 이용해 제품을 충전할 수 있습니다. 제품 뒷면의 중앙이 무선 충전기의 중앙에 맞닿게 올려 충전하세요. 충전이 끝나면 무선 충전기와 제품을 분리하세요. 남은 예상 충전 시간이 알림창에 나타납니다. 남은 예상 충전 시간은 제품을 사용하지 않았을 때를 기준으로 한 것이며, 충전 환경에 따라 실제와 다를 수 있습니다. 액세서리나 커버의 종류에 따라 무선 충전이 원활히 작동하지 않을 수 있으니, 안정적인 무선 충전을 위해 액세서리와 커버를 분리한 후 사용하는 것을 권장합니다.",
+            "SP": "El dispositivo dispone de una bobina de carga inalámbrica incorporada. Puede cargar la batería utilizando un cargador inalámbrico (se vende por separado). Coloque el centro de la parte posterior del dispositivo sobre el centro del cargador inalámbrico para comenzar la carga. Cuando la batería esté totalmente cargada, desconecte el dispositivo del cargador inalámbrico. El tiempo de carga estimado aparecerá en el panel de notificaciones. El tiempo de carga real se estima suponiendo que el dispositivo no está en uso, por lo que puede variar en función de las condiciones de carga. Puede que la carga inalámbrica no funcione con fluidez con algunos tipos de accesorios o fundas. Para que la carga inalámbrica sea estable, se recomienda retirarlos del dispositivo. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0073",
+            "index": 73,
+            "KO": "1 트레이 분리 핀으로 트레이의 홈을 누르세요.\n2 트레이를 당겨 완전히 빼내세요.\n3 Nano-SIM 카드의 금속 단자 부분을 위로 향하게 해 트레이에 놓은 후 Nano-SIM 카드를 살짝 눌러 끼우세요.\n4 트레이를 트레이 삽입구에 넣으세요.",
+            "SP": "1 Para extraer la bandeja, inserte la anilla de extracción en el orificio de la bandeja.\n2 Extraiga con cuidado la bandeja de su ranura.\n3 Coloque la tarjeta SIM o USIM en la bandeja con los contactos de color dorado hacia arriba y presiónela con cuidado para colocarla correctamente.\n4 Inserte de nuevo la bandeja en su ranura.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0074",
+            "index": 74,
+            "KO": "삼성 계정은 하나의 계정으로 모바일 기기, TV, 삼성 웹 사이트 등에서 다양한 삼성 서비스를 이용할 수 있는 통합 계정 서비스입니다.\n삼성 계정으로 이용할 수 있는 서비스 목록은 삼성 계정 웹 사이트(account.samsung.com)에서 확인하세요.\n\n1 설정을 열고 삼성 계정을 누르세요.\n또는 설정을 열고 계정 및 백업 → 계정 관리 → 계정 추가 → 삼성 계정을 선택하세요.\n\n2 삼성 계정으로 로그인하세요. 삼성 계정이 없는 경우 비밀번호를 잊어버렸거나 계정이 없나요? → 계정 만들기를 누르세요.",
+            "SP": "Con su Samsung account, dispone de diversos servicios de Samsung mediante dispositivos móviles, televisores y el sitio web de Samsung.\nPara consultar la lista de servicios que puede utilizar con su Samsung account, visite account.samsung.com.\n\n1 Abra Ajustes y pulse Samsung account.\nTambién puede abrir Ajustes y pulsar Cuentas y copia de seguridad → Administrar cuentas → Añadir cuenta → Samsung account.\n\n2 Inicie sesión en su Samsung account. Si no tiene una Samsung account, pulse ¿Has olvidado la contraseña o no tienes una cuenta? → Crear cuenta.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0075",
+            "index": 75,
+            "KO": "화면 잠금 방식을 변경하려면 설정을 열고 잠금화면 → 화면 잠금 방식을 선택한 후 원하는 방식을 선택하세요. \n\n패턴, PIN, 비밀번호, 생체 정보와 같은 화면 잠금 방식을 선택한 경우 다른 사람이 쉽게 접근하지 못하도록 하여 제품에 저장된 개인 정보를 보호할 수 있습니다. 화면 잠금을 설정하면 제품의 화면을 켤 때마다 설정한 잠금 방식으로 잠금을 해제해야 합니다.\n\n설정한 잠금 해제 방법을 여러 번 잘못 입력해 입력 가능한 횟수를 초과한 경우 제품이 전체 초기화되도록 설정할 수 있습니다. 설정을 열고 잠금화면 → 보안 잠금 상세설정을 선택해 설정한 방식으로 잠금을 해제한 후 자동 전체 초기화의 스위치를 눌러 기능을 켜세요.",
+            "SP": "Para cambiar el método de bloqueo de pantalla, abra Ajustes, pulse Pantalla Bloqueo → Tipo de bloqueo de pantalla y, a continuación, seleccione un método.\n\nSi configura un patrón, un PIN, una contraseña o sus datos biométricos como método de bloqueo de pantalla, podrá proteger su información personal evitando que otras personas accedan a su dispositivo. Cuando establezca el método de bloqueo de pantalla, el dispositivo necesitará un código para desbloquearse.\n\nPuede configurar el dispositivo para que restablezca los datos de fábrica si introduce el código de desbloqueo de forma incorrecta varias veces seguidas y supera el número máximo de intentos. Abra Ajustes, pulse Pantalla Bloqueo → Ajustes del bloqueo seguridad, desbloquee la pantalla con el método de bloqueo de pantalla preestablecido y, a continuación, pulse el interruptor Autorrestablecer valores para activarlo.\n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0076",
+            "index": 76,
+            "KO": "특정 전화번호를 차단 목록에 추가해 전화 수신을 차단할 수 있습니다.\n전화 앱을 실행해 → 설정 → 수신 차단/해제를 선택한 후 차단 번호 목록에 저장할 연락처나 전화번호를 선택하세요.\n차단한 번호로 전화가 걸려 온 경우 알림을 받을 수 없지만, 해당 내역을 최근 통화 목록에서 확인할 수 있습니다. \n발신 번호 표시를 제한한 번호로 걸려 온 전화를 차단할 수 있습니다. 발신번호 표시제한 번호의 전화 차단의 스위치를 눌러 기능을 켜세요.",
+            "SP": "Bloquee llamadas de números específicos incluidos en su lista de bloqueados.\nAbra la aplicación Teléfono, pulse → Ajustes → Bloquear números y, a continuación, seleccione los contactos o números de teléfono que desee guardar en la lista de números bloqueados.\nCuando los números bloqueados intenten ponerse en contacto con usted, no recibirá notificaciones. Las llamadas aparecerán en el registro de llamadas.\nTambién puede bloquear llamadas entrantes de personas que no muestren su ID de interlocutor. Pulse el interruptor Bloquear números desconocidos para activar la función.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0077",
+            "index": 77,
+            "KO": "계정에 저장된 연락처 동기화하기\n삼성 계정 등에 저장된 연락처와 제품에 저장된 연락처를 동기화할 수 있습니다.\n1 설정을 열고 계정 및 백업 → 계정 관리를 선택한 후 원하는 계정을 선택하세요.\n2 계정 동기화를 선택한 후 연락처의 스위치를 눌러 기능을 켜세요.",
+            "SP": "Sincronizar contactos con sus cuentas web\nSincronice los contactos de su dispositivo con contactos en línea guardados en sus cuentas web, como su\nSamsung account.\n1 Abra Ajustes, pulse Cuentas y copia de seguridad → Administrar cuentas y seleccione la cuenta con la\nque desea sincronizar.\n2 Pulse Sincronizar cuenta y deslice el interruptor Contactos para activarlo.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0078",
+            "index": 78,
+            "KO": "목소리로 빅스비 호출하기\n\"하이 빅스비\" 또는 \"빅스비\"라고 말해 빅스비와 대화를 바로 시작할 수 있습니다. 빅스비가 내 목소리에 응답할 수 있도록 목소리를 등록해 보세요.\n1 빅스비 앱을 실행해 → 빅스비 호출을 선택하세요.\n2 스위치를 눌러 기능을 켜세요.\n3 호출어 설정 아래에서 원하는 호출어를 선택하세요.\n4 내 목소리에 응답하기의 스위치를 눌러 기능을 켜세요.\n5 화면의 안내에 따라 설정을 완료하세요.\n이제 호출어를 부른 후 빅스비와 대화를 시작할 수 있습니다.",
+            "SP": "Activar Bixby con la voz\nPuede iniciar una conversación con Bixby diciendo “Hi, Bixby” o “Bixby”. Registre su voz para que Bixby responda.\n1 Abra la aplicación Bixby y pulse → Activación por voz.\n2 Deslice el interruptor para activarlo.\n3 Seleccione la frase de activación que desee en Frase de activación.\n4 Para activar esta función, pulse el interruptor Responder a mi voz.\n5 Siga las instrucciones que aparecen en la pantalla para completar la configuración.\nAhora puede decir la frase de activación e iniciar una conversación.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0079",
+            "index": 79,
+            "KO": "Galaxy Wearable은 웨어러블 기기를 관리할 수 있게 해 주는 앱입니다. 제품과 웨어러블 기기를 연결한 경우, 웨어러블 기기의 사용 환경 및 앱을 원하는 상태로 설정할 수 있습니다.\nGalaxy Wearable 앱을 실행하세요.\n제품과 웨어러블 기기를 연결하려면 계속을 누른 후 화면의 안내에 따라 설정을 완료하세요. 연결 및 사용 방법에 대한 자세한 내용은 해당 웨어러블 기기의 사용 설명서를 참고하세요.",
+            "SP": "Gestione sus wearables con la aplicación Galaxy Wearable. Cuando conecte su teléfono al wearable, podrá personalizar la configuración y las aplicaciones de este.\nPara ello, abra la aplicación Galaxy Wearable.\nPulse Continuar para conectar su teléfono al wearable. Siga las instrucciones que aparecen en la pantalla para completar la configuración. Consulte el manual de usuario del wearable para obtener más información sobre cómo conectarlo y utilizarlo con su dispositivo.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0080",
+            "index": 80,
+            "KO": "갤럭시 버즈로 음악 같이 듣기\n내 휴대전화의 음악을 내 버즈와 친구의 버즈에서 같이 들을 수 있습니다.\n해당 기능은 갤럭시 버즈 시리즈에서만 지원합니다.\n1 각자의 휴대전화와 버즈가 블루투스로 연결되어 있는지 확인하세요.\n블루투스 연결 방법은 블루투스 기기와 페어링(연결)하기를 참고하세요.\n2 친구 휴대전화에서 설정을 열고 연결 → 블루투스 → → 고급 설정을 선택한 후 Music Share의 스위치를 눌러 기능을 켜세요.\nMusic Share를 선택하면 공유 대상을 설정하는 등 추가 기능을 사용할 수 있습니다.\n3 내 휴대전화의 화면 상단을 아래로 밀어 알림창을 연 후 미디어 출력을 누르세요.\n4 Music Share를 눌러 검색된 기기 목록에서 친구의 버즈를 선택하세요.\n5 친구 휴대전화에서 연결 요청을 수락하세요.\n내 휴대전화에서 음악을 재생하면 두 개의 버즈에서 같이 들을 수 있습니다.",
+            "SP": "Escuchar música juntos con Galaxy Buds\nPuede escuchar música de su teléfono con un amigo utilizando sus Buds y los de su amigo.\nEsta función solo es compatible con la serie Galaxy Buds.\n1 Asegúrese de que cada teléfono y cada par de Buds estén conectados.\nConsulte Conectarse a otros dispositivos Bluetooth para obtener indicaciones sobre cómo conectarse.\n2 En el teléfono de su amigo, abra la aplicación Ajustes, pulse Conexiones → Bluetooth → → Ajustesavanzados y, a continuación, deslice el interruptor Compartir música para activarlo.\nPuede usar funciones adicionales, como establecer con quién va a compartir el dispositivo, pulsando Compartir música.\n3 En su teléfono, abra el panel de notificaciones y pulse Salida multimedia.\n4 Pulse Compartir música y seleccione los Buds de su amigo en la lista de dispositivos detectados.\n5 En el teléfono de su amigo, acepte la solicitud de conexión.\nCuando reproduzca música desde su teléfono, podrá escucharla con su amigo utilizando los dos pares de Buds.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0081",
+            "index": 81,
+            "KO": "제1조 ①대한민국은 민주공화국이다.\n②대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다.\n\n제2조 ①대한민국의 국민이 되는 요건은 법률로 정한다.\n②국가는 법률이 정하는 바에 의하여 재외국민을 보호할 의무를 진다.\n\n제3조 대한민국의 영토는 한반도와 그 부속도서로 한다.\n\n제4조 대한민국은 통일을 지향하며, 자유민주적 기본질서에 입각한 평화적 통일정책을 수립하고 이를 추진한다.\n\n제5조 ①대한민국은 국제평화의 유지에 노력하고 침략적 전쟁을 부인한다.\n②국군은 국가의 안전보장과 국토방위의 신성한 의무를 수행함을 사명으로 하며, 그 정치적 중립성은 준수된다.",
+            "SP": "Artículo 1 ①La República de Corea es una república democrática.\n②La soberanía de la República de Corea reside en el pueblo, y todo el poder proviene del pueblo.\n\nArtículo 2 ①Los requisitos para ser ciudadano de la República de Corea están determinados por la ley.\n②El Estado tiene la obligación de proteger a sus ciudadanos que viven en el extranjero de acuerdo con la ley.\n\nArtículo 3 El territorio de la República de Corea está formado por la Península de Corea y sus islas anexas.\n\nArtículo 4 La República de Corea persigue la reunificación y establece una política de reunificación pacífica basada en el orden básico democrático liberal y la promueve.\n\nArtículo 5 ① La República de Corea se esfuerza por mantener la paz internacional y niega la guerra de invasión.\n②Las Fuerzas Armadas tienen la misión de cumplir el deber sagrado de la garantía la seguridad y la defensa nacionales y se observa su neutralidad política.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0082",
+            "index": 82,
+            "KO": "제69조(벌금과 과료) ①벌금과 과료는 판결확정일로부터 30일내에 납입하여야 한다. 단, 벌금을 선고할 때에는 동시에 그 금액을 완납할 때까지 노역장에 유치할 것을 명할 수 있다.\n②벌금을 납입하지 아니한 자는 1일 이상 3년 이하, 과료를 납입하지 아니한 자는 1일 이상 30일 미만의 기간 노역장에 유치하여 작업에 복무하게 한다.\n\n제70조(노역장 유치) ① 벌금이나 과료를 선고할 때에는 이를 납입하지 아니하는 경우의 노역장 유치기간을 정하여 동시에 선고하여야 한다. <개정 2020. 12. 8.>\n② 선고하는 벌금이 1억원 이상 5억원 미만인 경우에는 300일 이상, 5억원 이상 50억원 미만인 경우에는 500일 이상, 50억원 이상인 경우에는 1천일 이상의 노역장 유치기간을 정하여야 한다. <신설 2014. 5. 14., 2020. 12. 8.>\n\n제71조(유치일수의 공제) 벌금이나 과료의 선고를 받은 사람이 그 금액의 일부를 납입한 경우에는 벌금 또는 과료액과 노역장 유치기간의 일수(日數)에 비례하여 납입금액에 해당하는 일수를 뺀다.",
+            "SP": "Artículo 69 (Multas) ① Las multas deberán pagarse dentro de los 30 días siguientes a la fecha de la decisión. Sin embargo, al imponer una multa, se puede ordenar que la persona sea detenida en un asilo de trabajo hasta que pague la cantidad total.\n② Una persona que no pague una multa será detenida en un asilo de trabajo por un período de no menos de 1 día pero no más de 3 años, y una persona que no haya pagado una multa será detenida en un asilo de trabajo por un plazo no inferior a 1 día pero inferior a 30 días.\n\nArtículo 70 (Detención en un asilo) ① Cuando se imponga una multa o una multa menor, el período de detención en un asilo en caso de impago de la multa se determinará y pronunciará al mismo tiempo. <Modificado 2020. 12. 8.>\n② Si la multa impuesta es más de 100 millones de wones y menos de 500 millones de wones, el período de detención en el asilo de trabajo se fijará en más de 300 días , si la multa impuesta es más de 500 millones de wones y menos de 5 mil millones de wones, el período de detención en el asilo de trabajol se fijará más de 500 días, y si la multa impuesta es más de 5 mil millones de wones, el período de detención en el asilo de trabajo se fijará en al menos 1.000 días. <Recién establecido 2014. 5. 14., 2020. 12. 8.>\n\nArtículo 71 (Deducción de días de detención) Si una persona que ha sido condenada a multa paga parte del monto, resta el número de días de detención proporcional a la cantidad de multa pagada considerando la proporción del monto de la multa y del número de días de detención. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0083",
+            "index": 83,
+            "KO": "제87조(소송대리인의 자격) 법률에 따라 재판상 행위를 할 수 있는 대리인 외에는 변호사가 아니면 소송대리인이 될 수 없다.\n\n제88조(소송대리인의 자격의 예외) ①단독판사가 심리ㆍ재판하는 사건 가운데 그 소송목적의 값이 일정한 금액 이하인 사건에서, 당사자와 밀접한 생활관계를 맺고 있고 일정한 범위안의 친족관계에 있는 사람 또는 당사자와 고용계약 등으로 그 사건에 관한 통상사무를 처리ㆍ보조하여 오는 등 일정한 관계에 있는 사람이 법원의 허가를 받은 때에는 제87조를 적용하지 아니한다.\n②제1항의 규정에 따라 법원의 허가를 받을 수 있는 사건의 범위, 대리인의 자격 등에 관한 구체적인 사항은 대법원규칙으로 정한다.\n③법원은 언제든지 제1항의 허가를 취소할 수 있다.",
+            "SP": "Artículo 87 (Calificaciones del representante litigante) Ninguna persona que no sea un abogado podrá convertirse en representante litigante excepto un agente que pueda realizar actos judiciales de conformidad con la ley.\n\nArtículo 88 (Excepciones a las calificaciones de representante del litigio) ① En los casos en que el valor del objeto del litigio sea inferior a una determinada cantidad entre los casos sentenciados y juzgados por un solo juez, el artículo 87 no se aplicará cuando una persona que tenga una relación de vida estrecha con la parte o cuando una persona que tenga una determinada relación con las partes, como manejar o ayudar con asuntos ordinarios por un contrato de trabajo, etc., haya recibido permiso del tribunal.\n② De acuerdo con las disposiciones del artículo 1, las cuestiones específicas relativas al alcance de los casos para los cuales se puede obtener permiso del tribunal, las calificaciones de los agentes, etc., serán determinadas por las Reglas del Tribunal Supremo.\n③El tribunal podrá revocar en cualquier momento la autorización prevista en el apartado 1.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0084",
+            "index": 84,
+            "KO": "제30조(외교부) ① 외교부장관은 외교, 경제외교 및 국제경제협력외교, 국제관계 업무에 관한 조정, 조약 기타 국제협정, 재외국민의 보호ㆍ지원, 국제정세의 조사ㆍ분석에 관한 사무를 관장한다. <개정 2023. 3. 4.>\n② 외교부에 차관보 1명을 둘 수 있다.\n③ 재외동포에 관한 사무를 관장하기 위하여 외교부장관 소속으로 재외동포청을 둔다. <신설 2023. 3. 4.>\n④ 재외동포청에 청장 1명과 차장 1명을 두되, 청장은 정무직으로 하고, 차장은 고위공무원단에 속하는 일반직공무원 또는 외무공무원으로 보한다. <신설 2023. 3. 4.>\n\n제31조(통일부) 통일부장관은 통일 및 남북대화ㆍ교류ㆍ협력에 관한 정책의 수립, 통일교육, 그 밖에 통일에 관한 사무를 관장한다.\n\n제32조(법무부) ① 법무부장관은 검찰ㆍ행형ㆍ인권옹호ㆍ출입국관리 그 밖에 법무에 관한 사무를 관장한다.\n② 검사에 관한 사무를 관장하기 위하여 법무부장관 소속으로 검찰청을 둔다.\n③ 검찰청의 조직ㆍ직무범위 그 밖에 필요한 사항은 따로 법률로 정한다.",
+            "SP": "Artículo 30 (Ministerio de Relaciones Exteriores) ① El Ministro de Relaciones Exteriores se encarga de los asuntos relacionados con la diplomacia, la diplomacia económica y la diplomacia de cooperación económica internacional, la coordinación de las relaciones internacionales, los tratados y otros acuerdos internacionales, la protección y el apoyo a los nacionales que viven en el extranjero, e investigación y análisis de la situación internacional. <Modificado en 2023. 3. 4.>\n② El Ministerio de Relaciones Exteriores podrá tener un Viceministro.\n③ Para gestionar los asuntos relacionados con los nacionales en el extranjero, se crea la Oficina de los Nacionales en el Extranjero bajo la dirección del Ministro de Relaciones Exteriores. <Recién establecido 2023. 3. 4.>\n④ La Oficina de los Nacionales en el Extranjero designará un director y un subdirector, el director será un funcionario político y el subdirector un funcionario público general o un funcionario del servicio de asuntos exteriores perteneciente al Cuerpo de Altos Funcionarios. <Recién establecido 2023. 3. 4.>\n\nArtículo 31 (Ministerio de Unificación) El Ministro de Unificación se encarga de establecer políticas sobre unificación y diálogo, intercambio y cooperación intercoreanos, educación para la unificación y otros asuntos relacionados con la unificación.\n\nArtículo 32 (Ministerio de Justicia) ① El Ministro de Justicia se encarga del procesamiento, la ejecución, la protección de los derechos humanos, la gestión de la inmigración y otros asuntos legales.\n② Para gestionar los asuntos relacionados con los fiscales, se creará la Fiscalía bajo la autoridad del Ministro de Justicia.\n③ La organización y el alcance de las funciones de la Fiscalía y otras cuestiones necesarias se determinarán separadamente por ley.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0085",
+            "index": 85,
+            "KO": "제250조(살인, 존속살해) ①사람을 살해한 자는 사형, 무기 또는 5년 이상의 징역에 처한다.\n②자기 또는 배우자의 직계존속을 살해한 자는 사형, 무기 또는 7년 이상의 징역에 처한다. <개정 1995. 12. 29.>\n\n제251조(영아살해) 직계존속이 치욕을 은폐하기 위하거나 양육할 수 없음을 예상하거나 특히 참작할 만한 동기로 인하여 분만중 또는 분만직후의 영아를 살해한 때에는 10년 이하의 징역에 처한다.",
+            "SP": "Artículo 250 (Asesinato, Homicidio de ascendiente) ① Quien mate a otra persona será castigado con la muerte o con cadena perpetua o superior a cinco años de cárcel. \n②La persona que mate a un ascendiente directo suyo o de su cónyuge será castigada con la muerte o con cadena perpetua o superior a siete años de cárcel. <Enmendado en 1995. 12. 29.>\n\nArtículo 251 (Infanticidio) Si un ascendiente lineal mata a un infante durante o inmediatamente después del parto para ocultar humillación, en previsión de no poder criarlo, o por razones especialmente atenuantes, será castigado con menos de 10 años de cárcel. ",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0086",
+            "index": 86,
+            "KO": "제1조.\n1. 스페인은 법치주의에 의해 통치되는 사회민주주의 국가로 구성되어 있으며, 자유, 정의, 평등, 정치적 다원주의를 법률 체계의 최고 가치로 수호한다. \n2. 국가 주권은 국가 권력의 근원인 스페인 국민에게 있다.\n3. 스페인 국가의 정치적 형태는 의회 군주제이다.\n\n제2조.\n헌법은 모든 스페인인의 공통적이고 불가분적인 조국 스페인의 불가분한 통합을 기반으로 하며, 이를 구성하는 민족과 지역의 자치권과 연대를 인정하고 보장한다. \n\n제3조.\n1. 국가의 공식 언어는 카스티야어로 한다. 모든 스페인 국민은 그것을 알아야 할 의무와 그것을 사용할 권리가 있다.\n2. 스페인의 다른 언어도 해당 법령에 따라 각 자치 공동체에서 공식 언어로 사용될 수 있다.\n3. 스페인의 다양한 언어 의 풍부함은 특별히 존중되고 보호되어야할 문화 유산이다. ",
+            "SP": "Artículo 1.\n1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.\n2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.\n3. La forma política del Estado español es la Monarquía parlamentaria.\n\nArtículo 2.\nLa Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.\n\nArtículo 3.\n1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.\n2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.\n3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0087",
+            "index": 87,
+            "KO": "제28조.\n1. 모든 사람은 자유롭게 노동조합을 결성할 권리를 갖는다. 법률은 군대, 연구소 또는 기타 군사 규율이 적용되는 기관의 이 권리 행사를 제한하거나 예외로 할 수 있으며 공무원에 대한 이 권리 행사의 특수성 규제할 수 있다. 결사의 자유에는 자신이 선택한 노동조합을 결성하고 가입할 수 있는 권리뿐만 아니라 노동조합을 결성하고 국제 노동조합 조직을 결성하거나 가입할 수 있는 권리도 포함한다. 누구도 노동조합에 가입하도록 강요받을 수 없다. \n2. 노동자가 자신의 이익을 보호하기 위한 파업권이 인정된다. 이 권리의 행사를 규제하는 법률은 지역사회의 필수 서비스 유지를 보장하는 데 필요한 보장을 규정한다.\n\n제29조.\n1. 모든 스페인 사람은 법이 정한 형식과 효력에 따라 서면으로 개인 및 단체 청원을 할 권리를 갖는다.\n2. 군대, 군사훈련기관, 군사훈련 대상 군단의 구성원은 개별적으로, 해당 법률의 규정에 따라서만 이 권리를 행사할 수 있다.",
+            "SP": "Artículo 28.\n1. Todos tienen derecho a sindicarse libremente. La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a formar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.\n2. Se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.\n\nArtículo 29.\n1. Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.\n2. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0088",
+            "index": 88,
+            "KO": "제3조. 피해자의 권리.\n1. 모든 피해자는 보호, 정보, 지원, 지원, 관심 및 배상을 받을 권리가 있을 뿐만 아니라 형사 절차에 적극적으로 참여할 권리가 있으며, 사법기관 및 공무원과 처음 접촉할 때부터, 피해자 지원 서비스 수행 가긴 동안, 그리고 전체 형사 절차 기간 동안 회복적인 정의를 수행하는 기간, 그리고 형사 절차 종결후 기간동안 범죄자의 신원을 알고 있는지 여부에 관계없이 정중하고 전문적이며 개별적이고 비차별적인 대우를 받을 권리가 있다. 결과. 어떠한 경우에도 성폭력, 젠더폭력 사건의 경우에는 조정과 중재가 금지된다. \n\n2. 이러한 권리의 행사는 본 법의 조항과 이 법에서 파생된 규제 조항뿐만 아니라 적용되는 특별법의 조항과 절차 규칙에 모두 적용된다. ",
+            "SP": "Artículo 3. Derechos de las víctimas.\n1. Toda víctima tiene derecho a la protección, información, apoyo, asistencia, atención y reparación, así como a la participación activa en el proceso penal y a recibir un trato respetuoso, profesional, individualizado y no discriminatorio desde su primer contacto con las autoridades o funcionarios, durante la actuación de los servicios de asistencia y apoyo a las víctimas y, en su caso, de justicia restaurativa, a lo largo de todo el proceso penal y por un período de tiempo adecuado después de su conclusión, con independencia de que se conozca o no la identidad del infractor y del resultado del proceso.\nEn todo caso estará vedada la mediación y la conciliación en supuestos de violencia sexual y de violencia de género.\n\n2. El ejercicio de estos derechos se regirá por lo dispuesto en la presente Ley y en las disposiciones reglamentarias que la desarrollen, así como por lo dispuesto en la legislación especial y en las normas procesales que resulten de aplicación.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0089",
+            "index": 89,
+            "KO": "제1조.\n1. 이 법에 규정된 보호조치는 증인 또는 감정인으로서 형사소송에 개입하는 자에게 적용된다.\n\n2. 이 법의 조항이 적용되기 위해서는 사법 당국이 증인 및 감정인을 선임하려는 자와 그의 배우자 혹은 친족 관계로 연결된 직계 가족 미 형제자매의 신체, 자유 또는 재산에 대한 심각한 위험을 합리적으로 평가할 필요가 있다.",
+            "SP": "Artículo 1.\n1. Las medidas de protección previstas en esta Ley son aplicables a quienes en calidad de testigos o peritos intervengan en procesos penales.\n\n2. Para que sean de aplicación las disposiciones de la presente Ley será necesario que la autoridad judicial aprecie racionalmente un peligro grave para la persona, libertad o bienes de quien pretenda ampararse en ella, su cónyuge o persona a quien se halle ligado por análoga relación de afectividad o sus ascendientes, descendientes o hermanos.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0090",
+            "index": 90,
+            "KO": "제10조-[구분]\n본 회 회원은 정회원, 준회원 및 명예회원으로구분한다.\n\n제11조[ 자격]\n1. 정회원의 자격: 한국혈통을 가진 만18세 이상의 성인으로 본 지역에만 1년이상 거주하며, 대한민국 국적을 소유하거나 소지했던자, 또는 그의 자손으로\n1-1 스페인 영주권 또는 스페인 국적을 취득한 자\n1-2 스페인 거주권에 준하는 증명서를 취득한자\n1-3 본회 또는 대사관에 신고일로부터 만 1년 이상 거주한 재외 공관 등록증을 소지한자\n1-4 대한민국 여권 소지자로 본 지역에 만 1년 이상 거주한 스페인 국가 거주 증명서(Certificado de Empadronamiento)를 소지한 자\n\n2. 준회원의 자격: \n본 지역에 거주하는 자로\n2-1 정회원과 결혼한 외국인\n2-2 대한민국 국적 소지자로 스페인국의 거주권을 취득하지 못하고 본 회 또는 대사관에 신고일로부터 만 1년을 경과하지 못한 자\n\n3. 명예 회원의 자격: 본 회에 지대한 공헌을 했거나 또는 할수있다고 인정되는자",
+            "SP": "Artículos 10. –[Composición]\nLos miembros de la Asociación se dividen en miembros regulares, miembros asociados y  miembros honorarios.\n\nArtículos 11. –[ Cualificaciones]\n1.Miembro regular:un  adulto  mayor  de  18  años  de  ascendencia  coreana  que  haya  vivido al menos 1  año  en  esta regióny  la  persona  posea  o poseíala  nacionalidad  coreana,  o  sus descendientes;\n1-1Persona que haya adquirido la residencia permanente española o la nacionalidad española.\n1-2Quienes hayan obtenido un certificado equivalente a la residencia española.\n1-3Aquellos que tengan  el  informe  de  registro  en  la  Asociación  o  la  Embajada  Coreana justificandoque han vivido en España durante al menos un año a partir de su registro.\n1-4Aquellos que tengan un pasaporte coreano y un certificado de empadronamiento españolque hayan vivido en la región durante más de un año.\n\n2.Miembro asociado:una persona que reside en estaregión;\n2-1 Extranjeros casados con miembros regulares.\n2-2 Una persona con nacionalidad coreana que no adquiera el permisode residencia en España y  no  haya  pasado  1  año  desde  la  fecha  de registrode  informes  a  la  Asociación  o  Embajadacoreana.\n\n3.Miembro Honorario: una persona que ha hecho o se reconoce que ha hecho una contribución significativa a la Asociación.\n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0091",
+            "index": 91,
+            "KO": "발렌시아 주 정부 관계자가 확인한 바에 따르면, 오늘 아침 과학 수사대가 발렌시아의 Campanar 지역의 화재로 전소된 주택 단지 내에서 새로운 시신을 발견다. 추가적인 수색 작업 이후 공식적인 사망자 수는 10명으로 늘어났다. 사망자 중 네 명은 아버지, 어머니, 3세 아이, 그리고 갓 태어난 아이로 같은 가족으로 드러났다. 지역 정부 관계자인 Pilar Bernabé는 경찰이 건물에서 발견한 시신 수와 실종자 수가 일치한다고 확인했지만, 모든 수색 작업이 마무리될 때까지 이러한 수치는 \"임시적\"이라고 언급했다. 발렌시아 시장 María José Catalá는 시청에서 침묵의 묵념을 한 후 희생자들에게 기관의 애도의 뜻을 표했다. \"이 도시가 지금 이 순간 느끼는 고통을 설명할 말이 없습니다,\"라고 Catalá는 말했으며, 화재 이재민들의 불안을 줄이고 희생자 가족들을 지원하겠다고 약속했다. 구조대는 15명의 부상자를 치료했는데 그 중에는 7명의 소방관이 포함되어 있습니다. 현재 부상자 중 단 2명만이 병원에 입원해 있으며, 생명에는 지장이 없다. ",
+            "SP": "La policía científica ha localizado esta mañana un nuevo cadáver dentro del complejo de viviendas incendiado en el barrio de Campanar, en Valencia, según ha confirmado la Delegación del Gobierno de la Comunidad Valenciana. Tras las tareas de inspección, el número de muertos asciende a 10. Cuatro de las víctimas eran miembros de una misma familia: el padre, la madre, un niño de tres años y una recién nacida. La delegada del Gobierno en la región, Pilar Bernabé, ha confirmado que el número de desaparecidos corresponde con la cifra de cadáveres que la policía ha encontrado en el edificio, pero ha señalado que los datos “son provisionales hasta que se den por concluidas todas las labores de inspección”. La alcaldesa de Valencia, María José Catalá, ha trasladado el pésame de las instituciones a las víctimas tras el minuto de silencio que se ha guardado en el Ayuntamiento. “No hay palabras para describir el dolor que siente esta ciudad en este momento”, ha afirmado Catalá, que se ha comprometido a reducir la incertidumbre de las personas realojadas y a acompañar a los familiares de las víctimas. Los servicios de emergencia atendieron a 15 personas heridas —entre ellas siete bomberos—. Solo dos permanecen hospitalizados, sin que sus vidas corran peligro.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0092",
+            "index": 92,
+            "KO": "프란치스코 교황이 우크라이나에 \"백기의 용기를 선택하라\"고 발언한 것은 우크라이나에 강한 반발을 샀다. 한 달 전 스위스 RSI에 의해 녹화된 인터뷰에서 프란치스코 교황은 \"패배했다고 느낄 때, 일이 잘 풀리지 않을 때, 협상을 할 용기가 있어야 한다\"고 말했다. 이 인터뷰는 이번 토요일에 방송되었는데 이 교황의 말이 공개된 이후, 우크라이나의 정부 관계자와 시민들로부터 가해자인 러시아에 공격을 멈추라고 촉구하는 대신 \"피해자에게 '항복'하라고 요구하는 것은 '부도덕'\"이라는 반응이 이어졌다. \"우리의 국기는 노란색과 파란색입니다. 우리가 살고, 죽고, 승리하는 깃발입니다. 우리는 결코 다른 깃발을 들지 않을 것입니다.\"라고 우크라이나 외교부 장관 드미트로 쿨레바가 일요일에 자신의 소셜 미디어에 밝혔다.\n\n쿨레바만이 유일한 사람은 아니었다. 몇몇 사람들은 우크라이나가 자신을 \b잘 지키고 있으며 러시아는 완전한 항복 외에 다른 선택권을 제공하지 않는다고 강조했다. \"항복은 러시아의 점령을 의미하며, 이는 전쟁의 또 다른 형태일 뿐입니다.\"라고 2022년 노벨 평화상을 수상한 시민 자유 센터장인 올렉산드라 마트비이추크가 말했다. 마트비이추크는 러시아의 우크라이나 전쟁 범죄를 문서화했는데 \"러시아의 점령은 고문, 성폭력, 강제 실종, 정체성 부정, 자녀의 강제 입양, 필터링 캠프, 집단 무덤을 의미합니다.\"라고 그녀는 X(전 트위터)에 밝혔다.\n\n\"우크라이나는 상처받았지만 정복당하지 않았습니다. 우크라이나는 지쳤지만 여전히 서 있고 인내합니다. 우크라이나에서는 아무도 항복을 생각하지 않습니다! 우리의 저항에 회의적인 모든 사람들에게 우리는 말합니다: 우크라이나에 오세요 그리고 보세요!\"라고 키예프-갈리치아 대주교이자 전 루스 대주교인 스비아토슬라우 셰우추크는 교황의 말을 직접 언급하지 않으면서 이렇게 말했다. 러시아의 침략이 시작된 이후 교황은 우크라이나를 방문하지 않았다.",
+            "SP": "La sugerencia del papa Francisco de que Ucrania elija “el coraje de la bandera blanca” ha provocado duras críticas desde Ucrania. “Cuando ves que estás derrotado, que las cosas no van bien, debes tener el coraje de negociar”, dijo Francisco durante una entrevista, grabada hace un mes por la RSI de Suiza y que fue emitida en televisión este sábado. Desde la publicación de las palabras del Pontífice, se ha sucedido una oleada de reacciones de figuras públicas y ciudadanos de Ucrania que han descrito como una “inmoralidad” pedir a una víctima de agresión que “se rinda”, en lugar de instar al agresor, Rusia, a que detenga sus ataques. “Nuestra bandera es amarilla y azul. Esta es la bandera por la cual vivimos, morimos y prevalecemos. Nunca alzaremos ninguna otra bandera”, ha dicho el ministro de Relaciones Exteriores de Ucrania, Dmitro Kuleba, este domingo en un mensaje publicado en sus redes sociales.\n\nNo ha sido el único. Otras voces han remarcado que Ucrania se está defendiendo y que Rusia no ofrece más opciones que una rendición completa. “Rendición significa ocupación rusa, que no es más que otra forma de la guerra”, ha lamentado Oleksandra Matviichuk, directora del Centro para las Libertades Civiles, organismo galardonado con el Premio Nobel de la Paz en 2022 y que ha documentado los crímenes de guerra de Rusia en Ucrania. “Ocupación rusa significa tortura, violencia sexual, desaparición forzada, negación de tu identidad, adopción forzosa de tus propios hijos, campos de filtración y fosas comunes”, ha agregado Matviichuk en una publicación en X (antes Twitter).\n\n“Ucrania está herida, pero no conquistada. Ucrania está exhausta, pero se mantiene en pie y persevera. En Ucrania, ¡nadie piensa en rendirse! Y a todos los que miran con escepticismo nuestra capacidad de resistencia, les decimos: ¡Vengan a Ucrania y vean!”, ha dicho Sviatoslav Shevchuk, arzobispo mayor de Kiev-Galitzia y de toda la Rus, sin hacer referencia directa a las palabras del Pontífice, que desde el inicio de la agresión rusa no ha visitado Ucrania.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0093",
+            "index": 93,
+            "KO": "동거하던 여자친구를 흉기로 찔러 살해하고 그의 모친에게도 상해를 입힌 20대가 경찰에 붙잡혔습니다.\n경기 화성서부경찰서는 오늘(25일) 살인 및 살인미수 혐의로 A 씨를 붙잡아 조사하고 있다고 밝혔습니다.\nA 씨는 이날 오전 9시 40분쯤 화성시 봉담읍 소재 오피스텔에서 여자친구인 20대 여성 B 씨와 그의 모친 50대 C 씨를 흉기로 찌른 혐의를 받고 있습니다.\n가슴 부위를 찔린 B 씨는 심정지 상태로 병원으로 이송됐으나 치료 중 사망했습니다.\nA 씨가 휘두른 흉기에 좌우 옆구리를 크게 다친 C 씨는 현재 병원에서 치료받고 있습니다. C 씨는 의식이 있는 채로 병원에 옮겨졌으나 현재 위중한 상태입니다.\n이 사건은 A 씨와 B 씨가 동거 중인 오피스텔에 C 씨가 찾아온 이후 발생했습니다.\n이들 사이에 다툼이 일어났고, A 씨가 집 안에 있던 흉기를 들고 범행을 저질렀다는 게 지금까지의 경찰 조사 내용입니다.\nC 씨의 신고를 받고 출동한 경찰은 해당 오피스텔 1층에서 A 씨를 현행범으로 체포했습니다.\n체포 당시 A 씨는 경비실 부근을 서성대고 있었으며, 도주하거나 저항하지 않은 것으로 전해졌습니다.\n범행 과정에서 손을 다쳐 병원 치료 중인 A 씨는 자신이 저지른 범죄의 충격으로 인해 경찰조사에 응하지 못하고 있는 것으로 알려졌습니다.\nA 씨에 대한 조사가 이뤄지지 않은 데다가 피해자들이 죽거나 다쳐, 자세한 사건 경위는 향후 치료 경과와 수사 결과가 나와야 알 수 있을 것으로 보입니다.\n경찰은 늦어도 내일(26일) 중 A 씨에 대한 구속영장을 신청할 계획입니다.",
+            "SP": "Un joven de 20 años ha sido arrestado por la policía después de apuñalar y asesinar a su novia con la que convivía y herir a la madre de esta.\nLa comisaría de policía del oeste de Hwaseong, en Gyeonggi, anunció hoy (el día 25) que está investigando al joven bajo sospecha de asesinato y homicidio frustrado.\nEse hombre está acusado de apuñalar a su novia, la joven de 20 años, y a su madre, la señora de 50 años, con un arma alrededor de las nueve y cuarenta de la mañana de hoy en un apartamento de oficinas en Bongdam-eup, Hwaseong.\nLa joven que fue apuñalada en el área del pecho, fue trasladada al hospital en estado de paro cardíaco, pero murió durante el tratamiento.\nSu madre, que sufrió graves heridas en los costados izquierdo y derecho por el arma que empuñó el agresor, está actualmente recibiendo tratamiento en el hospital. Fue trasladada al hospital consciente, pero su estado es crítico.\nEste incidente ocurrió después de que la madre visitara el apartamento donde el culpable y la víctima vivían juntos.\nSe produjo una disputa entre ellos, y el agresor cometió el crimen con un arma que tenía en casa, según la investigación policial hasta el momento.\nLa policía arrestó al hombre en el primer piso del apartamento como un criminal en el acto, después de recibir una llamada de la madre de la víctima.\nEn el momento del arresto, se informó que estaba merodeando cerca de la sala de seguridad y no intentó huir ni resistirse.\nEl agresor, que se lesionó la mano durante el crimen y está recibiendo tratamiento hospitalario, no ha podido responder a la investigación policial debido al shock del crimen que cometió.\nDado que no se ha llevado a cabo una investigación sobre él y las víctimas han muerto o están heridas, los detalles exactos del incidente se conocerán después de los resultados del tratamiento y la investigación.\nLa policía planea solicitar una orden de arresto para el culpable a más tardar mañana.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0094",
+            "index": 94,
+            "KO": "북한이 월요일에서 화요일로 넘어가는 밤에 두 발의 새로운 탄도미사일을 발사하였으며, 이는 월요일, 미국의 핵추진 잠수함이 제주도에 도착한 것에 대한 계산된 대응으로 해석될 수 있다. 평양 인근에서 발사된 미사일은 약 400킬로미터를 비행한 후 해상에 떨어져 피해를 주지 않았다고 한국과 일본의 언론이 보도했다.\n\n김정은의 독재 통치 체제에 의한 이번 조치는 한반도를 분단한 한국전쟁(1950-53)이 끝난 지 70년이 되는 해를 맞이하며 지역 내에서 새로운 도전으로 해석되고 있다.\n\n지난 주말에는 평양이 해안에서 순항미사일을 발사했으며, 7월 중순에는 대한민국의 윤석열 대통령과 일본의 기시다 후미오 총리가 리투아니아의 빌뉴스에서 열린 NATO 정상회담에 참석한 가운데 장거리 탄도미사일을 일본 쪽으로 발사하여 북한의 도발에 대한 경계가 한층 강화되기도 하였다. 그 전에 북한은 워싱턴이 스파이 비행기로 자국의 영공을 침해했다고 주장하며 한반도 근처에 핵 미사일 잠수함을 배치할 계획을 비난했다. ",
+            "SP": "Corea del Norte ha disparado en la noche del lunes al martes dos nuevos misiles balísticos en lo que puede interpretarse como una calculada respuesta a la llegada, el lunes, de un submarino estadounidense de propulsión nuclear a la isla surcoreana de Jeju. Los cohetes, lanzados desde las proximidades de Pyongyang, la capital del país, han recorrido cerca de 400 kilómetros antes de caer al mar sin causar daños, según han recogido las agencias de noticias de Corea del Sur y de Japón, los países vecinos.\n\nEl ejercicio, que supone un nuevo envite en la región por parte del régimen que gobierna con puño de hierro Kim Jong-un, llega mientras el país se prepara para celebrar los 70 años del final de la guerra de Corea (1950-53), que dividió la península.\n\nEste pasado fin de semana, Pyongyang también disparó misiles de crucero desde sus costas y a mediados de julio elevó de nuevo el pulso con el lanzamiento de un misil balístico de largo alcance hacia Japón mientras el presidente surcoreano, Yoon Suk-yeol, y el primer ministro nipón, Fumio Kishida, se encontraban en la cumbre de la OTAN en Vilnius (Lituania), algo que levanta más que suspicacias en el vecino del norte. Poco antes, Corea del Norte había acusado a Washington de violar su espacio aéreo con supuestos aviones de espionaje y condenado sus planes de desplegar misiles nucleares submarinos cerca de la península coreana.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0095",
+            "index": 95,
+            "KO": "[앵커]\n봄철 불청객 황사가 유입되면서 전국적으로 공기 질이 매우 나빠지겠습니다.\n일부 비가 오는 지역에서는 '황사 비'도 내립니다.\n올봄 들어 가장 강력한 모래먼지는 주말까지도 영향을 주겠습니다.\n김동혁 기자입니다.\n\n[기자]\n\n붉은색으로 표시된 고농도 미세먼지가 중국 북부에 광범위하게 퍼져 있습니다.\n내몽골 고원에서 발원한 황사로 바람을 타고 국내로 유입되고 있습니다.\n올봄 들어 가장 심한 황사가 전국으로 확산합니다.\n중국발 흙먼지는 백령도에서 가장 먼저 관측됐습니다.\n한 자릿수를 보이던 미세먼지 농도는 황사 관측과 함께 급격히 치솟더니, 단 3시간 만에 100배가 증가했습니다.\n짙은 황사의 영향으로 중부와 경북의 미세먼지 농도는 '매우 나쁨' 단계가, 나머지 지역도 '나쁨' 수준이 예상됩니다.\n특히, 약하게 내리는 봄비와 섞여 '황사 비'가 오는 곳도 있겠습니다.\n공기 질은 주말까지도 나쁠 걸로 예상됩니다.\n주말에 전국적으로 미세먼지 농도가 높겠고, 일요일에도 수도권과 영서, 충청 등 중부 지방의 공기가 탁할 전망입니다.\n\n<박중환 기상청 예보분석관> \"고비사막과 내몽골 고원에서 발원한 황사는 28일과 29일 비와 섞여 내리겠고, 비가 그친 이후에도 30일까지 전국적으로 황사의 영향을 받겠습니다.\"\n\n기상청은 당분간 평소보다 먼지 농도가 높게 나타나는 만큼, 바깥 활동 시 보건용 마스크를 착용하는 등 호흡기 건강 관리에 유의해 줄 것을 당부했습니다.",
+            "SP": "[Presentador]\n\nCon la llegada del polvo amarillo, un visitante no deseado de la primavera, la calidad del aire en todo el país empeorará significativamente.\nEn algunas áreas donde llueve, también caerá \"lluvia de polvo amarillo\".\nEste polvo de arena, el más fuerte de esta primavera, afectará hasta el fin de semana.\nInforme de Kim Dong-hyuk.\n\n[Reportero]\n\nEl polvo fino de alta concentración, marcado en rojo, se extiende ampliamente en el norte de China.\nEl polvo amarillo originario de la meseta de Mongolia Interior está entrando al país llevado por el viento.\nEste polvo amarillo, el más severo de esta primavera, se expandirá por todo el país.\nEl polvo proveniente de China se observó primero en Baengnyeongdo.\nLa concentración de partículas finas, que mostraba cifras de un solo dígito, se disparó repentinamente después de la observación del polvo amarillo, aumentando 100 veces en solo 3 horas.\nDebido al intenso polvo amarillo, se espera que la concentración de partículas finas en el centro y norte de Gyeongbuk alcance niveles \"muy malos\", mientras que el resto de las áreas experimentarán niveles \"malos\".\nEn particular, en algunos lugares caerá \"lluvia de polvo amarillo\" mezclada con una ligera lluvia primaveral.\nSe espera que la calidad del aire siga siendo mala hasta el fin de semana.\nSe prevé una alta concentración de polvo fino en todo el país durante el fin de semana, y se espera que el aire esté turbio en la región central, incluida la capital y Chungcheong, incluso el domingo.\n\n<Park Jung-hwan, Analista de Pronóstico de la Administración Meteorológica> \"El polvo amarillo originario del desierto de Gobi y la meseta de Mongolia Interior caerá mezclado con la lluvia el 28 y 29, y después de que pare la lluvia, el polvo amarillo afectará a todo el país hasta el 30\".\n\nLa Administración Meteorológica insta a la población a tener cuidado con la gestión de la salud respiratoria, como usar mascarillas sanitarias durante actividades al aire libre, ya que se espera que la concentración de polvo sea más alta de lo habitual por un tiempo.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0096",
+            "index": 96,
+            "KO": "19세기부터 라틴 아메리카로의 이민으로 인해 히스패닉 인구는 현재 미국의 큰 비율을 차지한다. 그 결과, 스페인어와 영어 간의 코드 스위칭(code-switching)이 널리 사용되고 있다. 본 연구는 미국 남서부의 소셜 네트워크에서의 코드 스위칭을 연구하는 것을 목표로 한다. 소셜 네트워크에서의 대화는 일반적인 대화와 많이 다른 양상을 띈다. 특히 트위터는 다른 미디어와 달리 정제된 언어를 사용하며 비 자발적인 특징이 있다. 그러나 이전의 많은 연구가 자발적인 상황에서의 코드 스위칭만 다루었다. 따라서 본 연구는 덜 즉흥적이고 정제된 언어를 사용하는 트위터에서의 코드 스위칭을 분석하고자 한다. 본 연구는 트위터가 제공하는 “tweepy” API를 통한 크롤링 방법을 통해 미국 남서부에서 작성된 약 201,000개의 트윗을 수집했다. 그 후, 수집된 트윗 중 스페인어와 영어 간의 약 899개의 코드 스위칭을 분석했다. 분석 결과는 다음과 같다. 우선, 코드 스위칭은 문장 내 코드 스위칭과 문장 간 코드 스위칭으로 나뉜다. 문장 내 코드 스위칭의 경우 단순 교체가 가장 자주 발생했으며, 문장 간 코드 스위칭의 경우 문장 삽입 형태가 가장 자주 발생했다. 이는 코드 스위칭을 사용하는 발화자가 두 언어의 문법을 위반하려고 하지 않는 방식으로 무의식적으로 사용하기 때문이다. 미국에서 히스패닉 이민의 역사가 오래되었고, 세대가 지날수록 스페인어 사용이 감소하며, 미국의 정규 교육이 영어로 이루어진다는 사실을 고려할 때, 미국 남서부의 많은 히스패닉들은 영어와 스페인어를 모두 유창하고 완전하게 말할 수 없다. 따라서, 이중 언어 사용자들은 문법적 위반을 최소화할 수 있는 단어 삽입과 문장 삽입을 많이 사용하는 것으로 추정된다. 코드 스위칭을 사용하는 주된 이유는 세 가지가 있으며, 첫 번째는 친밀함의 상징이다. 멘션을 주고 받는 상대방이 주로 스페인어를 사용하는 것처럼 보이면, 발화자가 주로 영어를 사용하더라도 친밀함을 표현하기 위해 스페인어 코드 스위칭이 삽입되었다. 둘째, 감정 표현을 강조하기 위해 주의를 끌기 위한 목적으로 코드 스위칭이 삽입되었으며, 셋째, 미국에서 영어의 높은 언어적 지위로 인해 영어가 삽입되는 현상이 발생한다고 해석할 수 있다. ",
+            "SP": "Desde el siglo XIX, la inmigración a Latinoamérica ha hecho que la población hispana constituya ahora una gran proporción de Estados Unidos. Como resultado, se usa mucho el cambio de código entre el español y el inglés. Este estudio tiene como objetivo investigar el cambio de código en las redes sociales en el suroeste de Estados Unidos. La conversación en las redes sociales es muy diferente de las conversaciones ordinarias. Twitter, en particular, tiende a utilizar un lenguaje refinado y menos espontáneo, a diferencia de otros medios que son espontáneos. Sin embargo, muchos estudios solo han tratado el cambio de código en situaciones espontáneas. Este estudio intenta observar el cambio de código en Twitter utilizando un lenguaje menos espontáneo y más refinado. Este estudio recopiló aproximadamente 201,000 tweets escritos en el suroeste de Estados Unidos mediante un método de rastreo a través de la API \"tweepy\" adecuada para Twitter. Posteriormente, se analizaron aproximadamente 899 cambios de código entre el español y el inglés de los tweets recopilados. Y los resultados del análisis son los siguientes. En primer lugar, se dividió principalmente en cambio de código intrasentencial e intersentencial. En el caso del cambio de código intrasentencial, la sustitución simple ocurrió con mayor frecuencia, y en el caso del cambio de código intersentencial, ocurrió más a menudo en forma de inserción de oraciones. Esto se debe a que el hablante que utiliza el cambio de código lo usa inconscientemente de una manera que no intenta violar la gramática de ambos idiomas. Teniendo en cuenta que la inmigración hispana en Estados Unidos tiene una larga historia, y el uso del español disminuye con las generaciones, y el hecho de que la educación formal en Estados Unidos se lleva a cabo en inglés, muchos hispanos en el suroeste de Estados Unidos no pueden hablar inglés y español fluida y completamente. Por lo tanto, los hablantes bilingües parecen usar mucho el cambio de código por inserción de palabras y oraciones que pueden minimizar la violación gramatical. Hay tres razones principales para usar el cambio de código, y la primera es un símbolo de intimidad. Si la otra parte a quien se intercambian las menciones parece hablar principalmente español, incluso si el hablante utiliza principalmente inglés, se insertó el cambio de código al español para expresar intimidad. En segundo lugar, se insertó el cambio de código con el propósito de llamar la atención para enfatizar la expresión emocional, y en tercer lugar, puede interpretarse que ocurre el fenómeno de insertar gradualmente inglés debido al alto estatus lingüístico del inglés en Estados Unidos.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0097",
+            "index": 97,
+            "KO": "2019년 급성 호흡기 증후군 코로나바이러스 2(COVID 19)는 심각한 감염률과 사망률을 동반한 글로벌 대유행으로 확대되었다. 이 바이러스의 전 세계적 영향이 2020년에 확대되었음에도 불구하고, 스페인어 자연어처리에서 이에 관한 수많은 연구에서 코로나바이러스나 감염병을 크게 다루지 않았으며 그에 대한 코퍼스 및 워드 임베딩에 대한 연구 역시 전무했다. 또한, 의료 분야에서 수행된 코퍼스 구축이나 단어 임베딩은 코로나바이러스나 감염병과 관련하여 성능이 좋지 못하다. 이러한 부족함을 보완하기 위해, 본 연구는 적절한 전처리를 통해 관련 코로나바이러스 코퍼스를 구축하기 위한 스페인어 데이터를 수집하고 단어 임베딩을 구축한다. 그 후, 코퍼스와 단어 임베딩의 성능은 기존 스페인어 코퍼스와의 단어 유사성 평가, 코사인 유사성 평가 및 시각화 평가를 통해 평가된다. ",
+            "SP": "La Enfermedad Infecciosa por Coronavirus-19 (en adelante Covid-19), que\ncomenzó a extenderse globalmente en diciembre de 2019, mostró una alta tasa de infección\ny mortalidad, y tuvo un gran impacto en el mundo en 2020. Sin embargo, los estudios\nexistentes de procesamiento del lenguaje natural en español no han utilizado la\nconstrucción de corpus o la incrustación de palabras para enfermedades infecciosas,\nincluido el coronavirus. La construcción de corpus y la incrustación de palabras en el\ncampo biomédico no han mostrado un rendimiento eficaz en la ayuda para luchar contra las\nenfermedades infecciosas, por lo tanto, este estudio recopila datos en español relacionados\ncon el coronavirus para proceder después a construir un corpus de coronavirus en español e\nincrustar palabras a través de un preprocesamiento adecuado. Posteriormente, nos gustaría\npresentar un corpus e incrustación de palabras adecuadas para coronavirus mediante la\ncomparación de la similitud del coseno y la evaluación de visualización con el corpus\nespañol existente.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0098",
+            "index": 98,
+            "KO": "본 연구는 멕시코 내의 갈등 양상을 파악하기 위해 빅데이터 속에서 혐오 표현을 추출하여 분석하였다. 멕시코의 정치, 경제, 사회 영역별로 일간지에서 키워드를 추 출하고, 트위터와 유튜브에서 해당 키워드를 중심으로 빅데이터를 구축하였으며 그\n중 혐오 표현을 위주로 갈등의 양상을 분석하고자 하였다. 분석 결과, 멕시코 내의 갈등은 대다수 국민이 소수의 정치, 정부 관련 인사에게 보이는 혐오의 형태로 나타났다. 이를 통해 많은 멕시코인이 정부와 관련 기관을 혐오하고 있다는 것을 알 수 있으며, 이는 멕시코 내 전반적인 사회갈등이 일반 국민과 국가 및 관련 기관 간에 일어나고 있음을 보여준다. 또한, 사회 내 집단과 집단 간의 갈등 양상도 관찰되었다. 대표적으로 여성과 남성, 그리고 약물과 이민자 문제에 관한 미국인과의 갈등이 그 예이다.",
+            "SP": "Este estudio tuvo como objetivo comprender los aspectos de conflicto en México mediante la extracción y análisis de discursos de odio a partir de big data. Se extrajeron palabras clave de periódicos diarios en los dominios político, económico y social en México, y se construyó big data buscando con estas palabras clave en Twitter y YouTube. El análisis se centró en los discursos de odio para entender los patrones de conflicto. Los resultados mostraron que los conflictos en México se manifiestan principalmente en forma de odio hacia algunos políticos y funcionarios gubernamentales por la mayoría de la población. Esto indica que la mayoría de los mexicanos albergan odio hacia el gobierno y las instituciones relacionadas, revelando que el conflicto social en México ocurre entre el público general y el estado e instituciones relacionadas. Además, se observaron aspectos de conflicto entre grupos dentro de la sociedad, como conflictos entre mujeres y hombres y entre mexicanos con estadounidenses sobre las cuestiones de drogas e inmigrantes siendo un ejemplo principal.",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0099",
+            "index": 99,
+            "KO": "Torrero 선생님께\n\n저는 고려대학교 서어서문학과 조교입니다. 선생님께 몇몇 정보를 요청드리고자 메일 드립니다.\n강연료 지불을 위해, 다음과 같은 정보가 필요합니다. \n\n1) 이름, 성\n2) 소속\n3) 주소\n4) 전화번호\n5) 수취은행 SWIFT 혹은 IBAN 코드\n6) 지급 받을 은행 계좌\n7) 수취 은행 주소\n8) 수취 은행 전화번호\n\n아울러 여권 사본과 이력서 그리고 통장 사본이 필요합니다. \n강연료에 대한 지급은 한달 정도 걸릴 예정입니다. 문의사항이 있으시다면 언제든 메일 주시기 바랍니다. \n\n감사합니다.\n\n황경진 드림",
+            "SP": "Estimado Sr. Torrero:\n\nSoy asistenta del departamento de lingüística y literatura españolas de Universidad de Corea. Le escribo este correo para solicitarle alguna información.\nPara pagar la tarifa, necesitamos la siguiente información:\n\n1) Nombre y apellido\n2) Afiliación\n3) Dirección\n4) Número de teléfono\n5) Código SWIFT e IBAN del banco receptor\n6) Cuenta bancaria para recibir el pago\n7) Dirección del banco a pagar\n8) Número de teléfono del banco a pagar\n\nAdemás necesitamos la copia de pasaporte, su CV y la copia de su libre de bancaria. \nEl pago de la tarifa de presentación tardará hasta un mes. Si tiene alguna pregunta, no dude en enviarnos correos electrónicos.\n\nAtentamente, \n\nKyungjin Hwang. \n",
+            "note": NaN
+        },
+        {
+            "segmentid": "M-TE-WT-01-0100",
+            "index": 100,
+            "KO": "고객 서비스 부서 담당자분께, \n\n저는 귀사의 고객으로서 지난 10년간 이용해온 Pedro 입니다. 계약 조건의 불이행에 대해 정식으로 항의하기 위해 이 메일을 드립니다. \n\n지난 5월 10일, 국내 번호로 전화를 걸 수 있는 휴대폰과 요금제를 월 20유로에 제공받기로 귀사와 계약을 체결했습니다. 하지만 거의 한 달이 지난 후에도 휴대폰을 받지 못했으며 따라서 통화를 할 수 없습니다. 전화를 걸 수 없는 상태로 한 달을 보낸 것뿐만 아니라 전화를 받지 못해 취업의 기회를 놓쳤습니다.\n\n또한, 계약을 체결한 지 30일이 넘어가면서 이전에 사용하던 전화번호를 사용하지 못하게 되었습니다.\n\n이러한 이유로, 약속된 조건이 이행되지 않았기 때문에 제공된 서비스에 대해 정식으로 항의하고자 합니다. 고객에게 이런 식으로 대응하는 것은 옳지 않다고 생각합니다.\n\n소비자 단체 규정에 따라 계약금 환불과 계약 불이행으로 인해 발생한 손해에 대한 배상을 요청합니다.\n\n답변 기다리겠습니다. 감사합니다. ",
+            "SP": "A la atención del departamento de atención al cliente. \n\nMe llamo Pedro y soy clicente de su empresa desde hace 10 años. Les ecribo esta carta con la intención de formalizar mi reclamación pro el incumplimiento de las condiiciones del contrato. \n\nEl pasado día 10 de mayo firmé un contrato con su compañía para recibir un teléfono móvil y una tarifa para llamar a números nacionales, todo por 20 euros al mes. Resulta que, después de casi un mes, no he recibido el teléfono y no puedo realizar llamadas. No solo he estado un mes sin poder llamar, sino que también he perdido oportunidades de trabajo debido a no poder recibir llamadas. \n\nAdemás, he perdido mi anterior número de teléfono puesto que han pasado más de 30 días desde que firmé el contrato. \n\nPor todo esto, me gustaría poner una reclamación formal por el servicio prestado, ya que no se han cumplido las condiciones acordadas, y creo que no es justo que hagan esto con sus clientes. \n\nDe acuerdo con las normas de la Organización de Consumidores y Usuarios, solicito el reembolso del contrato, así como una indemnización por los daños y perjuicios causados como consecuencia del incumplimiento del contrato. \n\nQuedo a la espera de noticias suyas, reciban un cordial saludo, ",
+            "note": NaN
+        }
+    ]
+}

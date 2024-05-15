@@ -1,0 +1,5651 @@
+{
+    "document-id": "3",
+    "filename": "sin-sp-ko-1",
+    "dataSet": "한서 및 서한 기계번역 품질 평가 데이터",
+    "sourceLanguage": "KO",
+    "targetLanguage": "SP",
+    "segments": [
+        {
+            "segmentId": "S-SC-SU-01-0001",
+            "index": 1.0,
+            "ref": {
+                "A": {
+                    "sourceText": "고양이는 물을 싫어해요.",
+                    "targetText": "El gato odia el agua."
+                },
+                "B": {
+                    "sourceText": "고양이는 물을 싫어해요.",
+                    "targetText": "El gato odia el agua."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0002",
+            "index": 2.0,
+            "ref": {
+                "A": {
+                    "sourceText": "알리시아는 매우 똑똑해요.",
+                    "targetText": "Alicia es muy inteligente."
+                },
+                "B": {
+                    "sourceText": "알리시아는 매우 똑똑해요.",
+                    "targetText": "Alicia es muy inteligente."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0003",
+            "index": 3.0,
+            "ref": {
+                "A": {
+                    "sourceText": "강아지들이 해변에서 놀아요.",
+                    "targetText": "Los perros juegan en la playa."
+                },
+                "B": {
+                    "sourceText": "강아지들이 해변에서 놀아요.",
+                    "targetText": "Los perros juegan en la playa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0004",
+            "index": 4.0,
+            "ref": {
+                "A": {
+                    "sourceText": "불행이 일어났다.",
+                    "targetText": "Ha ocurrido una desgracia"
+                },
+                "B": {
+                    "sourceText": "불행이 일어났다.",
+                    "targetText": "Ha ocurrido una desgracia"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "한 불행이 일어났다.",
+                    "targetText": "Una desgracia ha ocurrido."
+                },
+                "B": {
+                    "sourceText": "한 불행이 일어났다.",
+                    "targetText": "Una desgracia ha ocurrido."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0005",
+            "index": 5.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 눈이 더 많이 오는 마을에 살고 싶다.",
+                    "targetText": "Quiero vivir en un pueblo donde caiga más nieve."
+                },
+                "B": {
+                    "sourceText": "나는 눈이 더 많이 오는 마을에 살고 싶다.",
+                    "targetText": "Quiero vivir en un pueblo donde caiga más nieve."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 더 많은 눈이 떨어지는 마을에 살고 싶다.",
+                    "targetText": "Quiero vivir en un pueblo donde más nieve caiga."
+                },
+                "B": {
+                    "sourceText": "나는 더 많은 눈이 떨어지는 마을에 살고 싶다.",
+                    "targetText": "Quiero vivir en un pueblo donde más nieve caiga."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0006",
+            "index": 6.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이 마을에서 차를 판다.",
+                    "targetText": "En este barrio se venden coches."
+                },
+                "B": {
+                    "sourceText": "이 마을에서 차를 판다.",
+                    "targetText": "En este barrio se venden coches."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "이 마을에서 차가 팔린다.",
+                    "targetText": "Unos coches se venden en este barrio."
+                },
+                "B": {
+                    "sourceText": "이 마을에서 차가 팔린다.",
+                    "targetText": "Unos coches se venden en este barrio."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0007",
+            "index": 7.0,
+            "ref": {
+                "A": {
+                    "sourceText": "어제 해가 떴다.",
+                    "targetText": "Ayer salió el sol."
+                },
+                "B": {
+                    "sourceText": "어제 해가 떴다.",
+                    "targetText": "Ayer salió el sol."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "어제 떴다 해가.",
+                    "targetText": "Ayer el sol salió."
+                },
+                "B": {
+                    "sourceText": "어제 떴다 해가.",
+                    "targetText": "Ayer el sol salió."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0008",
+            "index": 8.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 차를 우리 아빠가 샀다.",
+                    "targetText": "El coche lo ha comprado mi padre."
+                },
+                "B": {
+                    "sourceText": "그 차를 우리 아빠가 샀다.",
+                    "targetText": "El coche lo ha comprado mi padre."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "우리 아빠가 그 차를 산다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "우리 아빠가 그 차를 산다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0009",
+            "index": 9.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그녀가 무슨 책을 샀어?",
+                    "targetText": "¿Qué libros ha comprado ella?"
+                },
+                "B": {
+                    "sourceText": "그녀가 무슨 책을 샀어?",
+                    "targetText": "¿Qué libros ha comprado ella?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0010",
+            "index": 10.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그렇게 하는게 더 나은거 같아. 내 생각엔 그래.",
+                    "targetText": "Es mejor así, creo yo. "
+                },
+                "B": {
+                    "sourceText": "그렇게 하는게 더 나은거 같아. 내 생각엔 그래.",
+                    "targetText": "Es mejor así, creo yo. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "내 생각엔 그렇게 하는게 더 나은거 같아.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "내 생각엔 그렇게 하는게 더 나은거 같아.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0011",
+            "index": 11.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그녀가 도착하면서 파티는 시작되었어요.",
+                    "targetText": "Habiendo llegado ella, empezó la fiesta."
+                },
+                "B": {
+                    "sourceText": "그녀가 도착하면서 파티는 시작되었어요.",
+                    "targetText": "Habiendo llegado ella, empezó la fiesta."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Habiendo llegado ella, la fiesta empezó."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Habiendo llegado ella, la fiesta empezó."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-01-0012",
+            "index": 12.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나에게 말 좀 해보세요. 이 정책을 시행하는게 맞아요?",
+                    "targetText": "Digame usted, ¿es correcto tomar esta medida?"
+                },
+                "B": {
+                    "sourceText": "나에게 말 좀 해보세요. 이 정책을 시행하는게 맞아요?",
+                    "targetText": "Digame usted, ¿es correcto tomar esta medida?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0013",
+            "index": 13.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그에게 미리 시간을 말해주는게 나을거 같아.",
+                    "targetText": "Es mejor que le avises con tiempo."
+                },
+                "B": {
+                    "sourceText": "그에게 미리 시간을 말해주는게 나을거 같아.",
+                    "targetText": "Es mejor que le avises con tiempo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Que le avises con tiempo es mejor."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Que le avises con tiempo es mejor."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0014",
+            "index": 14.0,
+            "ref": {
+                "A": {
+                    "sourceText": "네가 아픔을 못느끼는건 아주 좋은 신호야.",
+                    "targetText": "Que no te duela es una buena señal."
+                },
+                "B": {
+                    "sourceText": "네가 아픔을 못느끼는건 아주 좋은 신호야.",
+                    "targetText": "Que no te duela es una buena señal."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0015",
+            "index": 15.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너는 개인적으로 서류들을 제출할 필요가 있어.",
+                    "targetText": "Es necesario que entregues los papeles personalmente."
+                },
+                "B": {
+                    "sourceText": "너는 개인적으로 서류들을 제출할 필요가 있어.",
+                    "targetText": "Es necesario que entregues los papeles personalmente."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Que entregues los papeles personalmente es necesario."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Que entregues los papeles personalmente es necesario."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0016",
+            "index": 16.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 먹고 마시는걸 좋아한다.",
+                    "targetText": "Me encanta comer y beber."
+                },
+                "B": {
+                    "sourceText": "나는 먹고 마시는걸 좋아한다.",
+                    "targetText": "Me encanta comer y beber."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "먹고 마시는건 내가 좋아하게 한다.",
+                    "targetText": "Comer y beber me encanta."
+                },
+                "B": {
+                    "sourceText": "먹고 마시는건 내가 좋아하게 한다.",
+                    "targetText": "Comer y beber me encanta."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0017",
+            "index": 17.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그는 내가 누구인지 신경 쓰지 않았다.",
+                    "targetText": "No le impotaba quién era yo."
+                },
+                "B": {
+                    "sourceText": "그는 내가 누구인지 신경 쓰지 않았다.",
+                    "targetText": "No le impotaba quién era yo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "내가 누구인지는 그에게 신경쓸 것이 아니었다.",
+                    "targetText": "Quién era yo no le importaba."
+                },
+                "B": {
+                    "sourceText": "내가 누구인지는 그에게 신경쓸 것이 아니었다.",
+                    "targetText": "Quién era yo no le importaba."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0018",
+            "index": 18.0,
+            "ref": {
+                "A": {
+                    "sourceText": "마지막에 웃는자가 승자다.",
+                    "targetText": "El que ríe al último ríe mejor."
+                },
+                "B": {
+                    "sourceText": "마지막에 웃는자가 승자다.",
+                    "targetText": "El que ríe al último ríe mejor."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "마지막에 웃는자가 더 웃는다.",
+                    "targetText": "Ríe mejor el que ríe el último."
+                },
+                "B": {
+                    "sourceText": "마지막에 웃는자가 더 웃는다.",
+                    "targetText": "Ríe mejor el que ríe el último."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0019",
+            "index": 19.0,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Es impresionante cuánto calor hace estos días."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Es impresionante cuánto calor hace estos días."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Cuánto calor hace estos días es impresionante."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Cuánto calor hace estos días es impresionante."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0020",
+            "index": 20.0,
+            "ref": {
+                "A": {
+                    "sourceText": "다른나라로 이민 갈 때 중요한 것은 언어를 배우는 것이다.",
+                    "targetText": "Cuando se quiere emigrar a otro país, lo importante es aprender idiomas."
+                },
+                "B": {
+                    "sourceText": "다른나라로 이민 갈 때 중요한 것은 언어를 배우는 것이다.",
+                    "targetText": "Cuando se quiere emigrar a otro país, lo importante es aprender idiomas."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "다른 나라로 이민갈 때 언어를 배우는 것이 중요하다.",
+                    "targetText": "Cuando se quiere emigrar a otrao país, es importante aprender idiomas."
+                },
+                "B": {
+                    "sourceText": "다른 나라로 이민갈 때 언어를 배우는 것이 중요하다.",
+                    "targetText": "Cuando se quiere emigrar a otrao país, es importante aprender idiomas."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0021",
+            "index": 21.0,
+            "ref": {
+                "A": {
+                    "sourceText": "마을에 한 낯선 사람이 도착했다.",
+                    "targetText": "Ha llegado al pueblo un extraño."
+                },
+                "B": {
+                    "sourceText": "마을에 한 낯선 사람이 도착했다.",
+                    "targetText": "Ha llegado al pueblo un extraño."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "한 낯선 사람이 마을에 도착했다.",
+                    "targetText": "Un extraño ha llegado al pueblo."
+                },
+                "B": {
+                    "sourceText": "한 낯선 사람이 마을에 도착했다.",
+                    "targetText": "Un extraño ha llegado al pueblo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-02-0022",
+            "index": 22.0,
+            "ref": {
+                "A": {
+                    "sourceText": "9시는 술 마시기 좋은 시간이다.",
+                    "targetText": "A las nueve es una buna hora para beber."
+                },
+                "B": {
+                    "sourceText": "9시는 술 마시기 좋은 시간이다.",
+                    "targetText": "A las nueve es una buna hora para beber."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "술마시기 좋은 시간은 9시이다.",
+                    "targetText": "Las nueve es un buena hora para beber."
+                },
+                "B": {
+                    "sourceText": "술마시기 좋은 시간은 9시이다.",
+                    "targetText": "Las nueve es un buena hora para beber."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0023",
+            "index": 23.0,
+            "ref": {
+                "A": {
+                    "sourceText": "지금이 시작하기 좋은 시간이다.",
+                    "targetText": "Ahora es la mejor hora para empezar."
+                },
+                "B": {
+                    "sourceText": "지금이 시작하기 좋은 시간이다.",
+                    "targetText": "Ahora es la mejor hora para empezar."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "시작하기 좋은 시간은 지금이다.",
+                    "targetText": "La mejor hora para empezar es ahora."
+                },
+                "B": {
+                    "sourceText": "시작하기 좋은 시간은 지금이다.",
+                    "targetText": "La mejor hora para empezar es ahora."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0024",
+            "index": 24.0,
+            "ref": {
+                "A": {
+                    "sourceText": "커튼 뒤는 숨기 좋은 장소이다.",
+                    "targetText": "Detrás de las cortinas es un buen sitio para esconderse."
+                },
+                "B": {
+                    "sourceText": "커튼 뒤는 숨기 좋은 장소이다.",
+                    "targetText": "Detrás de las cortinas es un buen sitio para esconderse."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "커튼 뒤의 장소는 숨기 좋은 장소이다.",
+                    "targetText": "Un buen sitio para esconderse es detrás de las cortinas."
+                },
+                "B": {
+                    "sourceText": "커튼 뒤의 장소는 숨기 좋은 장소이다.",
+                    "targetText": "Un buen sitio para esconderse es detrás de las cortinas."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0025",
+            "index": 25.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 소년은 인터넷에서 파일을 다운 받았다.",
+                    "targetText": "El chico descarga los archivos de internet."
+                },
+                "B": {
+                    "sourceText": "그 소년은 인터넷에서 파일을 다운 받았다.",
+                    "targetText": "El chico descarga los archivos de internet."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0026",
+            "index": 26.0,
+            "ref": {
+                "A": {
+                    "sourceText": "인터넷의 파일들이 그 소년에 의해 다운받아졌다.",
+                    "targetText": "Los archivos del internet los descarga el chico."
+                },
+                "B": {
+                    "sourceText": "인터넷의 파일들이 그 소년에 의해 다운받아졌다.",
+                    "targetText": "Los archivos del internet los descarga el chico."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Los archivos del internet son descargados por el chico."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Los archivos del internet son descargados por el chico."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0027",
+            "index": 27.0,
+            "ref": {
+                "A": {
+                    "sourceText": "해가 옷을 마르게 했다.",
+                    "targetText": "El sol seca la ropa."
+                },
+                "B": {
+                    "sourceText": "해가 옷을 마르게 했다.",
+                    "targetText": "El sol seca la ropa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0028",
+            "index": 28.0,
+            "ref": {
+                "A": {
+                    "sourceText": "옷이 말랐다.",
+                    "targetText": "La ropa se seca."
+                },
+                "B": {
+                    "sourceText": "옷이 말랐다.",
+                    "targetText": "La ropa se seca."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0029",
+            "index": 29.0,
+            "ref": {
+                "A": {
+                    "sourceText": "불이 물을 끓게 했다.",
+                    "targetText": "El fuego hirvió el agua."
+                },
+                "B": {
+                    "sourceText": "불이 물을 끓게 했다.",
+                    "targetText": "El fuego hirvió el agua."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0030",
+            "index": 30.0,
+            "ref": {
+                "A": {
+                    "sourceText": "물이 끓었다.",
+                    "targetText": "El agua hirvió."
+                },
+                "B": {
+                    "sourceText": "물이 끓었다.",
+                    "targetText": "El agua hirvió."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0031",
+            "index": 31.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그걸 보는 것은 부끄럽다.",
+                    "targetText": "Daba vergüenza verlo."
+                },
+                "B": {
+                    "sourceText": "그걸 보는 것은 부끄럽다.",
+                    "targetText": "Daba vergüenza verlo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "그걸 보는 것은 부끄럽게 했다.",
+                    "targetText": "Daba vergüenza de verlo."
+                },
+                "B": {
+                    "sourceText": "그걸 보는 것은 부끄럽게 했다.",
+                    "targetText": "Daba vergüenza de verlo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0032",
+            "index": 32.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 사업이 잘 안돼.",
+                    "targetText": "No me va bien el negocio."
+                },
+                "B": {
+                    "sourceText": "내 사업이 잘 안돼.",
+                    "targetText": "No me va bien el negocio."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "사업에서 내가 잘 안풀려요.",
+                    "targetText": "No me va bien en el negocio."
+                },
+                "B": {
+                    "sourceText": "사업에서 내가 잘 안풀려요.",
+                    "targetText": "No me va bien en el negocio."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0033",
+            "index": 33.0,
+            "ref": {
+                "A": {
+                    "sourceText": "코가 간지러웠다.",
+                    "targetText": "Me picaba la nariz."
+                },
+                "B": {
+                    "sourceText": "코가 간지러웠다.",
+                    "targetText": "Me picaba la nariz."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "코가 나를 간지럽게 했다.",
+                    "targetText": "Me hizo cosquillas en la nariz."
+                },
+                "B": {
+                    "sourceText": "코가 나를 간지럽게 했다.",
+                    "targetText": "Me hizo cosquillas en la nariz."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-03-0034",
+            "index": 34.0,
+            "ref": {
+                "A": {
+                    "sourceText": "코가 간지러웠다.",
+                    "targetText": "Me picaba la nariz."
+                },
+                "B": {
+                    "sourceText": "코가 간지러웠다.",
+                    "targetText": "Me picaba la nariz."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "코에서 간지러움을 느꼈다.",
+                    "targetText": "Me hizo cosquillas en la nariz."
+                },
+                "B": {
+                    "sourceText": "코에서 간지러움을 느꼈다.",
+                    "targetText": "Me hizo cosquillas en la nariz."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0035",
+            "index": 35.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너의 말들은 나에게 충분해.",
+                    "targetText": "Me bastan tus palabras."
+                },
+                "B": {
+                    "sourceText": "너의 말들은 나에게 충분해.",
+                    "targetText": "Me bastan tus palabras."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 너의 말들로 충분해.",
+                    "targetText": "Me basta con tus palabras."
+                },
+                "B": {
+                    "sourceText": "나는 너의 말들로 충분해.",
+                    "targetText": "Me basta con tus palabras."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0036",
+            "index": 36.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너의 말들은 나에게 충분함을 느끼게 해.",
+                    "targetText": "Me basta con tus palabras."
+                },
+                "B": {
+                    "sourceText": "너의 말들은 나에게 충분함을 느끼게 해.",
+                    "targetText": "Me basta con tus palabras."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "너의 말들은 충분해.",
+                    "targetText": "Basta de tus palabras."
+                },
+                "B": {
+                    "sourceText": "너의 말들은 충분해.",
+                    "targetText": "Basta de tus palabras."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0037",
+            "index": 37.0,
+            "ref": {
+                "A": {
+                    "sourceText": "당신은 운이 아주 좋으시군요.",
+                    "targetText": "Usted tiene mucha suerte."
+                },
+                "B": {
+                    "sourceText": "당신은 운이 아주 좋으시군요.",
+                    "targetText": "Usted tiene mucha suerte."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "운이 아주 좋네요.",
+                    "targetText": "Tiene mucha suerte."
+                },
+                "B": {
+                    "sourceText": "운이 아주 좋네요.",
+                    "targetText": "Tiene mucha suerte."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0038",
+            "index": 38.0,
+            "ref": {
+                "A": {
+                    "sourceText": "전하, 식사를 다 하셨습니까?",
+                    "targetText": "Vuestra majestad, ¿ha terminado ya de comer?"
+                },
+                "B": {
+                    "sourceText": "전하, 식사를 다 하셨습니까?",
+                    "targetText": "Vuestra majestad, ¿ha terminado ya de comer?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "전하, 식사를 다 했어요?",
+                    "targetText": "Vuestra majestad, ¿has terminado ya de comer?"
+                },
+                "B": {
+                    "sourceText": "전하, 식사를 다 했어요?",
+                    "targetText": "Vuestra majestad, ¿has terminado ya de comer?"
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0039",
+            "index": 39.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리 한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.",
+                    "targetText": "Los habitantes de Corea hemos experimentado un cambio drámatico de clima."
+                },
+                "B": {
+                    "sourceText": "우리 한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.",
+                    "targetText": "Los habitantes de Corea hemos experimentado un cambio drámatico de clima."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.",
+                    "targetText": "Los habitantes de Corea han experimentado un cambio drámatico de clima."
+                },
+                "B": {
+                    "sourceText": "한국에 사는 사람들은 급격한 기후 변화를 경험해왔습니다.",
+                    "targetText": "Los habitantes de Corea han experimentado un cambio drámatico de clima."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0040",
+            "index": 40.0,
+            "ref": {
+                "A": {
+                    "sourceText": "컴퓨터와 프린터가 어제 고장났다.",
+                    "targetText": "El ordenador y la impresora se estropearon ayer."
+                },
+                "B": {
+                    "sourceText": "컴퓨터와 프린터가 어제 고장났다.",
+                    "targetText": "El ordenador y la impresora se estropearon ayer."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0041",
+            "index": 41.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 의사이자 변호사인 사람은 승소할 것이다.",
+                    "targetText": "El abogado y médico ganará el juicio."
+                },
+                "B": {
+                    "sourceText": "그 의사이자 변호사인 사람은 승소할 것이다.",
+                    "targetText": "El abogado y médico ganará el juicio."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "의사인 변호사는 승소할 것이다.",
+                    "targetText": "El abogado y el médico ganarán el juicio."
+                },
+                "B": {
+                    "sourceText": "의사인 변호사는 승소할 것이다.",
+                    "targetText": "El abogado y el médico ganarán el juicio."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0042",
+            "index": 42.0,
+            "ref": {
+                "A": {
+                    "sourceText": "눈 또는 비는 형태가 있다.",
+                    "targetText": "La lluvia o la nieve tienen formas."
+                },
+                "B": {
+                    "sourceText": "눈 또는 비는 형태가 있다.",
+                    "targetText": "La lluvia o la nieve tienen formas."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "La lluvia o la nieve tiene formas."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "La lluvia o la nieve tiene formas."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0043",
+            "index": 43.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 아들도 딸도 일본어를 할줄 모른다.",
+                    "targetText": "Ni mi hijo ni mi hija saben hablar japónes."
+                },
+                "B": {
+                    "sourceText": "내 아들도 딸도 일본어를 할줄 모른다.",
+                    "targetText": "Ni mi hijo ni mi hija saben hablar japónes."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "내 아들과 딸은 일본어를 할줄 모른다.",
+                    "targetText": "Ni mi hijo ni mi hija sabe hablar japónes."
+                },
+                "B": {
+                    "sourceText": "내 아들과 딸은 일본어를 할줄 모른다.",
+                    "targetText": "Ni mi hijo ni mi hija sabe hablar japónes."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0044",
+            "index": 44.0,
+            "ref": {
+                "A": {
+                    "sourceText": "양심도 죄책감도 없다.",
+                    "targetText": "Ya no existe ni la conciencia ni el pecado."
+                },
+                "B": {
+                    "sourceText": "양심도 죄책감도 없다.",
+                    "targetText": "Ya no existe ni la conciencia ni el pecado."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "양심과 죄책감이 없다.",
+                    "targetText": "Ya no existen ni la conciencia ni el pecado."
+                },
+                "B": {
+                    "sourceText": "양심과 죄책감이 없다.",
+                    "targetText": "Ya no existen ni la conciencia ni el pecado."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0045\n",
+            "index": 45.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 아들과 그 여자친구는 스페인에 두번 여행 간적이 있어요.",
+                    "targetText": "Mi hijo, junto con su novia, ha viajado a España dos veces."
+                },
+                "B": {
+                    "sourceText": "내 아들과 그 여자친구는 스페인에 두번 여행 간적이 있어요.",
+                    "targetText": "Mi hijo, junto con su novia, ha viajado a España dos veces."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "내 아들은 그 여자친구와 함께 스페인에 두번 여행 간적이 있어요.",
+                    "targetText": "Mi hijo y su novia han viajado a España dos veces."
+                },
+                "B": {
+                    "sourceText": "내 아들은 그 여자친구와 함께 스페인에 두번 여행 간적이 있어요.",
+                    "targetText": "Mi hijo y su novia han viajado a España dos veces."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0046\n",
+            "index": 46.0,
+            "ref": {
+                "A": {
+                    "sourceText": "많은 시위자 무리들이 도시의 주요 거리를 걷고 있다.",
+                    "targetText": "Un numeroso grupo de manifestantes recorrió las principales avenidas de la capital."
+                },
+                "B": {
+                    "sourceText": "많은 시위자 무리들이 도시의 주요 거리를 걷고 있다.",
+                    "targetText": "Un numeroso grupo de manifestantes recorrió las principales avenidas de la capital."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "많은 시위대가 도시의 주요거리를 걷고 있다.",
+                    "targetText": "Un numeroso grupo de manifestantes recorrieron las principales avenidas de la capital."
+                },
+                "B": {
+                    "sourceText": "많은 시위대가 도시의 주요거리를 걷고 있다.",
+                    "targetText": "Un numeroso grupo de manifestantes recorrieron las principales avenidas de la capital."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0047\n",
+            "index": 47.0,
+            "ref": {
+                "A": {
+                    "sourceText": "다수의 학생들이 이 정책에 찬성하지 않는다.",
+                    "targetText": "Multitud de estudiantes no están a favor de esta medida."
+                },
+                "B": {
+                    "sourceText": "다수의 학생들이 이 정책에 찬성하지 않는다.",
+                    "targetText": "Multitud de estudiantes no están a favor de esta medida."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "La mayoría de los estudiantes no están a favor de esta medida."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "La mayoría de los estudiantes no están a favor de esta medida."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0048",
+            "index": 48.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 이 부류의 사람들에게는 관심이 전혀 없다.",
+                    "targetText": "Esa clase de personas no me interesa nada."
+                },
+                "B": {
+                    "sourceText": "나는 이 부류의 사람들에게는 관심이 전혀 없다.",
+                    "targetText": "Esa clase de personas no me interesa nada."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "이 부류의 사람들은 나에게 관심을 끌지 않는다.",
+                    "targetText": "Esa clase de personas no me interesan nada."
+                },
+                "B": {
+                    "sourceText": "이 부류의 사람들은 나에게 관심을 끌지 않는다.",
+                    "targetText": "Esa clase de personas no me interesan nada."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0049",
+            "index": 49.0,
+            "ref": {
+                "A": {
+                    "sourceText": "학생들 중 절반이 축제에 참가할거에요.",
+                    "targetText": "La mitad de los estudiantes participarán en la fiesta."
+                },
+                "B": {
+                    "sourceText": "학생들 중 절반이 축제에 참가할거에요.",
+                    "targetText": "La mitad de los estudiantes participarán en la fiesta."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0050",
+            "index": 50.0,
+            "ref": {
+                "A": {
+                    "sourceText": "백명 중 스무명이 찬성했습니다.",
+                    "targetText": "El veinte por ciento estaba de acuerdo."
+                },
+                "B": {
+                    "sourceText": "백명 중 스무명이 찬성했습니다.",
+                    "targetText": "El veinte por ciento estaba de acuerdo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "백명 중 이십명이 찬성했습니다.",
+                    "targetText": "El veinte por ciento estaban de acuerdo."
+                },
+                "B": {
+                    "sourceText": "백명 중 이십명이 찬성했습니다.",
+                    "targetText": "El veinte por ciento estaban de acuerdo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0051\n",
+            "index": 51.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리들 중 많은 인원이 정시에 도착한다.",
+                    "targetText": "Muchos de nosotros llegamos a tiempo."
+                },
+                "B": {
+                    "sourceText": "우리들 중 많은 인원이 정시에 도착한다.",
+                    "targetText": "Muchos de nosotros llegamos a tiempo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "많은 우리들이 정시에 도착한다.",
+                    "targetText": "Muchos de nosotros llegan a tiempo."
+                },
+                "B": {
+                    "sourceText": "많은 우리들이 정시에 도착한다.",
+                    "targetText": "Muchos de nosotros llegan a tiempo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-04-0052\n",
+            "index": 52.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너희들 중 아무도 결혼을 안했니?",
+                    "targetText": "¿Ninguno de vosotros está casado?"
+                },
+                "B": {
+                    "sourceText": "너희들 중 아무도 결혼을 안했니?",
+                    "targetText": "¿Ninguno de vosotros está casado?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "¿Ninguno de vosotros estáis casado?"
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "¿Ninguno de vosotros estáis casado?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0053",
+            "index": 53.0,
+            "ref": {
+                "A": {
+                    "sourceText": "신발 두켤레면 여행에 충분하다.",
+                    "targetText": "Dos pares de zapatos es bastante para viaje."
+                },
+                "B": {
+                    "sourceText": "신발 두켤레면 여행에 충분하다.",
+                    "targetText": "Dos pares de zapatos es bastante para viaje."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Dos pares de zapatos son bastantes para viaje."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Dos pares de zapatos son bastantes para viaje."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "신발 두켤레들이면 여행에 충분하다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "신발 두켤레들이면 여행에 충분하다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0054",
+            "index": 54.0,
+            "ref": {
+                "A": {
+                    "sourceText": "삼천 달러는 이 차를 사기에 충분하다.",
+                    "targetText": "Tres mil dólares es suficiente para comprar este coche."
+                },
+                "B": {
+                    "sourceText": "삼천 달러는 이 차를 사기에 충분하다.",
+                    "targetText": "Tres mil dólares es suficiente para comprar este coche."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "삼천달러들은 이 차를 사기에 충분하다.",
+                    "targetText": "Tres mil dólares son suficientes para comprar este coche."
+                },
+                "B": {
+                    "sourceText": "삼천달러들은 이 차를 사기에 충분하다.",
+                    "targetText": "Tres mil dólares son suficientes para comprar este coche."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0055",
+            "index": 55.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이건 되게 충격적인 조합들이다.",
+                    "targetText": "Esto son mezclas explosivas."
+                },
+                "B": {
+                    "sourceText": "이건 되게 충격적인 조합들이다.",
+                    "targetText": "Esto son mezclas explosivas."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "이것들은 되게 충격적인 조합들이다",
+                    "targetText": "Estas son mezclas explosivas"
+                },
+                "B": {
+                    "sourceText": "이것들은 되게 충격적인 조합들이다",
+                    "targetText": "Estas son mezclas explosivas"
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0056",
+            "index": 56.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?",
+                    "targetText": "Papá, antes vinieron un gorila, una bruja y un dragón, pero...¿todos eras tú?"
+                },
+                "B": {
+                    "sourceText": "아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?",
+                    "targetText": "Papá, antes vinieron un gorila, una bruja y un dragón, pero...¿todos eras tú?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?",
+                    "targetText": "Papá, antes vinieron un gorila, una bruja y un dragón, pero... ¿todos eran tú?"
+                },
+                "B": {
+                    "sourceText": "아빠, 좀 전에 고릴라랑 마녀랑 용이 왔었어요. 근데.. 사실 그거 다 아빠였죠?",
+                    "targetText": "Papá, antes vinieron un gorila, una bruja y un dragón, pero... ¿todos eran tú?"
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0057",
+            "index": 57.0,
+            "ref": {
+                "A": {
+                    "sourceText": "당선자들은 우리들이 아니었어요.",
+                    "targetText": "Los elegidos no fueron nosotros."
+                },
+                "B": {
+                    "sourceText": "당선자들은 우리들이 아니었어요.",
+                    "targetText": "Los elegidos no fueron nosotros."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Los elegidos no fuimos nosotros."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Los elegidos no fuimos nosotros."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0058",
+            "index": 58.0,
+            "ref": {
+                "A": {
+                    "sourceText": "당선자가 접니다.",
+                    "targetText": "El elegido fui yo."
+                },
+                "B": {
+                    "sourceText": "당선자가 접니다.",
+                    "targetText": "El elegido fui yo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "El elegido fue yo."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "El elegido fue yo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0059",
+            "index": 59.0,
+            "ref": {
+                "A": {
+                    "sourceText": "영수가 키가 크다.",
+                    "targetText": "Youngsoo es alto."
+                },
+                "B": {
+                    "sourceText": "영수가 키가 크다.",
+                    "targetText": "Youngsoo es alto."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "La altura de Youngsoo es alta."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "La altura de Youngsoo es alta."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0060",
+            "index": 60.0,
+            "ref": {
+                "A": {
+                    "sourceText": "뻬드로가 누나가 영문과를 전공한다.",
+                    "targetText": "La hermana de Pedro estudia literatura inglesa."
+                },
+                "B": {
+                    "sourceText": "뻬드로가 누나가 영문과를 전공한다.",
+                    "targetText": "La hermana de Pedro estudia literatura inglesa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "뻬드로의 누나가 영문과를 전공한다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "뻬드로의 누나가 영문과를 전공한다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Pedro y su hermana estudian literatura inglesa."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Pedro y su hermana estudian literatura inglesa."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0061",
+            "index": 61.0,
+            "ref": {
+                "A": {
+                    "sourceText": "삼성이 핸드폰이 좋다.",
+                    "targetText": "Los móviles de Samsung son muy buenos."
+                },
+                "B": {
+                    "sourceText": "삼성이 핸드폰이 좋다.",
+                    "targetText": "Los móviles de Samsung son muy buenos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "삼성의 핸드폰이 좋다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "삼성의 핸드폰이 좋다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Samsung tiene muy buen móvil."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Samsung tiene muy buen móvil."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0062",
+            "index": 62.0,
+            "ref": {
+                "A": {
+                    "sourceText": "맥주가 두병이 부족하다.",
+                    "targetText": "Hacen falta dos botellas de cerveza"
+                },
+                "B": {
+                    "sourceText": "맥주가 두병이 부족하다.",
+                    "targetText": "Hacen falta dos botellas de cerveza"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Dos botellas de cervezas son escasas."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Dos botellas de cervezas son escasas."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0063",
+            "index": 63.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 학생이 돈이 없어서 버스를 못탔어요.",
+                    "targetText": "Ese estudiante no tenía dinero, por eso no podía tomar el autobús."
+                },
+                "B": {
+                    "sourceText": "그 학생이 돈이 없어서 버스를 못탔어요.",
+                    "targetText": "Ese estudiante no tenía dinero, por eso no podía tomar el autobús."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-SU-05-0064",
+            "index": 64.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이 꽃이 향기가 많이 나네요.",
+                    "targetText": "Esta flor tiene muy buen olor."
+                },
+                "B": {
+                    "sourceText": "이 꽃이 향기가 많이 나네요.",
+                    "targetText": "Esta flor tiene muy buen olor."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0065",
+            "index": 65.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 커피가 싫어요.",
+                    "targetText": "Yo odio el café."
+                },
+                "B": {
+                    "sourceText": "나는 커피가 싫어요.",
+                    "targetText": "Yo odio el café."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0066",
+            "index": 66.0,
+            "ref": {
+                "A": {
+                    "sourceText": "서울은 아파트가 값이 비싸요.",
+                    "targetText": "El precio de los pisos en Seúl es muy alto."
+                },
+                "B": {
+                    "sourceText": "서울은 아파트가 값이 비싸요.",
+                    "targetText": "El precio de los pisos en Seúl es muy alto."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "서울의 아파트 값이 비싸요.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "서울의 아파트 값이 비싸요.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Los pisos de Seúl son muy caros."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Los pisos de Seúl son muy caros."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0067\n",
+            "index": 67.0,
+            "ref": {
+                "A": {
+                    "sourceText": "대구는 여름이 온도가 높아요.",
+                    "targetText": "Las temperaturas en verano en Daegu son altas."
+                },
+                "B": {
+                    "sourceText": "대구는 여름이 온도가 높아요.",
+                    "targetText": "Las temperaturas en verano en Daegu son altas."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "대구의 여름 온도가 높아요.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "대구의 여름 온도가 높아요.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "대구의 여름의 온도가 높아요.",
+                    "targetText": "Daegu tiene la temperaturas muy altas en verano."
+                },
+                "B": {
+                    "sourceText": "대구의 여름의 온도가 높아요.",
+                    "targetText": "Daegu tiene la temperaturas muy altas en verano."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0068\n",
+            "index": 68.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아빠 커피 마셨어.",
+                    "targetText": "Papá ha tomado café."
+                },
+                "B": {
+                    "sourceText": "아빠 커피 마셨어.",
+                    "targetText": "Papá ha tomado café."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0069",
+            "index": 69.0,
+            "ref": {
+                "A": {
+                    "sourceText": "고양이를 은채가 너무 좋아해요.",
+                    "targetText": "A Eunchae le gustan mucho los gatos."
+                },
+                "B": {
+                    "sourceText": "고양이를 은채가 너무 좋아해요.",
+                    "targetText": "A Eunchae le gustan mucho los gatos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "은채가 고양이를 너무 좋아해요.",
+                    "targetText": "Los gatos le gustan mucho a Eunchae."
+                },
+                "B": {
+                    "sourceText": "은채가 고양이를 너무 좋아해요.",
+                    "targetText": "Los gatos le gustan mucho a Eunchae."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0070",
+            "index": 70.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아기가 운다.",
+                    "targetText": "El bebé esta llorando."
+                },
+                "B": {
+                    "sourceText": "아기가 운다.",
+                    "targetText": "El bebé esta llorando."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "El bebé llora."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "El bebé llora."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0071",
+            "index": 71.0,
+            "ref": {
+                "A": {
+                    "sourceText": "비가 온다.",
+                    "targetText": "Llueve."
+                },
+                "B": {
+                    "sourceText": "비가 온다.",
+                    "targetText": "Llueve."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Está lloviendo."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Está lloviendo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0072",
+            "index": 72.0,
+            "ref": {
+                "A": {
+                    "sourceText": "물이 끓는다.",
+                    "targetText": "El agua hierve."
+                },
+                "B": {
+                    "sourceText": "물이 끓는다.",
+                    "targetText": "El agua hierve."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "El agua está hirviendo"
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "El agua está hirviendo"
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0073",
+            "index": 73.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아이들이 고기를 먹는다.",
+                    "targetText": "Los chicos comen carne."
+                },
+                "B": {
+                    "sourceText": "아이들이 고기를 먹는다.",
+                    "targetText": "Los chicos comen carne."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Los chicos están comiendo carne."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Los chicos están comiendo carne."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0074",
+            "index": 74.0,
+            "ref": {
+                "A": {
+                    "sourceText": "남자가 요리를 한다.",
+                    "targetText": "El hombre prepara la comida."
+                },
+                "B": {
+                    "sourceText": "남자가 요리를 한다.",
+                    "targetText": "El hombre prepara la comida."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "El hombre está preparando la comida."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "El hombre está preparando la comida."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0075",
+            "index": 75.0,
+            "ref": {
+                "A": {
+                    "sourceText": "구름이 비로 변한다.",
+                    "targetText": "Los nubes se convirten en lluvia."
+                },
+                "B": {
+                    "sourceText": "구름이 비로 변한다.",
+                    "targetText": "Los nubes se convirten en lluvia."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0076",
+            "index": 76.0,
+            "ref": {
+                "A": {
+                    "sourceText": "물이 공기가 되었다.",
+                    "targetText": "El agua se convirte en aire."
+                },
+                "B": {
+                    "sourceText": "물이 공기가 되었다.",
+                    "targetText": "El agua se convirte en aire."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0077",
+            "index": 77.0,
+            "ref": {
+                "A": {
+                    "sourceText": "하윤이가 유하에게 장난감을 주었다.",
+                    "targetText": "Hayun le dio juguetes a Yuha."
+                },
+                "B": {
+                    "sourceText": "하윤이가 유하에게 장난감을 주었다.",
+                    "targetText": "Hayun le dio juguetes a Yuha."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0078",
+            "index": 78.0,
+            "ref": {
+                "A": {
+                    "sourceText": "은채는 그 일을 엄마와 의논하기로 했다.",
+                    "targetText": "Eunchae va a discutir de eso con su madre."
+                },
+                "B": {
+                    "sourceText": "은채는 그 일을 엄마와 의논하기로 했다.",
+                    "targetText": "Eunchae va a discutir de eso con su madre."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0079",
+            "index": 79.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그는 그 불쌍한 소년을 아들로 여겼다.",
+                    "targetText": "El pobre chico no es su hijo pero lo considera su hijo."
+                },
+                "B": {
+                    "sourceText": "그는 그 불쌍한 소년을 아들로 여겼다.",
+                    "targetText": "El pobre chico no es su hijo pero lo considera su hijo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Él considera al pobre chico como su hijo."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Él considera al pobre chico como su hijo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0080",
+            "index": 80.0,
+            "ref": {
+                "A": {
+                    "sourceText": "집이 굉장히 넓다.",
+                    "targetText": "La casa es muy grande."
+                },
+                "B": {
+                    "sourceText": "집이 굉장히 넓다.",
+                    "targetText": "La casa es muy grande."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0081",
+            "index": 81.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 그림은 실물과 너무 똑같다.",
+                    "targetText": "Este dibujo se parece al real."
+                },
+                "B": {
+                    "sourceText": "그 그림은 실물과 너무 똑같다.",
+                    "targetText": "Este dibujo se parece al real."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Este dibujo es igual al real."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Este dibujo es igual al real."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0082",
+            "index": 82.0,
+            "ref": {
+                "A": {
+                    "sourceText": "저는 Eloy 씨가 그 자리에 적합하다고 생각해요.",
+                    "targetText": "Creo que Eloy es adecuado para ese puesto."
+                },
+                "B": {
+                    "sourceText": "저는 Eloy 씨가 그 자리에 적합하다고 생각해요.",
+                    "targetText": "Creo que Eloy es adecuado para ese puesto."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0083",
+            "index": 83.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아기의 눈물이 그쳤다.",
+                    "targetText": "El bebé ha dejado de llorar."
+                },
+                "B": {
+                    "sourceText": "아기의 눈물이 그쳤다.",
+                    "targetText": "El bebé ha dejado de llorar."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0084",
+            "index": 84.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마가 아기의 눈물을 그쳤다.",
+                    "targetText": "La mamá hizo que el bebé dejara de llorar."
+                },
+                "B": {
+                    "sourceText": "엄마가 아기의 눈물을 그쳤다.",
+                    "targetText": "La mamá hizo que el bebé dejara de llorar."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0085",
+            "index": 85.0,
+            "ref": {
+                "A": {
+                    "sourceText": "벨이 울렸다.",
+                    "targetText": "Sonó el timbre."
+                },
+                "B": {
+                    "sourceText": "벨이 울렸다.",
+                    "targetText": "Sonó el timbre."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0086",
+            "index": 86.0,
+            "ref": {
+                "A": {
+                    "sourceText": "연서가 벨을 울렸다.",
+                    "targetText": "Yeonseo tocó el tiembre."
+                },
+                "B": {
+                    "sourceText": "연서가 벨을 울렸다.",
+                    "targetText": "Yeonseo tocó el tiembre."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0087",
+            "index": 87.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 남자는 그 여자를 두고 떠나 버렸다.",
+                    "targetText": "El hombre se fue dejando a la mujer."
+                },
+                "B": {
+                    "sourceText": "그 남자는 그 여자를 두고 떠나 버렸다.",
+                    "targetText": "El hombre se fue dejando a la mujer."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0088",
+            "index": 88.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나 요즘 스트레스때문에 다 때려치고 싶어.",
+                    "targetText": "Quiero tirar la toalla por el estrés."
+                },
+                "B": {
+                    "sourceText": "나 요즘 스트레스때문에 다 때려치고 싶어.",
+                    "targetText": "Quiero tirar la toalla por el estrés."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0089",
+            "index": 89.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 옷 한번 입어 봐. 잘어울릴거 같은데?",
+                    "targetText": "Pruébate esta ropa. Me parece que te quedará bien."
+                },
+                "B": {
+                    "sourceText": "그 옷 한번 입어 봐. 잘어울릴거 같은데?",
+                    "targetText": "Pruébate esta ropa. Me parece que te quedará bien."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0090",
+            "index": 90.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아이가 텔레비전을 보게 하나요?",
+                    "targetText": "¿Le deja al niño ver la televisión?"
+                },
+                "B": {
+                    "sourceText": "아이가 텔레비전을 보게 하나요?",
+                    "targetText": "¿Le deja al niño ver la televisión?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0091",
+            "index": 91.0,
+            "ref": {
+                "A": {
+                    "sourceText": "곰을 만나면 죽은 체 하세요.",
+                    "targetText": "Finge que estás muerta cuando veas un oso."
+                },
+                "B": {
+                    "sourceText": "곰을 만나면 죽은 체 하세요.",
+                    "targetText": "Finge que estás muerta cuando veas un oso."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Hazte la muerta cuando veas un oso."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Hazte la muerta cuando veas un oso."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0092",
+            "index": 92.0,
+            "ref": {
+                "A": {
+                    "sourceText": "예전에 스페인을 가 봤어.",
+                    "targetText": "Ya he ido a España antes."
+                },
+                "B": {
+                    "sourceText": "예전에 스페인을 가 봤어.",
+                    "targetText": "Ya he ido a España antes."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Antes fui a España."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Antes fui a España."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0093",
+            "index": 93.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아 진짜 짜증나게 좀 만들지마.",
+                    "targetText": "Por favor, no me molestes. "
+                },
+                "B": {
+                    "sourceText": "아 진짜 짜증나게 좀 만들지마.",
+                    "targetText": "Por favor, no me molestes. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0094",
+            "index": 94.0,
+            "ref": {
+                "A": {
+                    "sourceText": "제 고양이가 바닥에 토를 해놓았어요.",
+                    "targetText": "Mi gato vomitó en el suelo."
+                },
+                "B": {
+                    "sourceText": "제 고양이가 바닥에 토를 해놓았어요.",
+                    "targetText": "Mi gato vomitó en el suelo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0095",
+            "index": 95.0,
+            "ref": {
+                "A": {
+                    "sourceText": "눈도 오고 하니 이쯤 헤어지자.",
+                    "targetText": "Como nieva mucho, nos despedimos ahora. "
+                },
+                "B": {
+                    "sourceText": "눈도 오고 하니 이쯤 헤어지자.",
+                    "targetText": "Como nieva mucho, nos despedimos ahora. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0096",
+            "index": 96.0,
+            "ref": {
+                "A": {
+                    "sourceText": "하마터면 큰일 날뻔 했어.",
+                    "targetText": "Casi ocurre una desgracia."
+                },
+                "B": {
+                    "sourceText": "하마터면 큰일 날뻔 했어.",
+                    "targetText": "Casi ocurre una desgracia."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Casi ocurrió una desgracia, pero no."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Casi ocurrió una desgracia, pero no."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0097",
+            "index": 97.0,
+            "ref": {
+                "A": {
+                    "sourceText": "와 진짜 에어컨이 없으니까 더워 죽겠다.",
+                    "targetText": "Como no hay aire acondicionado, me muero de calor. "
+                },
+                "B": {
+                    "sourceText": "와 진짜 에어컨이 없으니까 더워 죽겠다.",
+                    "targetText": "Como no hay aire acondicionado, me muero de calor. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0098",
+            "index": 98.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이제 수업이 슬슬 끝나려는 듯해.",
+                    "targetText": "Parece que la clase termina pronto."
+                },
+                "B": {
+                    "sourceText": "이제 수업이 슬슬 끝나려는 듯해.",
+                    "targetText": "Parece que la clase termina pronto."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0099",
+            "index": 99.0,
+            "ref": {
+                "A": {
+                    "sourceText": "겨울에는 눈이 많이 온다.",
+                    "targetText": "En invierno nieva mucho."
+                },
+                "B": {
+                    "sourceText": "겨울에는 눈이 많이 온다.",
+                    "targetText": "En invierno nieva mucho."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0100",
+            "index": 100.0,
+            "ref": {
+                "A": {
+                    "sourceText": "겨울에는 해가 늦게 뜬다.",
+                    "targetText": "En invierno amanece muy tarde."
+                },
+                "B": {
+                    "sourceText": "겨울에는 해가 늦게 뜬다.",
+                    "targetText": "En invierno amanece muy tarde."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0101",
+            "index": 101.0,
+            "ref": {
+                "A": {
+                    "sourceText": "작년에 후안 교수님이 돌아가셨다.",
+                    "targetText": "El profesor Juan murió el año pasado."
+                },
+                "B": {
+                    "sourceText": "작년에 후안 교수님이 돌아가셨다.",
+                    "targetText": "El profesor Juan murió el año pasado."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0102",
+            "index": 102.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 일하기 싫어, 쉬고 싶어. ",
+                    "targetText": "No quiero trabajar, quiero descansar. "
+                },
+                "B": {
+                    "sourceText": "나는 일하기 싫어, 쉬고 싶어. ",
+                    "targetText": "No quiero trabajar, quiero descansar. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0103",
+            "index": 103.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너 정시에 도착해?",
+                    "targetText": "¿Llegas a tiempo?"
+                },
+                "B": {
+                    "sourceText": "너 정시에 도착해?",
+                    "targetText": "¿Llegas a tiempo?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "¿Llegas en punto?"
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "¿Llegas en punto?"
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-01-0104",
+            "index": 104.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 이 가게에서 옷을 많이 샀어.",
+                    "targetText": "He comprado mucha ropa en esta tienda."
+                },
+                "B": {
+                    "sourceText": "나는 이 가게에서 옷을 많이 샀어.",
+                    "targetText": "He comprado mucha ropa en esta tienda."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0105",
+            "index": 105.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내가 말한거 이해가 안돼?",
+                    "targetText": "¿No entiendes lo que te digo?"
+                },
+                "B": {
+                    "sourceText": "내가 말한거 이해가 안돼?",
+                    "targetText": "¿No entiendes lo que te digo?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0106",
+            "index": 106.0,
+            "ref": {
+                "A": {
+                    "sourceText": "네가 원하는 책 하나 가져와.",
+                    "targetText": "Trae el libro que quieras."
+                },
+                "B": {
+                    "sourceText": "네가 원하는 책 하나 가져와.",
+                    "targetText": "Trae el libro que quieras."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Trae un libro que quieras."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Trae un libro que quieras."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0107",
+            "index": 107.0,
+            "ref": {
+                "A": {
+                    "sourceText": "날씨 엄청 추워. 기다려봐, 외투 하나 줄게",
+                    "targetText": "Hace mucho frío. Espera, te doy una chaqueta. "
+                },
+                "B": {
+                    "sourceText": "날씨 엄청 추워. 기다려봐, 외투 하나 줄게",
+                    "targetText": "Hace mucho frío. Espera, te doy una chaqueta. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0108",
+            "index": 108.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나한테 그런 소식 전하지 마세요.",
+                    "targetText": "No me des este tipo de noticias."
+                },
+                "B": {
+                    "sourceText": "나한테 그런 소식 전하지 마세요.",
+                    "targetText": "No me des este tipo de noticias."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0109",
+            "index": 109.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나를 믿어봐요. 나는 불가능한건 절대 약속 안해요.",
+                    "targetText": "Confía en mí. No te prometo lo imposible."
+                },
+                "B": {
+                    "sourceText": "나를 믿어봐요. 나는 불가능한건 절대 약속 안해요.",
+                    "targetText": "Confía en mí. No te prometo lo imposible."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0110",
+            "index": 110.0,
+            "ref": {
+                "A": {
+                    "sourceText": "도둑은 창문을 통해 들어올수 없었다.",
+                    "targetText": "El ladrón no pudo entrar por la ventana."
+                },
+                "B": {
+                    "sourceText": "도둑은 창문을 통해 들어올수 없었다.",
+                    "targetText": "El ladrón no pudo entrar por la ventana."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0111",
+            "index": 111.0,
+            "ref": {
+                "A": {
+                    "sourceText": "언제든 재앙은 일어날 수 있다.",
+                    "targetText": "Puede ocurrir una catástrofe en cualquier momento."
+                },
+                "B": {
+                    "sourceText": "언제든 재앙은 일어날 수 있다.",
+                    "targetText": "Puede ocurrir una catástrofe en cualquier momento."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0112",
+            "index": 112.0,
+            "ref": {
+                "A": {
+                    "sourceText": "병원에서 담배를 피면 안된다.",
+                    "targetText": "No se debe fumar en hospital."
+                },
+                "B": {
+                    "sourceText": "병원에서 담배를 피면 안된다.",
+                    "targetText": "No se debe fumar en hospital."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0113",
+            "index": 113.0,
+            "ref": {
+                "A": {
+                    "sourceText": "무언가가 그에게 일어난게 분명해요.",
+                    "targetText": "Debe de haberle ocurrido algo."
+                },
+                "B": {
+                    "sourceText": "무언가가 그에게 일어난게 분명해요.",
+                    "targetText": "Debe de haberle ocurrido algo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0114",
+            "index": 114.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이 수영장에선 물안경을 꼭 써야해요.",
+                    "targetText": "Hay que ponerse gafas de natación en esta piscina."
+                },
+                "B": {
+                    "sourceText": "이 수영장에선 물안경을 꼭 써야해요.",
+                    "targetText": "Hay que ponerse gafas de natación en esta piscina."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0115",
+            "index": 115.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 삶이 계속된다면, 그건 당신 덕일겁니다. ",
+                    "targetText": "Si mi vida ha de continuar será por ti."
+                },
+                "B": {
+                    "sourceText": "내 삶이 계속된다면, 그건 당신 덕일겁니다. ",
+                    "targetText": "Si mi vida ha de continuar será por ti."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0116",
+            "index": 116.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너한테 스페인 여행가기 전 꼭 알아야할 10가지 스페인어 문장을 알려줄게.",
+                    "targetText": "Te enseño 10 frases españolas que hay que conocer antes de viajar a España."
+                },
+                "B": {
+                    "sourceText": "너한테 스페인 여행가기 전 꼭 알아야할 10가지 스페인어 문장을 알려줄게.",
+                    "targetText": "Te enseño 10 frases españolas que hay que conocer antes de viajar a España."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0117",
+            "index": 117.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 방탄소년단 콘서트에 가고싶었지만 박사논문때문에 시간이 없어서 못갔어요.",
+                    "targetText": "Quería ir al concierto de BTS, pero no tenía tiempo por mi tesis de doctorado. "
+                },
+                "B": {
+                    "sourceText": "나는 방탄소년단 콘서트에 가고싶었지만 박사논문때문에 시간이 없어서 못갔어요.",
+                    "targetText": "Quería ir al concierto de BTS, pero no tenía tiempo por mi tesis de doctorado. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0118",
+            "index": 118.0,
+            "ref": {
+                "A": {
+                    "sourceText": "너는 네 나이처럼 안보여.",
+                    "targetText": "Tú no pareces tener la edad que tienes."
+                },
+                "B": {
+                    "sourceText": "너는 네 나이처럼 안보여.",
+                    "targetText": "Tú no pareces tener la edad que tienes."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0119",
+            "index": 119.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이거 니가 혼자 한거 맞아? 아이고. 더 하지마. 만약 더 하면 진짜 나 너 죽일거야.",
+                    "targetText": "¿Es verdad que lo hiciste solo? Madre mía. No lo hagas más. Si sigues, te voy a matar. ¿Vale?"
+                },
+                "B": {
+                    "sourceText": "이거 니가 혼자 한거 맞아? 아이고. 더 하지마. 만약 더 하면 진짜 나 너 죽일거야.",
+                    "targetText": "¿Es verdad que lo hiciste solo? Madre mía. No lo hagas más. Si sigues, te voy a matar. ¿Vale?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0120",
+            "index": 120.0,
+            "ref": {
+                "A": {
+                    "sourceText": "FC바르셀로나와 레알마드리드 간의 경기는 매년 항상 충돌적인 경향이 있습니다.",
+                    "targetText": "El partido entre FC Barcelona y Real Madrid suele ser conflictivo todos los años."
+                },
+                "B": {
+                    "sourceText": "FC바르셀로나와 레알마드리드 간의 경기는 매년 항상 충돌적인 경향이 있습니다.",
+                    "targetText": "El partido entre FC Barcelona y Real Madrid suele ser conflictivo todos los años."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0121",
+            "index": 121.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그는 막 집에서 돌아왔고 집을 정리하고 있었어요.",
+                    "targetText": "Acababa de volver del trabajo y estaba arreglando la casa."
+                },
+                "B": {
+                    "sourceText": "그는 막 집에서 돌아왔고 집을 정리하고 있었어요.",
+                    "targetText": "Acababa de volver del trabajo y estaba arreglando la casa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Acababa de volver del trabajo y estaba recogiendo en casa."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Acababa de volver del trabajo y estaba recogiendo en casa."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0122",
+            "index": 122.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 일어나려고 했지만, 소파로 다시 누워버렸고 그 상태로 잠들었어요. ",
+                    "targetText": "Intenté levantarme, pero volví a caer en el sofá y me quedé durmiendo. "
+                },
+                "B": {
+                    "sourceText": "나는 일어나려고 했지만, 소파로 다시 누워버렸고 그 상태로 잠들었어요. ",
+                    "targetText": "Intenté levantarme, pero volví a caer en el sofá y me quedé durmiendo. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0123",
+            "index": 123.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리는 집을 거의 다 칠했고 이제 곧 베란다를 칠할거에요.",
+                    "targetText": "Hemos pintado casi toda la casa pero aun están por pintar la terraza."
+                },
+                "B": {
+                    "sourceText": "우리는 집을 거의 다 칠했고 이제 곧 베란다를 칠할거에요.",
+                    "targetText": "Hemos pintado casi toda la casa pero aun están por pintar la terraza."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0124",
+            "index": 124.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 딸은 학교에서 곧 그 과정을 마쳐요.",
+                    "targetText": "Mi hija está a punto de terminar su curso en el colegio."
+                },
+                "B": {
+                    "sourceText": "내 딸은 학교에서 곧 그 과정을 마쳐요.",
+                    "targetText": "Mi hija está a punto de terminar su curso en el colegio."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0125",
+            "index": 125.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 불쌍한 아이는 엄마가 자전거에서 떨어지는걸 보자마자 울기 시작했어요.",
+                    "targetText": "El pobre niño se puso a llorar al ver que su mamá se cayó de la bicicleta."
+                },
+                "B": {
+                    "sourceText": "그 불쌍한 아이는 엄마가 자전거에서 떨어지는걸 보자마자 울기 시작했어요.",
+                    "targetText": "El pobre niño se puso a llorar al ver que su mamá se cayó de la bicicleta."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0126",
+            "index": 126.0,
+            "ref": {
+                "A": {
+                    "sourceText": "15년 전에 스페인어를 배우기 시작했어요.",
+                    "targetText": "Hace 15 años empezó a aprender español."
+                },
+                "B": {
+                    "sourceText": "15년 전에 스페인어를 배우기 시작했어요.",
+                    "targetText": "Hace 15 años empezó a aprender español."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Hace 15 años que empezó a aprender español."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Hace 15 años que empezó a aprender español."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0127",
+            "index": 127.0,
+            "ref": {
+                "A": {
+                    "sourceText": "흡연을 그만두는건 너무 어려워요.",
+                    "targetText": "Es muy difícil dejar de fumar."
+                },
+                "B": {
+                    "sourceText": "흡연을 그만두는건 너무 어려워요.",
+                    "targetText": "Es muy difícil dejar de fumar."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0128",
+            "index": 128.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 선수는 다쳤지만 뛰는걸 멈추지 않았어요.",
+                    "targetText": "Aunque ese jugador está herido, no para de correr. "
+                },
+                "B": {
+                    "sourceText": "그 선수는 다쳤지만 뛰는걸 멈추지 않았어요.",
+                    "targetText": "Aunque ese jugador está herido, no para de correr. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0129",
+            "index": 129.0,
+            "ref": {
+                "A": {
+                    "sourceText": "모든 서류를 검토하는 것을 막 끝냈어요.",
+                    "targetText": "Acabo de terminar de examinar todos los documentos."
+                },
+                "B": {
+                    "sourceText": "모든 서류를 검토하는 것을 막 끝냈어요.",
+                    "targetText": "Acabo de terminar de examinar todos los documentos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0130",
+            "index": 130.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리 다음 연습 문제 채점으로 넘어가볼까요.",
+                    "targetText": "Vamos a pasar a corregir el siguiente ejercicio."
+                },
+                "B": {
+                    "sourceText": "우리 다음 연습 문제 채점으로 넘어가볼까요.",
+                    "targetText": "Vamos a pasar a corregir el siguiente ejercicio."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-PR-02-0131",
+            "index": 131.0,
+            "ref": {
+                "A": {
+                    "sourceText": "가끔 나는 돈을 버는게 중요하지 않다고 생각하는 경지에 이르러요.",
+                    "targetText": "A veces he llegado a creer que no era importante ganar mucho dinero."
+                },
+                "B": {
+                    "sourceText": "가끔 나는 돈을 버는게 중요하지 않다고 생각하는 경지에 이르러요.",
+                    "targetText": "A veces he llegado a creer que no era importante ganar mucho dinero."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0132",
+            "index": 132.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 운전 능력은 조금씩 좋아지고 있어.",
+                    "targetText": "Mi habilidad de conducir va mejorando poco a poco."
+                },
+                "B": {
+                    "sourceText": "내 운전 능력은 조금씩 좋아지고 있어.",
+                    "targetText": "Mi habilidad de conducir va mejorando poco a poco."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0133",
+            "index": 133.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그들의 진짜의 의도를 우리에게 계속 숨겨오고 있었다.",
+                    "targetText": "Nos viene ocultando sus verdaderas intensiones."
+                },
+                "B": {
+                    "sourceText": "그들의 진짜의 의도를 우리에게 계속 숨겨오고 있었다.",
+                    "targetText": "Nos viene ocultando sus verdaderas intensiones."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0134",
+            "index": 134.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 회사에서 일한지 벌써 10년이 되었어?",
+                    "targetText": "¿Ya llevas 10 años trabajando en esa empresa?"
+                },
+                "B": {
+                    "sourceText": "그 회사에서 일한지 벌써 10년이 되었어?",
+                    "targetText": "¿Ya llevas 10 años trabajando en esa empresa?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0135",
+            "index": 135.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 박사논문 20페이지 썼어.",
+                    "targetText": "Tengo escritas veinte páginas de mi tesis de doctorado."
+                },
+                "B": {
+                    "sourceText": "나는 박사논문 20페이지 썼어.",
+                    "targetText": "Tengo escritas veinte páginas de mi tesis de doctorado."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0136",
+            "index": 136.0,
+            "ref": {
+                "A": {
+                    "sourceText": "Perdro와 나는 이집트로 여행갈 계획을 다 세웠다.",
+                    "targetText": "Pedro y yo tenemos planeado un viaje a Egipto."
+                },
+                "B": {
+                    "sourceText": "Perdro와 나는 이집트로 여행갈 계획을 다 세웠다.",
+                    "targetText": "Pedro y yo tenemos planeado un viaje a Egipto."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0137",
+            "index": 137.0,
+            "ref": {
+                "A": {
+                    "sourceText": "오늘 그 사람 좀 만나야겠다.",
+                    "targetText": "Hoy tengo que ver a esa persona."
+                },
+                "B": {
+                    "sourceText": "오늘 그 사람 좀 만나야겠다.",
+                    "targetText": "Hoy tengo que ver a esa persona."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0138",
+            "index": 138.0,
+            "ref": {
+                "A": {
+                    "sourceText": "내 동생은 경제학을 전공합니다.",
+                    "targetText": "Mi hermano menor estudia economía."
+                },
+                "B": {
+                    "sourceText": "내 동생은 경제학을 전공합니다.",
+                    "targetText": "Mi hermano menor estudia economía."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0139",
+            "index": 139.0,
+            "ref": {
+                "A": {
+                    "sourceText": "걔가 영어는 잘하지만은, 수학은 잘 못한다. ",
+                    "targetText": "Él sabe muy bien inglés, pero no sabe mucho de matemática. "
+                },
+                "B": {
+                    "sourceText": "걔가 영어는 잘하지만은, 수학은 잘 못한다. ",
+                    "targetText": "Él sabe muy bien inglés, pero no sabe mucho de matemática. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0140",
+            "index": 140.0,
+            "ref": {
+                "A": {
+                    "sourceText": "편지 한장만 그분께 전달해 주세요.",
+                    "targetText": "Dele solo una carta al señor."
+                },
+                "B": {
+                    "sourceText": "편지 한장만 그분께 전달해 주세요.",
+                    "targetText": "Dele solo una carta al señor."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0141",
+            "index": 141.0,
+            "ref": {
+                "A": {
+                    "sourceText": "은채는 한국어 뿐만 아니라 스페인어도 잘해요.",
+                    "targetText": "Eunchae sabe muy bien no sólo coreano sino también español."
+                },
+                "B": {
+                    "sourceText": "은채는 한국어 뿐만 아니라 스페인어도 잘해요.",
+                    "targetText": "Eunchae sabe muy bien no sólo coreano sino también español."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-01-0142",
+            "index": 142.0,
+            "ref": {
+                "A": {
+                    "sourceText": "왜 지나가는 사람을 어깨를 치고는 그냥 가세요?",
+                    "targetText": "¿Por qué se va sin decir nada después de empujarle el hombro a alguien?"
+                },
+                "B": {
+                    "sourceText": "왜 지나가는 사람을 어깨를 치고는 그냥 가세요?",
+                    "targetText": "¿Por qué se va sin decir nada después de empujarle el hombro a alguien?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0143",
+            "index": 143.0,
+            "ref": {
+                "A": {
+                    "sourceText": "과일가게에 가서 딸기를 두 박스를 배달해달라고 했다.",
+                    "targetText": "En la frutería dije que me mandaran dos cajas de fresas."
+                },
+                "B": {
+                    "sourceText": "과일가게에 가서 딸기를 두 박스를 배달해달라고 했다.",
+                    "targetText": "En la frutería dije que me mandaran dos cajas de fresas."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0144",
+            "index": 144.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마가 김치를 한통 보냈다.",
+                    "targetText": "Mi madre me mandó una caja de Kimchi."
+                },
+                "B": {
+                    "sourceText": "엄마가 김치를 한통 보냈다.",
+                    "targetText": "Mi madre me mandó una caja de Kimchi."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0145",
+            "index": 145.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마가 김치 한통을 보냈다.",
+                    "targetText": "Mi madre me mandó una caja de Kimchi."
+                },
+                "B": {
+                    "sourceText": "엄마가 김치 한통을 보냈다.",
+                    "targetText": "Mi madre me mandó una caja de Kimchi."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0146",
+            "index": 146.0,
+            "ref": {
+                "A": {
+                    "sourceText": "남은 책들을 저를 주세요.",
+                    "targetText": "Dame el resto de libros."
+                },
+                "B": {
+                    "sourceText": "남은 책들을 저를 주세요.",
+                    "targetText": "Dame el resto de libros."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0147",
+            "index": 147.0,
+            "ref": {
+                "A": {
+                    "sourceText": "유하가 또 노래방을 갔어?",
+                    "targetText": "¿Otra vez Yuha se fue al karaoke?"
+                },
+                "B": {
+                    "sourceText": "유하가 또 노래방을 갔어?",
+                    "targetText": "¿Otra vez Yuha se fue al karaoke?"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0148",
+            "index": 148.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나 교수님을 만났어.",
+                    "targetText": "He visto al profesor."
+                },
+                "B": {
+                    "sourceText": "나 교수님을 만났어.",
+                    "targetText": "He visto al profesor."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0149",
+            "index": 149.0,
+            "ref": {
+                "A": {
+                    "sourceText": "사자는 얼룩말을 사냥합니다.",
+                    "targetText": "El león caza a la cebra."
+                },
+                "B": {
+                    "sourceText": "사자는 얼룩말을 사냥합니다.",
+                    "targetText": "El león caza a la cebra."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0150",
+            "index": 150.0,
+            "ref": {
+                "A": {
+                    "sourceText": "꿀꿀 소리를 내며 돼지는 젖소를 깨웠어요.",
+                    "targetText": "El cerdito despierta a la vaca haciendo oink oink."
+                },
+                "B": {
+                    "sourceText": "꿀꿀 소리를 내며 돼지는 젖소를 깨웠어요.",
+                    "targetText": "El cerdito despierta a la vaca haciendo oink oink."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0151",
+            "index": 151.0,
+            "ref": {
+                "A": {
+                    "sourceText": "대학은 연구자를 양성해야한다.",
+                    "targetText": "La universidad debe formar investigadores."
+                },
+                "B": {
+                    "sourceText": "대학은 연구자를 양성해야한다.",
+                    "targetText": "La universidad debe formar investigadores."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0152",
+            "index": 152.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 똑같은 사람을 보질 못했어.",
+                    "targetText": "Nunca he visto a una persona igual."
+                },
+                "B": {
+                    "sourceText": "나는 똑같은 사람을 보질 못했어.",
+                    "targetText": "Nunca he visto a una persona igual."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Nunca he visto a ninguna persona igual."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Nunca he visto a ninguna persona igual."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0153",
+            "index": 153.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리는 많은 환자들을 도와야한다.",
+                    "targetText": "Tenemos que ayudar a muchos enfermos."
+                },
+                "B": {
+                    "sourceText": "우리는 많은 환자들을 도와야한다.",
+                    "targetText": "Tenemos que ayudar a muchos enfermos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0154",
+            "index": 154.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리는 지나치게 많은 통치자들에게 복종한다.",
+                    "targetText": "Obedecemos a demasiados gobernantes."
+                },
+                "B": {
+                    "sourceText": "우리는 지나치게 많은 통치자들에게 복종한다.",
+                    "targetText": "Obedecemos a demasiados gobernantes."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-02-0155",
+            "index": 155.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 영화들은 많은 관중들을 놀라게 했다.",
+                    "targetText": "Esas películas asustan a muchos espectadores."
+                },
+                "B": {
+                    "sourceText": "그 영화들은 많은 관중들을 놀라게 했다.",
+                    "targetText": "Esas películas asustan a muchos espectadores."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0156",
+            "index": 156.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 많은 외국인들을 접대해야합니다.",
+                    "targetText": "Tengo que atender a muchos extranjeros."
+                },
+                "B": {
+                    "sourceText": "나는 많은 외국인들을 접대해야합니다.",
+                    "targetText": "Tengo que atender a muchos extranjeros."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Tengo que atender muchos extranjeros."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Tengo que atender muchos extranjeros."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0157",
+            "index": 157.0,
+            "ref": {
+                "A": {
+                    "sourceText": "경제 위기는 수천명의 실업자들을 양산했다.",
+                    "targetText": "La crisis producirá miles de desocupados."
+                },
+                "B": {
+                    "sourceText": "경제 위기는 수천명의 실업자들을 양산했다.",
+                    "targetText": "La crisis producirá miles de desocupados."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0158",
+            "index": 158.0,
+            "ref": {
+                "A": {
+                    "sourceText": "더 많은 판사를 요청했으나 행정부는 그를 들어주지 않았습니다.",
+                    "targetText": "Habían pedido más jueces, pero la Administración no los proporcionaba. "
+                },
+                "B": {
+                    "sourceText": "더 많은 판사를 요청했으나 행정부는 그를 들어주지 않았습니다.",
+                    "targetText": "Habían pedido más jueces, pero la Administración no los proporcionaba. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "더 많은 판사를 요청했으나 행정부는 판사를 배정하지 않았습니다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "더 많은 판사를 요청했으나 행정부는 판사를 배정하지 않았습니다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0159",
+            "index": 159.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 아시아인들 사이에서 일본인을 구별할 수 없다.",
+                    "targetText": "No puedo distinguir a los japóneses entre los asiáticos."
+                },
+                "B": {
+                    "sourceText": "나는 아시아인들 사이에서 일본인을 구별할 수 없다.",
+                    "targetText": "No puedo distinguir a los japóneses entre los asiáticos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "No puedo distinguir los japóneses entre los asiáticos."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "No puedo distinguir los japóneses entre los asiáticos."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0160",
+            "index": 160.0,
+            "ref": {
+                "A": {
+                    "sourceText": "장군은 도시를 버리길 원하질 않았고 전쟁을 계속하길 원했어요.",
+                    "targetText": "El general no quería abandonar la ciudad y seguir la guerra."
+                },
+                "B": {
+                    "sourceText": "장군은 도시를 버리길 원하질 않았고 전쟁을 계속하길 원했어요.",
+                    "targetText": "El general no quería abandonar la ciudad y seguir la guerra."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "El general no quería abandonar a la ciudad y seguir la guerra."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "El general no quería abandonar a la ciudad y seguir la guerra."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0161",
+            "index": 161.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그는 사장님께 허락을 구했다.",
+                    "targetText": "Le pidió permiso a su jefe."
+                },
+                "B": {
+                    "sourceText": "그는 사장님께 허락을 구했다.",
+                    "targetText": "Le pidió permiso a su jefe."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0162",
+            "index": 162.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리에게 그는 그걸 말했어요.",
+                    "targetText": "Nos lo dijo a nosotros."
+                },
+                "B": {
+                    "sourceText": "우리에게 그는 그걸 말했어요.",
+                    "targetText": "Nos lo dijo a nosotros."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0163",
+            "index": 163.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 그 회사에 의해 지어지는 집을 살짝 보고 싶어.",
+                    "targetText": "Quiero echarle un vistazo a la casa construida por esa empresa."
+                },
+                "B": {
+                    "sourceText": "나는 그 회사에 의해 지어지는 집을 살짝 보고 싶어.",
+                    "targetText": "Quiero echarle un vistazo a la casa construida por esa empresa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0164",
+            "index": 164.0,
+            "ref": {
+                "A": {
+                    "sourceText": "당신은 여성들이 글을 통해 표현하는 것을 굉장히 중요하게 생각하네요.",
+                    "targetText": "Usted da gran importancia a que las mujeres se expresen por escrito."
+                },
+                "B": {
+                    "sourceText": "당신은 여성들이 글을 통해 표현하는 것을 굉장히 중요하게 생각하네요.",
+                    "targetText": "Usted da gran importancia a que las mujeres se expresen por escrito."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0165",
+            "index": 165.0,
+            "ref": {
+                "A": {
+                    "sourceText": "나는 중국어를 배우는데 어려움을 겪는 그 학생에게 조언을 하고 싶어요.",
+                    "targetText": "Quiero darle un consejo a ese estudiante que tiene mucha dificultad para aprender chino."
+                },
+                "B": {
+                    "sourceText": "나는 중국어를 배우는데 어려움을 겪는 그 학생에게 조언을 하고 싶어요.",
+                    "targetText": "Quiero darle un consejo a ese estudiante que tiene mucha dificultad para aprender chino."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0166",
+            "index": 166.0,
+            "ref": {
+                "A": {
+                    "sourceText": "아이들에게 선물을 줬다.",
+                    "targetText": "Di los regalos a los chicos."
+                },
+                "B": {
+                    "sourceText": "아이들에게 선물을 줬다.",
+                    "targetText": "Di los regalos a los chicos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0167",
+            "index": 167.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그에게 선물을 줬다.",
+                    "targetText": "Le di los regalos."
+                },
+                "B": {
+                    "sourceText": "그에게 선물을 줬다.",
+                    "targetText": "Le di los regalos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0168",
+            "index": 168.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 아들들에게 어제 좋은 설교를 했다.",
+                    "targetText": "Ayer lanzó un buen sermón a sus hijos."
+                },
+                "B": {
+                    "sourceText": "그의 아들들에게 어제 좋은 설교를 했다.",
+                    "targetText": "Ayer lanzó un buen sermón a sus hijos."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0169",
+            "index": 169.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 아들들에게 어제 좋은 설교를 했다.",
+                    "targetText": "A sus hijos, les lanzó ayer un buen sermón. "
+                },
+                "B": {
+                    "sourceText": "그의 아들들에게 어제 좋은 설교를 했다.",
+                    "targetText": "A sus hijos, les lanzó ayer un buen sermón. "
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0170",
+            "index": 170.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 남편에게 소식을 전했습니다.",
+                    "targetText": "Di la noticia a su marido."
+                },
+                "B": {
+                    "sourceText": "그의 남편에게 소식을 전했습니다.",
+                    "targetText": "Di la noticia a su marido."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0171",
+            "index": 171.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 남편에게 소식을 전했습니다.",
+                    "targetText": "Le di la noticia a su marido."
+                },
+                "B": {
+                    "sourceText": "그의 남편에게 소식을 전했습니다.",
+                    "targetText": "Le di la noticia a su marido."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0172",
+            "index": 172.0,
+            "ref": {
+                "A": {
+                    "sourceText": "Alex에게 큰 바구니를 전달했어요.",
+                    "targetText": "Entregaron un canasto a Alex."
+                },
+                "B": {
+                    "sourceText": "Alex에게 큰 바구니를 전달했어요.",
+                    "targetText": "Entregaron un canasto a Alex."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-03-0173",
+            "index": 173.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이네스는 지금 이빨이 아픕니다.",
+                    "targetText": "Le duelen las muelas a Inés."
+                },
+                "B": {
+                    "sourceText": "이네스는 지금 이빨이 아픕니다.",
+                    "targetText": "Le duelen las muelas a Inés."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "A Inés le duelen las muelas."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "A Inés le duelen las muelas."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0174",
+            "index": 174.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이자율의 증가는 아무에게도 놀라운 일이 아니었습니다.",
+                    "targetText": "La subida de intereses no le sorprendió a nadie."
+                },
+                "B": {
+                    "sourceText": "이자율의 증가는 아무에게도 놀라운 일이 아니었습니다.",
+                    "targetText": "La subida de intereses no le sorprendió a nadie."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "이자율의 증가는 아무도 놀라게 하지 않았습니다.",
+                    "targetText": "La subida de intereses no sorprendió a nadie."
+                },
+                "B": {
+                    "sourceText": "이자율의 증가는 아무도 놀라게 하지 않았습니다.",
+                    "targetText": "La subida de intereses no sorprendió a nadie."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0175",
+            "index": 175.0,
+            "ref": {
+                "A": {
+                    "sourceText": "한 밤중의 소음은 많은 사람들을 짜증나게 합니다.",
+                    "targetText": "El ruido nocturno molesta a mucha gente."
+                },
+                "B": {
+                    "sourceText": "한 밤중의 소음은 많은 사람들을 짜증나게 합니다.",
+                    "targetText": "El ruido nocturno molesta a mucha gente."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "한밤중의 소음은 많은 사람들의 짜증을 일으킵니다.",
+                    "targetText": "El ruido nocturno le molesta a mucha gente."
+                },
+                "B": {
+                    "sourceText": "한밤중의 소음은 많은 사람들의 짜증을 일으킵니다.",
+                    "targetText": "El ruido nocturno le molesta a mucha gente."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0176",
+            "index": 176.0,
+            "ref": {
+                "A": {
+                    "sourceText": "후안은 루이사에게 화장실을 고쳐줬어요.",
+                    "targetText": "Juan reparó la lavadora a Luisa."
+                },
+                "B": {
+                    "sourceText": "후안은 루이사에게 화장실을 고쳐줬어요.",
+                    "targetText": "Juan reparó la lavadora a Luisa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0177",
+            "index": 177.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 아이는 선생님을 초조하게 했습니다.",
+                    "targetText": "La niña se le puso nerviosa a la profesora."
+                },
+                "B": {
+                    "sourceText": "그 아이는 선생님을 초조하게 했습니다.",
+                    "targetText": "La niña se le puso nerviosa a la profesora."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "그 아이는 선생님에게 초조한 감정을 느끼게 했습니다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "그 아이는 선생님에게 초조한 감정을 느끼게 했습니다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0178",
+            "index": 178.0,
+            "ref": {
+                "A": {
+                    "sourceText": "이 소설은 사람들에게 관심을 많이 불러모으지 못했어요.",
+                    "targetText": "Estas novelas interesan poco a la gente."
+                },
+                "B": {
+                    "sourceText": "이 소설은 사람들에게 관심을 많이 불러모으지 못했어요.",
+                    "targetText": "Estas novelas interesan poco a la gente."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "이 소설은 사람들에게 조금의 관심을 일으켰습니다.",
+                    "targetText": "Estas novelas le interesan poco a la gente."
+                },
+                "B": {
+                    "sourceText": "이 소설은 사람들에게 조금의 관심을 일으켰습니다.",
+                    "targetText": "Estas novelas le interesan poco a la gente."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0179",
+            "index": 179.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마는 아들을 손을 씻겼다.",
+                    "targetText": "La madre le lavó las manos al hijo."
+                },
+                "B": {
+                    "sourceText": "엄마는 아들을 손을 씻겼다.",
+                    "targetText": "La madre le lavó las manos al hijo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "La madre lavó las manos del hijo."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "La madre lavó las manos del hijo."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0180",
+            "index": 180.0,
+            "ref": {
+                "A": {
+                    "sourceText": "후안의 일을 봤다. / 후안의 논문을 읽었다.",
+                    "targetText": "Le vi el trabajo a Juan."
+                },
+                "B": {
+                    "sourceText": "후안의 일을 봤다. / 후안의 논문을 읽었다.",
+                    "targetText": "Le vi el trabajo a Juan."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Vi el trabajo de Juan."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Vi el trabajo de Juan."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0181",
+            "index": 181.0,
+            "ref": {
+                "A": {
+                    "sourceText": "후안은 마리아를 위해 세차를 했다.",
+                    "targetText": "Juan le lavó el coche a María."
+                },
+                "B": {
+                    "sourceText": "후안은 마리아를 위해 세차를 했다.",
+                    "targetText": "Juan le lavó el coche a María."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Juan lavó el coche de María."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Juan lavó el coche de María."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0182",
+            "index": 182.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리 엄마는 마리아의 옷을 만들어 줬다.",
+                    "targetText": "Mi madre le hizo un vestido a María."
+                },
+                "B": {
+                    "sourceText": "우리 엄마는 마리아의 옷을 만들어 줬다.",
+                    "targetText": "Mi madre le hizo un vestido a María."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Mi madre hizo un vestido para María."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Mi madre hizo un vestido para María."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0183",
+            "index": 183.0,
+            "ref": {
+                "A": {
+                    "sourceText": "마르티나는 로봇의 손을 가져다가 씻었다.",
+                    "targetText": "Martina tomó la mano del robot y la lavó."
+                },
+                "B": {
+                    "sourceText": "마르티나는 로봇의 손을 가져다가 씻었다.",
+                    "targetText": "Martina tomó la mano del robot y la lavó."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0184",
+            "index": 184.0,
+            "ref": {
+                "A": {
+                    "sourceText": "마르티나는 로봇의 손을 씻었다.",
+                    "targetText": "Martina le tomó la mano al robot y se la lavó."
+                },
+                "B": {
+                    "sourceText": "마르티나는 로봇의 손을 씻었다.",
+                    "targetText": "Martina le tomó la mano al robot y se la lavó."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0185",
+            "index": 185.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마는 내 머리를 감겨 주었다.",
+                    "targetText": "Mi madre me lavó el pelo."
+                },
+                "B": {
+                    "sourceText": "엄마는 내 머리를 감겨 주었다.",
+                    "targetText": "Mi madre me lavó el pelo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0186",
+            "index": 186.0,
+            "ref": {
+                "A": {
+                    "sourceText": "엄마는 내가 집을 청소하는 동안 나의 가발을 닦아주었다.",
+                    "targetText": "Mi madre lavó mi pelo mientras yo limpiaba la casa."
+                },
+                "B": {
+                    "sourceText": "엄마는 내가 집을 청소하는 동안 나의 가발을 닦아주었다.",
+                    "targetText": "Mi madre lavó mi pelo mientras yo limpiaba la casa."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0187",
+            "index": 187.0,
+            "ref": {
+                "A": {
+                    "sourceText": "후안의 넥타이를 정리해줬어요.",
+                    "targetText": "Le arreglé la corbata a Juan."
+                },
+                "B": {
+                    "sourceText": "후안의 넥타이를 정리해줬어요.",
+                    "targetText": "Le arreglé la corbata a Juan."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Arreglé la corbata de Juan."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Arreglé la corbata de Juan."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0188",
+            "index": 188.0,
+            "ref": {
+                "A": {
+                    "sourceText": "미나가 남동생을 얼굴을 때렸다.",
+                    "targetText": "Mina le golpeó la cara a su hermano."
+                },
+                "B": {
+                    "sourceText": "미나가 남동생을 얼굴을 때렸다.",
+                    "targetText": "Mina le golpeó la cara a su hermano."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Mina golpeó la cara de su hermano."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Mina golpeó la cara de su hermano."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0189",
+            "index": 189.0,
+            "ref": {
+                "A": {
+                    "sourceText": "미나가 남동생의 얼굴을 보았다.",
+                    "targetText": "Mina le vio la cara a su hermano."
+                },
+                "B": {
+                    "sourceText": "미나가 남동생의 얼굴을 보았다.",
+                    "targetText": "Mina le vio la cara a su hermano."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Mina vio la cara de su hermano."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Mina vio la cara de su hermano."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0190",
+            "index": 190.0,
+            "ref": {
+                "A": {
+                    "sourceText": "모퉁이 너머로 살짝 보이는 교수님의 발을 봤다.",
+                    "targetText": "Vieron el pie del profesor asomarse por la esquina."
+                },
+                "B": {
+                    "sourceText": "모퉁이 너머로 살짝 보이는 교수님의 발을 봤다.",
+                    "targetText": "Vieron el pie del profesor asomarse por la esquina."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0191",
+            "index": 191.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 남자가 고양이를 꼬리를 밟았다.",
+                    "targetText": "Ese hombre le pisó la cola al gato."
+                },
+                "B": {
+                    "sourceText": "그 남자가 고양이를 꼬리를 밟았다.",
+                    "targetText": "Ese hombre le pisó la cola al gato."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Ese hombre pisó la cola del gato."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Ese hombre pisó la cola del gato."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0192",
+            "index": 192.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그 남자가 내 딸의 인형을 망가뜨렸다.",
+                    "targetText": "Ese hombre le rompió la muñeca a mi hija."
+                },
+                "B": {
+                    "sourceText": "그 남자가 내 딸의 인형을 망가뜨렸다.",
+                    "targetText": "Ese hombre le rompió la muñeca a mi hija."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Ese hombre rompió la muñeca de mi hija."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Ese hombre rompió la muñeca de mi hija."
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0193",
+            "index": 193.0,
+            "ref": {
+                "A": {
+                    "sourceText": "마리아의 눈은 수술을 받았다.",
+                    "targetText": "Le operaron los ojos a Martina."
+                },
+                "B": {
+                    "sourceText": "마리아의 눈은 수술을 받았다.",
+                    "targetText": "Le operaron los ojos a Martina."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "그들은 마리아의 눈을 수술했다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "그들은 마리아의 눈을 수술했다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0194",
+            "index": 194.0,
+            "ref": {
+                "A": {
+                    "sourceText": "페드로의 차가 도난을 당했다.",
+                    "targetText": "Le robaron el coche a Pedro."
+                },
+                "B": {
+                    "sourceText": "페드로의 차가 도난을 당했다.",
+                    "targetText": "Le robaron el coche a Pedro."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "그들은 페드로의 차를 훔쳤다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "그들은 페드로의 차를 훔쳤다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0195",
+            "index": 195.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 차가 도난을 당했다.",
+                    "targetText": "Le robaron su coche."
+                },
+                "B": {
+                    "sourceText": "그의 차가 도난을 당했다.",
+                    "targetText": "Le robaron su coche."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "그들은 그의 차를 훔쳤다.",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "그들은 그의 차를 훔쳤다.",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0196",
+            "index": 196.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그의 눈은 눈물로 가득찼다.",
+                    "targetText": "Los ojos se le llenaron de lágrimas"
+                },
+                "B": {
+                    "sourceText": "그의 눈은 눈물로 가득찼다.",
+                    "targetText": "Los ojos se le llenaron de lágrimas"
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0197",
+            "index": 197.0,
+            "ref": {
+                "A": {
+                    "sourceText": "그들은 말을 죽였다.",
+                    "targetText": "Le mataron el caballo."
+                },
+                "B": {
+                    "sourceText": "그들은 말을 죽였다.",
+                    "targetText": "Le mataron el caballo."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": ""
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": ""
+                }
+            }
+        },
+        {
+            "segmentId": "S-SC-OB-04-0198",
+            "index": 198.0,
+            "ref": {
+                "A": {
+                    "sourceText": "우리 부모님의 의도를 알아차렸다.",
+                    "targetText": "Le noté las intenciones a mis padres."
+                },
+                "B": {
+                    "sourceText": "우리 부모님의 의도를 알아차렸다.",
+                    "targetText": "Le noté las intenciones a mis padres."
+                }
+            }
+        },
+        {
+            "segmentId": NaN,
+            "index": NaN,
+            "ref": {
+                "A": {
+                    "sourceText": "",
+                    "targetText": "Noté las intenciones de mis padres."
+                },
+                "B": {
+                    "sourceText": "",
+                    "targetText": "Noté las intenciones de mis padres."
+                }
+            }
+        }
+    ]
+}
