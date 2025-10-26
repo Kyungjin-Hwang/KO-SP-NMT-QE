@@ -1,7 +1,7 @@
 # KO-SP-NMT-QE
 ### Towards Improved Korean-Spanish Machine Translation: Dataset Construction and Utilization Strateges
 
-["The link to the paper is scheduled to be uploaded in July 2024."](URL)
+["[The link to the paper](http://www.dcollection.net/handler/korea/000000288099)"](URL)
 
 This dataset is aimed at evaluating machine translation from a linguistic perspective, focusing on lexicology, morphology, syntax, pragmatics, and information structure.
 
